@@ -1,0 +1,32 @@
+{
+  "name": "피츠 퓨어, 피노 누아",
+  "en_name": "Pete's Pure, Pinot Noir",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 2,
+  "winery": "피츠 퓨어 와인 Pete's Pure Wine",
+  "main_grape": "피노 누아 (Pinot Noir)",
+  "country": "호주(Australia)",
+  "city": "머레이 달링(Murray Darling)",
+  "aromas": [
+    "라스베리",
+    "바닐라",
+    "블랙체리",
+    "체리",
+    "딸기",
+    "낙엽",
+    "젖은흙",
+    "정향"
+  ],
+  "pairings": [
+    "연어",
+    "참치",
+    "편육",
+    "훈제오리",
+    "수육",
+    "육회",
+    "로스트비프"
+  ]
+}

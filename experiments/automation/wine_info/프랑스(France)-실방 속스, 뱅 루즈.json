@@ -1,0 +1,25 @@
+{
+  "name": "실방 속스, 뱅 루즈",
+  "en_name": "Sylvain Saux, Vin Rouge",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "실방 속스 Sylvain Saux",
+  "main_grape": "까리냥 (Carignan/Carignane)",
+  "country": "프랑스(France)",
+  "city": "랑그독 루씨용(Languedoc Roussillon)",
+  "aromas": [
+    "허브",
+    "오크",
+    "블랙체리",
+    "블랙베리",
+    "딸기",
+    "후추"
+  ],
+  "pairings": [
+    "돼지고기",
+    "소고기"
+  ]
+}

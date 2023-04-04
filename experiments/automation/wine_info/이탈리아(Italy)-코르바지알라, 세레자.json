@@ -1,0 +1,23 @@
+{
+  "name": "코르바지알라, 세레자",
+  "en_name": "Corvagialla, Cereza",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "코르바지알라 Corvagialla",
+  "main_grape": "칠리에졸로 (Ciliegiolo)",
+  "country": "이탈리아(Italy)",
+  "city": "라치오(Lazio)",
+  "aromas": [
+    "크랜베리",
+    "미네랄",
+    "체리"
+  ],
+  "pairings": [
+    "닭고기",
+    "치즈",
+    "샐러드"
+  ]
+}

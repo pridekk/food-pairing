@@ -1,0 +1,34 @@
+{
+  "name": "카스텔로 몬테비비아노, 산지오바니",
+  "en_name": "Castello Montevibiano, Sangiovanni",
+  "price_from_importer": "90,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "카스텔로 몬테비비아노 Castello Montevibiano",
+  "main_grape": "산지오베제 (Sangiovese) , 메를로 (Merlot) , 카베르네 프랑 (Cabernet Franc)",
+  "country": "이탈리아(Italy)",
+  "city": "움브리아(Umbria)",
+  "aromas": [
+    "블랙베리",
+    "체리",
+    "레드커런트",
+    "정향",
+    "자두",
+    "시나몬"
+  ],
+  "pairings": [
+    "라자냐",
+    "양갈비",
+    "불고기",
+    "로스트비프",
+    "리조토",
+    "족발",
+    "스테이크",
+    "소고기",
+    "갈비찜",
+    "피자",
+    "토마토파스타"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "카스텔리 마르티노찌, 브루넬로 디 몬탈치노 리제르바",
+  "en_name": "Castelli Martinozzi, Brunello di Montalcino Riserva",
+  "price_from_importer": "270,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 3,
+  "winery": "카스텔리 마르티노찌 Castelli Martinozzi",
+  "main_grape": "산지오베제 그로쏘 (Sangiovese Grosso)",
+  "country": "이탈리아(Italy)",
+  "city": "몬탈치노(Montalcino)",
+  "aromas": [
+    "라스베리",
+    "체리",
+    "레드커런트",
+    "붉은꽃",
+    "정향",
+    "자두",
+    "시나몬",
+    "블랙체리",
+    "바닐라"
+  ],
+  "pairings": [
+    "양갈비",
+    "불고기",
+    "양념갈비",
+    "로스트비프",
+    "스테이크",
+    "소고기",
+    "갈비찜",
+    "육포"
+  ]
+}

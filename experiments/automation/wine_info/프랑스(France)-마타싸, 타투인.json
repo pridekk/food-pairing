@@ -1,0 +1,24 @@
+{
+  "name": "마타싸, 타투인",
+  "en_name": "matassa, Tattouine",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 1,
+  "winery": "마타싸 Matassa",
+  "main_grape": "그르나슈 그리 (Grenache Gris) , 그르나슈 (Grenache)",
+  "country": "프랑스(France)",
+  "city": "꼬뜨 드 루씨용(Côtes de Roussillon)",
+  "aromas": [
+    "말린과일",
+    "후추",
+    "오크",
+    "딸기",
+    "체리"
+  ],
+  "pairings": [
+    "양고기",
+    "닭고기"
+  ]
+}

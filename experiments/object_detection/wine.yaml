@@ -1,0 +1,6 @@
+path: ./train
+train: ./11
+
+names:
+  0: price
+  1: wine

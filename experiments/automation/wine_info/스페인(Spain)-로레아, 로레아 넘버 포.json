@@ -1,0 +1,25 @@
+{
+  "name": "로레아, 로레아 넘버 포",
+  "en_name": "Lolea, Lolea No.4",
+  "price_from_importer": "42,000원( 750ml )",
+  "sugar": 2,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 2,
+  "winery": "로레아 Lolea",
+  "main_grape": "가르나차 (Garnacha)",
+  "country": "스페인(Spain)",
+  "city": "스페인(Spain)",
+  "aromas": [
+    "자두",
+    "블랙베리",
+    "시트러스"
+  ],
+  "pairings": [
+    "프로슈토",
+    "편육",
+    "닭강정",
+    "탕수육",
+    "물냉면"
+  ]
+}

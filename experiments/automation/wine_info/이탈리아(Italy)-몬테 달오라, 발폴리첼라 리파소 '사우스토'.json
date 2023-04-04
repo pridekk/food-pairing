@@ -1,0 +1,25 @@
+{
+  "name": "몬테 달오라, 발폴리첼라 리파소 '사우스토'",
+  "en_name": "Monte Dall'Ora, Valpolicella Ripasso 'Sausto'",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 2,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 3,
+  "winery": "몬테 달오라 Monte Dall'Ora",
+  "main_grape": "코르비나 (Corvina) , 코르비노네 (Corvinone) , 론디넬라 (Rondinella) , 크로아티나 (Croatina)",
+  "country": "이탈리아(Italy)",
+  "city": "발폴리첼라(Valpolicella)",
+  "aromas": [
+    "미네랄",
+    "블랙베리",
+    "오크",
+    "딸기",
+    "라스베리",
+    "체리"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

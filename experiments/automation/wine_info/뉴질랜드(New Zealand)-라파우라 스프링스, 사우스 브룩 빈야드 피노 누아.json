@@ -1,0 +1,30 @@
+{
+  "name": "라파우라 스프링스, 사우스 브룩 빈야드 피노 누아",
+  "en_name": "Rapaura Springs, South Brook Vineyard Pinot Noir",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 2,
+  "winery": "라파우라 스프링스 Rapaura Springs",
+  "main_grape": "피노 누아 (Pinot Noir)",
+  "country": "뉴질랜드(New Zealand)",
+  "city": "말보로(Marlborough)",
+  "aromas": [
+    "허브",
+    "바닐라",
+    "레드커런트",
+    "블랙체리",
+    "체리",
+    "후추",
+    "자두",
+    "시나몬"
+  ],
+  "pairings": [
+    "훈제오리",
+    "바비큐",
+    "양꼬치",
+    "그릴요리",
+    "로스트비프"
+  ]
+}

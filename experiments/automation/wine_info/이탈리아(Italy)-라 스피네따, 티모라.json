@@ -1,0 +1,30 @@
+{
+  "name": "라 스피네따, 티모라",
+  "en_name": "La Spinetta, Timorasso",
+  "price_from_importer": "80,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "라 스피네따 La Spinetta",
+  "main_grape": "티모라쏘 (Timorasso)",
+  "country": "이탈리아(Italy)",
+  "city": "피에몬테(Piemonte)",
+  "aromas": [
+    "미네랄",
+    "아카시아",
+    "감귤",
+    "오렌지",
+    "석유"
+  ],
+  "pairings": [
+    "문어숙회",
+    "생선구이",
+    "오리로스",
+    "하몽",
+    "해산물",
+    "닭강정",
+    "새우",
+    "치킨"
+  ]
+}

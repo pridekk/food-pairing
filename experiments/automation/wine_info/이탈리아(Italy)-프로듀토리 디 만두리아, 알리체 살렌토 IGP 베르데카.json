@@ -1,0 +1,30 @@
+{
+  "name": "프로듀토리 디 만두리아, 알리체 살렌토 IGP 베르데카",
+  "en_name": "Produtori di Manduria, Alice Salento IGP Verdeca",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "프로듀토리 디 만두리아 Produtori di Manduria",
+  "main_grape": "베르데카 (Verdeca)",
+  "country": "이탈리아(Italy)",
+  "city": "뿔리아(Puglia)",
+  "aromas": [
+    "서양배",
+    "흰꽃",
+    "자몽",
+    "라임",
+    "파인애플",
+    "시트러스"
+  ],
+  "pairings": [
+    "아시아요리",
+    "해산물",
+    "동남아요리",
+    "생선구이",
+    "탕수육",
+    "생선회",
+    "조개구이"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "하멜 패밀리 와인스, 이스무스",
+  "en_name": "Hamel Family Wines, Isthmus",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "하멜 패밀리 와인스 Hamel Family Wines",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) , 카베르네 프랑 (Cabernet Franc) , 메를로 (Merlot)",
+  "country": "미국(U.S.A)",
+  "city": "소노마 밸리(Sonoma Valley)",
+  "aromas": [
+    "미네랄",
+    "블랙베리",
+    "블랙체리",
+    "블랙커런트",
+    "블루베리",
+    "제비꽃",
+    "자두"
+  ],
+  "pairings": [
+    "양념갈비",
+    "양고기",
+    "토마토파스타",
+    "갈비찜",
+    "양갈비",
+    "소고기",
+    "라자냐",
+    "리조또",
+    "등심",
+    "스테이크"
+  ]
+}

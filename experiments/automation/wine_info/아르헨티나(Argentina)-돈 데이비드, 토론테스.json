@@ -1,0 +1,33 @@
+{
+  "name": "돈 데이비드, 토론테스",
+  "en_name": "Don David, Torrontes",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "엘 에스테코 El Esteco",
+  "main_grape": "토론테스 (Torrontes)",
+  "country": "아르헨티나(Argentina)",
+  "city": "살타(Salta)",
+  "aromas": [
+    "시트러스",
+    "허브",
+    "감귤",
+    "오렌지",
+    "바닐라",
+    "흰꽃"
+  ],
+  "pairings": [
+    "생선회",
+    "나물",
+    "문어숙회",
+    "오일파스타",
+    "초밥",
+    "흰살생선",
+    "시푸드",
+    "편육",
+    "해산물",
+    "떡볶이"
+  ]
+}

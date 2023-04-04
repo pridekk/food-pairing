@@ -1,0 +1,34 @@
+{
+  "name": "산 페드로, 9 라이브스 리저브 리슬링",
+  "en_name": "San Pedro, 9 Lives Reserve Riesling",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "산 페드로 San Pedro",
+  "main_grape": "리슬링 (Riesling)",
+  "country": "칠레(Chile)",
+  "city": "센트럴 밸리(Central Valley)",
+  "aromas": [
+    "흰꽃",
+    "미네랄",
+    "감귤",
+    "자몽",
+    "라임"
+  ],
+  "pairings": [
+    "베이컨",
+    "하몽",
+    "연어",
+    "양념치킨",
+    "초밥",
+    "생선구이",
+    "후라이드",
+    "건육",
+    "닭강정",
+    "생선회",
+    "항정살",
+    "소시지"
+  ]
+}

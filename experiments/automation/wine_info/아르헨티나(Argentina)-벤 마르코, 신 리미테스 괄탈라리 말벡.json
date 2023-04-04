@@ -1,0 +1,28 @@
+{
+  "name": "벤 마르코, 신 리미테스 괄탈라리 말벡",
+  "en_name": "Ben Marco, Sin Limites Gualtallary Marbec",
+  "price_from_importer": "125,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "벤 마르코 Ben Marco",
+  "main_grape": "말벡 (Malbec)",
+  "country": "아르헨티나(Argentina)",
+  "city": "우코 밸리(Uco Valley)",
+  "aromas": [
+    "미네랄",
+    "블랙베리",
+    "블랙체리",
+    "블루베리",
+    "자두"
+  ],
+  "pairings": [
+    "건육",
+    "양념갈비",
+    "갈비찜",
+    "양갈비",
+    "소고기",
+    "스테이크"
+  ]
+}

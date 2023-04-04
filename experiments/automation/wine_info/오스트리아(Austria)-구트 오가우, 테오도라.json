@@ -1,0 +1,18 @@
+{
+  "name": "구트 오가우, 테오도라",
+  "en_name": "Gut Oggau, Theodora",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 0,
+  "acidity": 0,
+  "body": 0,
+  "tannin": 0,
+  "winery": "구트 오가우 Gut Oggau",
+  "main_grape": "그뤼너 벨트리너 (Gruner Veltliner) , 벨쉬리슬링 (Welschriesling)",
+  "country": "오스트리아(Austria)",
+  "city": "부르겐란트(Burgenland)",
+  "aromas": [
+    "소고기",
+    "돼지고기"
+  ],
+  "pairings": []
+}

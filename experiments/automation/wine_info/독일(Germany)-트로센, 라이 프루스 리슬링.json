@@ -1,0 +1,23 @@
+{
+  "name": "트로센, 라이 프루스 리슬링",
+  "en_name": "Trossen, Lay Purus Riesling",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 5,
+  "body": 3,
+  "tannin": 1,
+  "winery": "트로센 Trossen",
+  "main_grape": "리슬링 (Riesling)",
+  "country": "독일(Germany)",
+  "city": "모젤-자르-루버(Mosel-Saar-Ruwer)",
+  "aromas": [
+    "석유",
+    "청사과",
+    "미네랄"
+  ],
+  "pairings": [
+    "샐러드",
+    "치즈",
+    "해산물"
+  ]
+}

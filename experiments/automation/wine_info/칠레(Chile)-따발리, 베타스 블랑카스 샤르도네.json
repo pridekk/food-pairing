@@ -1,0 +1,30 @@
+{
+  "name": "따발리, 베타스 블랑카스 샤르도네",
+  "en_name": "Tabali, Vetas Blancas Chardonnay",
+  "price_from_importer": "41,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "비냐 따발리 Vina Tabali",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "칠레(Chile)",
+  "city": "리마리 밸리(Limari Valley)",
+  "aromas": [
+    "서양배",
+    "사과",
+    "오크",
+    "삼나무",
+    "레몬",
+    "감귤",
+    "파인애플"
+  ],
+  "pairings": [
+    "오리로스",
+    "장어구이",
+    "오일파스타",
+    "해산물",
+    "닭강정",
+    "치킨"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "도멘 바롱 드 로칠드, 샤토 도시에르 로제",
+  "en_name": "Barons De Rothschild, Chateau d'Aussieres Rose",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 2,
+  "winery": "도멘 바롱 드 로칠드 Barons de Rothschild [Domaines Barons de Rothschild]",
+  "main_grape": "그르나슈 (Grenache) , 시라/쉬라즈 (Syrah/Shiraz)",
+  "country": "프랑스(France)",
+  "city": "랑그독 루씨용(Languedoc Roussillon)",
+  "aromas": [
+    "살구",
+    "블랙체리",
+    "체리",
+    "아카시아",
+    "복숭아"
+  ],
+  "pairings": [
+    "조개구이",
+    "떡볶이",
+    "만두",
+    "생선구이",
+    "닭강정",
+    "수육",
+    "순대",
+    "생선찜",
+    "문어숙회"
+  ]
+}

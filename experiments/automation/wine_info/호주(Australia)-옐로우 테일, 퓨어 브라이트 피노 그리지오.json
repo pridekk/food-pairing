@@ -1,0 +1,28 @@
+{
+  "name": "옐로우 테일, 퓨어 브라이트 피노 그리지오",
+  "en_name": "Yellow Tail, Pure Bright Pinot Grigio",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 1,
+  "tannin": 1,
+  "winery": "옐로우 테일 [카셀라 와인] Yellow Tail [Casella Wines]",
+  "main_grape": "피노 그리지오 (Pinot Grigio)",
+  "country": "호주(Australia)",
+  "city": "사우스 이스턴 오스트레일리아(South Eastern Australia)",
+  "aromas": [
+    "패션프루트",
+    "사과",
+    "서양배",
+    "허브"
+  ],
+  "pairings": [
+    "생선회",
+    "나물",
+    "문어숙회",
+    "비빔밥",
+    "초밥",
+    "닭강정",
+    "새우"
+  ]
+}

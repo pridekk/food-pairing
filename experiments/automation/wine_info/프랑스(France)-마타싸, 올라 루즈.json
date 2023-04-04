@@ -1,0 +1,25 @@
+{
+  "name": "마타싸, 올라 루즈",
+  "en_name": "Matassa, Olla Rouge",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "마타싸 Matassa",
+  "main_grape": "그르나슈 (Grenache) , 마카베오 (Macabeo)",
+  "country": "프랑스(France)",
+  "city": "랑그독 루씨용(Languedoc Roussillon)",
+  "aromas": [
+    "말린과일",
+    "블랙베리",
+    "오크",
+    "블랙체리",
+    "구즈베리"
+  ],
+  "pairings": [
+    "소고기",
+    "양고기",
+    "닭고기"
+  ]
+}

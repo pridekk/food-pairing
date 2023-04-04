@@ -1,0 +1,23 @@
+{
+  "name": "라 솔가, 데소르드 루즈",
+  "en_name": "La Sorga, Desordre Rouge",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 0,
+  "acidity": 0,
+  "body": 0,
+  "tannin": 0,
+  "winery": "라 솔가 La Sorga",
+  "main_grape": "까리냥 (Carignan/Carignane) , 무르베드르 (Mourvedre) , 카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "프랑스(France)",
+  "city": "랑그독 루씨용(Languedoc Roussillon)",
+  "aromas": [
+    "블랙체리",
+    "블랙베리",
+    "후추",
+    "피망"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

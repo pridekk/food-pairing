@@ -1,0 +1,27 @@
+{
+  "name": "우바 농 그라타, 그로 망상",
+  "en_name": "Uva Non Grata, Gros Manseng",
+  "price_from_importer": "24,500원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "우바 농 그라타 Uva Non Grata",
+  "main_grape": "그로 만생 (Gros Manseng)",
+  "country": "프랑스(France)",
+  "city": "프랑스(France)",
+  "aromas": [
+    "시트러스",
+    "열대과일",
+    "모과",
+    "멜론",
+    "파인애플"
+  ],
+  "pairings": [
+    "생선회",
+    "초밥",
+    "해산물",
+    "베이컨",
+    "닭강정"
+  ]
+}

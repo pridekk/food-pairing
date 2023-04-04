@@ -1,0 +1,35 @@
+{
+  "name": "섀넌 패밀리, 하이 밸리 빈야드 카베르네 소비뇽",
+  "en_name": "Shannon Family, High Valley Vinyard Cabernet Sauvignon",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "섀넌 패밀리 오브 와인스 Shannon Family of Wines",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "미국(U.S.A)",
+  "city": "하이 밸리(High Valley)",
+  "aromas": [
+    "블랙베리",
+    "블랙커런트",
+    "체리",
+    "붉은꽃",
+    "정향",
+    "후추",
+    "블랙체리",
+    "바닐라",
+    "토스트"
+  ],
+  "pairings": [
+    "양갈비",
+    "불고기",
+    "양념갈비",
+    "족발",
+    "스테이크",
+    "소고기",
+    "건육",
+    "갈비찜",
+    "그릴요리"
+  ]
+}

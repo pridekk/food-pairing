@@ -1,0 +1,19 @@
+{
+  "name": "바란코 오스쿠로, 비노 코스타",
+  "en_name": "Barranco Oscuro, Vino Costa",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 1,
+  "winery": "바란코 오스쿠로 Barranco Oscuro",
+  "main_grape": "팔로미노 (Palomino) , 리스탄 네그로 (Listan Negro)",
+  "country": "스페인(Spain)",
+  "city": "스페인(Spain)",
+  "aromas": [
+    "딸기",
+    "후추",
+    "라스베리"
+  ],
+  "pairings": []
+}

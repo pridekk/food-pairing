@@ -1,0 +1,29 @@
+{
+  "name": "산 페드로, 9 라이브스 리저브 까베르네 소비뇽",
+  "en_name": "San Pedro, 9 Lives Reserve Cabernet Sauvignon",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "산 페드로 San Pedro",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "칠레(Chile)",
+  "city": "센트럴 밸리(Central Valley)",
+  "aromas": [
+    "바닐라",
+    "홍차",
+    "체리",
+    "딸기",
+    "자두",
+    "후추"
+  ],
+  "pairings": [
+    "양갈비",
+    "돼지고기",
+    "스테이크",
+    "바비큐",
+    "건육",
+    "붉은육류"
+  ]
+}

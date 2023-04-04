@@ -1,0 +1,28 @@
+{
+  "name": "안델루나, 엠블레마스 말벡",
+  "en_name": "Andeluna, Emblemas Malbec",
+  "price_from_importer": "267,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "안델루나 Andeluna [Bodega Andeluna]",
+  "main_grape": "말벡 (Malbec)",
+  "country": "아르헨티나(Argentina)",
+  "city": "이스턴 멘도사(Eastern Mendoza)",
+  "aromas": [
+    "체리",
+    "레드커런트",
+    "제비꽃",
+    "시나몬",
+    "바닐라"
+  ],
+  "pairings": [
+    "양갈비",
+    "양념갈비",
+    "소고기",
+    "갈비찜",
+    "건육",
+    "양고기"
+  ]
+}

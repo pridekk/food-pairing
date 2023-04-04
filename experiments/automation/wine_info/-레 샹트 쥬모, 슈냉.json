@@ -1,0 +1,23 @@
+{
+  "name": "레 샹트 쥬모, 슈냉",
+  "en_name": "Les Chants Jumeaux, Chenin",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "레 샹트 쥬모 Les Chants Jumeaux",
+  "main_grape": "슈냉 블랑 (Chenin Blanc)",
+  "country": "",
+  "city": "",
+  "aromas": [
+    "청사과",
+    "시트러스",
+    "구아바"
+  ],
+  "pairings": [
+    "샐러드",
+    "치즈",
+    "해산물"
+  ]
+}

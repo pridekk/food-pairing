@@ -1,0 +1,30 @@
+{
+  "name": "깔로스 와인, 59N 말벡",
+  "en_name": "Kalos WIne, 59N Malbec",
+  "price_from_importer": "55,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "깔로스 와인 Kalos WIne",
+  "main_grape": "말벡 (Malbec)",
+  "country": "아르헨티나(Argentina)",
+  "city": "우코 밸리(Uco Valley)",
+  "aromas": [
+    "블랙베리",
+    "블루베리",
+    "자두",
+    "시나몬",
+    "블랙체리",
+    "바닐라"
+  ],
+  "pairings": [
+    "양꼬치",
+    "양갈비",
+    "양념갈비",
+    "스테이크",
+    "소고기",
+    "갈비찜",
+    "바비큐"
+  ]
+}

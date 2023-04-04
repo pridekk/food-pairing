@@ -1,0 +1,30 @@
+{
+  "name": "이탈리안 플라스틱, 펫낫",
+  "en_name": "Italian Plastic, Pet-Nat",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "이탈리안 플라스틱 Italian Plastic",
+  "main_grape": "산지오베제 (Sangiovese)",
+  "country": "호주(Australia)",
+  "city": "애들레이드 힐즈(Adelaide Hills)",
+  "aromas": [
+    "체리",
+    "딸기",
+    "페이스트리",
+    "라스베리",
+    "구아바"
+  ],
+  "pairings": [
+    "꼬치구이",
+    "건육",
+    "해산물",
+    "베이컨",
+    "부각",
+    "킹크랩",
+    "육포",
+    "만두"
+  ]
+}

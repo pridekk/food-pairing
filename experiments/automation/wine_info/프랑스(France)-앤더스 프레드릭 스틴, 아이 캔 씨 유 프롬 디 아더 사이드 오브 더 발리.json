@@ -1,0 +1,24 @@
+{
+  "name": "앤더스 프레드릭 스틴, 아이 캔 씨 유 프롬 디 아더 사이드 오브 더 발리",
+  "en_name": "Anders Frederik Steen, I Can See You From The Other Side Of The Valley",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 1,
+  "winery": "앤더스 프레드릭 스틴 Anders Frederik Steen",
+  "main_grape": "그르나슈 블랑 (Grenache Blanc) , 비오니에 (Viognier)",
+  "country": "프랑스(France)",
+  "city": "아르데슈(Ardeche)",
+  "aromas": [
+    "열대과일",
+    "사과",
+    "살구",
+    "미네랄"
+  ],
+  "pairings": [
+    "과일",
+    "치즈",
+    "샐러드"
+  ]
+}

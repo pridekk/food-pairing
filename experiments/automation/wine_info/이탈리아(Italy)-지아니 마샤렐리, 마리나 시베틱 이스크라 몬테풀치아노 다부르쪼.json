@@ -1,0 +1,31 @@
+{
+  "name": "지아니 마샤렐리, 마리나 시베틱 이스크라 몬테풀치아노 다부르쪼",
+  "en_name": "Giani Masciarelli, Marina Cvetic Iskra Montepulciano d'Abruzzo",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "지아니 마샤렐리 Giani Masciarelli",
+  "main_grape": "몬테풀치아노 (Montepulciano)",
+  "country": "이탈리아(Italy)",
+  "city": "아브루쪼(Abruzzo)",
+  "aromas": [
+    "말린자두",
+    "블루베리",
+    "블랙베리",
+    "자두",
+    "정향"
+  ],
+  "pairings": [
+    "라자냐",
+    "불고기",
+    "스테이크",
+    "파스타",
+    "양꼬치",
+    "족발",
+    "수육",
+    "그릴요리",
+    "붉은육류"
+  ]
+}

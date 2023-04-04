@@ -1,0 +1,24 @@
+{
+  "name": "벨리 와인 익스페리먼트, 큐베 익스페리먼트 로제",
+  "en_name": "Belly Wine Experiment, Cuvee Experiment Rose",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "벨리 와인 익스페리먼트 Belly Wine Experiment",
+  "main_grape": "가메이 (Gamay) , 자렐로 (Xarel.lo)",
+  "country": "프랑스(France)",
+  "city": "프랑스(France)",
+  "aromas": [
+    "딸기",
+    "구즈베리",
+    "후추",
+    "라스베리"
+  ],
+  "pairings": [
+    "해산물",
+    "치즈",
+    "샐러드"
+  ]
+}

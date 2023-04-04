@@ -1,0 +1,25 @@
+{
+  "name": "라디콘, 슬라트닉",
+  "en_name": "Radikon, SLATNIK",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "라디콘 Radikon",
+  "main_grape": "블렌드 (Blend )",
+  "country": "",
+  "city": "",
+  "aromas": [
+    "레몬",
+    "사과",
+    "복숭아",
+    "미네랄"
+  ],
+  "pairings": [
+    "닭고기",
+    "치즈",
+    "복숭아",
+    "튀김"
+  ]
+}

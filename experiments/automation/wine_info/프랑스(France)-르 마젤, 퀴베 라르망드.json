@@ -1,0 +1,25 @@
+{
+  "name": "르 마젤, 퀴베 라르망드",
+  "en_name": "Le Mazel, Cuvee Larmande",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 2,
+  "winery": "르 마젤 Le Mazel",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz)",
+  "country": "프랑스(France)",
+  "city": "아르데슈(Ardeche)",
+  "aromas": [
+    "오크",
+    "블랙체리",
+    "블루베리",
+    "블랙베리",
+    "후추"
+  ],
+  "pairings": [
+    "양고기",
+    "돼지고기",
+    "소고기"
+  ]
+}

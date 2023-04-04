@@ -1,0 +1,31 @@
+{
+  "name": "구용, 싱글 블록 헤이븐 피노 누아",
+  "en_name": "Kooyong, Single Block Haven Pinot Noir",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 2,
+  "winery": "쿠용 에스테이트 Kooyong Estate",
+  "main_grape": "피노 누아 (Pinot Noir)",
+  "country": "호주(Australia)",
+  "city": "모닝턴 페닌술라(Mornington Peninsula)",
+  "aromas": [
+    "말린허브",
+    "크랜베리",
+    "허브",
+    "딸기",
+    "감초",
+    "붉은꽃",
+    "바닐라",
+    "라스베리",
+    "체리"
+  ],
+  "pairings": [
+    "건육",
+    "육회",
+    "오리고기",
+    "바비큐",
+    "로스트비프"
+  ]
+}

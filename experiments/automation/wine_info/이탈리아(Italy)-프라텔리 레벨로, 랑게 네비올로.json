@@ -1,0 +1,31 @@
+{
+  "name": "프라텔리 레벨로, 랑게 네비올로",
+  "en_name": "Fratelli Revello, Langhe Nebbiolo",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 3,
+  "winery": "프라텔리 레벨로 Fratelli Revello",
+  "main_grape": "네비올로 (Nebbiolo)",
+  "country": "이탈리아(Italy)",
+  "city": "피에몬테(Piemonte)",
+  "aromas": [
+    "라스베리",
+    "말린자두",
+    "타바코",
+    "블랙체리",
+    "블루베리",
+    "블랙베리",
+    "정향"
+  ],
+  "pairings": [
+    "양갈비",
+    "스테이크",
+    "양념갈비",
+    "양꼬치",
+    "꼬치구이",
+    "스튜",
+    "갈비찜"
+  ]
+}

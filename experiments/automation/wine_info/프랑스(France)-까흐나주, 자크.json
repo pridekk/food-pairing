@@ -1,0 +1,21 @@
+{
+  "name": "까흐나주, 자크",
+  "en_name": "Karnage, Zak",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "까흐나주 Karnage",
+  "main_grape": "모작 (Mauzac)",
+  "country": "프랑스(France)",
+  "city": "쥐라(Jura)",
+  "aromas": [
+    "말린과일",
+    "허브"
+  ],
+  "pairings": [
+    "치즈",
+    "샐러드"
+  ]
+}

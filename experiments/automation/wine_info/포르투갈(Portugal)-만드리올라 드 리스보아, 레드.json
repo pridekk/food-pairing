@@ -1,0 +1,33 @@
+{
+  "name": "만드리올라 드 리스보아, 레드",
+  "en_name": "Mandriola de Lisboa, Red",
+  "price_from_importer": "35,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "만드리올라 드 리스보아 Mandriola de Lisboa",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz) , 알리칸테 부쉐 (Alicante Bouschet) , 투리가 나시오날 (Touriga Nacional)",
+  "country": "포르투갈(Portugal)",
+  "city": "리스본(Lisboa)",
+  "aromas": [
+    "블랙베리",
+    "블랙체리",
+    "육두구",
+    "제비꽃",
+    "자두",
+    "바닐라",
+    "체리"
+  ],
+  "pairings": [
+    "바비큐",
+    "양갈비",
+    "소고기",
+    "그릴요리",
+    "족발",
+    "보쌈",
+    "수육",
+    "스테이크",
+    "순대"
+  ]
+}

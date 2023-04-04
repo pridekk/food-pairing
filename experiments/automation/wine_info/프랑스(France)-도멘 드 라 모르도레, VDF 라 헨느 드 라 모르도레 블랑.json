@@ -1,0 +1,30 @@
+{
+  "name": "도멘 드 라 모르도레, VDF 라 헨느 드 라 모르도레 블랑",
+  "en_name": "Domaine de la Mordorée, VDF La Reine de La Mordoree Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "도멘 드 라 모르도레 Domaine de la Mordoree",
+  "main_grape": "클레렛 (Clairette) , 비오니에 (Viognier)",
+  "country": "프랑스(France)",
+  "city": "론(Rhone)",
+  "aromas": [
+    "서양배",
+    "아카시아",
+    "청사과",
+    "허브",
+    "감귤"
+  ],
+  "pairings": [
+    "닭고기",
+    "소라",
+    "해산물",
+    "흰살생선",
+    "생선회",
+    "새우",
+    "오리로스",
+    "물냉면"
+  ]
+}

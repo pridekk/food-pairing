@@ -1,0 +1,36 @@
+{
+  "name": "구아도 알 멜로, 루테 볼게리",
+  "en_name": "Guado Al Melo, Rute Bolgheri",
+  "price_from_importer": "102,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "구아도 알 멜로 Guado Al Melo",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) , 메를로 (Merlot)",
+  "country": "이탈리아(Italy)",
+  "city": "볼게리(Bolgheri)",
+  "aromas": [
+    "블랙베리",
+    "블랙커런트",
+    "체리",
+    "허브",
+    "붉은꽃",
+    "정향",
+    "블랙체리",
+    "바닐라"
+  ],
+  "pairings": [
+    "양갈비",
+    "불고기",
+    "까르파치오",
+    "로스트비프",
+    "족발",
+    "스테이크",
+    "소고기",
+    "갈비찜",
+    "피자",
+    "파스타",
+    "보쌈"
+  ]
+}

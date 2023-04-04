@@ -1,0 +1,30 @@
+{
+  "name": "로레아, 로레아 넘버 쓰리",
+  "en_name": "Lolea, Lolea No.3",
+  "price_from_importer": "42,000원( 750ml )",
+  "sugar": 2,
+  "acidity": 2,
+  "body": 2,
+  "tannin": 1,
+  "winery": "로레아 Lolea",
+  "main_grape": "마카베오 (Macabeo) , 샤르도네 (Chardonnay)",
+  "country": "스페인(Spain)",
+  "city": "스페인(Spain)",
+  "aromas": [
+    "사과",
+    "청사과",
+    "흰꽃",
+    "엘더플라워",
+    "시나몬"
+  ],
+  "pairings": [
+    "아시아요리",
+    "떡볶이",
+    "튀김",
+    "동남아요리",
+    "편육",
+    "어묵",
+    "닭강정",
+    "순대"
+  ]
+}

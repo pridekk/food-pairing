@@ -1,0 +1,25 @@
+{
+  "name": "프란시스 불라르, 블랑 드 블랑 엑스트라 브뤼",
+  "en_name": "Francis Boulard, Blanc de Blancs Extra Brut",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "프란시스 불라르 Francis Boulard",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "프랑스(France)",
+  "city": "샹빠뉴(Champagne)",
+  "aromas": [
+    "딸기",
+    "청사과",
+    "시트러스",
+    "복숭아"
+  ],
+  "pairings": [
+    "샐러드",
+    "치즈",
+    "해산물",
+    "복숭아"
+  ]
+}

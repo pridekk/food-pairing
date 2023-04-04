@@ -1,0 +1,28 @@
+{
+  "name": "툴록, 셀라 도어 릴리즈 프로세코",
+  "en_name": "Tulloch, Cellar Door Release Prosecco",
+  "price_from_importer": "가격정보없음",
+  "sugar": 3,
+  "acidity": 2,
+  "body": 2,
+  "tannin": 1,
+  "winery": "툴록 Tulloch",
+  "main_grape": "글레라 (Glera)",
+  "country": "호주(Australia)",
+  "city": "킹 밸리(King Valley)",
+  "aromas": [
+    "서양배",
+    "복숭아",
+    "장미",
+    "아몬드",
+    "캐슈넛"
+  ],
+  "pairings": [
+    "소시지",
+    "꼬치구이",
+    "건육",
+    "생선조림",
+    "베이컨",
+    "닭강정"
+  ]
+}

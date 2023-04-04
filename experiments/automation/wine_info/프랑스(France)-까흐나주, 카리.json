@@ -1,0 +1,23 @@
+{
+  "name": "까흐나주, 카리",
+  "en_name": "Karnage, Kari",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "까흐나주 Karnage",
+  "main_grape": "까리냥 (Carignan/Carignane)",
+  "country": "프랑스(France)",
+  "city": "쥐라(Jura)",
+  "aromas": [
+    "블랙체리",
+    "블랙베리",
+    "후추",
+    "오크"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

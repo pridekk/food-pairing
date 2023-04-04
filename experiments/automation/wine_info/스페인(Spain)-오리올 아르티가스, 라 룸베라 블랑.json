@@ -1,0 +1,23 @@
+{
+  "name": "오리올 아르티가스, 라 룸베라 블랑",
+  "en_name": "Oriol Artigas, La Rumbera Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "오리올 아르티가스 Oriol Artigas",
+  "main_grape": "판사블랑카 (Pansa Blanca)",
+  "country": "스페인(Spain)",
+  "city": "알레야(Alella)",
+  "aromas": [
+    "열대과일",
+    "복숭아",
+    "살구"
+  ],
+  "pairings": [
+    "치즈",
+    "복숭아",
+    "샐러드"
+  ]
+}

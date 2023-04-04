@@ -1,0 +1,30 @@
+{
+  "name": "라스트 스탠드, 샤도네이",
+  "en_name": "The Last Stand, Chardonnay",
+  "price_from_importer": "25,500원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "더 라스트 스탠드 와와너리 The last stand Winery",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "호주(Australia)",
+  "city": "빅토리아(Victoria)",
+  "aromas": [
+    "파인애플",
+    "사과",
+    "바닐라",
+    "자몽"
+  ],
+  "pairings": [
+    "오리고기",
+    "참치",
+    "꼬치구이",
+    "후라이드",
+    "연어",
+    "바비큐",
+    "해산물",
+    "닭강정",
+    "양념치킨"
+  ]
+}

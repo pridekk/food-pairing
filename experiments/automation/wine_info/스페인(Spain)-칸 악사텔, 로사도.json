@@ -1,0 +1,30 @@
+{
+  "name": "칸 악사텔, 로사도",
+  "en_name": "Can Axartell, Rosado",
+  "price_from_importer": "90,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "칸 악사텔 Can Axartell",
+  "main_grape": "피노 누아 (Pinot Noir) , 칼렛 (Callet)",
+  "country": "스페인(Spain)",
+  "city": "비니살렘 마요르카(Binissalem Mallorca)",
+  "aromas": [
+    "열대과일",
+    "딸기",
+    "감귤",
+    "멜론",
+    "오렌지",
+    "복숭아"
+  ],
+  "pairings": [
+    "베이컨",
+    "해산물",
+    "양꼬치",
+    "생선회",
+    "조개구이",
+    "꼬치구이",
+    "소시지"
+  ]
+}

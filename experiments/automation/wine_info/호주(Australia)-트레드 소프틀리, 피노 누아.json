@@ -1,0 +1,32 @@
+{
+  "name": "트레드 소프틀리, 피노 누아",
+  "en_name": "Tread Softly, Pinot Noir",
+  "price_from_importer": "18,500원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 2,
+  "winery": "트레드 소프틀리 Tread Softly",
+  "main_grape": "피노 누아 (Pinot Noir)",
+  "country": "호주(Australia)",
+  "city": "빅토리아(Victoria)",
+  "aromas": [
+    "라스베리",
+    "체리",
+    "허브",
+    "붉은꽃",
+    "딸기"
+  ],
+  "pairings": [
+    "까르파치오",
+    "생선구이",
+    "로스트비프",
+    "장어구이",
+    "오리로스",
+    "참치",
+    "후라이드",
+    "연어",
+    "베이컨",
+    "닭강정"
+  ]
+}

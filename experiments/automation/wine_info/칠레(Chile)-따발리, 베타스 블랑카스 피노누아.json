@@ -1,0 +1,29 @@
+{
+  "name": "따발리, 베타스 블랑카스 피노누아",
+  "en_name": "Tabali, Vetas Blancas Pinot Noir",
+  "price_from_importer": "41,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "비냐 따발리 Vina Tabali",
+  "main_grape": "피노 누아 (Pinot Noir)",
+  "country": "칠레(Chile)",
+  "city": "리마리 밸리(Limari Valley)",
+  "aromas": [
+    "육두구",
+    "라스베리",
+    "바닐라",
+    "오크",
+    "삼나무",
+    "블랙체리",
+    "체리"
+  ],
+  "pairings": [
+    "양갈비",
+    "건육",
+    "육회",
+    "꼬치구이",
+    "로스트비프"
+  ]
+}

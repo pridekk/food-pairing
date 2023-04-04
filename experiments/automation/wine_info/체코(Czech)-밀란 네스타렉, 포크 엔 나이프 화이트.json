@@ -1,0 +1,25 @@
+{
+  "name": "밀란 네스타렉, 포크 엔 나이프 화이트",
+  "en_name": "Milan Nestarec, Forks and Knives White",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 5,
+  "body": 3,
+  "tannin": 1,
+  "winery": "밀란 네스타렉 Milan Nestarec",
+  "main_grape": "노이부르거 (Neuburger) , 소비뇽 블랑 (Sauvignon Blanc) , 리슬링 (Riesling) , 게뷔르츠트라미너 (Gewurztraminer)",
+  "country": "체코(Czech)",
+  "city": "체코(Czech)",
+  "aromas": [
+    "서양배",
+    "시트러스",
+    "미네랄",
+    "복숭아"
+  ],
+  "pairings": [
+    "샐러드",
+    "치즈",
+    "해산물",
+    "복숭아"
+  ]
+}

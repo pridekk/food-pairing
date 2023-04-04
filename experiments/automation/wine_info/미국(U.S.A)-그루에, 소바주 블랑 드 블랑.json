@@ -1,0 +1,27 @@
+{
+  "name": "그루에, 소바주 블랑 드 블랑",
+  "en_name": "Gruet, Sauvage Blanc de Blancs",
+  "price_from_importer": "50,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "그루에 패밀리 Gruet Family",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "미국(U.S.A)",
+  "city": "미국(U.S.A)",
+  "aromas": [
+    "아몬드",
+    "사과",
+    "레몬",
+    "미네랄"
+  ],
+  "pairings": [
+    "베이컨",
+    "해산물",
+    "스시",
+    "닭강정",
+    "생선회",
+    "광어"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "루트 코즈, 카베르네 소비뇽",
+  "en_name": "Root Cause, Cabernet Sauvignon",
+  "price_from_importer": "21,500원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "루트 코즈 와이너리 Root Cause Winery",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "미국(U.S.A)",
+  "city": "캘리포니아(California)",
+  "aromas": [
+    "라스베리",
+    "블랙커런트",
+    "건포도",
+    "자두",
+    "블랙체리"
+  ],
+  "pairings": [
+    "양갈비",
+    "스테이크",
+    "소고기",
+    "건육",
+    "바비큐"
+  ]
+}

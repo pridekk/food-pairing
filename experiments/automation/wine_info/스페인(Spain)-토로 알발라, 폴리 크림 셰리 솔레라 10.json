@@ -1,0 +1,36 @@
+{
+  "name": "토로 알발라, 폴리 크림 셰리 솔레라 10",
+  "en_name": "Toro Albala, Poley Cream Solera 10",
+  "price_from_importer": "80,000원( 500ml )",
+  "sugar": 3,
+  "acidity": 2,
+  "body": 4,
+  "tannin": 1,
+  "winery": "토로 알발라 Toro Albala",
+  "main_grape": "페드로 히메네스 (Pedro Ximenez)",
+  "country": "스페인(Spain)",
+  "city": "헤레즈-헤레스-셰리(Jerez-Xeres-Sherry)",
+  "aromas": [
+    "호두",
+    "말린자두",
+    "건포도",
+    "살구",
+    "헤이즐넛",
+    "자두",
+    "바닐라"
+  ],
+  "pairings": [
+    "살라미",
+    "건육",
+    "초콜렛",
+    "티라미수",
+    "초리조",
+    "리코타",
+    "모짜렐라",
+    "하몽",
+    "말린무화과",
+    "크림치즈",
+    "아이스크림",
+    "자두"
+  ]
+}

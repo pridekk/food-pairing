@@ -1,0 +1,24 @@
+{
+  "name": "도멘 마트로, 부르고뉴 샤도네이",
+  "en_name": "Domain Matrot, Bourgogne Chardonnay",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "도멘 마트로 Domain Matrot",
+  "main_grape": "샤르도네 (Chardonnay) 100%",
+  "country": "프랑스(France)",
+  "city": "부르고뉴(Bourgogne)",
+  "aromas": [
+    "시트러스",
+    "흰꽃",
+    "미네랄"
+  ],
+  "pairings": [
+    "해산물",
+    "닭고기",
+    "샐러드",
+    "서양요리"
+  ]
+}

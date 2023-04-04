@@ -1,0 +1,31 @@
+{
+  "name": "와인즈 바이 비비아나, 알마 드 카틀레야 샤르도네",
+  "en_name": "Wines by Bibiana, Alma De Cattleya Chardonnay",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "와인즈 바이 비비아나 Wines by Bibiana",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "미국(U.S.A)",
+  "city": "소노마 카운티(Sonoma County)",
+  "aromas": [
+    "서양배",
+    "라임",
+    "아카시아",
+    "패션프루트",
+    "사과",
+    "레몬"
+  ],
+  "pairings": [
+    "오리고기",
+    "해산물",
+    "생선구이",
+    "오리로스",
+    "치킨",
+    "장어구이",
+    "씨푸드",
+    "오일파스타"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "도멘 라퐁드 노틀담, 라스토",
+  "en_name": "Domaine La Font de Notre Dame, Rasteau",
+  "price_from_importer": "51,500원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "도멘 라퐁 드 노틀담 Domaine La Font de Notre Dame",
+  "main_grape": "그르나슈 (Grenache) , 시라/쉬라즈 (Syrah/Shiraz) , 무르베드르 (Mourvedre) , 쌩쏘 (Cinsault)",
+  "country": "프랑스(France)",
+  "city": "라스또(Rasteau)",
+  "aromas": [
+    "블랙베리",
+    "말린자두",
+    "붉은꽃",
+    "블루베리",
+    "자두",
+    "블랙체리"
+  ],
+  "pairings": [
+    "양꼬치",
+    "양갈비",
+    "스튜",
+    "족발",
+    "스테이크",
+    "소고기",
+    "갈비찜",
+    "돼지고기"
+  ]
+}

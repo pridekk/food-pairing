@@ -1,0 +1,24 @@
+{
+  "name": "델라 스타파, 리트로 로쏘",
+  "en_name": "Della Staffa, Litro Rosso",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "델라 스타파 Della Staffa",
+  "main_grape": "칠리에졸로 (Ciliegiolo) , 산지오베제 (Sangiovese)",
+  "country": "이탈리아(Italy)",
+  "city": "움브리아(Umbria)",
+  "aromas": [
+    "버섯",
+    "블랙베리",
+    "오크",
+    "라스베리",
+    "체리"
+  ],
+  "pairings": [
+    "양고기",
+    "닭고기"
+  ]
+}

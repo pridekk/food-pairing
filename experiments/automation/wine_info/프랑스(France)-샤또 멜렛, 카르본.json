@@ -1,0 +1,26 @@
+{
+  "name": "샤또 멜렛, 카르본",
+  "en_name": "Chateau Meylet, Carbone",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "샤또 멜렛 Chateau Meylet",
+  "main_grape": "메를로 (Merlot) , 카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "프랑스(France)",
+  "city": "뤼싹 생 떼밀리옹(Lussac-Saint-Emilion)",
+  "aromas": [
+    "라스베리",
+    "허브",
+    "오크",
+    "블랙체리",
+    "토스트",
+    "블랙커런트"
+  ],
+  "pairings": [
+    "양고기",
+    "돼지고기",
+    "소고기"
+  ]
+}

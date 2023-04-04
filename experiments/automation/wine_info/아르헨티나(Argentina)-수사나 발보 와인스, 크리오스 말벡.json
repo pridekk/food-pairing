@@ -1,0 +1,30 @@
+{
+  "name": "수사나 발보 와인스, 크리오스 말벡",
+  "en_name": "Susana Balbo Wines, Crios Malbec",
+  "price_from_importer": "49,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "수사나 발보 와인스 Susana Balbo Wines",
+  "main_grape": "말벡 (Malbec)",
+  "country": "아르헨티나(Argentina)",
+  "city": "우코 밸리(Uco Valley)",
+  "aromas": [
+    "시나몬",
+    "블랙베리",
+    "블랙체리",
+    "블루베리",
+    "제비꽃",
+    "바닐라",
+    "체리"
+  ],
+  "pairings": [
+    "건육",
+    "양념갈비",
+    "갈비찜",
+    "양갈비",
+    "소고기",
+    "스테이크"
+  ]
+}

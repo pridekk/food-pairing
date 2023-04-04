@@ -1,0 +1,30 @@
+{
+  "name": "헨틀리 팜, 에덴 밸리 리슬링",
+  "en_name": "Hently Farm, Eden Valley Riesling",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "헨틀리 팜 Hentley farm",
+  "main_grape": "리슬링 (Riesling)",
+  "country": "호주(Australia)",
+  "city": "에덴 밸리(Eden Valley)",
+  "aromas": [
+    "레몬",
+    "라임",
+    "열대과일",
+    "자스민",
+    "청사과"
+  ],
+  "pairings": [
+    "생선회",
+    "생선구이",
+    "건육",
+    "오겹살",
+    "후라이드",
+    "초밥",
+    "양념치킨",
+    "돼지고기"
+  ]
+}

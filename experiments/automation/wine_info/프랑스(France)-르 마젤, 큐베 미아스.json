@@ -1,0 +1,25 @@
+{
+  "name": "르 마젤, 큐베 미아스",
+  "en_name": "Le Mazel, Cuvee Mias",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 1,
+  "winery": "르 마젤 Le Mazel",
+  "main_grape": "비오니에 (Viognier)",
+  "country": "프랑스(France)",
+  "city": "아르데슈(Ardeche)",
+  "aromas": [
+    "미네랄",
+    "허브",
+    "살구",
+    "복숭아"
+  ],
+  "pairings": [
+    "샐러드",
+    "과일",
+    "치즈",
+    "복숭아"
+  ]
+}

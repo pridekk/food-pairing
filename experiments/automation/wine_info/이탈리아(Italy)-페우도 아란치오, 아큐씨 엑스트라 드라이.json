@@ -1,0 +1,29 @@
+{
+  "name": "페우도 아란치오, 아큐씨 엑스트라 드라이",
+  "en_name": "Feudo Arancio, Accussi Extra Dry",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "페우도 아란치오 Feudo Arancio",
+  "main_grape": "그릴로 (Grillo)",
+  "country": "이탈리아(Italy)",
+  "city": "시칠리아(Sicilia)",
+  "aromas": [
+    "서양배",
+    "살구",
+    "브리오슈",
+    "흰꽃",
+    "시트러스",
+    "복숭아"
+  ],
+  "pairings": [
+    "프로슈토",
+    "베이컨",
+    "초밥",
+    "닭강정",
+    "생선회",
+    "꼬치구이"
+  ]
+}

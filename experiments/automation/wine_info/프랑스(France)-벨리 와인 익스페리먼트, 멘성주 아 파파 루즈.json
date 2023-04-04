@@ -1,0 +1,25 @@
+{
+  "name": "벨리 와인 익스페리먼트, 멘성주 아 파파 루즈",
+  "en_name": "Belly Wine Experiment, Mensonge a Papa Rouge",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "벨리 와인 익스페리먼트 Belly Wine Experiment",
+  "main_grape": "가메이 (Gamay)",
+  "country": "프랑스(France)",
+  "city": "프랑스(France)",
+  "aromas": [
+    "후추",
+    "오크",
+    "딸기",
+    "라스베리",
+    "체리"
+  ],
+  "pairings": [
+    "닭고기",
+    "치즈",
+    "샐러드"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "도멘 드 라 모르도레, 리락 레 헨느 데 부아 블랑",
+  "en_name": "Domaine de la Mordorée, Lirac La Reine Des Bois Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "도멘 드 라 모르도레 Domaine de la Mordoree",
+  "main_grape": "그르나슈 (Grenache) , 클레렛 (Clairette) , 비오니에 (Viognier) , 루산느 (Roussanne) , 마르산느 (Marsanne) , 픽풀 (Picpoul)",
+  "country": "프랑스(France)",
+  "city": "리락(Lirac)",
+  "aromas": [
+    "감귤",
+    "아카시아",
+    "살구",
+    "서양배"
+  ],
+  "pairings": [
+    "연어",
+    "참치",
+    "조개구이",
+    "해산물",
+    "탕수육",
+    "장어구이",
+    "오일파스타"
+  ]
+}

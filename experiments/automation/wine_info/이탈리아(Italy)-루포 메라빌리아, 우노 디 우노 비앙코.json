@@ -1,0 +1,33 @@
+{
+  "name": "루포 메라빌리아, 우노 디 우노 비앙코",
+  "en_name": "Lupo Meraviglia, Uno di Uno",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 1,
+  "tannin": 1,
+  "winery": "루포 메라빌리아 Lupo Meraviglia",
+  "main_grape": "베르멘티노 (Vermentino)",
+  "country": "이탈리아(Italy)",
+  "city": "뿔리아(Puglia)",
+  "aromas": [
+    "백도",
+    "라임",
+    "청사과",
+    "삼나무",
+    "살구",
+    "자몽",
+    "흰꽃"
+  ],
+  "pairings": [
+    "튀김",
+    "조개구이",
+    "샐러드",
+    "야채",
+    "해산물",
+    "새우",
+    "아스파라거스",
+    "오일파스타",
+    "문어숙회"
+  ]
+}

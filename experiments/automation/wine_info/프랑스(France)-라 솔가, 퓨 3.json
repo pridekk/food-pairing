@@ -1,0 +1,25 @@
+{
+  "name": "라 솔가, 퓨 3",
+  "en_name": "La Sorga, Feu III",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 1,
+  "winery": "라 솔가 La Sorga",
+  "main_grape": "그르나슈 블랑 (Grenache Blanc) , 그르나슈 그리 (Grenache Gris)",
+  "country": "프랑스(France)",
+  "city": "랑그독 루씨용(Languedoc Roussillon)",
+  "aromas": [
+    "미네랄",
+    "청사과",
+    "시트러스",
+    "살구",
+    "복숭아"
+  ],
+  "pairings": [
+    "치즈",
+    "복숭아",
+    "샐러드"
+  ]
+}

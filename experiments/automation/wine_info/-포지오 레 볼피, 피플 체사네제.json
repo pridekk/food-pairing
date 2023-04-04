@@ -1,0 +1,28 @@
+{
+  "name": "포지오 레 볼피, 피플 체사네제",
+  "en_name": "Poggio Le Volpi, People Cesanese",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "포지오 레 볼피 Poggio Le Volpi",
+  "main_grape": "체사니제 (Cesanese)",
+  "country": "",
+  "city": "",
+  "aromas": [
+    "딸기",
+    "말린자두",
+    "자두",
+    "체리"
+  ],
+  "pairings": [
+    "로스트비프",
+    "양갈비",
+    "소고기",
+    "불고기",
+    "족발",
+    "훈제오리",
+    "스테이크"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "센시즈, 엘 디아블로 샤도네이",
+  "en_name": "Senses, UV EL Diablo Chardonnay",
+  "price_from_importer": "320,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 1,
+  "winery": "센시스 와인즈 Senses Wines",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "미국(U.S.A)",
+  "city": "러시안 리버 밸리(Russian River Valley)",
+  "aromas": [
+    "사과",
+    "흰꽃",
+    "오렌지",
+    "파인애플",
+    "구아바"
+  ],
+  "pairings": [
+    "오리로스",
+    "장어구이",
+    "오일파스타",
+    "해산물",
+    "후라이드",
+    "치킨"
+  ]
+}

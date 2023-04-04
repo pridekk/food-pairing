@@ -1,0 +1,35 @@
+{
+  "name": "포지오 레 볼피, 로쏘 레 볼피",
+  "en_name": "Poggio Le Volpi, Rosso Le Volpi",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "포지오 레 볼피 Poggio Le Volpi",
+  "main_grape": "몬테풀치아노 (Montepulciano) , 시라/쉬라즈 (Syrah/Shiraz) , 체사니제 (Cesanese)",
+  "country": "이탈리아(Italy)",
+  "city": "로마(Roma)",
+  "aromas": [
+    "딸기",
+    "말린자두",
+    "블루베리",
+    "감초",
+    "정향",
+    "자두",
+    "체리"
+  ],
+  "pairings": [
+    "토마토파스타",
+    "양갈비",
+    "소고기",
+    "불고기",
+    "수육",
+    "족발",
+    "리조또",
+    "라자냐",
+    "양꼬치",
+    "붉은육류",
+    "스테이크"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "칸티네 산티 노빌레, 프로빈코 로쏘 디 노테 네로다볼라-카베르네 소비뇽",
+  "en_name": "Cantine Santi Nobile, Provinco Rosso di Notte Nero d'Avola-Cabernet Sauvignon",
+  "price_from_importer": "70,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "칸티네 산티 노빌레 Cantine Santi Nobile",
+  "main_grape": "네로 다볼라 (Nero d'Avola) , 카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "이탈리아(Italy)",
+  "city": "시칠리아(Sicilia)",
+  "aromas": [
+    "시나몬",
+    "블랙체리",
+    "장미",
+    "딸기",
+    "정향",
+    "자두",
+    "바닐라",
+    "체리"
+  ],
+  "pairings": [
+    "건육",
+    "양념갈비",
+    "스튜",
+    "갈비찜",
+    "양갈비",
+    "소고기",
+    "스테이크"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "콘차이 토로, 그란 레세르바 그린 레이블 말벡",
+  "en_name": "Concha y Toro, Gran Reserva Green Label Malbec",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "콘차이 토로 Concha y Toro",
+  "main_grape": "말벡 (Malbec) , 시라/쉬라즈 (Syrah/Shiraz)",
+  "country": "칠레(Chile)",
+  "city": "콜차구아 밸리(Cholchagua Valley)",
+  "aromas": [
+    "바닐라",
+    "블랙체리",
+    "블랙베리",
+    "자두",
+    "복숭아"
+  ],
+  "pairings": [
+    "소고기",
+    "양갈비",
+    "스테이크",
+    "삼겹살",
+    "족발",
+    "양념갈비",
+    "갈비찜"
+  ]
+}

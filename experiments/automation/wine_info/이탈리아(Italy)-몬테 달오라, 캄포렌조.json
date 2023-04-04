@@ -1,0 +1,24 @@
+{
+  "name": "몬테 달오라, 캄포렌조",
+  "en_name": "Monte Dall'Ora, Camporenzo",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 3,
+  "winery": "몬테 달오라 Monte Dall'Ora",
+  "main_grape": "코르비나 (Corvina) , 코르비노네 (Corvinone) , 론디넬라 (Rondinella)",
+  "country": "이탈리아(Italy)",
+  "city": "발폴리첼라(Valpolicella)",
+  "aromas": [
+    "미네랄",
+    "블랙베리",
+    "오크",
+    "딸기",
+    "라스베리"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

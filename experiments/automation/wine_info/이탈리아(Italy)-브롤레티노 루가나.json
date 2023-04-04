@@ -1,0 +1,29 @@
+{
+  "name": "브롤레티노 루가나",
+  "en_name": "Brolettino Lugana",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "까데이 프라티 Ca'dei Frati",
+  "main_grape": "기타 품종 (Other Grapes)",
+  "country": "이탈리아(Italy)",
+  "city": "롬바르디아(Lombardia)",
+  "aromas": [
+    "리치",
+    "바닐라",
+    "장미",
+    "살구",
+    "사과",
+    "복숭아"
+  ],
+  "pairings": [
+    "연어",
+    "참치",
+    "편육",
+    "해산물",
+    "장어구이",
+    "파스타"
+  ]
+}

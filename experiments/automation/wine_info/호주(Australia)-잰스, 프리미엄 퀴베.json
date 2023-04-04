@@ -1,0 +1,24 @@
+{
+  "name": "잰스, 프리미엄 퀴베",
+  "en_name": "Jansz, Premium Cuvee",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "잰스 Jansz",
+  "main_grape": "샤르도네 (Chardonnay) , 피노 누아 (Pinot Noir)",
+  "country": "호주(Australia)",
+  "city": "태즈매니아(Tasmania)",
+  "aromas": [
+    "사과",
+    "흰꽃",
+    "아몬드"
+  ],
+  "pairings": [
+    "돼지고기",
+    "아시아요리",
+    "닭고기",
+    "서양요리"
+  ]
+}

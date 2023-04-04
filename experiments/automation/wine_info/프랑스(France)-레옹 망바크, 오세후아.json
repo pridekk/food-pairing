@@ -1,0 +1,28 @@
+{
+  "name": "레옹 망바크, 오세후아",
+  "en_name": "Leon Manbach, Auxerrois",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "레옹 망바크 Leon Manbach",
+  "main_grape": "오쎄후와 (Auxerrois)",
+  "country": "프랑스(France)",
+  "city": "알자스(Alsace)",
+  "aromas": [
+    "살구",
+    "시트러스",
+    "미네랄",
+    "흰꽃"
+  ],
+  "pairings": [
+    "생선구이",
+    "꼬치구이",
+    "건육",
+    "흰살생선",
+    "바비큐",
+    "닭강정",
+    "치킨"
+  ]
+}

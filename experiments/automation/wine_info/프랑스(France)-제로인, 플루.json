@@ -1,0 +1,24 @@
+{
+  "name": "제로인, 플루",
+  "en_name": "Zeroine, Plou",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "제로인 Zeroine",
+  "main_grape": "풀사르드 (Poulsard)",
+  "country": "프랑스(France)",
+  "city": "쥐라(Jura)",
+  "aromas": [
+    "말린과일",
+    "크랜베리",
+    "오크",
+    "딸기",
+    "라스베리"
+  ],
+  "pairings": [
+    "치즈",
+    "샐러드"
+  ]
+}

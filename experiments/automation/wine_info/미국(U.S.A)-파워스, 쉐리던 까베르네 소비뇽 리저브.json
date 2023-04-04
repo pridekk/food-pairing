@@ -1,0 +1,31 @@
+{
+  "name": "파워스, 쉐리던 까베르네 소비뇽 리저브",
+  "en_name": "Powers, Sheridan Cabernet Sauvignon Reserve",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "파워스 와이너리 Powers Winery",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "미국(U.S.A)",
+  "city": "야키마 밸리(Yakima Valley)",
+  "aromas": [
+    "블랙베리",
+    "블랙커런트",
+    "체리",
+    "미네랄",
+    "허브",
+    "블루베리",
+    "바닐라"
+  ],
+  "pairings": [
+    "오리고기",
+    "불고기",
+    "족발",
+    "스테이크",
+    "소고기",
+    "갈비찜",
+    "양고기"
+  ]
+}

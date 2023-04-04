@@ -1,0 +1,31 @@
+{
+  "name": "콘차이 토로, 그란 레세르바 그린 레이블 까르미네르",
+  "en_name": "Concha y Toro, Gran Reserva Green Label Carmenere",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "콘차이 토로 Concha y Toro",
+  "main_grape": "카르메네르 (Carmenere) , 카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "칠레(Chile)",
+  "city": "페우모(Peumo)",
+  "aromas": [
+    "바닐라",
+    "오크",
+    "삼나무",
+    "블랙체리",
+    "블랙베리",
+    "자두",
+    "초콜릿",
+    "후추"
+  ],
+  "pairings": [
+    "불고기",
+    "찜닭",
+    "소고기",
+    "스테이크",
+    "양꼬치",
+    "한국음식"
+  ]
+}

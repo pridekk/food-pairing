@@ -1,0 +1,35 @@
+{
+  "name": "도멘 드 라 모르도레, 라 헨느 드 라 모르도레 루즈 뱅 나뚜랄 SSA",
+  "en_name": "Domaine de la Mordorée, VDF La Reine de La Mordoree Rouge Vin Natural SSA",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "도멘 드 라 모르도레 Domaine de la Mordoree",
+  "main_grape": "그르나슈 (Grenache) , 마르셀란 (Marselan)",
+  "country": "프랑스(France)",
+  "city": "론(Rhone)",
+  "aromas": [
+    "레드커런트",
+    "말린허브",
+    "동물",
+    "먼지",
+    "딸기",
+    "가죽",
+    "감초",
+    "바닐라",
+    "라스베리",
+    "체리"
+  ],
+  "pairings": [
+    "살라미",
+    "프로슈토",
+    "건육",
+    "바비큐",
+    "초리조",
+    "베이컨",
+    "그릴요리",
+    "양꼬치"
+  ]
+}

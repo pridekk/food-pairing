@@ -1,0 +1,23 @@
+{
+  "name": "라디콘, 피뇰리",
+  "en_name": "Radikon, Pignoli",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 2,
+  "winery": "라디콘 Radikon",
+  "main_grape": "피뇰로 (Pignolo)",
+  "country": "이탈리아(Italy)",
+  "city": "프리울리 베네찌아 줄리아(Friuli Venezia Giulia)",
+  "aromas": [
+    "블랙체리",
+    "말린과일",
+    "체리"
+  ],
+  "pairings": [
+    "닭고기",
+    "치즈",
+    "튀김"
+  ]
+}

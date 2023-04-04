@@ -1,0 +1,24 @@
+{
+  "name": "티에리 베클레어, 슈냉 패상 블랑",
+  "en_name": "Thierry Beclair, Chenin Faisant Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 5,
+  "body": 3,
+  "tannin": 1,
+  "winery": "티에리 베클레어 Thierry Beclair",
+  "main_grape": "슈냉 블랑 (Chenin Blanc)",
+  "country": "프랑스(France)",
+  "city": "루아르(Loire)",
+  "aromas": [
+    "시트러스",
+    "미네랄",
+    "복숭아",
+    "살구"
+  ],
+  "pairings": [
+    "해산물",
+    "복숭아",
+    "샐러드"
+  ]
+}

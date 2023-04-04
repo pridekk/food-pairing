@@ -1,0 +1,30 @@
+{
+  "name": "산타 로라, 로라하트윅 까르미네르 싱글빈야드",
+  "en_name": "Santa Laura, Laura Hartwiq Carmenere Single Vineyard",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "산타 로라 Santa Laura",
+  "main_grape": "카르메네르 (Carmenere)",
+  "country": "칠레(Chile)",
+  "city": "콜차구아 밸리(Cholchagua Valley)",
+  "aromas": [
+    "말린자두",
+    "블랙체리",
+    "블루베리",
+    "블랙베리",
+    "자두"
+  ],
+  "pairings": [
+    "불고기",
+    "양갈비",
+    "스테이크",
+    "등심",
+    "바비큐",
+    "육포",
+    "족발",
+    "갈비찜"
+  ]
+}

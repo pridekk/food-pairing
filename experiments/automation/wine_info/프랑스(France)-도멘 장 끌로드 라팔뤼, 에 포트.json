@@ -1,0 +1,24 @@
+{
+  "name": "도멘 장 끌로드 라팔뤼, 에 포트",
+  "en_name": "Domaine Jean-Claude Lapalu, Eau Forte",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "도멘 장 끌로드 라팔뤼 Domaine Jean-Claude Lapalu",
+  "main_grape": "가메이 (Gamay)",
+  "country": "프랑스(France)",
+  "city": "보졸레(Beaujolais)",
+  "aromas": [
+    "후추",
+    "미네랄",
+    "딸기",
+    "라스베리",
+    "체리"
+  ],
+  "pairings": [
+    "닭고기",
+    "샐러드"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "라바스코, 다미지아나 비앙코",
+  "en_name": "Rabasco, Damigiana Bianco",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "라바스코 Rabasco",
+  "main_grape": "트레비아노 (Trebbiano)",
+  "country": "이탈리아(Italy)",
+  "city": "아브루쪼(Abruzzo)",
+  "aromas": [
+    "청사과",
+    "복숭아",
+    "미네랄"
+  ],
+  "pairings": [
+    "해산물",
+    "과일",
+    "복숭아",
+    "샐러드"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "산 페드로, 9 라이브스 리저브 샤르도네",
+  "en_name": "San Pedro, 9 Lives Reserve Chardonnay",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "산 페드로 San Pedro",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "칠레(Chile)",
+  "city": "쿠리코 밸리(Curico Valley)",
+  "aromas": [
+    "열대과일",
+    "서양배",
+    "사과",
+    "살구",
+    "아몬드",
+    "캐슈넛",
+    "토스트"
+  ],
+  "pairings": [
+    "프로슈토",
+    "장어구이",
+    "훈제오리",
+    "닭강정",
+    "후라이드",
+    "오리고기",
+    "조개구이"
+  ]
+}

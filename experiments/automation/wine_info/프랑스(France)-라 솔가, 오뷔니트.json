@@ -1,0 +1,24 @@
+{
+  "name": "라 솔가, 오뷔니트",
+  "en_name": "La Sorga, Aubunite",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 0,
+  "acidity": 0,
+  "body": 0,
+  "tannin": 0,
+  "winery": "라 솔가 La Sorga",
+  "main_grape": "아라몬 (Aramon) , 까리냥 (Carignan/Carignane)",
+  "country": "프랑스(France)",
+  "city": "랑그독 루씨용(Languedoc Roussillon)",
+  "aromas": [
+    "블랙베리",
+    "오크",
+    "블랙체리",
+    "블루베리",
+    "허브"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "샤또 쌩 로쉐, 코바롤 루즈",
+  "en_name": "Chateau Saint-Roch, Corbarol Rouge",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "샤또 쌩 로쉐 Chateau Saint-Roch",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz) , 그르나슈 (Grenache)",
+  "country": "프랑스(France)",
+  "city": "꼬뜨 드 루씨용(Côtes de Roussillon)",
+  "aromas": [
+    "후추",
+    "블랙베리",
+    "말린자두",
+    "블루베리",
+    "감초",
+    "자두",
+    "시나몬"
+  ],
+  "pairings": [
+    "건육",
+    "살라미",
+    "양념갈비",
+    "갈비찜",
+    "양갈비",
+    "소고기",
+    "그릴요리",
+    "불고기",
+    "스테이크"
+  ]
+}

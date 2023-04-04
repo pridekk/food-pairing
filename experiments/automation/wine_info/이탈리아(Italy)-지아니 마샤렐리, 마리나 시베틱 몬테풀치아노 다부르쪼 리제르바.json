@@ -1,0 +1,30 @@
+{
+  "name": "지아니 마샤렐리, 마리나 시베틱 몬테풀치아노 다부르쪼 리제르바",
+  "en_name": "Giani Masciarelli, Marina Cvetic Montepulciano d'Aburuzzo Riserva",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "지아니 마샤렐리 Giani Masciarelli",
+  "main_grape": "몬테풀치아노 (Montepulciano)",
+  "country": "이탈리아(Italy)",
+  "city": "아브루쪼(Abruzzo)",
+  "aromas": [
+    "제비꽃",
+    "말린자두",
+    "바닐라",
+    "말린과일",
+    "레드커런트",
+    "정향"
+  ],
+  "pairings": [
+    "불고기",
+    "스테이크",
+    "살라미",
+    "양꼬치",
+    "수육",
+    "족발",
+    "붉은육류"
+  ]
+}

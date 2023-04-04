@@ -1,0 +1,31 @@
+{
+  "name": "칸티네 델 보르고 레알레, 시데레우스 토스카나 로쏘",
+  "en_name": "Cantine del Borgo Reale, Sidereus Toscana Rosso",
+  "price_from_importer": "64,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "칸티네 델 보르고 레알레 Cantine del Borgo Reale",
+  "main_grape": "산지오베제 (Sangiovese) , 메를로 (Merlot) , 카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "이탈리아(Italy)",
+  "city": "토스카나(Toscana)",
+  "aromas": [
+    "레드커런트",
+    "시나몬",
+    "딸기",
+    "블랙체리",
+    "정향",
+    "자두",
+    "체리"
+  ],
+  "pairings": [
+    "꼬치구이",
+    "육회",
+    "건육",
+    "바비큐",
+    "양념치킨",
+    "까르파치오",
+    "오리로스"
+  ]
+}

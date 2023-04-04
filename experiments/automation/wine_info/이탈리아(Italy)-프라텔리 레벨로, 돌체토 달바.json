@@ -1,0 +1,30 @@
+{
+  "name": "프라텔리 레벨로, 돌체토 달바",
+  "en_name": "Fratelli Revello, Dolcetto d'Alba",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 2,
+  "body": 2,
+  "tannin": 4,
+  "winery": "프라텔리 레벨로 Fratelli Revello",
+  "main_grape": "돌체토 (Dolcetto)",
+  "country": "이탈리아(Italy)",
+  "city": "알바(Alba)",
+  "aromas": [
+    "말린과일",
+    "레드커런트",
+    "체리",
+    "자두",
+    "정향",
+    "시나몬"
+  ],
+  "pairings": [
+    "살치살",
+    "베이컨",
+    "소고기",
+    "스테이크",
+    "양꼬치",
+    "건육",
+    "로스트비프"
+  ]
+}

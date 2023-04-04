@@ -1,0 +1,30 @@
+{
+  "name": "도메인 바슬러, 오리진",
+  "en_name": "Domaine Wassler, Origine",
+  "price_from_importer": "95,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 1,
+  "tannin": 1,
+  "winery": "도멘 바슬러 Domaine Wassler",
+  "main_grape": "오쎄후와 (Auxerrois) , 피노 그리 (Pinot Gris)",
+  "country": "프랑스(France)",
+  "city": "알자스(Alsace)",
+  "aromas": [
+    "레몬",
+    "서양배",
+    "복숭아",
+    "청사과",
+    "멜론"
+  ],
+  "pairings": [
+    "조개구이",
+    "아시아요리",
+    "게살",
+    "생선구이",
+    "자장면",
+    "동남아요리",
+    "중국요리",
+    "해산물"
+  ]
+}

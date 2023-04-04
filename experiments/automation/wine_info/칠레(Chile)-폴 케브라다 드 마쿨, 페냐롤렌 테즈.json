@@ -1,0 +1,30 @@
+{
+  "name": "폴 케브라다 드 마쿨, 페냐롤렌 테즈",
+  "en_name": "Clos Quebrada de Macul, Penalolen Tez",
+  "price_from_importer": "510,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "끌로 케브라다 드 마쿨 Clos Quebrada de Macul",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) , 카베르네 프랑 (Cabernet Franc) , 쁘띠 베르도 (Petit Verdot)",
+  "country": "칠레(Chile)",
+  "city": "마이포 밸리(Maipo Valley)",
+  "aromas": [
+    "민트",
+    "라스베리",
+    "허브",
+    "바닐라",
+    "말린허브",
+    "자두",
+    "블랙커런트"
+  ],
+  "pairings": [
+    "불고기",
+    "소고기",
+    "양갈비",
+    "스테이크",
+    "바비큐",
+    "갈비찜"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "포지오 레 볼피, 피플 비앙코",
+  "en_name": "Poggio Le Volpi, People Bianco",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "포지오 레 볼피 Poggio Le Volpi",
+  "main_grape": "말바시아 디 칸디아 (Malvasia di Candia) , 트레비아노 (Trebbiano)",
+  "country": "이탈리아(Italy)",
+  "city": "로마(Roma)",
+  "aromas": [
+    "서양배",
+    "잔디",
+    "청사과",
+    "엘더플라워",
+    "흰꽃"
+  ],
+  "pairings": [
+    "해산물",
+    "생선찜",
+    "리조또",
+    "견과류",
+    "생선구이",
+    "크림파스타",
+    "문어숙회"
+  ]
+}

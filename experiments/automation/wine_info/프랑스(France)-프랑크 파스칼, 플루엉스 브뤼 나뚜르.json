@@ -1,0 +1,23 @@
+{
+  "name": "프랑크 파스칼, 플루엉스 브뤼 나뚜르",
+  "en_name": "Franck Pascal, Fluence Brut Nature",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 5,
+  "body": 3,
+  "tannin": 1,
+  "winery": "프랑크 파스칼 [샴페인 프랑크 파스칼] Franck Pascal [Champagne Franck Pascal]",
+  "main_grape": "피노 뮈니에 (Pinot Meunier) , 피노 누아 (Pinot Noir) , 샤르도네 (Chardonnay)",
+  "country": "프랑스(France)",
+  "city": "샹빠뉴(Champagne)",
+  "aromas": [
+    "청사과",
+    "시트러스",
+    "미네랄",
+    "서양배"
+  ],
+  "pairings": [
+    "치즈",
+    "샐러드"
+  ]
+}

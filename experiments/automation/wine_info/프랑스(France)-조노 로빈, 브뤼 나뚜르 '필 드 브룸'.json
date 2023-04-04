@@ -1,0 +1,21 @@
+{
+  "name": "조노 로빈, 브뤼 나뚜르 '필 드 브룸'",
+  "en_name": "Jeaunaux Robin, Brut Nature 'Fil de Brume'",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 5,
+  "body": 3,
+  "tannin": 1,
+  "winery": "조노 로빈 Jeaunaux Robin",
+  "main_grape": "샤르도네 (Chardonnay) , 피노 누아 (Pinot Noir)",
+  "country": "프랑스(France)",
+  "city": "샹빠뉴(Champagne)",
+  "aromas": [
+    "시트러스",
+    "사과",
+    "미네랄"
+  ],
+  "pairings": [
+    "치즈"
+  ]
+}

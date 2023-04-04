@@ -1,0 +1,23 @@
+{
+  "name": "레그라파이유, 모소 로제",
+  "en_name": "L'Egrappille, MO(S)O Rose",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "레그라파이유 L'Egrappille",
+  "main_grape": "가메이 (Gamay)",
+  "country": "프랑스(France)",
+  "city": "프랑스(France)",
+  "aromas": [
+    "버섯",
+    "복숭아",
+    "체리"
+  ],
+  "pairings": [
+    "해산물",
+    "복숭아",
+    "샐러드"
+  ]
+}

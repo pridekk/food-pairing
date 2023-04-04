@@ -1,0 +1,24 @@
+{
+  "name": "장 이브 페론, 샴 프밧",
+  "en_name": "Jean Yves Peron, Champ Levat",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "장 이브 페론 Jean Yves Peron",
+  "main_grape": "몽두즈 블랑슈 (Mondeuse Blanche)",
+  "country": "프랑스(France)",
+  "city": "사부아 뷔게이(Savoie-Bugey)",
+  "aromas": [
+    "라스베리",
+    "허브",
+    "오크",
+    "블랙베리",
+    "토스트"
+  ],
+  "pairings": [
+    "돼지고기",
+    "소고기"
+  ]
+}

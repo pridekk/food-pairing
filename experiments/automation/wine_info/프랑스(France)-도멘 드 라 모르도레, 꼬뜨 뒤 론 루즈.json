@@ -1,0 +1,32 @@
+{
+  "name": "도멘 드 라 모르도레, 꼬뜨 뒤 론 루즈",
+  "en_name": "Domaine de la Mordorée, Cote du Rhone Rouge",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "도멘 드 라 모르도레 Domaine de la Mordoree",
+  "main_grape": "그르나슈 (Grenache) , 시라/쉬라즈 (Syrah/Shiraz) , 쌩쏘 (Cinsault) , 까리냥 (Carignan/Carignane) , 무르베드르 (Mourvedre)",
+  "country": "프랑스(France)",
+  "city": "론(Rhone)",
+  "aromas": [
+    "오크",
+    "딸기",
+    "블랙커런트",
+    "삼나무",
+    "허브",
+    "제비꽃",
+    "라스베리",
+    "체리"
+  ],
+  "pairings": [
+    "살라미",
+    "건육",
+    "바비큐",
+    "그릴요리",
+    "소고기",
+    "하몽",
+    "양꼬치"
+  ]
+}

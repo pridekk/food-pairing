@@ -1,0 +1,33 @@
+{
+  "name": "산 페드로, 9 라이브스 리저브 메를로",
+  "en_name": "San Pedro, 9 Lives Reserve Merlot",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "산 페드로 San Pedro",
+  "main_grape": "메를로 (Merlot)",
+  "country": "칠레(Chile)",
+  "city": "센트럴 밸리(Central Valley)",
+  "aromas": [
+    "라스베리",
+    "바닐라",
+    "삼나무",
+    "레드커런트",
+    "블랙체리",
+    "체리",
+    "자두",
+    "정향",
+    "후추"
+  ],
+  "pairings": [
+    "베이컨",
+    "찜닭",
+    "소고기",
+    "양꼬치",
+    "항정살",
+    "로스트비프",
+    "까르파치오"
+  ]
+}

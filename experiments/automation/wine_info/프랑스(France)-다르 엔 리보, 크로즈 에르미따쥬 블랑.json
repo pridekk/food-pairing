@@ -1,0 +1,24 @@
+{
+  "name": "다르 엔 리보, 크로즈 에르미따쥬 블랑",
+  "en_name": "Dard & Ribo, Crozes Hermitage Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 5,
+  "tannin": 1,
+  "winery": "다르 엔 리보 Dard & Ribo",
+  "main_grape": "마르산느 (Marsanne) , 루산느 (Roussanne)",
+  "country": "프랑스(France)",
+  "city": "크로즈-에르미타주(Crozes-Hermitage)",
+  "aromas": [
+    "열대과일",
+    "복숭아",
+    "미네랄"
+  ],
+  "pairings": [
+    "치즈",
+    "복숭아",
+    "샐러드",
+    "튀김"
+  ]
+}

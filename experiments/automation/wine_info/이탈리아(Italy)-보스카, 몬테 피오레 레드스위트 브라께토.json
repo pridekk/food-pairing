@@ -1,0 +1,29 @@
+{
+  "name": "보스카, 몬테 피오레 레드스위트 브라께토",
+  "en_name": "Bosca, Monte Fiore Red Sweet Brachetto",
+  "price_from_importer": "65,000원( 750ml )",
+  "sugar": 4,
+  "acidity": 2,
+  "body": 2,
+  "tannin": 2,
+  "winery": "보스카 Bosca",
+  "main_grape": "브라케토 (Brachetto)",
+  "country": "이탈리아(Italy)",
+  "city": "피에몬테(Piemonte)",
+  "aromas": [
+    "열대과일",
+    "라스베리",
+    "허브",
+    "체리",
+    "딸기",
+    "크랜베리"
+  ],
+  "pairings": [
+    "프로슈토",
+    "아시아요리",
+    "튀김",
+    "동남아요리",
+    "닭강정",
+    "건육"
+  ]
+}

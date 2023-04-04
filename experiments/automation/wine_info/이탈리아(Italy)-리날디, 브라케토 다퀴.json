@@ -1,0 +1,26 @@
+{
+  "name": "리날디, 브라케토 다퀴",
+  "en_name": "Rinaldi, Brachetto d'Acqui",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 3,
+  "acidity": 1,
+  "body": 3,
+  "tannin": 1,
+  "winery": "리날디 비니 Rinaldi Vini",
+  "main_grape": "브라케토 (Brachetto)",
+  "country": "이탈리아(Italy)",
+  "city": "피에몬테(Piemonte)",
+  "aromas": [
+    "장미",
+    "라스베리",
+    "딸기",
+    "크랜베리"
+  ],
+  "pairings": [
+    "아시아요리",
+    "떡볶이",
+    "튀김",
+    "하몽",
+    "동남아요리"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "프로듀토리 디 만두리아, 네아마 살렌토 네그로 아마로",
+  "en_name": "Produtori di Manduria, Neama Salento Negroamaro",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "프로듀토리 디 만두리아 Produtori di Manduria",
+  "main_grape": "네그로아마로 (Negroamaro)",
+  "country": "이탈리아(Italy)",
+  "city": "뿔리아(Puglia)",
+  "aromas": [
+    "바닐라",
+    "말린과일",
+    "블랙체리",
+    "블루베리",
+    "블랙베리",
+    "후추",
+    "정향",
+    "시나몬"
+  ],
+  "pairings": [
+    "불고기",
+    "소고기",
+    "양갈비",
+    "스테이크",
+    "양념갈비",
+    "건육",
+    "스튜"
+  ]
+}

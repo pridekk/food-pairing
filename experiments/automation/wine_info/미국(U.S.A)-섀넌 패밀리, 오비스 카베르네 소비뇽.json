@@ -1,0 +1,31 @@
+{
+  "name": "섀넌 패밀리, 오비스 카베르네 소비뇽",
+  "en_name": "Shannon Family, Ovis Cabernet Sauvignon",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "섀넌 패밀리 오브 와인스 Shannon Family of Wines",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "미국(U.S.A)",
+  "city": "하이 밸리(High Valley)",
+  "aromas": [
+    "바닐라",
+    "말린과일",
+    "자두",
+    "블랙베리",
+    "정향",
+    "블랙커런트"
+  ],
+  "pairings": [
+    "육포",
+    "갈비찜",
+    "스테이크",
+    "소고기",
+    "양갈비",
+    "불고기",
+    "양념갈비",
+    "그릴요리"
+  ]
+}

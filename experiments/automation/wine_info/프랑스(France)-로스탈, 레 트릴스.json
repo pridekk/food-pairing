@@ -1,0 +1,24 @@
+{
+  "name": "로스탈, 레 트릴스",
+  "en_name": "L'Ostal, Les Trilles",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 5,
+  "tannin": 3,
+  "winery": "로스탈 L'Ostal",
+  "main_grape": "메를로 (Merlot)",
+  "country": "프랑스(France)",
+  "city": "까오르(Cahors)",
+  "aromas": [
+    "블랙베리",
+    "오크",
+    "블랙커런트",
+    "피망",
+    "라스베리"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "헌터스, 메쏘드 트레디셔넬레 미루미루 로제",
+  "en_name": "Hunter's, Méthode Traditionelle MiruMiru Rose",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "헌터스 와이너리 Hunter's WInery",
+  "main_grape": "샤르도네 (Chardonnay) , 피노 누아 (Pinot Noir) , 피노 뮈니에 (Pinot Meunier)",
+  "country": "뉴질랜드(New Zealand)",
+  "city": "말보로(Marlborough)",
+  "aromas": [
+    "라스베리",
+    "서양배",
+    "브리오슈",
+    "딸기",
+    "자몽",
+    "페이스트리"
+  ],
+  "pairings": [
+    "나물",
+    "오일파스타",
+    "해산물",
+    "초밥",
+    "어묵",
+    "흰살생선",
+    "생선회",
+    "생굴",
+    "문어숙회"
+  ]
+}

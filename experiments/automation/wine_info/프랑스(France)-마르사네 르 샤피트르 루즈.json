@@ -1,0 +1,28 @@
+{
+  "name": "마르사네 르 샤피트르 루즈",
+  "en_name": "Marsannay Le Chapitre Rouge",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 2,
+  "winery": "도멘 샤를로팽-티시에 Domaine Charlopin-Tissier",
+  "main_grape": "피노 누아 (Pinot Noir)",
+  "country": "프랑스(France)",
+  "city": "막사네(Marsannay)",
+  "aromas": [
+    "레드커런트",
+    "후추",
+    "민트",
+    "딸기",
+    "라스베리",
+    "체리"
+  ],
+  "pairings": [
+    "닭고기",
+    "참치",
+    "바비큐",
+    "로스트비프",
+    "오리로스"
+  ]
+}

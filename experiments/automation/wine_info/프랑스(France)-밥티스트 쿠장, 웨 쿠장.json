@@ -1,0 +1,24 @@
+{
+  "name": "밥티스트 쿠장, 웨 쿠장",
+  "en_name": "Baptiste Cousin, Ouech Cousin",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "밥티스트 쿠장 Baptiste Cousin",
+  "main_grape": "그롤로 그리 (Grolleau Gris)",
+  "country": "프랑스(France)",
+  "city": "루아르(Loire)",
+  "aromas": [
+    "딸기",
+    "시트러스",
+    "허브",
+    "체리"
+  ],
+  "pairings": [
+    "해산물",
+    "닭고기",
+    "치즈"
+  ]
+}

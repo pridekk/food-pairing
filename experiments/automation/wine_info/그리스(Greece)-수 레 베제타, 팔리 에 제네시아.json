@@ -1,0 +1,25 @@
+{
+  "name": "수 레 베제타, 팔리 에 제네시아",
+  "en_name": "Sous le Vegeta, Palli et Genesia",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 2,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "수 레 베제타 Sous le Vegeta",
+  "main_grape": "뮈스까 블랑 쁘띠 그랑 (Muscat Blanc Petits Grains)",
+  "country": "그리스(Greece)",
+  "city": "사모스(Samos)",
+  "aromas": [
+    "청사과",
+    "레몬",
+    "망고",
+    "복숭아"
+  ],
+  "pairings": [
+    "과일",
+    "치즈",
+    "복숭아",
+    "샐러드"
+  ]
+}

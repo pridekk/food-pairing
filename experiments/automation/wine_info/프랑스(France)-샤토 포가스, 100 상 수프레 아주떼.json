@@ -1,0 +1,30 @@
+{
+  "name": "샤토 포가스, 100 상 수프레 아주떼",
+  "en_name": "Chateau Fougas, 100 Sans Soufre Ajoute",
+  "price_from_importer": "89,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "샤토 포가스 Chateau Fougas",
+  "main_grape": "메를로 (Merlot)",
+  "country": "프랑스(France)",
+  "city": "프롱삭(Fronsac)",
+  "aromas": [
+    "체리",
+    "허브",
+    "블랙체리",
+    "블루베리",
+    "정향",
+    "구즈베리",
+    "바닐라"
+  ],
+  "pairings": [
+    "찜닭",
+    "양꼬치",
+    "까르파치오",
+    "로스트비프",
+    "소고기",
+    "바비큐"
+  ]
+}

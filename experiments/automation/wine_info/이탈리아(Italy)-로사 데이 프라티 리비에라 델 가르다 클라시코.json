@@ -1,0 +1,29 @@
+{
+  "name": "로사 데이 프라티 리비에라 델 가르다 클라시코",
+  "en_name": "Rosa dei Frati Riviera del Garda Classico",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "까데이 프라티 Ca'dei Frati",
+  "main_grape": "그로펠로 (Groppello) , 마르제미노 (Marzemino) , 산지오베제 (Sangiovese) , 바르베라 (Barbera)",
+  "country": "이탈리아(Italy)",
+  "city": "롬바르디아(Lombardia)",
+  "aromas": [
+    "바닐라",
+    "딸기",
+    "장미",
+    "밀싹",
+    "라스베리",
+    "체리"
+  ],
+  "pairings": [
+    "건육",
+    "육회",
+    "바비큐",
+    "로스트비프",
+    "양념치킨",
+    "소고기"
+  ]
+}

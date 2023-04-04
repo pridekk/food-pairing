@@ -1,0 +1,30 @@
+{
+  "name": "테누타 쿠코, 랑게 로쏘",
+  "en_name": "Tenuta Cucco, Langhe Rosso",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "테누타 쿠쵸 Tenuta Cucco",
+  "main_grape": "메를로 (Merlot) , 카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "이탈리아(Italy)",
+  "city": "바롤로(Barolo)",
+  "aromas": [
+    "블랙베리",
+    "허브",
+    "붉은꽃",
+    "블루베리",
+    "정향",
+    "블랙체리",
+    "바닐라"
+  ],
+  "pairings": [
+    "양갈비",
+    "로스트비프",
+    "스테이크",
+    "소고기",
+    "건육",
+    "바비큐"
+  ]
+}

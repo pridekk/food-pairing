@@ -1,0 +1,32 @@
+{
+  "name": "소렐레 데 니콜라 페일스, 바르바레스코 리제르바",
+  "en_name": "Sorelle de Nicola Feyles, Barbaresco Riserva",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 4,
+  "winery": "소렐레 데 니콜라 페일스 Sorelle de Nicola Feyles",
+  "main_grape": "네비올로 (Nebbiolo)",
+  "country": "이탈리아(Italy)",
+  "city": "바르바레스코(Barbaresco)",
+  "aromas": [
+    "블랙베리",
+    "체리",
+    "붉은꽃",
+    "장미",
+    "자두",
+    "블랙체리",
+    "감초"
+  ],
+  "pairings": [
+    "라자냐",
+    "양갈비",
+    "양념갈비",
+    "스튜",
+    "리조토",
+    "스테이크",
+    "소고기",
+    "갈비찜"
+  ]
+}

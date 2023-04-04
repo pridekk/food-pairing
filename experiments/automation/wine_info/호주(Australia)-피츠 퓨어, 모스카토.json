@@ -1,0 +1,31 @@
+{
+  "name": "피츠 퓨어, 모스카토",
+  "en_name": "Pete's Pure, Moscato",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 2,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "피츠 퓨어 와인 Pete's Pure Wine",
+  "main_grape": "모스카토 (Moscato )",
+  "country": "호주(Australia)",
+  "city": "머레이 달링(Murray Darling)",
+  "aromas": [
+    "열대과일",
+    "리치",
+    "브리오슈",
+    "라임",
+    "오렌지",
+    "시트러스",
+    "복숭아"
+  ],
+  "pairings": [
+    "소라",
+    "떡볶이",
+    "양념치킨",
+    "비빔밥",
+    "닭강정",
+    "꼬치구이",
+    "문어숙회"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "프라텔리 레벨로, 바롤로",
+  "en_name": "Fratelli Revello, Barolo",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 4,
+  "winery": "프라텔리 레벨로 Fratelli Revello",
+  "main_grape": "네비올로 (Nebbiolo)",
+  "country": "",
+  "city": "",
+  "aromas": [
+    "말린자두",
+    "블랙체리",
+    "체리",
+    "블랙베리",
+    "자두",
+    "정향"
+  ],
+  "pairings": [
+    "베이컨",
+    "양갈비",
+    "스테이크",
+    "건육",
+    "스튜"
+  ]
+}

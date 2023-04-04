@@ -1,0 +1,28 @@
+{
+  "name": "지아니 마샤렐리, 빌라 젬마 체라수올로 다부르쪼",
+  "en_name": "Giani Masciarelli, Villa Gemma Cerasuolo d'Abruzzo",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "지아니 마샤렐리 Giani Masciarelli",
+  "main_grape": "몬테풀치아노 (Montepulciano)",
+  "country": "이탈리아(Italy)",
+  "city": "아브루쪼(Abruzzo)",
+  "aromas": [
+    "라일락",
+    "블랙체리",
+    "석류",
+    "딸기",
+    "자두"
+  ],
+  "pairings": [
+    "베이컨",
+    "해산물",
+    "떡볶이",
+    "바비큐",
+    "생선구이",
+    "순대"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "오리지널 하우스 와인, 스테이크 하우스 카베르네 소비뇽",
+  "en_name": "Original House Wine, Steak House Cabernet Sauvignon",
+  "price_from_importer": "55,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "오리지널 하우스 와인 Original House Wine",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "미국(U.S.A)",
+  "city": "워싱턴주(Washington State)",
+  "aromas": [
+    "블랙체리",
+    "체리",
+    "자두",
+    "말린자두"
+  ],
+  "pairings": [
+    "불고기",
+    "소고기",
+    "양갈비",
+    "스테이크",
+    "편육",
+    "바비큐",
+    "족발"
+  ]
+}

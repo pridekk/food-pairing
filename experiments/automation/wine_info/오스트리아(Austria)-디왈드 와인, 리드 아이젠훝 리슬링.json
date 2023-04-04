@@ -1,0 +1,32 @@
+{
+  "name": "디왈드 와인, 리드 아이젠훝 리슬링",
+  "en_name": "Diwald Wine, Ried Eisenhut 1OTW Riesling",
+  "price_from_importer": "92,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "디왈드 와인 Diwald Wine",
+  "main_grape": "리슬링 (Riesling)",
+  "country": "오스트리아(Austria)",
+  "city": "바인피어텔(Weinviertel)",
+  "aromas": [
+    "사과",
+    "청사과",
+    "흰꽃",
+    "미네랄",
+    "부싯돌",
+    "시트러스"
+  ],
+  "pairings": [
+    "베이컨",
+    "해산물",
+    "삼겹살",
+    "바비큐",
+    "닭강정",
+    "건육",
+    "후라이드",
+    "치킨",
+    "새우"
+  ]
+}

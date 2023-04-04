@@ -1,0 +1,30 @@
+{
+  "name": "리날디, 리오글리오 바르베라 다스티",
+  "en_name": "Rinaldi, Rioglio Barbera D'asti",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 2,
+  "winery": "리날디 비니 Rinaldi Vini",
+  "main_grape": "바르베라 (Barbera)",
+  "country": "이탈리아(Italy)",
+  "city": "아스티(Asti)",
+  "aromas": [
+    "붉은꽃",
+    "감초",
+    "허브",
+    "건초",
+    "블랙체리",
+    "블루베리",
+    "체리",
+    "딸기"
+  ],
+  "pairings": [
+    "불고기",
+    "찜닭",
+    "바비큐",
+    "수육",
+    "로스트비프"
+  ]
+}

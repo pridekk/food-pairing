@@ -1,0 +1,24 @@
+{
+  "name": "쿠르츠, 아카데",
+  "en_name": "Kurtz, Accade",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 3,
+  "winery": "쿠르츠 Kurtz",
+  "main_grape": "산지오베제 (Sangiovese)",
+  "country": "이탈리아(Italy)",
+  "city": "움브리아(Umbria)",
+  "aromas": [
+    "블랙베리",
+    "오크",
+    "딸기",
+    "허브",
+    "라스베리"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

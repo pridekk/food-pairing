@@ -1,0 +1,28 @@
+{
+  "name": "도멘 루시앙 제이콥, 부르고뉴 알리고떼",
+  "en_name": "Domaine Lucien Jacob, Bourgogne Aligote",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 1,
+  "tannin": 1,
+  "winery": "도멘 루시앙 제이콥 Domaine Lucien Jacob",
+  "main_grape": "알리고테 (Aligote)",
+  "country": "프랑스(France)",
+  "city": "부르고뉴(Bourgogne)",
+  "aromas": [
+    "밀싹",
+    "청사과",
+    "레몬",
+    "흰꽃",
+    "잔디"
+  ],
+  "pairings": [
+    "과일",
+    "해산물",
+    "초밥",
+    "씨푸드",
+    "생선회",
+    "나물"
+  ]
+}

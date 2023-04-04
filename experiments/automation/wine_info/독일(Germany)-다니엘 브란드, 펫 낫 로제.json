@@ -1,0 +1,24 @@
+{
+  "name": "다니엘 브란드, 펫 낫 로제",
+  "en_name": "Daniel Brand, Pet Nat Rose",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "다니엘 브란드 Daniel Brand",
+  "main_grape": "피노 누아 (Pinot Noir) , 포츄기저 (Portugieser)",
+  "country": "독일(Germany)",
+  "city": "팔츠(Pfalz)",
+  "aromas": [
+    "체리",
+    "딸기",
+    "시트러스",
+    "미네랄"
+  ],
+  "pairings": [
+    "샐러드",
+    "치즈",
+    "해산물"
+  ]
+}

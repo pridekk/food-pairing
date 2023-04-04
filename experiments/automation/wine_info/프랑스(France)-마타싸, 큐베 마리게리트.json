@@ -1,0 +1,25 @@
+{
+  "name": "마타싸, 큐베 마리게리트",
+  "en_name": "Matassa, Cuvee Marguerite",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 2,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "마타싸 Matassa",
+  "main_grape": "마카베오 (Macabeo) , 뮈스까 달레산드리 (Muscat d'Alexandrie ) , 뮈스까 블랑 쁘띠 그랑 (Muscat Blanc Petits Grains)",
+  "country": "프랑스(France)",
+  "city": "랑그독 루씨용(Languedoc Roussillon)",
+  "aromas": [
+    "열대과일",
+    "복숭아",
+    "살구",
+    "미네랄"
+  ],
+  "pairings": [
+    "전체요리",
+    "치즈",
+    "복숭아",
+    "샐러드"
+  ]
+}

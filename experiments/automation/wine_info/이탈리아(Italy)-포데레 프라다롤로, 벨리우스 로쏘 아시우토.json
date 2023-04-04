@@ -1,0 +1,25 @@
+{
+  "name": "포데레 프라다롤로, 벨리우스 로쏘 아시우토",
+  "en_name": "Podere Pradarolo, Velius Rosso Asciutto",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "포데레 프라다롤로 Podere Pradarolo",
+  "main_grape": "바르베라 (Barbera)",
+  "country": "이탈리아(Italy)",
+  "city": "에밀리아 로마냐(Emilia-Romagna)",
+  "aromas": [
+    "라스베리",
+    "말린과일",
+    "블랙체리",
+    "블랙베리",
+    "후추"
+  ],
+  "pairings": [
+    "양고기",
+    "돼지고기",
+    "소고기"
+  ]
+}

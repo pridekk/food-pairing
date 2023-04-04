@@ -1,0 +1,26 @@
+{
+  "name": "빈티지 롱바텀, H 샤도네이",
+  "en_name": "Vintae Longbottom, H Chardonnay",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "빈티지 롱바텀 Vintae Longbottom",
+  "main_grape": "샤르도네 (Chardonnay) 100%",
+  "country": "호주(Australia)",
+  "city": "아들레이드(Adelaide)",
+  "aromas": [
+    "토스트",
+    "서양배",
+    "흰꽃",
+    "복숭아"
+  ],
+  "pairings": [
+    "아시아요리",
+    "닭고기",
+    "해산물",
+    "사시미",
+    "생선회"
+  ]
+}

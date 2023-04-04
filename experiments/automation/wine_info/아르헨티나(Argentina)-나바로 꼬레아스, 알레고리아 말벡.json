@@ -1,0 +1,33 @@
+{
+  "name": "나바로 꼬레아스, 알레고리아 말벡",
+  "en_name": "Navarro Correas, Alegoria Malbec",
+  "price_from_importer": "116,600원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "보데가 나바로 꼬레아스 Bodega Navarro Correas",
+  "main_grape": "말벡 (Malbec)",
+  "country": "아르헨티나(Argentina)",
+  "city": "멘도사(Mendoza)",
+  "aromas": [
+    "무화과",
+    "블랙베리",
+    "블랙체리",
+    "블루베리",
+    "감초",
+    "정향",
+    "자두",
+    "시나몬"
+  ],
+  "pairings": [
+    "양념갈비",
+    "양고기",
+    "갈비찜",
+    "양갈비",
+    "소고기",
+    "라자냐",
+    "스테이크",
+    "햄버거"
+  ]
+}

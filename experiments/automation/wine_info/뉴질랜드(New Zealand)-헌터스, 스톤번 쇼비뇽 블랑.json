@@ -1,0 +1,31 @@
+{
+  "name": "헌터스, 스톤번 쇼비뇽 블랑",
+  "en_name": "Hunter's, Stoneburn Sauvignon Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 1,
+  "tannin": 1,
+  "winery": "헌터스 와이너리 Hunter's WInery",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc)",
+  "country": "뉴질랜드(New Zealand)",
+  "city": "말보로(Marlborough)",
+  "aromas": [
+    "구즈베리",
+    "흰꽃",
+    "잔디",
+    "라임",
+    "시트러스"
+  ],
+  "pairings": [
+    "오일파스타",
+    "해산물",
+    "떡볶이",
+    "초밥",
+    "어묵",
+    "생선회",
+    "순대",
+    "새우",
+    "광어"
+  ]
+}

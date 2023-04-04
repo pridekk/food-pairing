@@ -1,0 +1,25 @@
+{
+  "name": "도멘 드 라 핀트, 사바냥",
+  "en_name": "Domiane de la Pinte, Savagnin",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 5,
+  "tannin": 1,
+  "winery": "도멘 드 라 핀트 Domiane de la Pinte",
+  "main_grape": "사바냥 (Savagnin)",
+  "country": "프랑스(France)",
+  "city": "쥐라(Jura)",
+  "aromas": [
+    "아몬드",
+    "말린과일",
+    "오크",
+    "헤이즐넛",
+    "복숭아"
+  ],
+  "pairings": [
+    "치즈",
+    "복숭아",
+    "튀김"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "제롬 소리니, 리클레어 루즈",
+  "en_name": "Jerome Saurigny, Reclair Rouge",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 2,
+  "winery": "제롬 소리니 Jerome Saurigny",
+  "main_grape": "그롤로 누아 (Grolleau Noir) , 카베르네 프랑 (Cabernet Franc) , 카베르네 소비뇽 (Cabernet Sauvignon) , 가메이 (Gamay)",
+  "country": "프랑스(France)",
+  "city": "루아르(Loire)",
+  "aromas": [
+    "미네랄",
+    "오크",
+    "딸기",
+    "허브",
+    "라스베리",
+    "체리"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

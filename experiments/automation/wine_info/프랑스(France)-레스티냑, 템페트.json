@@ -1,0 +1,23 @@
+{
+  "name": "레스티냑, 템페트",
+  "en_name": "Lestignac, Tempete",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 3,
+  "winery": "레스티냑 Lestignac",
+  "main_grape": "메를로 (Merlot) , 카베르네 프랑 (Cabernet Franc)",
+  "country": "프랑스(France)",
+  "city": "베르쥬악(Bergerac)",
+  "aromas": [
+    "딸기",
+    "피망",
+    "체리",
+    "허브"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

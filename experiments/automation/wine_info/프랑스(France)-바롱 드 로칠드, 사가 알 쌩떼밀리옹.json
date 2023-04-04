@@ -1,0 +1,31 @@
+{
+  "name": "바롱 드 로칠드, 사가 알 쌩떼밀리옹",
+  "en_name": "Barons De Rothschild, Saga R Saint Emilion",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "도멘 바롱 드 로칠드 Barons de Rothschild [Domaines Barons de Rothschild]",
+  "main_grape": "메를로 (Merlot) , 카베르네 프랑 (Cabernet Franc)",
+  "country": "프랑스(France)",
+  "city": "생-떼밀리옹(Saint-Emilion)",
+  "aromas": [
+    "제비꽃",
+    "바닐라",
+    "레드커런트",
+    "블랙체리",
+    "체리",
+    "딸기",
+    "자두"
+  ],
+  "pairings": [
+    "불고기",
+    "스테이크",
+    "훈제오리",
+    "바비큐",
+    "갈비찜",
+    "로스트비프",
+    "붉은육류"
+  ]
+}

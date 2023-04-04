@@ -1,0 +1,30 @@
+{
+  "name": "안드레올라, 발도비에데네 디루포 엑스트라 드라이",
+  "en_name": "Andreola, Valdobbiadene Dirupo Extra Dry",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 1,
+  "tannin": 1,
+  "winery": "안드레올라 Andreola",
+  "main_grape": "글레라 (Glera) , 비안케타 (Bianchetta) , 페레라 (Perera)",
+  "country": "이탈리아(Italy)",
+  "city": "발도비아데네(Valdobbiadene)",
+  "aromas": [
+    "서양배",
+    "사과",
+    "밀싹",
+    "브리오슈",
+    "잔디",
+    "아카시아"
+  ],
+  "pairings": [
+    "프로슈토",
+    "해산물",
+    "연어",
+    "참치",
+    "닭강정",
+    "건육",
+    "생선회"
+  ]
+}

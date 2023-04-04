@@ -1,0 +1,23 @@
+{
+  "name": "코렌틴 우이용, 베로네 로제",
+  "en_name": "Corentin Houillon, Veronnet Rose",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "코렌틴 우이용 Corentin Houillon",
+  "main_grape": "가메이 (Gamay)",
+  "country": "프랑스(France)",
+  "city": "사부아 뷔게이(Savoie-Bugey)",
+  "aromas": [
+    "라스베리",
+    "체리",
+    "후추",
+    "오크"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

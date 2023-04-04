@@ -1,0 +1,33 @@
+{
+  "name": "크로쿠스, 르 까르시페",
+  "en_name": "Crocus, Le Calcifere",
+  "price_from_importer": "70,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "크로쿠스 Crocus",
+  "main_grape": "말벡 (Malbec)",
+  "country": "프랑스(France)",
+  "city": "까오르(Cahors)",
+  "aromas": [
+    "후추",
+    "세이지",
+    "블랙베리",
+    "딸기",
+    "블루베리",
+    "감초",
+    "허브",
+    "라스베리"
+  ],
+  "pairings": [
+    "양념갈비",
+    "양고기",
+    "갈비찜",
+    "양갈비",
+    "소고기",
+    "리조또",
+    "스테이크",
+    "햄버거"
+  ]
+}

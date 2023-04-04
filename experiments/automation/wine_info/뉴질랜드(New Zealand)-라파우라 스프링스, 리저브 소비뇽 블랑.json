@@ -1,0 +1,31 @@
+{
+  "name": "라파우라 스프링스, 리저브 소비뇽 블랑",
+  "en_name": "Rapaura Springs, Reserve Sauvignon Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 1,
+  "tannin": 1,
+  "winery": "라파우라 스프링스 Rapaura Springs",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc)",
+  "country": "뉴질랜드(New Zealand)",
+  "city": "말보로(Marlborough)",
+  "aromas": [
+    "열대과일",
+    "자몽",
+    "시트러스",
+    "복숭아"
+  ],
+  "pairings": [
+    "해산물",
+    "떡볶이",
+    "초밥",
+    "편육",
+    "비빔밥",
+    "생선구이",
+    "닭강정",
+    "생선회",
+    "나물",
+    "광어"
+  ]
+}

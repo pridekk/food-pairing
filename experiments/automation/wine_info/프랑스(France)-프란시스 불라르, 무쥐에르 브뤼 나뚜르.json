@@ -1,0 +1,24 @@
+{
+  "name": "프란시스 불라르, 무쥐에르 브뤼 나뚜르",
+  "en_name": "Francis Boulard, Murgier Brut Nature",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 5,
+  "body": 3,
+  "tannin": 1,
+  "winery": "프란시스 불라르 Francis Boulard",
+  "main_grape": "피노 뮈니에 (Pinot Meunier) , 피노 누아 (Pinot Noir) , 샤르도네 (Chardonnay)",
+  "country": "프랑스(France)",
+  "city": "샹빠뉴(Champagne)",
+  "aromas": [
+    "시트러스",
+    "미네랄",
+    "복숭아"
+  ],
+  "pairings": [
+    "샐러드",
+    "치즈",
+    "해산물",
+    "복숭아"
+  ]
+}

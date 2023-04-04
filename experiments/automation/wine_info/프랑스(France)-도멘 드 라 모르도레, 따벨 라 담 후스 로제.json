@@ -1,0 +1,33 @@
+{
+  "name": "도멘 드 라 모르도레, 따벨 라 담 후스 로제",
+  "en_name": "Domaine de la Mordorée, Tavel La Dame Rousse Rose",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "도멘 드 라 모르도레 Domaine de la Mordoree",
+  "main_grape": "그르나슈 (Grenache) , 시라/쉬라즈 (Syrah/Shiraz) , 클레렛 (Clairette) , 쌩쏘 (Cinsault)",
+  "country": "프랑스(France)",
+  "city": "따벨(Tavel)",
+  "aromas": [
+    "레드커런트",
+    "자몽",
+    "딸기",
+    "감초",
+    "감귤",
+    "말린살구",
+    "체리"
+  ],
+  "pairings": [
+    "꼬치구이",
+    "오리고기",
+    "닭고기",
+    "해산물",
+    "베이컨",
+    "생선찜",
+    "생선회",
+    "훈제오리",
+    "생선구이"
+  ]
+}

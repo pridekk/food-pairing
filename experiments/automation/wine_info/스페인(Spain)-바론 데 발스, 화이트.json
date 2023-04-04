@@ -1,0 +1,33 @@
+{
+  "name": "바론 데 발스, 화이트",
+  "en_name": "Barón de Valls, White",
+  "price_from_importer": "8,000원( 750ml )",
+  "sugar": 2,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "비센테 간디아 Vicente Gandia",
+  "main_grape": "마카베오 (Macabeo)",
+  "country": "스페인(Spain)",
+  "city": "발렌시아(Valencia)",
+  "aromas": [
+    "서양배",
+    "시트러스",
+    "열대과일",
+    "살구",
+    "딸기"
+  ],
+  "pairings": [
+    "생선회",
+    "어묵",
+    "만두",
+    "비빔밥",
+    "치킨",
+    "연어",
+    "떡볶이",
+    "해산물",
+    "닭강정",
+    "새우",
+    "양념치킨"
+  ]
+}

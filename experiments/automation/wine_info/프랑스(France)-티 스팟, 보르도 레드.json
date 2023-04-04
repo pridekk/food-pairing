@@ -1,0 +1,35 @@
+{
+  "name": "티 스팟, 보르도 레드",
+  "en_name": "T Spot, Bordeaux Red",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "티 스팟 T Spot",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) , 카베르네 프랑 (Cabernet Franc) , 메를로 (Merlot)",
+  "country": "프랑스(France)",
+  "city": "보르도(Bordeaux)",
+  "aromas": [
+    "블랙베리",
+    "블랙커런트",
+    "삼나무",
+    "체리",
+    "레드커런트",
+    "정향",
+    "바닐라",
+    "오크"
+  ],
+  "pairings": [
+    "햄버거",
+    "양갈비",
+    "불고기",
+    "양념갈비",
+    "족발",
+    "스테이크",
+    "붉은육류",
+    "피자",
+    "토마토파스타",
+    "그릴요리"
+  ]
+}

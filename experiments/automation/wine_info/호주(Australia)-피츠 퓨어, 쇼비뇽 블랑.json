@@ -1,0 +1,29 @@
+{
+  "name": "피츠 퓨어, 쇼비뇽 블랑",
+  "en_name": "Pete's Pure, Sauvignon Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 1,
+  "tannin": 1,
+  "winery": "피츠 퓨어 와인 Pete's Pure Wine",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc)",
+  "country": "호주(Australia)",
+  "city": "빅토리아(Victoria)",
+  "aromas": [
+    "패션프루트",
+    "레몬껍질",
+    "구즈베리",
+    "미네랄"
+  ],
+  "pairings": [
+    "아시아요리",
+    "해산물",
+    "튀김",
+    "동남아요리",
+    "생선구이",
+    "생선회",
+    "새우",
+    "광어"
+  ]
+}

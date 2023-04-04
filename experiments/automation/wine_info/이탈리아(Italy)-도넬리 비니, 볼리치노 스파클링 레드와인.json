@@ -1,0 +1,27 @@
+{
+  "name": "도넬리 비니, 볼리치노 스파클링 레드와인",
+  "en_name": "Donelli Vini, Bollicino Sparkling Red wine",
+  "price_from_importer": "2,500원( 200ml )",
+  "sugar": 2,
+  "acidity": 0,
+  "body": 2,
+  "tannin": 2,
+  "winery": "도넬리 비니 Donelli Vini S.P.A.",
+  "main_grape": "산지오베제 (Sangiovese) , 람브루스코 (Lambrusco)",
+  "country": "이탈리아(Italy)",
+  "city": "깜빠니아(Campania)",
+  "aromas": [
+    "블랙베리",
+    "체리",
+    "붉은꽃",
+    "블루베리",
+    "자두"
+  ],
+  "pairings": [
+    "양꼬치",
+    "건육",
+    "바비큐",
+    "베이컨",
+    "닭강정"
+  ]
+}

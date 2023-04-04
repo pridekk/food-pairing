@@ -1,0 +1,24 @@
+{
+  "name": "요요, 아쿠아봉 루즈",
+  "en_name": "Yoyo, Akoibon Rouge",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "요요 Yoyo",
+  "main_grape": "무르베드르 (Mourvedre)",
+  "country": "프랑스(France)",
+  "city": "바뉠스(Banyuls)",
+  "aromas": [
+    "말린과일",
+    "후추",
+    "블랙베리",
+    "오크",
+    "블랙체리"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

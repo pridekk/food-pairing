@@ -1,0 +1,32 @@
+{
+  "name": "구아도 알 멜로, 야자르테",
+  "en_name": "Guado Al Melo, Jassarte",
+  "price_from_importer": "178,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "구아도 알 멜로 Guado Al Melo",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz) , 템프라니요 (Tempranillo) , 그르나슈 (Grenache) , 무르베드르 (Mourvedre) , 몬테풀치아노 (Montepulciano)",
+  "country": "이탈리아(Italy)",
+  "city": "볼게리(Bolgheri)",
+  "aromas": [
+    "라스베리",
+    "체리",
+    "허브",
+    "레드커런트",
+    "후추",
+    "시나몬",
+    "바닐라",
+    "오크"
+  ],
+  "pairings": [
+    "양갈비",
+    "스테이크",
+    "소고기",
+    "피자",
+    "파스타",
+    "바비큐",
+    "서양요리"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "칸 악사텔, 벤텀",
+  "en_name": "Can Axartell, Ventum",
+  "price_from_importer": "150,000원( 750ml )",
+  "sugar": 0,
+  "acidity": 0,
+  "body": 0,
+  "tannin": 0,
+  "winery": "칸 악사텔 Can Axartell",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz) , 칼렛 (Callet) , 메를로 (Merlot)",
+  "country": "스페인(Spain)",
+  "city": "비니살렘 마요르카(Binissalem Mallorca)",
+  "aromas": [
+    "건포도",
+    "감초",
+    "허브",
+    "블랙체리",
+    "블랙베리",
+    "블랙커런트",
+    "후추"
+  ],
+  "pairings": [
+    "소고기",
+    "하몽",
+    "양갈비",
+    "스테이크",
+    "살라미",
+    "바비큐"
+  ]
+}

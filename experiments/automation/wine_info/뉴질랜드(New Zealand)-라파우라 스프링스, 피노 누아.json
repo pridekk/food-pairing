@@ -1,0 +1,32 @@
+{
+  "name": "라파우라 스프링스, 피노 누아",
+  "en_name": "Rapaura Springs, Pinot Noir",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 2,
+  "winery": "라파우라 스프링스 Rapaura Springs",
+  "main_grape": "피노 누아 (Pinot Noir)",
+  "country": "뉴질랜드(New Zealand)",
+  "city": "말보로(Marlborough)",
+  "aromas": [
+    "시나몬",
+    "라스베리",
+    "블랙베리",
+    "붉은꽃",
+    "오크",
+    "블랙체리",
+    "체리",
+    "바닐라"
+  ],
+  "pairings": [
+    "오리로스",
+    "샤브샤브",
+    "건육",
+    "훈제오리",
+    "바비큐",
+    "푸아그라",
+    "로스트비프"
+  ]
+}

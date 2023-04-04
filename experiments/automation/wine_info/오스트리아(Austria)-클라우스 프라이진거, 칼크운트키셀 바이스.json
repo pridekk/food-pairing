@@ -1,0 +1,24 @@
+{
+  "name": "클라우스 프라이진거, 칼크운트키셀 바이스",
+  "en_name": "Claus Preisinger, Kalkundkiesel Wiess",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "클라우스 프라이진거 Claus Preisinger",
+  "main_grape": "그뤼너 벨트리너 (Gruner Veltliner) , 바이스부르군더 (Weissburgunder) , 뮈스카텔러 (Muskateller) , 벨쉬리슬링 (Welschriesling)",
+  "country": "오스트리아(Austria)",
+  "city": "쥐드부르겐란트(Sudburgenland)",
+  "aromas": [
+    "미네랄",
+    "레몬",
+    "복숭아",
+    "서양배"
+  ],
+  "pairings": [
+    "치즈",
+    "복숭아",
+    "샐러드"
+  ]
+}

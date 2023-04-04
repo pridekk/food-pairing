@@ -1,0 +1,32 @@
+{
+  "name": "도멘 두 몽 에팡, 비레 클레씨 브릴론드",
+  "en_name": "Domaine Du Mont Epin, AOC Vire-Clesse Breillonde",
+  "price_from_importer": "129,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "도멘 두 몽 에팡 Domaine Du Mont Epin",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "프랑스(France)",
+  "city": "마꼬네(Maconnais)",
+  "aromas": [
+    "서양배",
+    "자몽",
+    "브리오슈",
+    "모과",
+    "감귤",
+    "아몬드"
+  ],
+  "pairings": [
+    "오리고기",
+    "양꼬치",
+    "생선구이",
+    "참치",
+    "장어구이",
+    "후라이드",
+    "해산물",
+    "닭강정",
+    "치킨"
+  ]
+}

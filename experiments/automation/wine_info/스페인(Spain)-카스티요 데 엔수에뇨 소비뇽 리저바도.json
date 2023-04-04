@@ -1,0 +1,30 @@
+{
+  "name": "카스티요 데 엔수에뇨 소비뇽 리저바도",
+  "en_name": "Castillo de Ensueno Cabernet Sauvignon",
+  "price_from_importer": "73,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "보데가스 페르난도 카스트로 Bodegas Fernando Castro",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "스페인(Spain)",
+  "city": "스페인(Spain)",
+  "aromas": [
+    "블랙베리",
+    "블랙체리",
+    "블랙커런트",
+    "제비꽃",
+    "자두",
+    "바닐라"
+  ],
+  "pairings": [
+    "양념갈비",
+    "바비큐",
+    "양갈비",
+    "소고기",
+    "불고기",
+    "족발",
+    "스테이크"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "까흐나주, 메를로-가메",
+  "en_name": "Karnage, Merlot-Gamay",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "까흐나주 Karnage",
+  "main_grape": "메를로 (Merlot) , 가메이 (Gamay)",
+  "country": "프랑스(France)",
+  "city": "쥐라(Jura)",
+  "aromas": [
+    "미네랄",
+    "블랙베리",
+    "딸기",
+    "허브",
+    "라스베리",
+    "체리"
+  ],
+  "pairings": [
+    "닭고기",
+    "치즈",
+    "샐러드"
+  ]
+}

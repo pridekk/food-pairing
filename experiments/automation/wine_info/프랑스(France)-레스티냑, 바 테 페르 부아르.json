@@ -1,0 +1,24 @@
+{
+  "name": "레스티냑, 바 테 페르 부아르",
+  "en_name": "Lestignac, Va Te Faire Boire",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 3,
+  "winery": "레스티냑 Lestignac",
+  "main_grape": "메를로 (Merlot)",
+  "country": "프랑스(France)",
+  "city": "베르쥬악(Bergerac)",
+  "aromas": [
+    "블랙베리",
+    "라스베리",
+    "체리",
+    "피망",
+    "오크"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

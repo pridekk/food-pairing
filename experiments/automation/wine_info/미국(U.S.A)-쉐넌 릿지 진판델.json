@@ -1,0 +1,31 @@
+{
+  "name": "쉐넌 릿지 진판델",
+  "en_name": "Shannon Ridge Zinfandel",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 2,
+  "acidity": 2,
+  "body": 4,
+  "tannin": 2,
+  "winery": "섀넌 패밀리 오브 와인스 Shannon Family of Wines",
+  "main_grape": "진판델 (Zinfandel)",
+  "country": "미국(U.S.A)",
+  "city": "레이크 카운티(Lake County)",
+  "aromas": [
+    "말린자두",
+    "바닐라",
+    "말린과일",
+    "자두",
+    "블랙베리",
+    "감초",
+    "블랙커런트"
+  ],
+  "pairings": [
+    "갈비찜",
+    "스테이크",
+    "소고기",
+    "양꼬치",
+    "양갈비",
+    "양념갈비",
+    "건육"
+  ]
+}

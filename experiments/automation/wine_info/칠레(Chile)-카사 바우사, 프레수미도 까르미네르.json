@@ -1,0 +1,35 @@
+{
+  "name": "카사 바우사, 프레수미도 까르미네르",
+  "en_name": "Casa Bauza, Presumido Carmenere",
+  "price_from_importer": "122,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "카사 바우사 Casa Bauza",
+  "main_grape": "카르메네르 (Carmenere) , 까리냥 (Carignan/Carignane) , 카베르네 소비뇽 (Cabernet Sauvignon) , 시라/쉬라즈 (Syrah/Shiraz)",
+  "country": "칠레(Chile)",
+  "city": "마이포 밸리(Maipo Valley)",
+  "aromas": [
+    "라스베리",
+    "연기",
+    "제비꽃",
+    "딸기",
+    "후추",
+    "삼나무",
+    "감초",
+    "오크"
+  ],
+  "pairings": [
+    "찜닭",
+    "불고기",
+    "로스트비프",
+    "족발",
+    "스테이크",
+    "소고기",
+    "편육",
+    "훈제오리",
+    "바비큐",
+    "한국음식"
+  ]
+}

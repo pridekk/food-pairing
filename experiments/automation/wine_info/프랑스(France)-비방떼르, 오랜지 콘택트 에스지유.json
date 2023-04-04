@@ -1,0 +1,24 @@
+{
+  "name": "비방떼르, 오랜지 콘택트 에스지유",
+  "en_name": "Vivanterre, Orange Contact SGU",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "비방떼르 Vivanterre",
+  "main_grape": "실바너 (Silvaner) , 게뷔르츠트라미너 (Gewurztraminer) , 우니 블랑 (Ugni Blanc)",
+  "country": "프랑스(France)",
+  "city": "서던 프랑스(Southern France)",
+  "aromas": [
+    "열대과일",
+    "복숭아",
+    "살구"
+  ],
+  "pairings": [
+    "과일",
+    "치즈",
+    "복숭아",
+    "샐러드"
+  ]
+}

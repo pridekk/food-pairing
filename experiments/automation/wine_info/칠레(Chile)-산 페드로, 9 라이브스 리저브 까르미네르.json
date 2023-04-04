@@ -1,0 +1,32 @@
+{
+  "name": "산 페드로, 9 라이브스 리저브 까르미네르",
+  "en_name": "San Pedro, 9 Lives Reserve Carmenere",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "산 페드로 San Pedro",
+  "main_grape": "카르메네르 (Carmenere)",
+  "country": "칠레(Chile)",
+  "city": "센트럴 밸리(Central Valley)",
+  "aromas": [
+    "바닐라",
+    "오크",
+    "삼나무",
+    "블랙체리",
+    "블루베리",
+    "블랙베리",
+    "블랙커런트",
+    "정향",
+    "후추"
+  ],
+  "pairings": [
+    "소고기",
+    "양갈비",
+    "스테이크",
+    "바비큐",
+    "육포",
+    "그릴요리"
+  ]
+}

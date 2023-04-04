@@ -1,0 +1,32 @@
+{
+  "name": "트라피체, 테소로 카베르네 소비뇽",
+  "en_name": "Trapiche, Tesoro Cabernet Sauvignon",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "트라피체 Trapiche",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "아르헨티나(Argentina)",
+  "city": "우코 밸리(Uco Valley)",
+  "aromas": [
+    "블랙베리",
+    "블랙커런트",
+    "레드커런트",
+    "붉은꽃",
+    "정향",
+    "타바코",
+    "블랙체리",
+    "바닐라",
+    "오크"
+  ],
+  "pairings": [
+    "양갈비",
+    "불고기",
+    "족발",
+    "스테이크",
+    "소고기",
+    "바비큐"
+  ]
+}

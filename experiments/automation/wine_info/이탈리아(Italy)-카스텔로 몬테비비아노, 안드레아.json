@@ -1,0 +1,31 @@
+{
+  "name": "카스텔로 몬테비비아노, 안드레아",
+  "en_name": "Castello Montevibiano, L'Andrea",
+  "price_from_importer": "180,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "카스텔로 몬테비비아노 Castello Montevibiano",
+  "main_grape": "산지오베제 (Sangiovese) , 카베르네 소비뇽 (Cabernet Sauvignon) , 사그란티노 (Sagrantino)",
+  "country": "이탈리아(Italy)",
+  "city": "움브리아(Umbria)",
+  "aromas": [
+    "블랙베리",
+    "블랙커런트",
+    "정향",
+    "자두",
+    "블랙체리",
+    "감초"
+  ],
+  "pairings": [
+    "양갈비",
+    "불고기",
+    "로스트비프",
+    "족발",
+    "스테이크",
+    "소고기",
+    "건육",
+    "갈비찜"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "도멘 두 몽 에팡, 마콩-페로네 레뚜알",
+  "en_name": "Domaine Du Mont Epin, Macon-Peronne L'Etoile",
+  "price_from_importer": "111,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "도멘 두 몽 에팡 Domaine Du Mont Epin",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "프랑스(France)",
+  "city": "비레-클레쎄(Vire-Clesse)",
+  "aromas": [
+    "백합",
+    "레몬",
+    "미네랄",
+    "감귤"
+  ],
+  "pairings": [
+    "오리고기",
+    "수육",
+    "오일파스타",
+    "생선구이",
+    "장어구이",
+    "오리로스",
+    "물냉면",
+    "치킨"
+  ]
+}

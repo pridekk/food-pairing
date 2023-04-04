@@ -1,0 +1,28 @@
+{
+  "name": "피츠 퓨어, 프로세코",
+  "en_name": "Pete's Pure, Prosecco",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 2,
+  "acidity": 4,
+  "body": 1,
+  "tannin": 1,
+  "winery": "피츠 퓨어 와인 Pete's Pure Wine",
+  "main_grape": "글레라 (Glera)",
+  "country": "호주(Australia)",
+  "city": "머레이 달링(Murray Darling)",
+  "aromas": [
+    "아카시아",
+    "서양배",
+    "청사과",
+    "건초"
+  ],
+  "pairings": [
+    "프로슈토",
+    "아시아요리",
+    "동남아요리",
+    "비빔밥",
+    "닭강정",
+    "건육",
+    "볶음밥"
+  ]
+}

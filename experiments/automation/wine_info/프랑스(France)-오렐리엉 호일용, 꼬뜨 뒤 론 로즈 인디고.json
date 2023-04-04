@@ -1,0 +1,24 @@
+{
+  "name": "오렐리엉 호일용, 꼬뜨 뒤 론 로즈 인디고",
+  "en_name": "Aurelien Houillon, Cotes du Rhone Rouge Indigo",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "오렐리엉 호일용 Aurelien Houillon",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz) , 그르나슈 (Grenache)",
+  "country": "프랑스(France)",
+  "city": "꼬뜨 뒤 론(Côtes du Rhone)",
+  "aromas": [
+    "후추",
+    "블랙베리",
+    "오크",
+    "블랙체리",
+    "블루베리"
+  ],
+  "pairings": [
+    "양고기",
+    "돼지고기"
+  ]
+}

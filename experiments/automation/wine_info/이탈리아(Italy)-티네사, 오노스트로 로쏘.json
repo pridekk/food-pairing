@@ -1,0 +1,23 @@
+{
+  "name": "티네사, 오노스트로 로쏘",
+  "en_name": "Tinessa, Ognostro Rosso",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "티네사 Tinessa",
+  "main_grape": "알리아니코 (Aglianico)",
+  "country": "이탈리아(Italy)",
+  "city": "깜빠니아(Campania)",
+  "aromas": [
+    "블랙체리",
+    "블랙베리",
+    "라스베리",
+    "오크"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

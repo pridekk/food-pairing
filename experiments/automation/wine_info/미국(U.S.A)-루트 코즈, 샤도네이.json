@@ -1,0 +1,31 @@
+{
+  "name": "루트 코즈, 샤도네이",
+  "en_name": "Root Cause, Chardonnay",
+  "price_from_importer": "21,500원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "루트 코즈 와이너리 Root Cause Winery",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "미국(U.S.A)",
+  "city": "캘리포니아(California)",
+  "aromas": [
+    "서양배",
+    "헤이즐넛",
+    "열대과일",
+    "모과",
+    "멜론",
+    "토스트"
+  ],
+  "pairings": [
+    "양꼬치",
+    "꼬치구이",
+    "오리로스",
+    "건육",
+    "후라이드",
+    "베이컨",
+    "양념치킨",
+    "닭강정"
+  ]
+}

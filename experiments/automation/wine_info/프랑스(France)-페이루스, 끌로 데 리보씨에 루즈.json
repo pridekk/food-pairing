@@ -1,0 +1,24 @@
+{
+  "name": "페이루스, 끌로 데 리보씨에 루즈",
+  "en_name": "Peyrus, Clos des Reboussiers Rouge",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 2,
+  "winery": "페이루스 Peyrus",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz) , 그르나슈 (Grenache)",
+  "country": "프랑스(France)",
+  "city": "꼬또 뒤 랑그독(Côteaux du Languedoc)",
+  "aromas": [
+    "블랙체리",
+    "오크",
+    "블루베리",
+    "후추"
+  ],
+  "pairings": [
+    "소고기",
+    "양고기",
+    "닭고기"
+  ]
+}

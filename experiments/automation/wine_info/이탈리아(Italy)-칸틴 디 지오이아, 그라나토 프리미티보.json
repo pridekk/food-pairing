@@ -1,0 +1,34 @@
+{
+  "name": "칸틴 디 지오이아, 그라나토 프리미티보",
+  "en_name": "Cantine Di Gioia, Granato Primitivo",
+  "price_from_importer": "95,000원( 750ml )",
+  "sugar": 2,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "칸티네 디 지오이아 Cantine Di Gioia",
+  "main_grape": "프리미티보 (Primitivo)",
+  "country": "이탈리아(Italy)",
+  "city": "뿔리아(Puglia)",
+  "aromas": [
+    "시나몬",
+    "오크",
+    "말린자두",
+    "블루베리",
+    "감초",
+    "정향",
+    "건포도",
+    "바닐라",
+    "라스베리",
+    "체리"
+  ],
+  "pairings": [
+    "건육",
+    "양념갈비",
+    "갈비찜",
+    "양갈비",
+    "불고기",
+    "양꼬치",
+    "스테이크"
+  ]
+}

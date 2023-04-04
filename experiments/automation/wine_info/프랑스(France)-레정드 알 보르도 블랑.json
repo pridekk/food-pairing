@@ -1,0 +1,31 @@
+{
+  "name": "레정드 알 보르도 블랑",
+  "en_name": "Les Legendes R Bordeaux Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "도멘 바롱 드 로칠드 Barons de Rothschild [Domaines Barons de Rothschild]",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc) , 세미용 (Semillon)",
+  "country": "프랑스(France)",
+  "city": "엉트르-두-메르(Entre-Deux-Mers)",
+  "aromas": [
+    "열대과일",
+    "리치",
+    "미네랄",
+    "라임",
+    "구아바"
+  ],
+  "pairings": [
+    "오일파스타",
+    "해산물",
+    "만두",
+    "어묵",
+    "흰살생선",
+    "생선회",
+    "조개구이",
+    "문어숙회",
+    "물냉면"
+  ]
+}

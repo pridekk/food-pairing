@@ -1,0 +1,32 @@
+{
+  "name": "밥 카브랄 와인즈, 큐베 와일드플라워 드라이 리슬링 소노마 코스트",
+  "en_name": "Bob Cabral Wines, Cuvee Wildflower dry Riesling Sonoma Coast",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 2,
+  "winery": "밥 카브랄 와인즈 Bob Cabral Wines",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "미국(U.S.A)",
+  "city": "소노마 카운티(Sonoma County)",
+  "aromas": [
+    "백도",
+    "바닐라",
+    "오크",
+    "시트러스",
+    "삼나무",
+    "감귤",
+    "사과"
+  ],
+  "pairings": [
+    "편육",
+    "가금류",
+    "해산물",
+    "수육",
+    "훈제오리",
+    "오리로스",
+    "생선구이",
+    "장어구이"
+  ]
+}

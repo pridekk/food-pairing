@@ -1,0 +1,30 @@
+{
+  "name": "버나드 롱클라스, 블랑 드 블랑 브뤼",
+  "en_name": "Bernard Lonclas, Blanc de Blancs Brut",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 5,
+  "body": 3,
+  "tannin": 1,
+  "winery": "버나드 롱클라스 bernard lonclas",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "프랑스(France)",
+  "city": "몽따뉴 드 랭스(Montagne de Reims)",
+  "aromas": [
+    "복숭아",
+    "서양배",
+    "미네랄",
+    "레몬껍질",
+    "감귤",
+    "흰꽃"
+  ],
+  "pairings": [
+    "생선회",
+    "양꼬치",
+    "생선구이",
+    "장어구이",
+    "건육",
+    "초밥",
+    "돼지고기"
+  ]
+}

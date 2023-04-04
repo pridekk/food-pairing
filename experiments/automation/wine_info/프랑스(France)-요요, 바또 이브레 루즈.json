@@ -1,0 +1,25 @@
+{
+  "name": "요요, 바또 이브레 루즈",
+  "en_name": "Yoyo, Bateau ivre Rouge",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 5,
+  "tannin": 3,
+  "winery": "요요 Yoyo",
+  "main_grape": "그르나슈 (Grenache) , 시라/쉬라즈 (Syrah/Shiraz)",
+  "country": "프랑스(France)",
+  "city": "바뉠스(Banyuls)",
+  "aromas": [
+    "말린과일",
+    "후추",
+    "블랙베리",
+    "블랙체리",
+    "블루베리",
+    "라스베리"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

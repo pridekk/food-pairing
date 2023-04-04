@@ -1,0 +1,31 @@
+{
+  "name": "카사 바우사, 이사벨",
+  "en_name": "Casa Bauza, Isabel",
+  "price_from_importer": "288,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "카사 바우사 Casa Bauza",
+  "main_grape": "카르메네르 (Carmenere) , 카베르네 프랑 (Cabernet Franc)",
+  "country": "칠레(Chile)",
+  "city": "마이포 밸리(Maipo Valley)",
+  "aromas": [
+    "블랙베리",
+    "미네랄",
+    "블루베리",
+    "자두",
+    "후추",
+    "블랙체리"
+  ],
+  "pairings": [
+    "양갈비",
+    "로스트비프",
+    "스테이크",
+    "소고기",
+    "오겹살",
+    "건육",
+    "바비큐",
+    "삼겹살"
+  ]
+}

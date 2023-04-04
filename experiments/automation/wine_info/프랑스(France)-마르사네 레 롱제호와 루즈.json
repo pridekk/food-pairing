@@ -1,0 +1,31 @@
+{
+  "name": "마르사네 레 롱제호와 루즈",
+  "en_name": "Marsannay Les Longeroies Rouge",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 2,
+  "winery": "도멘 샤를로팽-티시에 Domaine Charlopin-Tissier",
+  "main_grape": "피노 누아 (Pinot Noir)",
+  "country": "프랑스(France)",
+  "city": "막사네(Marsannay)",
+  "aromas": [
+    "크랜베리",
+    "딸기",
+    "장미",
+    "감초",
+    "바닐라",
+    "라스베리",
+    "체리"
+  ],
+  "pairings": [
+    "닭고기",
+    "연어",
+    "바비큐",
+    "참치",
+    "로스트비프",
+    "베이컨",
+    "오리로스"
+  ]
+}

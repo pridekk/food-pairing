@@ -1,0 +1,32 @@
+{
+  "name": "카사 도노소, 석세서 블루",
+  "en_name": "Casa Donoso, Sucesor Blue",
+  "price_from_importer": "51,500원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 0,
+  "winery": "카사 도노소 와이너리 Casa Donoso Winery",
+  "main_grape": "까리냥 (Carignan/Carignane) , 카베르네 소비뇽 (Cabernet Sauvignon) , 카베르네 프랑 (Cabernet Franc)",
+  "country": "칠레(Chile)",
+  "city": "마울레 밸리(Maule Valley)",
+  "aromas": [
+    "라스베리",
+    "체리",
+    "허브",
+    "레드커런트",
+    "붉은꽃",
+    "딸기",
+    "후추",
+    "민트"
+  ],
+  "pairings": [
+    "찜닭",
+    "수육",
+    "로스트비프",
+    "족발",
+    "스테이크",
+    "소고기",
+    "바비큐"
+  ]
+}

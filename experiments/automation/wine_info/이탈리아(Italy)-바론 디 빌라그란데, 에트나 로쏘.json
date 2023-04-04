@@ -1,0 +1,33 @@
+{
+  "name": "바론 디 빌라그란데, 에트나 로쏘",
+  "en_name": "Baron di Villagrande, Etna Rosso",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "바론 디 빌라그란데 Baron di Villagrande",
+  "main_grape": "네렐로 마스칼레제 (Nerello Mascalese) , 네렐로 카푸치오 (Nerello Cappuccio)",
+  "country": "이탈리아(Italy)",
+  "city": "시칠리아(Sicilia)",
+  "aromas": [
+    "감초",
+    "바닐라",
+    "오크",
+    "삼나무",
+    "블랙체리",
+    "체리",
+    "자두",
+    "블랙커런트",
+    "시나몬"
+  ],
+  "pairings": [
+    "프로슈토",
+    "소고기",
+    "양갈비",
+    "스테이크",
+    "훈제오리",
+    "건육",
+    "그릴요리"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "도멘 벨루아드, 레 페흘르 두 몽 블랑",
+  "en_name": "Domaine Belluard, Les Perles du Mont Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "도멘 벨루아드 Domaine Belluard",
+  "main_grape": "그린겟 (Gringet)",
+  "country": "프랑스(France)",
+  "city": "사부아 뷔게이(Savoie-Bugey)",
+  "aromas": [
+    "시트러스",
+    "사과",
+    "복숭아",
+    "미네랄"
+  ],
+  "pairings": [
+    "과일",
+    "복숭아",
+    "샐러드"
+  ]
+}

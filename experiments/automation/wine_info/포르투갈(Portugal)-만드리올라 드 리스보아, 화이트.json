@@ -1,0 +1,29 @@
+{
+  "name": "만드리올라 드 리스보아, 화이트",
+  "en_name": "Mandriola de Lisboa, White",
+  "price_from_importer": "35,000원( 750ml )",
+  "sugar": 2,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "만드리올라 드 리스보아 Mandriola de Lisboa",
+  "main_grape": "페르나오 피레스 (Fernao Pires) , 모스카텔 (Moscatel)",
+  "country": "포르투갈(Portugal)",
+  "city": "리스본(Lisboa)",
+  "aromas": [
+    "리치",
+    "감귤",
+    "열대과일",
+    "패션프루트",
+    "망고",
+    "구아바"
+  ],
+  "pairings": [
+    "꼬치구이",
+    "닭고기",
+    "오리고기",
+    "조개구이",
+    "베이컨",
+    "생선구이"
+  ]
+}

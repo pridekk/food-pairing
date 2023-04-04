@@ -1,0 +1,30 @@
+{
+  "name": "도메인 바슬러, 리슬링 플린츠",
+  "en_name": "Domaine Wassler, Riesling Pflintz",
+  "price_from_importer": "68,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "도멘 바슬러 Domaine Wassler",
+  "main_grape": "리슬링 (Riesling)",
+  "country": "프랑스(France)",
+  "city": "알자스(Alsace)",
+  "aromas": [
+    "레몬",
+    "라임",
+    "자스민",
+    "청사과",
+    "석유",
+    "흰꽃"
+  ],
+  "pairings": [
+    "해산물",
+    "치킨",
+    "순대",
+    "삼겹살",
+    "떡볶이",
+    "양념치킨",
+    "돼지고기"
+  ]
+}

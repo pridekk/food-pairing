@@ -1,0 +1,25 @@
+{
+  "name": "마른 블랑슈, 제우스",
+  "en_name": "Marnes Blanches, Zeus",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "마른 블랑슈 Marnes Blanches",
+  "main_grape": "그르나슈 (Grenache)",
+  "country": "",
+  "city": "",
+  "aromas": [
+    "후추",
+    "오크",
+    "딸기",
+    "허브",
+    "라스베리",
+    "체리"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

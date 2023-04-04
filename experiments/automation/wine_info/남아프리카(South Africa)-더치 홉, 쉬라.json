@@ -1,0 +1,32 @@
+{
+  "name": "더치 홉, 쉬라",
+  "en_name": "Dutch Hope, Shiraz",
+  "price_from_importer": "24,500원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "더치 홉 와이너리 Dutch Hope Winery",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz) , 무르베드르 (Mourvedre)",
+  "country": "남아프리카(South Africa)",
+  "city": "남아프리카(South Africa)",
+  "aromas": [
+    "라스베리",
+    "크랜베리",
+    "체리",
+    "후추",
+    "블랙체리"
+  ],
+  "pairings": [
+    "햄버거",
+    "라자냐",
+    "양념갈비",
+    "리조토",
+    "족발",
+    "스테이크",
+    "갈비찜",
+    "피자",
+    "파스타",
+    "바비큐"
+  ]
+}

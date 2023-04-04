@@ -1,0 +1,31 @@
+{
+  "name": "카사 바우사, 발리엔테 까베르네 쇼비뇽",
+  "en_name": "Casa Bauza, Valiente Cabernet Sauvignon",
+  "price_from_importer": "122,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "카사 바우사 Casa Bauza",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "칠레(Chile)",
+  "city": "마이포 밸리(Maipo Valley)",
+  "aromas": [
+    "라스베리",
+    "체리",
+    "미네랄",
+    "월계수",
+    "후추",
+    "블랙체리",
+    "바닐라"
+  ],
+  "pairings": [
+    "양갈비",
+    "불고기",
+    "족발",
+    "스테이크",
+    "소고기",
+    "갈비찜",
+    "바비큐"
+  ]
+}

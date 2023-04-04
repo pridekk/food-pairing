@@ -1,0 +1,25 @@
+{
+  "name": "마타싸, 뱅 드 프랑스 루즈",
+  "en_name": "Matassa, VDF Rouge",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "마타싸 Matassa",
+  "main_grape": "까리냥 (Carignan/Carignane) , 그르나슈 (Grenache)",
+  "country": "프랑스(France)",
+  "city": "랑그독 루씨용(Languedoc Roussillon)",
+  "aromas": [
+    "말린과일",
+    "미네랄",
+    "오크",
+    "블랙체리",
+    "블랙커런트"
+  ],
+  "pairings": [
+    "소고기",
+    "양고기",
+    "돼지고기"
+  ]
+}

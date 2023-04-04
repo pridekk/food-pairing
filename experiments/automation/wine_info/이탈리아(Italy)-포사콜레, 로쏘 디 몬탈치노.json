@@ -1,0 +1,32 @@
+{
+  "name": "포사콜레, 로쏘 디 몬탈치노",
+  "en_name": "Fossacolle, Rosso Di Montalcino",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "포사콜레 Fossacolle",
+  "main_grape": "산지오베제 그로쏘 (Sangiovese Grosso)",
+  "country": "이탈리아(Italy)",
+  "city": "몬탈치노(Montalcino)",
+  "aromas": [
+    "민트",
+    "허브",
+    "오크",
+    "삼나무",
+    "블랙체리",
+    "블루베리",
+    "블랙베리",
+    "정향"
+  ],
+  "pairings": [
+    "프로슈토",
+    "불고기",
+    "소고기",
+    "스테이크",
+    "양꼬치",
+    "족발",
+    "로스트비프"
+  ]
+}

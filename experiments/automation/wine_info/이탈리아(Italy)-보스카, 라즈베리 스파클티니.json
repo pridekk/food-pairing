@@ -1,0 +1,28 @@
+{
+  "name": "보스카, 라즈베리 스파클티니",
+  "en_name": "Bosca, Raspberry Sparkletini",
+  "price_from_importer": "60,000원( 750ml )",
+  "sugar": 3,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "보스카 Bosca",
+  "main_grape": "모스카토 (Moscato ) , 기타 (etc)",
+  "country": "이탈리아(Italy)",
+  "city": "아스티(Asti)",
+  "aromas": [
+    "열대과일",
+    "라스베리",
+    "살구",
+    "체리",
+    "딸기",
+    "말린살구",
+    "크랜베리"
+  ],
+  "pairings": [
+    "바비큐",
+    "닭강정",
+    "건육",
+    "연어"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "토마스 슈미트, 프라이빗 컬렉션 카비넷",
+  "en_name": "Thomas Schmitt, Private Collection Kabinett",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "토마스 슈미트 Thomas Schmitt",
+  "main_grape": "리슬링 (Riesling)",
+  "country": "독일(Germany)",
+  "city": "모젤-자르-루버(Mosel-Saar-Ruwer)",
+  "aromas": [
+    "서양배",
+    "시트러스",
+    "레몬",
+    "자몽",
+    "허브",
+    "사과"
+  ],
+  "pairings": [
+    "양꼬치",
+    "꼬치구이",
+    "돼지",
+    "건육",
+    "후라이드",
+    "베이컨",
+    "양념치킨"
+  ]
+}

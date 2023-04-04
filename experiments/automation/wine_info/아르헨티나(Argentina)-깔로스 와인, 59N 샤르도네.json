@@ -1,0 +1,33 @@
+{
+  "name": "깔로스 와인, 59N 샤르도네",
+  "en_name": "Kalos WIne, 59N Chardonnay",
+  "price_from_importer": "53,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "깔로스 와인 Kalos WIne",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "아르헨티나(Argentina)",
+  "city": "우코 밸리(Uco Valley)",
+  "aromas": [
+    "복숭아",
+    "시트러스",
+    "코코아",
+    "사과",
+    "파인애플"
+  ],
+  "pairings": [
+    "수육",
+    "한식",
+    "비빔밥",
+    "소시지",
+    "오리로스",
+    "건육",
+    "후라이드",
+    "훈제오리",
+    "닭강정",
+    "만두",
+    "양념치킨"
+  ]
+}

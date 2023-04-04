@@ -1,0 +1,29 @@
+{
+  "name": "라파우라 스프링스, 라임스톤 테라스 빈야드 피노 누아",
+  "en_name": "Rapaura Springs, Limestone Terrace Vineyard Pinot Noir",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 2,
+  "winery": "라파우라 스프링스 Rapaura Springs",
+  "main_grape": "피노 누아 (Pinot Noir)",
+  "country": "뉴질랜드(New Zealand)",
+  "city": "말보로(Marlborough)",
+  "aromas": [
+    "라스베리",
+    "바닐라",
+    "자스민",
+    "레드커런트",
+    "체리",
+    "자두"
+  ],
+  "pairings": [
+    "오리로스",
+    "장어구이",
+    "훈제오리",
+    "바비큐",
+    "생선찜",
+    "로스트비프"
+  ]
+}

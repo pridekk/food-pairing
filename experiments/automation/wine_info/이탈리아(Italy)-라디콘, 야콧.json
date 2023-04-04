@@ -1,0 +1,23 @@
+{
+  "name": "라디콘, 야콧",
+  "en_name": "Radikon, Jakot",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "라디콘 Radikon",
+  "main_grape": "토카이 프리울라노 (Tocai Friulano)",
+  "country": "이탈리아(Italy)",
+  "city": "프리울리 베네찌아 줄리아(Friuli Venezia Giulia)",
+  "aromas": [
+    "시트러스",
+    "말린과일",
+    "미네랄"
+  ],
+  "pairings": [
+    "전채요리",
+    "해산물",
+    "샐러드"
+  ]
+}

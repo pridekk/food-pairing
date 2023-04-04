@@ -1,0 +1,24 @@
+{
+  "name": "라 메종 로마네, 오뜨 꼬뜨 드 뉘 블랑",
+  "en_name": "La Maison Romane, Hautes Cotes de Nuits Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "라 메종 로마네 La Maison Romane",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "프랑스(France)",
+  "city": "부르고뉴 오뜨 꼬뜨 드 뉘(Bourgogne Hautes Côtes de Nuits)",
+  "aromas": [
+    "청사과",
+    "시트러스",
+    "복숭아",
+    "오크"
+  ],
+  "pairings": [
+    "복숭아",
+    "샐러드",
+    "튀김"
+  ]
+}

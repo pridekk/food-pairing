@@ -1,0 +1,24 @@
+{
+  "name": "쵸타, 테라 로사",
+  "en_name": "Cotar, Terra Rossa",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "쵸타 Cotar",
+  "main_grape": "테란 (Teran) , 메를로 (Merlot) , 카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "슬로베니아(Slovenia)",
+  "city": "Kras(Kras)",
+  "aromas": [
+    "후추",
+    "블랙베리",
+    "오크",
+    "블랙체리",
+    "블랙커런트"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

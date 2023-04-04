@@ -1,0 +1,30 @@
+{
+  "name": "비냐 산타크루즈, 투푸",
+  "en_name": "Vina Santa Cruz, Tupu",
+  "price_from_importer": "156,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "비냐 산타크루즈 Viña Santa Cruz",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) , 쁘띠 베르도 (Petit Verdot) , 말벡 (Malbec) , 시라/쉬라즈 (Syrah/Shiraz)",
+  "country": "칠레(Chile)",
+  "city": "콜차구아 밸리(Cholchagua Valley)",
+  "aromas": [
+    "블랙베리",
+    "타르",
+    "헤이즐넛",
+    "초콜릿",
+    "코코아",
+    "자두",
+    "타바코"
+  ],
+  "pairings": [
+    "양갈비",
+    "불고기",
+    "족발",
+    "스테이크",
+    "소고기",
+    "바비큐"
+  ]
+}

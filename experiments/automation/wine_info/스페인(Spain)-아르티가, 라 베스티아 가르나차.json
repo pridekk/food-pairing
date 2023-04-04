@@ -1,0 +1,33 @@
+{
+  "name": "아르티가, 라 베스티아 가르나차",
+  "en_name": "Artiga, La Bestia Garnacha",
+  "price_from_importer": "110,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "아르티가 Artiga",
+  "main_grape": "가르나차 (Garnacha)",
+  "country": "스페인(Spain)",
+  "city": "캄포 데 보르하(Campo de Borja)",
+  "aromas": [
+    "블랙베리",
+    "허브",
+    "블랙체리",
+    "블루베리",
+    "감초",
+    "정향",
+    "자두",
+    "바닐라"
+  ],
+  "pairings": [
+    "한식",
+    "소고기",
+    "불고기",
+    "족발",
+    "양꼬치",
+    "피자",
+    "스테이크",
+    "햄버거"
+  ]
+}

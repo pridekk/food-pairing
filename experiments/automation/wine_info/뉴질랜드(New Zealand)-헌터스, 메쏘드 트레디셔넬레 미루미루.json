@@ -1,0 +1,32 @@
+{
+  "name": "헌터스, 메쏘드 트레디셔넬레 미루미루",
+  "en_name": "Hunter's, Méthode Traditionelle MiruMiru",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "헌터스 와이너리 Hunter's WInery",
+  "main_grape": "샤르도네 (Chardonnay) , 피노 누아 (Pinot Noir) , 피노 뮈니에 (Pinot Meunier)",
+  "country": "뉴질랜드(New Zealand)",
+  "city": "말보로(Marlborough)",
+  "aromas": [
+    "브리오슈",
+    "모과",
+    "페이스트리",
+    "시트러스",
+    "복숭아"
+  ],
+  "pairings": [
+    "나물",
+    "오일파스타",
+    "해산물",
+    "피자",
+    "초밥",
+    "편육",
+    "흰살생선",
+    "생선회",
+    "생굴",
+    "문어숙회"
+  ]
+}

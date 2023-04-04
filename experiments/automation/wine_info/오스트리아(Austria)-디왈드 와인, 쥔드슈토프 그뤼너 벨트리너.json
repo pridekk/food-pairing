@@ -1,0 +1,33 @@
+{
+  "name": "디왈드 와인, 쥔드슈토프 그뤼너 벨트리너",
+  "en_name": "Diwald Wine, Zundstoff Gruner Veltliner Maischegarung",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "디왈드 와인 Diwald Wine",
+  "main_grape": "그뤼너 벨트리너 (Gruner Veltliner)",
+  "country": "오스트리아(Austria)",
+  "city": "바그람(Wagram)",
+  "aromas": [
+    "시나몬",
+    "생강",
+    "자몽",
+    "아몬드",
+    "오렌지",
+    "시트러스",
+    "후추"
+  ],
+  "pairings": [
+    "오일파스타",
+    "베이컨",
+    "연어",
+    "참치",
+    "돼지고기",
+    "삼겹살",
+    "양념치킨",
+    "닭강정",
+    "꼬치구이"
+  ]
+}

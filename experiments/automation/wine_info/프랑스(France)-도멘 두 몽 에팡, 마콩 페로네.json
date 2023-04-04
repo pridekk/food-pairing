@@ -1,0 +1,31 @@
+{
+  "name": "도멘 두 몽 에팡, 마콩 페로네",
+  "en_name": "Domaine Du Mont Epin, Macon-Peronne",
+  "price_from_importer": "93,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "도멘 두 몽 에팡 Domaine Du Mont Epin",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "프랑스(France)",
+  "city": "비레-클레쎄(Vire-Clesse)",
+  "aromas": [
+    "복숭아",
+    "미네랄",
+    "시트러스",
+    "레몬",
+    "자몽"
+  ],
+  "pairings": [
+    "생선회",
+    "닭고기",
+    "수육",
+    "비빔밥",
+    "생선구이",
+    "참치",
+    "오리로스",
+    "해산물",
+    "치킨"
+  ]
+}

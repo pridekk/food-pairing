@@ -1,0 +1,31 @@
+{
+  "name": "안델루나, 라데라 레드 블렌드",
+  "en_name": "Andeluna, Ladera Red Blend",
+  "price_from_importer": "69,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "안델루나 Andeluna [Bodega Andeluna]",
+  "main_grape": "말벡 (Malbec) , 카베르네 소비뇽 (Cabernet Sauvignon) , 메를로 (Merlot)",
+  "country": "아르헨티나(Argentina)",
+  "city": "우코 밸리(Uco Valley)",
+  "aromas": [
+    "블랙베리",
+    "블랙커런트",
+    "육두구",
+    "블루베리",
+    "후추",
+    "블랙체리",
+    "바닐라"
+  ],
+  "pairings": [
+    "양갈비",
+    "양념갈비",
+    "스테이크",
+    "소고기",
+    "건육",
+    "갈비찜",
+    "양고기"
+  ]
+}

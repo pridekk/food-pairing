@@ -1,0 +1,29 @@
+{
+  "name": "섀넌 패밀리, 하이 밸리 빈야드 소비뇽 블랑",
+  "en_name": "Shannon Family, High Valley Vinyard Sauvignon Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 1,
+  "tannin": 1,
+  "winery": "섀넌 패밀리 오브 와인스 Shannon Family of Wines",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc)",
+  "country": "미국(U.S.A)",
+  "city": "하이 밸리(High Valley)",
+  "aromas": [
+    "살구",
+    "자몽"
+  ],
+  "pairings": [
+    "생선회",
+    "스시",
+    "하몽",
+    "생선 까르파치오",
+    "초밥",
+    "새우",
+    "베이컨",
+    "문어숙회",
+    "해산물",
+    "살라미"
+  ]
+}

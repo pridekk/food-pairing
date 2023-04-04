@@ -1,0 +1,32 @@
+{
+  "name": "비센테 간디아, 세라믹 모나스트렐",
+  "en_name": "Vicente Gandia, Ceramic Monastrell",
+  "price_from_importer": "28,500원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "비센테 간디아 Vicente Gandia",
+  "main_grape": "모나스트렐 (Monastrell)",
+  "country": "스페인(Spain)",
+  "city": "발렌시아(Valencia)",
+  "aromas": [
+    "블랙베리",
+    "블랙커런트",
+    "블루베리",
+    "자두",
+    "후추",
+    "바닐라",
+    "감초"
+  ],
+  "pairings": [
+    "햄버거",
+    "양꼬치",
+    "양갈비",
+    "양념갈비",
+    "스테이크",
+    "갈비찜",
+    "피자",
+    "그릴요리"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "라디콘, 메를로",
+  "en_name": "Radikon, Merlot",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 2,
+  "winery": "라디콘 Radikon",
+  "main_grape": "메를로 (Merlot)",
+  "country": "이탈리아(Italy)",
+  "city": "프리울리 베네찌아 줄리아(Friuli Venezia Giulia)",
+  "aromas": [
+    "레드커런트",
+    "말린과일",
+    "미네랄",
+    "라스베리",
+    "체리"
+  ],
+  "pairings": [
+    "소고기",
+    "닭고기",
+    "돼지고기"
+  ]
+}

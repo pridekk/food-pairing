@@ -1,0 +1,31 @@
+{
+  "name": "트라피체, 테소로 샤르도네",
+  "en_name": "Trapiche, Tesoro Chardonnay",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "트라피체 Trapiche",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "아르헨티나(Argentina)",
+  "city": "우코 밸리(Uco Valley)",
+  "aromas": [
+    "서양배",
+    "레몬",
+    "카라멜",
+    "망고",
+    "사과",
+    "리치",
+    "버터",
+    "오크"
+  ],
+  "pairings": [
+    "양꼬치",
+    "오리로스",
+    "꼬치구이",
+    "베이컨",
+    "생선찜",
+    "닭강정"
+  ]
+}

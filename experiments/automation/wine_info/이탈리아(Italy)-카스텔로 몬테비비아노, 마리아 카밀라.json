@@ -1,0 +1,30 @@
+{
+  "name": "카스텔로 몬테비비아노, 마리아 카밀라",
+  "en_name": "Castello Montevibiano, Maria Camilla",
+  "price_from_importer": "90,000원( 750ml )",
+  "sugar": 2,
+  "acidity": 2,
+  "body": 3,
+  "tannin": 1,
+  "winery": "카스텔로 몬테비비아노 Castello Montevibiano",
+  "main_grape": "그레케토 비앙코 (Grechetto Bianco) , 트레비아노 (Trebbiano) , 소비뇽 블랑 (Sauvignon Blanc) , 비오니에 (Viognier)",
+  "country": "이탈리아(Italy)",
+  "city": "움브리아(Umbria)",
+  "aromas": [
+    "라임",
+    "열대과일",
+    "리치",
+    "구아바",
+    "감귤",
+    "흰꽃"
+  ],
+  "pairings": [
+    "생선회",
+    "초밥",
+    "후라이드",
+    "해산물",
+    "베이컨",
+    "치킨",
+    "닭강정"
+  ]
+}

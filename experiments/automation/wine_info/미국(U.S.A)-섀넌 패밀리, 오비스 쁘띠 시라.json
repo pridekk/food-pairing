@@ -1,0 +1,32 @@
+{
+  "name": "섀넌 패밀리, 오비스 쁘띠 시라",
+  "en_name": "Shannon Family, Ovis Petite Sirah",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "섀넌 패밀리 오브 와인스 Shannon Family of Wines",
+  "main_grape": "쁘띠 시라 (Petite Sirah)",
+  "country": "미국(U.S.A)",
+  "city": "하이 밸리(High Valley)",
+  "aromas": [
+    "말린자두",
+    "블루베리",
+    "자두",
+    "블랙베리",
+    "감초"
+  ],
+  "pairings": [
+    "육포",
+    "갈비찜",
+    "스테이크",
+    "양념갈비",
+    "소고기",
+    "양갈비",
+    "족발",
+    "살라미",
+    "건육",
+    "그릴요리"
+  ]
+}

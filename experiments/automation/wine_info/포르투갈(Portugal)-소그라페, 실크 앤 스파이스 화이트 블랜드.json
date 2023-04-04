@@ -1,0 +1,26 @@
+{
+  "name": "소그라페, 실크 앤 스파이스 화이트 블랜드",
+  "en_name": "Sogrape, Silk & Spice White Blend",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 1,
+  "tannin": 1,
+  "winery": "소그라페 Sogrape",
+  "main_grape": "비칼 (Bical) , 아린토 (Arinto) , 알바리뇨 (Albarino(Alvarinho))",
+  "country": "포르투갈(Portugal)",
+  "city": "포르투갈(Portugal)",
+  "aromas": [
+    "자몽",
+    "멜론",
+    "흰꽃",
+    "복숭아"
+  ],
+  "pairings": [
+    "꼬치구이",
+    "해산물",
+    "아시아요리",
+    "동남아요리",
+    "생선회"
+  ]
+}

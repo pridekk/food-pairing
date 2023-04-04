@@ -1,0 +1,19 @@
+{
+  "name": "듀웨이 스테이션, 스프링 타이드 리슬링",
+  "en_name": "Dewey Station Wines, Spring Tide Riesling",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 1,
+  "tannin": 1,
+  "winery": "듀웨이 스테이션 Dewey Station Wines",
+  "main_grape": "리슬링 (Riesling)",
+  "country": "호주(Australia)",
+  "city": "에덴 밸리(Eden Valley)",
+  "aromas": [
+    "백도",
+    "석유",
+    "시트러스"
+  ],
+  "pairings": []
+}

@@ -1,0 +1,32 @@
+{
+  "name": "샤또 쌩 로쉐, 코바롤 블랑",
+  "en_name": "Chateau Saint-Roch, Corbarol Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 2,
+  "body": 3,
+  "tannin": 1,
+  "winery": "샤또 쌩 로쉐 Chateau Saint-Roch",
+  "main_grape": "그르나슈 블랑 (Grenache Blanc) , 루산느 (Roussanne)",
+  "country": "프랑스(France)",
+  "city": "꼬뜨 드 루씨용(Côtes de Roussillon)",
+  "aromas": [
+    "서양배",
+    "미네랄",
+    "라임",
+    "아카시아",
+    "살구",
+    "흰꽃",
+    "복숭아"
+  ],
+  "pairings": [
+    "프로슈토",
+    "건육",
+    "참치",
+    "연어",
+    "소시지",
+    "베이컨",
+    "오리로스",
+    "치킨"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "소그라페, 실크 앤 스파이스 실크 루트",
+  "en_name": "Sogrape, Silk & Spice Silk Route",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 3,
+  "winery": "소그라페 Sogrape",
+  "main_grape": "틴타 로리즈 (Tinta Roriz) , 바가 (Baga) , 메를로 (Merlot)",
+  "country": "",
+  "city": "",
+  "aromas": [
+    "바닐라",
+    "블랙체리",
+    "초콜릿",
+    "블루베리",
+    "삼나무",
+    "자두",
+    "구즈베리"
+  ],
+  "pairings": [
+    "바비큐",
+    "양갈비",
+    "소고기",
+    "그릴요리",
+    "불고기",
+    "육포",
+    "스테이크",
+    "순대"
+  ]
+}

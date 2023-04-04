@@ -1,0 +1,25 @@
+{
+  "name": "밀란 네스타렉, 덴져 380 볼트",
+  "en_name": "Milan Nestarec, Danger 380 Volts",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "밀란 네스타렉 Milan Nestarec",
+  "main_grape": "뮈스까 (Muscat) , 뮐러 트루가우 (Muller Thurgau) , 노이부르거 (Neuburger)",
+  "country": "체코(Czech)",
+  "city": "체코(Czech)",
+  "aromas": [
+    "청사과",
+    "시트러스",
+    "허브",
+    "복숭아"
+  ],
+  "pairings": [
+    "샐러드",
+    "과일",
+    "치즈",
+    "복숭아"
+  ]
+}

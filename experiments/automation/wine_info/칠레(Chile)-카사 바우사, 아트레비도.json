@@ -1,0 +1,34 @@
+{
+  "name": "카사 바우사, 아트레비도",
+  "en_name": "Casa Bauza, Atrevido",
+  "price_from_importer": "150,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "카사 바우사 Casa Bauza",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) , 쁘띠 베르도 (Petit Verdot) , 시라/쉬라즈 (Syrah/Shiraz) , 카르메네르 (Carmenere) , 까리냥 (Carignan/Carignane) , 카베르네 프랑 (Cabernet Franc)",
+  "country": "칠레(Chile)",
+  "city": "마이포 밸리(Maipo Valley)",
+  "aromas": [
+    "라스베리",
+    "블랙베리",
+    "블루베리",
+    "정향",
+    "타바코",
+    "후추",
+    "흑연",
+    "블랙체리",
+    "삼나무",
+    "오크"
+  ],
+  "pairings": [
+    "양갈비",
+    "불고기",
+    "족발",
+    "스테이크",
+    "소고기",
+    "갈비찜",
+    "바비큐"
+  ]
+}

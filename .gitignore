@@ -1,3 +1,16 @@
 /experiments/object_detection/runs/
 /experiments/object_detection/images/
 *.pt
+/.idea/.gitignore
+/.idea/aws.xml
+/.idea/encodings.xml
+/.idea/food-pairing.iml
+/main.py
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/other.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
+/experiments/object_detection/result/
+*.cache

@@ -1,0 +1,32 @@
+{
+  "name": "포사콜레, 브루넬로 디 몬탈치노",
+  "en_name": "Fossacolle, Brunello Di Montalcino",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "포사콜레 Fossacolle",
+  "main_grape": "산지오베제 그로쏘 (Sangiovese Grosso)",
+  "country": "이탈리아(Italy)",
+  "city": "몬탈치노(Montalcino)",
+  "aromas": [
+    "라스베리",
+    "허브",
+    "바닐라",
+    "블랙체리",
+    "블루베리",
+    "블랙베리",
+    "자두"
+  ],
+  "pairings": [
+    "소고기",
+    "양갈비",
+    "스테이크",
+    "바비큐",
+    "양꼬치",
+    "건육",
+    "그릴요리",
+    "로스트비프"
+  ]
+}

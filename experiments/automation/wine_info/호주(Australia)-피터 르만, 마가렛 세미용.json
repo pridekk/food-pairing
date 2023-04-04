@@ -1,0 +1,27 @@
+{
+  "name": "피터 르만, 마가렛 세미용",
+  "en_name": "Peter Lehmann, Margaret Semillon",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "피터 르만 Peter Lehmann",
+  "main_grape": "세미용 (Semillon)",
+  "country": "호주(Australia)",
+  "city": "바로사 밸리(Barossa Valley)",
+  "aromas": [
+    "복숭아",
+    "허브",
+    "레몬",
+    "레몬껍질",
+    "감귤"
+  ],
+  "pairings": [
+    "오리고기",
+    "양갈비",
+    "건육",
+    "삼겹살",
+    "돼지고기"
+  ]
+}

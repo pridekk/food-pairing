@@ -1,0 +1,25 @@
+{
+  "name": "소마, 이퀼리브리오 샤도네이",
+  "en_name": "Soumah, Equilibrio Chardonnay",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "소마 Soumah",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "호주(Australia)",
+  "city": "야라 밸리(Yarra Valley)",
+  "aromas": [
+    "토스트",
+    "레몬",
+    "바닐라",
+    "흰꽃"
+  ],
+  "pairings": [
+    "샐러드",
+    "아시아요리",
+    "해산물",
+    "서양요리"
+  ]
+}

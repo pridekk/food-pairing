@@ -1,0 +1,30 @@
+{
+  "name": "이탈리안 플라스틱, 슈퍼 글루",
+  "en_name": "Italian Plastic, Super Glou",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 0,
+  "winery": "이탈리안 플라스틱 Italian Plastic",
+  "main_grape": "말벡 (Malbec) , 피노 뮈니에 (Pinot Meunier)",
+  "country": "호주(Australia)",
+  "city": "바로사 밸리(Barossa Valley)",
+  "aromas": [
+    "크랜베리",
+    "젖은자갈",
+    "블루베리",
+    "자두",
+    "체리"
+  ],
+  "pairings": [
+    "꼬치구이",
+    "소고기",
+    "그릴요리",
+    "족발",
+    "불고기",
+    "양꼬치",
+    "수육",
+    "스테이크"
+  ]
+}

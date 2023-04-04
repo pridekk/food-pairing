@@ -1,0 +1,25 @@
+{
+  "name": "파울스, 팜 투 테이블 산지오베제",
+  "en_name": "Fowles, Farm to Table Sangiovese",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "포울스 Fowles",
+  "main_grape": "산지오베제 (Sangiovese)",
+  "country": "호주(Australia)",
+  "city": "빅토리아(Victoria)",
+  "aromas": [
+    "라스베리",
+    "딸기",
+    "정향",
+    "오크"
+  ],
+  "pairings": [
+    "피자",
+    "스테이크",
+    "파스타",
+    "삼겹살"
+  ]
+}

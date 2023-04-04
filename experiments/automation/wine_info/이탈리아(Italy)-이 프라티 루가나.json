@@ -1,0 +1,29 @@
+{
+  "name": "이 프라티 루가나",
+  "en_name": "I Frati Lugana",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "까데이 프라티 Ca'dei Frati",
+  "main_grape": "Lugana DOC(DOP)",
+  "country": "이탈리아(Italy)",
+  "city": "롬바르디아(Lombardia)",
+  "aromas": [
+    "라임",
+    "리치",
+    "살구",
+    "흰꽃",
+    "레몬"
+  ],
+  "pairings": [
+    "연어",
+    "참치",
+    "해산물",
+    "파르미지아노",
+    "치즈",
+    "그라노파다노",
+    "파스타"
+  ]
+}

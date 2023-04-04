@@ -1,0 +1,29 @@
+{
+  "name": "레정드 알 보르도 루즈",
+  "en_name": "Les Legendes R Bordeaux Rouge",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "도멘 바롱 드 로칠드 Barons de Rothschild [Domaines Barons de Rothschild]",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) , 메를로 (Merlot)",
+  "country": "프랑스(France)",
+  "city": "엉트르-두-메르(Entre-Deux-Mers)",
+  "aromas": [
+    "육두구",
+    "오크",
+    "모카",
+    "타바코",
+    "블랙베리",
+    "블랙커런트",
+    "정향"
+  ],
+  "pairings": [
+    "불고기",
+    "양갈비",
+    "스테이크",
+    "육포",
+    "붉은육류"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "마리아 엔 셉 무스터, 그라프 츠바이겔트",
+  "en_name": "Maria and Sepp Muster, Graf Zweigelt",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "마리아 엔 셉 무스터 Maria and Sepp Muster",
+  "main_grape": "츠바이겔트 (Zweigelt)",
+  "country": "오스트리아(Austria)",
+  "city": "부르겐란트(Burgenland)",
+  "aromas": [
+    "레드커런트",
+    "오크",
+    "허브",
+    "라스베리",
+    "체리"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

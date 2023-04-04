@@ -1,0 +1,29 @@
+{
+  "name": "보스카, 루이지 보스카 피에몬테 샤르도네",
+  "en_name": "Bosca, Luigi Bosca Piemonte Chardonnay",
+  "price_from_importer": "70,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "보스카 Bosca",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "이탈리아(Italy)",
+  "city": "피에몬테(Piemonte)",
+  "aromas": [
+    "분필",
+    "서양배",
+    "사과",
+    "미네랄",
+    "모과",
+    "젖은자갈",
+    "복숭아"
+  ],
+  "pairings": [
+    "오리로스",
+    "장어구이",
+    "오일파스타",
+    "해산물",
+    "치킨"
+  ]
+}

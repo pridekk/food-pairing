@@ -1,0 +1,24 @@
+{
+  "name": "존 듀발, 플렉서스 엠알브이",
+  "en_name": "John Duval, Plexus MRV",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "존 듀발 와인스 John Duval Wines",
+  "main_grape": "마르산느 (Marsanne) , 루산느 (Roussanne) , 비오니에 (Viognier)",
+  "country": "호주(Australia)",
+  "city": "바로사 밸리(Barossa Valley)",
+  "aromas": [
+    "열대과일",
+    "미네랄",
+    "복숭아"
+  ],
+  "pairings": [
+    "돼지고기",
+    "아시아요리",
+    "닭고기",
+    "해산물"
+  ]
+}

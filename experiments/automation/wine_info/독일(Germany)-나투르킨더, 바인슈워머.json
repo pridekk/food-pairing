@@ -1,0 +1,24 @@
+{
+  "name": "나투르킨더, 바인슈워머",
+  "en_name": "Naturkinder, Weinschwarmer",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 5,
+  "body": 2,
+  "tannin": 1,
+  "winery": "나투르킨더 Naturkinder",
+  "main_grape": "그라우부르군더 (Grauburgunder) , 리슬링 (Riesling)",
+  "country": "독일(Germany)",
+  "city": "프랑켄(Franken)",
+  "aromas": [
+    "시트러스",
+    "사과",
+    "복숭아",
+    "미네랄"
+  ],
+  "pairings": [
+    "과일",
+    "복숭아",
+    "샐러드"
+  ]
+}

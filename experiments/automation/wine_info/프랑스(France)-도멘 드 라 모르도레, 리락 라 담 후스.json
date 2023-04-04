@@ -1,0 +1,34 @@
+{
+  "name": "도멘 드 라 모르도레, 리락 라 담 후스",
+  "en_name": "Domaine de la Mordorée, Lirac La Dame Rousse",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "도멘 드 라 모르도레 Domaine de la Mordoree",
+  "main_grape": "그르나슈 (Grenache) , 시라/쉬라즈 (Syrah/Shiraz)",
+  "country": "프랑스(France)",
+  "city": "리락(Lirac)",
+  "aromas": [
+    "딸기",
+    "제비꽃",
+    "자두",
+    "라스베리",
+    "체리"
+  ],
+  "pairings": [
+    "양념갈비",
+    "스튜",
+    "양고기",
+    "갈비찜",
+    "양갈비",
+    "소고기",
+    "그릴요리",
+    "불고기",
+    "리조또",
+    "라자냐",
+    "스테이크",
+    "크림파스타"
+  ]
+}

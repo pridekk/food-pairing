@@ -1,0 +1,30 @@
+{
+  "name": "트라피체, 테소로 말벡",
+  "en_name": "Trapiche, Tesoro Malbec",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "트라피체 Trapiche",
+  "main_grape": "말벡 (Malbec)",
+  "country": "아르헨티나(Argentina)",
+  "city": "우코 밸리(Uco Valley)",
+  "aromas": [
+    "블랙베리",
+    "자두",
+    "후추",
+    "시나몬",
+    "블랙체리",
+    "바닐라"
+  ],
+  "pairings": [
+    "햄버거",
+    "양갈비",
+    "양념갈비",
+    "스테이크",
+    "소고기",
+    "갈비찜",
+    "피자"
+  ]
+}

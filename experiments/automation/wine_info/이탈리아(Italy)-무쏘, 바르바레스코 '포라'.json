@@ -1,0 +1,32 @@
+{
+  "name": "무쏘, 바르바레스코 '포라'",
+  "en_name": "Musso, Barbaresco 'Pora'",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 3,
+  "winery": "아지엔다 아그리꼴라 무쏘 Azienda Agricola Musso",
+  "main_grape": "네비올로 (Nebbiolo)",
+  "country": "이탈리아(Italy)",
+  "city": "바르바레스코(Barbaresco)",
+  "aromas": [
+    "라스베리",
+    "삼나무",
+    "체리",
+    "레드커런트",
+    "장미",
+    "시나몬",
+    "블랙체리",
+    "바닐라",
+    "오크"
+  ],
+  "pairings": [
+    "양갈비",
+    "양념갈비",
+    "스튜",
+    "스테이크",
+    "건육",
+    "갈비찜"
+  ]
+}

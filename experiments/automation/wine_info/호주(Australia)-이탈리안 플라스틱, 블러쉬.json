@@ -1,0 +1,28 @@
+{
+  "name": "이탈리안 플라스틱, 블러쉬",
+  "en_name": "Italian Plastic, BLUSH",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 1,
+  "tannin": 1,
+  "winery": "이탈리안 플라스틱 Italian Plastic",
+  "main_grape": "피노 그리 (Pinot Gris)",
+  "country": "호주(Australia)",
+  "city": "애들레이드 힐즈(Adelaide Hills)",
+  "aromas": [
+    "후추",
+    "미네랄",
+    "복숭아",
+    "사과",
+    "레몬"
+  ],
+  "pairings": [
+    "해산물",
+    "어묵",
+    "나물",
+    "생선구이",
+    "오일파스타",
+    "순대"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "제롬 소리니, 감마 지티 루즈",
+  "en_name": "Jerome Saurigny, Gamma GT Rouge",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 2,
+  "winery": "제롬 소리니 Jerome Saurigny",
+  "main_grape": "가메이 (Gamay)",
+  "country": "프랑스(France)",
+  "city": "루아르(Loire)",
+  "aromas": [
+    "미네랄",
+    "딸기",
+    "바닐라",
+    "라스베리",
+    "체리"
+  ],
+  "pairings": [
+    "닭고기",
+    "치즈"
+  ]
+}

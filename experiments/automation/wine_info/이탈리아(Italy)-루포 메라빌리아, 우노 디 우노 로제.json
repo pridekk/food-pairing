@@ -1,0 +1,27 @@
+{
+  "name": "루포 메라빌리아, 우노 디 우노 로제",
+  "en_name": "Lupo Meraviglia, Uno di Uno Rose",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "루포 메라빌리아 Lupo Meraviglia",
+  "main_grape": "프리미티보 (Primitivo)",
+  "country": "이탈리아(Italy)",
+  "city": "뿔리아(Puglia)",
+  "aromas": [
+    "딸기",
+    "멜론",
+    "오렌지"
+  ],
+  "pairings": [
+    "바비큐",
+    "해산물",
+    "떡볶이",
+    "베이컨",
+    "생선찜",
+    "생선구이",
+    "순대"
+  ]
+}

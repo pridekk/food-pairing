@@ -1,0 +1,23 @@
+{
+  "name": "장 이브 페론, 뱅 드 리",
+  "en_name": "Jean Yves Peron, Vin de Lies",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "장 이브 페론 Jean Yves Peron",
+  "main_grape": "자쿠에레 (Jacquere) , 뮈스까 (Muscat) , 알테스 (Altesse) , 루산느 (Roussanne)",
+  "country": "프랑스(France)",
+  "city": "사부아 뷔게이(Savoie-Bugey)",
+  "aromas": [
+    "시트러스",
+    "미네랄",
+    "복숭아"
+  ],
+  "pairings": [
+    "샐러드",
+    "치즈",
+    "복숭아"
+  ]
+}

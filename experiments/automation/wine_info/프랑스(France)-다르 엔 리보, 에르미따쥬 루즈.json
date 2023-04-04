@@ -1,0 +1,24 @@
+{
+  "name": "다르 엔 리보, 에르미따쥬 루즈",
+  "en_name": "Dard & Ribo, Hermitage Rouge",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 5,
+  "tannin": 4,
+  "winery": "다르 엔 리보 Dard & Ribo",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz)",
+  "country": "프랑스(France)",
+  "city": "에르미타주(Hermitage)",
+  "aromas": [
+    "미네랄",
+    "블랙베리",
+    "오크",
+    "블랙체리",
+    "블루베리"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

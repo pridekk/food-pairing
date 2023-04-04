@@ -1,0 +1,30 @@
+{
+  "name": "칸 악사텔, 틴토 우노",
+  "en_name": "Can Axartell, Tinto Uno",
+  "price_from_importer": "80,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "칸 악사텔 Can Axartell",
+  "main_grape": "칼렛 (Callet) , 메를로 (Merlot) , 시라/쉬라즈 (Syrah/Shiraz) , 피노 누아 (Pinot Noir)",
+  "country": "스페인(Spain)",
+  "city": "비니살렘 마요르카(Binissalem Mallorca)",
+  "aromas": [
+    "제비꽃",
+    "바닐라",
+    "블랙체리",
+    "블루베리",
+    "블랙베리",
+    "자두"
+  ],
+  "pairings": [
+    "소고기",
+    "하몽",
+    "초리조",
+    "스테이크",
+    "양꼬치",
+    "안심",
+    "바비큐"
+  ]
+}

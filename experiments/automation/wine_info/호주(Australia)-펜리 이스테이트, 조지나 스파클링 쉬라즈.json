@@ -1,0 +1,28 @@
+{
+  "name": "펜리 이스테이트, 조지나 스파클링 쉬라즈",
+  "en_name": "Penley Estate, Georgina Sparkling Shiraz",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 2,
+  "body": 3,
+  "tannin": 2,
+  "winery": "펜리 이스테이트 Penley Estate",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz)",
+  "country": "호주(Australia)",
+  "city": "쿠나와라(Coonawarra)",
+  "aromas": [
+    "라스베리",
+    "크랜베리",
+    "허브",
+    "초콜릿",
+    "자두"
+  ],
+  "pairings": [
+    "까르파치오",
+    "꼬치구이",
+    "건육",
+    "후라이드",
+    "바비큐",
+    "베이컨"
+  ]
+}

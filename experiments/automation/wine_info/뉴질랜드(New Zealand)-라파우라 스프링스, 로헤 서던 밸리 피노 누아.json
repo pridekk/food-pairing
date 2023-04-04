@@ -1,0 +1,31 @@
+{
+  "name": "라파우라 스프링스, 로헤 서던 밸리 피노 누아",
+  "en_name": "Rapaura Springs, Rohe Southern Valley Pinot Noir",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 2,
+  "winery": "라파우라 스프링스 Rapaura Springs",
+  "main_grape": "피노 누아 (Pinot Noir)",
+  "country": "뉴질랜드(New Zealand)",
+  "city": "말보로(Marlborough)",
+  "aromas": [
+    "라스베리",
+    "제비꽃",
+    "바닐라",
+    "오크",
+    "삼나무",
+    "블랙체리",
+    "체리",
+    "초콜릿",
+    "시나몬"
+  ],
+  "pairings": [
+    "장어구이",
+    "샤브샤브",
+    "훈제오리",
+    "바비큐",
+    "로스트비프"
+  ]
+}

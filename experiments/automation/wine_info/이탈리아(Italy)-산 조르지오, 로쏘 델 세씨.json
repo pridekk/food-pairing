@@ -1,0 +1,24 @@
+{
+  "name": "산 조르지오, 로쏘 델 세씨",
+  "en_name": "San Giorgio, Rosso del Sesi",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 2,
+  "winery": "산 조르지오 San Giorgio",
+  "main_grape": "네렐로 마스칼레제 (Nerello Mascalese)",
+  "country": "이탈리아(Italy)",
+  "city": "시칠리아(Sicilia)",
+  "aromas": [
+    "블랙체리",
+    "말린과일",
+    "블루베리",
+    "미네랄"
+  ],
+  "pairings": [
+    "소고기",
+    "양고기",
+    "돼지고기"
+  ]
+}

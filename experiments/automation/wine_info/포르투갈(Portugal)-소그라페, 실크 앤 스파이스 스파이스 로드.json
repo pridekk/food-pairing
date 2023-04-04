@@ -1,0 +1,30 @@
+{
+  "name": "소그라페, 실크 앤 스파이스 스파이스 로드",
+  "en_name": "Sogrape, Silk & Spice Spice Road",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 4,
+  "winery": "소그라페 Sogrape",
+  "main_grape": "알리칸테 부쉐 (Alicante Bouschet) , 시라/쉬라즈 (Syrah/Shiraz) , 투리가 나시오날 (Touriga Nacional)",
+  "country": "포르투갈(Portugal)",
+  "city": "포르투갈(Portugal)",
+  "aromas": [
+    "블랙베리",
+    "블랙커런트",
+    "육두구",
+    "제비꽃",
+    "자두",
+    "바닐라"
+  ],
+  "pairings": [
+    "양념갈비",
+    "바비큐",
+    "갈비찜",
+    "양갈비",
+    "소고기",
+    "그릴요리",
+    "스테이크"
+  ]
+}

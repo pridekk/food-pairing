@@ -1,0 +1,34 @@
+{
+  "name": "따발리, 트란베르살",
+  "en_name": "Tabali, Tranversal",
+  "price_from_importer": "76,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "비냐 따발리 Vina Tabali",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) , 카베르네 프랑 (Cabernet Franc) , 시라/쉬라즈 (Syrah/Shiraz) , 말벡 (Malbec)",
+  "country": "칠레(Chile)",
+  "city": "리마리 밸리(Limari Valley)",
+  "aromas": [
+    "감초",
+    "바닐라",
+    "오크",
+    "삼나무",
+    "타바코",
+    "블랙체리",
+    "체리",
+    "블랙베리",
+    "연기",
+    "자두",
+    "정향",
+    "후추"
+  ],
+  "pairings": [
+    "소고기",
+    "양갈비",
+    "스테이크",
+    "바비큐",
+    "건육"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "name": "카사 바우사, 알보로토 까르미네르",
+  "en_name": "Casa Bauza, Alboroto Carménère",
+  "price_from_importer": "88,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "카사 바우사 Casa Bauza",
+  "main_grape": "카르메네르 (Carmenere)",
+  "country": "칠레(Chile)",
+  "city": "마이포 밸리(Maipo Valley)",
+  "aromas": [
+    "라스베리",
+    "삼나무",
+    "체리",
+    "장미",
+    "딸기",
+    "바닐라",
+    "감초"
+  ],
+  "pairings": [
+    "찜닭",
+    "양꼬치",
+    "소시지",
+    "로스트비프",
+    "스테이크",
+    "소고기",
+    "훈제오리"
+  ]
+}

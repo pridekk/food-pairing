@@ -1,0 +1,30 @@
+{
+  "name": "보비오, 랑게 샤도네이 알레산드로",
+  "en_name": "Bovio, Langhe Chardonnay Alessandro",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "보비오 Bovio",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "이탈리아(Italy)",
+  "city": "랑게(Langhe)",
+  "aromas": [
+    "서양배",
+    "사과",
+    "밀싹",
+    "바닐라",
+    "오크",
+    "삼나무",
+    "모과"
+  ],
+  "pairings": [
+    "오리로스",
+    "장어구이",
+    "오일파스타",
+    "해산물",
+    "치킨",
+    "가금류"
+  ]
+}

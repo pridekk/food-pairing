@@ -1,0 +1,25 @@
+{
+  "name": "하우스 오브 카드, 더 에이스 오브 스페이드",
+  "en_name": "House of Cards, The Ace of Spade",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "하우스 오브 카드 House of Cards",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) , 말벡 (Malbec)",
+  "country": "호주(Australia)",
+  "city": "마가렛 리버(Margaret River)",
+  "aromas": [
+    "블랙커런트",
+    "초콜릿",
+    "정향",
+    "헤이즐넛"
+  ],
+  "pairings": [
+    "양고기",
+    "돼지고기",
+    "갈비찜",
+    "소고기"
+  ]
+}

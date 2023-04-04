@@ -1,0 +1,24 @@
+{
+  "name": "구트 오가우, 조세핀",
+  "en_name": "Gut Oggau, Josephine",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 3,
+  "winery": "구트 오가우 Gut Oggau",
+  "main_grape": "블라우프랜키쉬 (Blaufrankisch)",
+  "country": "오스트리아(Austria)",
+  "city": "부르겐란트(Burgenland)",
+  "aromas": [
+    "레드커런트",
+    "미네랄",
+    "블랙베리",
+    "허브",
+    "라스베리"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

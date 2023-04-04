@@ -1,0 +1,28 @@
+{
+  "name": "포지오 레 볼피, 에포스",
+  "en_name": "Poggio Le Volpi, Epos",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "포지오 레 볼피 Poggio Le Volpi",
+  "main_grape": "말바시아 델 라치오 (Malvasia del Lazio) , 말바시아 디 칸디다 (Malvasia di Candida) , 트레비아노 (Trebbiano)",
+  "country": "",
+  "city": "",
+  "aromas": [
+    "열대과일",
+    "오렌지",
+    "허브",
+    "미네랄"
+  ],
+  "pairings": [
+    "닭고기",
+    "해산물",
+    "생선찜",
+    "리조또",
+    "생선구이",
+    "문어숙회",
+    "파스타"
+  ]
+}

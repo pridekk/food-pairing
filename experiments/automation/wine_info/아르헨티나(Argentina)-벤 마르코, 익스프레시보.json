@@ -1,0 +1,30 @@
+{
+  "name": "벤 마르코, 익스프레시보",
+  "en_name": "Ben Marco, Expresivo",
+  "price_from_importer": "160,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "벤 마르코 Ben Marco",
+  "main_grape": "말벡 (Malbec) , 카베르네 프랑 (Cabernet Franc)",
+  "country": "아르헨티나(Argentina)",
+  "city": "우코 밸리(Uco Valley)",
+  "aromas": [
+    "블랙베리",
+    "블랙체리",
+    "블루베리",
+    "제비꽃",
+    "자두"
+  ],
+  "pairings": [
+    "양념갈비",
+    "양고기",
+    "리조토",
+    "갈비찜",
+    "양갈비",
+    "소고기",
+    "스테이크",
+    "햄버거"
+  ]
+}

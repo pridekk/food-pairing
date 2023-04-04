@@ -1,0 +1,23 @@
+{
+  "name": "쵸타, 말바지아",
+  "en_name": "Cotar, Malvazija",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 1,
+  "winery": "쵸타 Cotar",
+  "main_grape": "말바지아 비앙카 루가 (Malvasia Bianca Luga)",
+  "country": "슬로베니아(Slovenia)",
+  "city": "Kras(Kras)",
+  "aromas": [
+    "레몬",
+    "망고",
+    "복숭아"
+  ],
+  "pairings": [
+    "치즈",
+    "복숭아",
+    "샐러드"
+  ]
+}

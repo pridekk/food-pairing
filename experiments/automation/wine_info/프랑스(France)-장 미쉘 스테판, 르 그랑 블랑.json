@@ -1,0 +1,24 @@
+{
+  "name": "장 미쉘 스테판, 르 그랑 블랑",
+  "en_name": "Jean Michel Stephan, Le Grand Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 1,
+  "winery": "장 미쉘 스테판 Jean Michel Stephan",
+  "main_grape": "루산느 (Roussanne) , 마르산느 (Marsanne) , 비오니에 (Viognier)",
+  "country": "프랑스(France)",
+  "city": "론(Rhone)",
+  "aromas": [
+    "열대과일",
+    "복숭아",
+    "살구",
+    "미네랄"
+  ],
+  "pairings": [
+    "치즈",
+    "복숭아",
+    "튀김"
+  ]
+}

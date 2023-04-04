@@ -1,0 +1,38 @@
+{
+  "name": "마드리갈 프리미티보 디 만두리아 돌체 나뚜랄레",
+  "en_name": "Madrigale Primitivo Di Manduria Dolce Naturale",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 2,
+  "acidity": 2,
+  "body": 5,
+  "tannin": 3,
+  "winery": "프로듀토리 디 만두리아 Produtori di Manduria",
+  "main_grape": "프리미티보 (Primitivo)",
+  "country": "이탈리아(Italy)",
+  "city": "만두리아(Manduria)",
+  "aromas": [
+    "건포도",
+    "감초",
+    "말린자두",
+    "바닐라",
+    "말린과일",
+    "블랙체리",
+    "블루베리",
+    "체리",
+    "블랙베리",
+    "자두",
+    "정향",
+    "시나몬"
+  ],
+  "pairings": [
+    "소고기",
+    "양갈비",
+    "스테이크",
+    "살라미",
+    "양념갈비",
+    "양꼬치",
+    "건육",
+    "스튜",
+    "갈비찜"
+  ]
+}

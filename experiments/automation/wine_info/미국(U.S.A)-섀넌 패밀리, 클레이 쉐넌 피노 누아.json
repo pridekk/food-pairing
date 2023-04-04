@@ -1,0 +1,33 @@
+{
+  "name": "섀넌 패밀리, 클레이 쉐넌 피노 누아",
+  "en_name": "Shannon Family, Clay Shannon Pinot Noir",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "섀넌 패밀리 오브 와인스 Shannon Family of Wines",
+  "main_grape": "피노 누아 (Pinot Noir)",
+  "country": "미국(U.S.A)",
+  "city": "레이크 카운티(Lake County)",
+  "aromas": [
+    "블랙체리",
+    "말린자두",
+    "라스베리",
+    "바닐라",
+    "말린과일",
+    "자두",
+    "아니스",
+    "체리"
+  ],
+  "pairings": [
+    "양꼬치",
+    "훈제오리",
+    "베이컨",
+    "로스트비프",
+    "찜닭",
+    "바비큐",
+    "까르파치오",
+    "그릴요리"
+  ]
+}

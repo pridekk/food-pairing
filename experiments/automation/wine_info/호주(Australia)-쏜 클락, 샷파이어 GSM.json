@@ -1,0 +1,24 @@
+{
+  "name": "쏜 클락, 샷파이어 GSM",
+  "en_name": "Thorn Clarke, Shotfire GSM",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "쏜 클락 Thorn Clarke",
+  "main_grape": "그르나슈 (Grenache) , 시라/쉬라즈 (Syrah/Shiraz) , 무르베드르 (Mourvedre)",
+  "country": "호주(Australia)",
+  "city": "바로사 밸리(Barossa Valley)",
+  "aromas": [
+    "자두",
+    "블루베리",
+    "후추"
+  ],
+  "pairings": [
+    "양고기",
+    "양념갈비",
+    "소고기",
+    "하몽"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "앤더스 프레드릭 스틴, 뉴 피치 온 더 블록",
+  "en_name": "Anders Frederik Steen, New Peach on the Block",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 5,
+  "tannin": 3,
+  "winery": "앤더스 프레드릭 스틴 Anders Frederik Steen",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz) , 메를로 (Merlot) , 카베르네 소비뇽 (Cabernet Sauvignon) , 그르나슈 (Grenache) , 쌩쏘 (Cinsault)",
+  "country": "프랑스(France)",
+  "city": "아르데슈(Ardeche)",
+  "aromas": [
+    "말린과일",
+    "미네랄",
+    "블랙베리",
+    "블랙체리",
+    "블루베리"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

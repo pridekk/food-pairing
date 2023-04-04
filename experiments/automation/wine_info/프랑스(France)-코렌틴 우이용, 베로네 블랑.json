@@ -1,0 +1,23 @@
+{
+  "name": "코렌틴 우이용, 베로네 블랑",
+  "en_name": "Corentin Houillon, Veronnet Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "코렌틴 우이용 Corentin Houillon",
+  "main_grape": "알테스 (Altesse) , 자쿠에레 (Jacquere)",
+  "country": "프랑스(France)",
+  "city": "사부아 뷔게이(Savoie-Bugey)",
+  "aromas": [
+    "복숭아",
+    "시트러스",
+    "미네랄"
+  ],
+  "pairings": [
+    "해산물",
+    "복숭아",
+    "샐러드"
+  ]
+}

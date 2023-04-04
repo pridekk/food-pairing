@@ -1,0 +1,24 @@
+{
+  "name": "프랑수아 블란카르, 아 따블",
+  "en_name": "Francois Blanchard, A Table",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "프랑수아 블란카르 Francois Blanchard",
+  "main_grape": "10~12 ℃",
+  "country": "프랑스(France)",
+  "city": "루아르(Loire)",
+  "aromas": [
+    "열대과일",
+    "시트러스",
+    "구즈베리",
+    "복숭아"
+  ],
+  "pairings": [
+    "치즈",
+    "복숭아",
+    "샐러드"
+  ]
+}

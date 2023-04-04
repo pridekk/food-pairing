@@ -1,0 +1,28 @@
+{
+  "name": "레정드 알 소테른",
+  "en_name": "Les Legendes R Sauternes",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 5,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 1,
+  "winery": "도멘 바롱 드 로칠드 Barons de Rothschild [Domaines Barons de Rothschild]",
+  "main_grape": "세미용 (Semillon) , 소비뇽 블랑 (Sauvignon Blanc)",
+  "country": "프랑스(France)",
+  "city": "소테른(Sauternes)",
+  "aromas": [
+    "레몬껍질",
+    "살구",
+    "모과",
+    "오렌지",
+    "말린살구",
+    "복숭아"
+  ],
+  "pairings": [
+    "과일",
+    "샐러드",
+    "견과류",
+    "건육",
+    "복숭아"
+  ]
+}

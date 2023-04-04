@@ -1,0 +1,36 @@
+{
+  "name": "돈 파스칼,카베르네 소비뇽 로블",
+  "en_name": "Don Pascual, Cabernet Sauvignon Roble",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "돈 파스칼 Don Pascual",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "우루과이(Urguay)",
+  "city": "우루과이(Urguay)",
+  "aromas": [
+    "말린과일",
+    "카카오",
+    "오크",
+    "딸기",
+    "블랙체리",
+    "육두구",
+    "블루베리",
+    "삼나무",
+    "건포도",
+    "바닐라"
+  ],
+  "pairings": [
+    "양념갈비",
+    "갈비찜",
+    "양갈비",
+    "소고기",
+    "그릴요리",
+    "불고기",
+    "찜닭",
+    "훈제오리",
+    "스테이크"
+  ]
+}

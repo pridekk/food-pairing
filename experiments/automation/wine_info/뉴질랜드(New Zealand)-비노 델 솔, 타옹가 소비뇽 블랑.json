@@ -1,0 +1,30 @@
+{
+  "name": "비노 델 솔, 타옹가 소비뇽 블랑",
+  "en_name": "Vino del Sol, Taonga Sauvignon Blanc",
+  "price_from_importer": "60,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 1,
+  "tannin": 1,
+  "winery": "비노 델 솔 Vino del Sol",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc)",
+  "country": "뉴질랜드(New Zealand)",
+  "city": "말보로(Marlborough)",
+  "aromas": [
+    "자몽",
+    "자스민",
+    "구즈베리",
+    "망고",
+    "레몬"
+  ],
+  "pairings": [
+    "튀김",
+    "해산물",
+    "아시아요리",
+    "동남아요리",
+    "생선회",
+    "새우",
+    "광어",
+    "생선구이"
+  ]
+}

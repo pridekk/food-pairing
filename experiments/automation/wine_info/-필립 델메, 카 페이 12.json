@@ -1,0 +1,23 @@
+{
+  "name": "필립 델메, 카 페이 12",
+  "en_name": "Philippe Delmee, Ca Faye 12",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "필립 델메 Philippe Delmee",
+  "main_grape": "카베르네 프랑 (Cabernet Franc) , 그롤로 그리 (Grolleau Gris)",
+  "country": "",
+  "city": "",
+  "aromas": [
+    "크랜베리",
+    "피망",
+    "딸기",
+    "오크"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

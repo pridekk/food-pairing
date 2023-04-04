@@ -1,0 +1,25 @@
+{
+  "name": "마타싸, 뱅 드 프랑스 블랑",
+  "en_name": "Matassa, VDF Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "마타싸 Matassa",
+  "main_grape": "그르나슈 그리 (Grenache Gris) , 마카베오 (Macabeo)",
+  "country": "프랑스(France)",
+  "city": "꼬뜨 드 루씨용(Côtes de Roussillon)",
+  "aromas": [
+    "열대과일",
+    "미네랄",
+    "복숭아",
+    "살구"
+  ],
+  "pairings": [
+    "전체요리",
+    "해산물",
+    "치즈",
+    "복숭아"
+  ]
+}

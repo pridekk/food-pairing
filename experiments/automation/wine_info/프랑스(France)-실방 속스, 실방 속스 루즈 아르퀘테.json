@@ -1,0 +1,25 @@
+{
+  "name": "실방 속스, 실방 속스 루즈 아르퀘테",
+  "en_name": "Sylvain Saux, Sylvain Saux Rouge Arquette",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 5,
+  "tannin": 3,
+  "winery": "실방 속스 Sylvain Saux",
+  "main_grape": "까리냥 (Carignan/Carignane) , 그르나슈 (Grenache)",
+  "country": "프랑스(France)",
+  "city": "랑그독 루씨용(Languedoc Roussillon)",
+  "aromas": [
+    "말린과일",
+    "후추",
+    "블랙베리",
+    "블랙체리",
+    "라스베리"
+  ],
+  "pairings": [
+    "소고기",
+    "중국요리",
+    "돼지고기"
+  ]
+}

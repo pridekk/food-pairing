@@ -1,0 +1,30 @@
+{
+  "name": "콘차이 토로, 그란 레세르바 그린 레이블 까베르네 소비뇽",
+  "en_name": "Concha y Toro, Gran Reserva Green Label Cabernet Sauvignon",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "콘차이 토로 Concha y Toro",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) , 카베르네 프랑 (Cabernet Franc) , 말벡 (Malbec)",
+  "country": "칠레(Chile)",
+  "city": "콜차구아 밸리(Cholchagua Valley)",
+  "aromas": [
+    "육두구",
+    "허브",
+    "바닐라",
+    "블랙체리",
+    "체리",
+    "자두",
+    "블랙커런트"
+  ],
+  "pairings": [
+    "불고기",
+    "소고기",
+    "양갈비",
+    "스테이크",
+    "바비큐",
+    "족발"
+  ]
+}

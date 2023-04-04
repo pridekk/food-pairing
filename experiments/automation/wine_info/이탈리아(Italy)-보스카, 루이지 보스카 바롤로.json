@@ -1,0 +1,32 @@
+{
+  "name": "보스카, 루이지 보스카 바롤로",
+  "en_name": "Bosca, Luigi Bosca Barolo",
+  "price_from_importer": "180,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 4,
+  "winery": "보스카 Bosca",
+  "main_grape": "네비올로 (Nebbiolo)",
+  "country": "이탈리아(Italy)",
+  "city": "바롤로(Barolo)",
+  "aromas": [
+    "말린자두",
+    "바닐라",
+    "장미",
+    "체리",
+    "블랙베리",
+    "블랙커런트",
+    "시나몬"
+  ],
+  "pairings": [
+    "라자냐",
+    "스테이크",
+    "양념갈비",
+    "리조또",
+    "건육",
+    "갈비찜",
+    "스튜",
+    "붉은육류"
+  ]
+}

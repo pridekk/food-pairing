@@ -1,0 +1,31 @@
+{
+  "name": "피터르만, 위건 리슬링",
+  "en_name": "Peter Lehmann, Wigan Riesling",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "피터 르만 Peter Lehmann",
+  "main_grape": "리슬링 (Riesling)",
+  "country": "호주(Australia)",
+  "city": "에덴 밸리(Eden Valley)",
+  "aromas": [
+    "시트러스",
+    "레몬",
+    "허브",
+    "라임",
+    "석유",
+    "흰꽃"
+  ],
+  "pairings": [
+    "양꼬치",
+    "생선구이",
+    "꼬치구이",
+    "오리로스",
+    "생선찜",
+    "훈제오리",
+    "바비큐",
+    "돼지고기"
+  ]
+}

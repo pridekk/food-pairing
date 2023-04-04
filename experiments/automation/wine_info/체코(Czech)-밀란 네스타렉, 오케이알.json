@@ -1,0 +1,24 @@
+{
+  "name": "밀란 네스타렉, 오케이알",
+  "en_name": "Milan Nestarec, OKR",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 1,
+  "winery": "밀란 네스타렉 Milan Nestarec",
+  "main_grape": "샤르도네 (Chardonnay) , 그뤼너 벨트리너 (Gruner Veltliner) , 소비뇽 블랑 (Sauvignon Blanc) , 게뷔르츠트라미너 (Gewurztraminer)",
+  "country": "체코(Czech)",
+  "city": "체코(Czech)",
+  "aromas": [
+    "열대과일",
+    "서양배",
+    "시트러스",
+    "복숭아"
+  ],
+  "pairings": [
+    "샐러드",
+    "치즈",
+    "복숭아"
+  ]
+}

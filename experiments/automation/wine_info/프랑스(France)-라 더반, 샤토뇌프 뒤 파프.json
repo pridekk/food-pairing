@@ -1,0 +1,35 @@
+{
+  "name": "라 더반, 샤토뇌프 뒤 파프",
+  "en_name": "La DueBane, Châteauneuf-Du-Pape",
+  "price_from_importer": "240,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "라 더반 La DueBane",
+  "main_grape": "그르나슈 (Grenache) , 무르베드르 (Mourvedre) , 시라/쉬라즈 (Syrah/Shiraz)",
+  "country": "프랑스(France)",
+  "city": "샤또네프 뒤 빠쁘(Chateauneuf du Pape)",
+  "aromas": [
+    "레드커런트",
+    "시나몬",
+    "후추",
+    "블랙체리",
+    "말린무화과",
+    "감초",
+    "허브",
+    "바닐라",
+    "라스베리",
+    "체리"
+  ],
+  "pairings": [
+    "스튜",
+    "갈비찜",
+    "양갈비",
+    "소고기",
+    "불고기",
+    "라자냐",
+    "리조또",
+    "크림파스타"
+  ]
+}

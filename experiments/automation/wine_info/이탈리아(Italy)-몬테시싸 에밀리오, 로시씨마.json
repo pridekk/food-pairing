@@ -1,0 +1,24 @@
+{
+  "name": "몬테시싸 에밀리오, 로시씨마",
+  "en_name": "Montesissa Emilio, Rosissima",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 2,
+  "winery": "몬테시싸 에밀리오 Montesissa Emilio",
+  "main_grape": "바르베라 (Barbera) , 보나르다 (Bonarda)",
+  "country": "이탈리아(Italy)",
+  "city": "에밀리아 로마냐(Emilia-Romagna)",
+  "aromas": [
+    "미네랄",
+    "블랙베리",
+    "허브",
+    "라스베리",
+    "체리"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

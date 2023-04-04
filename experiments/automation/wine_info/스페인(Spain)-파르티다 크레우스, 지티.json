@@ -1,0 +1,24 @@
+{
+  "name": "파르티다 크레우스, 지티",
+  "en_name": "Partida Creus, GT",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 5,
+  "tannin": 3,
+  "winery": "파르티다 크레우스 Partida Creus",
+  "main_grape": "모나스트렐 (Monastrell)",
+  "country": "스페인(Spain)",
+  "city": "페네데스(Penedes)",
+  "aromas": [
+    "후추",
+    "블랙베리",
+    "오크",
+    "블랙체리",
+    "라스베리"
+  ],
+  "pairings": [
+    "양고기",
+    "돼지고기"
+  ]
+}

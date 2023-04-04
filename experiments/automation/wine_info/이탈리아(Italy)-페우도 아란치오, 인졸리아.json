@@ -1,0 +1,33 @@
+{
+  "name": "페우도 아란치오, 인졸리아",
+  "en_name": "Feudo Arancio, Inzolia",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 2,
+  "body": 3,
+  "tannin": 1,
+  "winery": "페우도 아란치오 Feudo Arancio",
+  "main_grape": "인졸리아 (Inzolia)",
+  "country": "이탈리아(Italy)",
+  "city": "시칠리아(Sicilia)",
+  "aromas": [
+    "서양배",
+    "감초",
+    "살구",
+    "바닐라",
+    "허브",
+    "흰꽃",
+    "복숭아"
+  ],
+  "pairings": [
+    "중국요리",
+    "닭고기",
+    "연어",
+    "참치",
+    "피자",
+    "파스타",
+    "양념치킨",
+    "닭강정",
+    "치킨"
+  ]
+}

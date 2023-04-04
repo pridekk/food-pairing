@@ -1,0 +1,34 @@
+{
+  "name": "피츠 퓨어, 쉬라즈",
+  "en_name": "Pete's Pure, Shiraz",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "피츠 퓨어 와인 Pete's Pure Wine",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz)",
+  "country": "호주(Australia)",
+  "city": "머레이 달링(Murray Darling)",
+  "aromas": [
+    "시나몬",
+    "말린자두",
+    "바닐라",
+    "블랙체리",
+    "블랙베리",
+    "자두",
+    "블랙커런트",
+    "후추"
+  ],
+  "pairings": [
+    "라자냐",
+    "토마토파스타",
+    "소고기",
+    "양갈비",
+    "스테이크",
+    "양념갈비",
+    "한식",
+    "스튜",
+    "갈비찜"
+  ]
+}

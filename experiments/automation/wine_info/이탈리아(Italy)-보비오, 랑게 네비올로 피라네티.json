@@ -1,0 +1,28 @@
+{
+  "name": "보비오, 랑게 네비올로 피라네티",
+  "en_name": "Bovio, Langhe Nebbiolo Firagnetti",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 4,
+  "winery": "보비오 Bovio",
+  "main_grape": "네비올로 (Nebbiolo)",
+  "country": "이탈리아(Italy)",
+  "city": "랑게(Langhe)",
+  "aromas": [
+    "블랙체리",
+    "체리",
+    "자두",
+    "말린자두"
+  ],
+  "pairings": [
+    "라자냐",
+    "토마토파스타",
+    "양갈비",
+    "스테이크",
+    "양념갈비",
+    "스튜",
+    "갈비찜"
+  ]
+}

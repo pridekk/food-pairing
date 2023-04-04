@@ -1,0 +1,28 @@
+{
+  "name": "티 스팟, 브뤼",
+  "en_name": "T SPOT, BRUT",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "티 스팟 T Spot",
+  "main_grape": "아이렌 (Airen)",
+  "country": "프랑스(France)",
+  "city": "보르도(Bordeaux)",
+  "aromas": [
+    "청사과",
+    "복숭아",
+    "레몬",
+    "흰꽃"
+  ],
+  "pairings": [
+    "생선회",
+    "프로슈토",
+    "초밥",
+    "후라이드",
+    "해산물",
+    "닭강정",
+    "치킨"
+  ]
+}

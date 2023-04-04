@@ -1,0 +1,26 @@
+{
+  "name": "산 조르지오, 오렌지 비앙코",
+  "en_name": "San Giorgio, Orange Bianco",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 2,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "산 조르지오 San Giorgio",
+  "main_grape": "지비보 (Zibibbo)",
+  "country": "이탈리아(Italy)",
+  "city": "시칠리아(Sicilia)",
+  "aromas": [
+    "미네랄",
+    "살구",
+    "열대과일",
+    "사과",
+    "복숭아"
+  ],
+  "pairings": [
+    "과일",
+    "치즈",
+    "복숭아",
+    "샐러드"
+  ]
+}

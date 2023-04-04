@@ -1,0 +1,32 @@
+{
+  "name": "토즈너 와인, G 그르나슈",
+  "en_name": "Teusner Wine, G Grenache",
+  "price_from_importer": "81,400원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "토즈너 와인 Teusner Wine",
+  "main_grape": "그르나슈 (Grenache)",
+  "country": "호주(Australia)",
+  "city": "바로사 밸리(Barossa Valley)",
+  "aromas": [
+    "후추",
+    "블랙베리",
+    "말린자두",
+    "블루베리",
+    "감초",
+    "자두",
+    "바닐라"
+  ],
+  "pairings": [
+    "양념치킨",
+    "소고기",
+    "불고기",
+    "족발",
+    "닭강정",
+    "양꼬치",
+    "보쌈",
+    "스테이크"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "몬카로, 네로네",
+  "en_name": "Moncaro, Nerone",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "몬카로 Moncaro",
+  "main_grape": "몬테풀치아노 (Montepulciano)",
+  "country": "이탈리아(Italy)",
+  "city": "마르케(Marche)",
+  "aromas": [
+    "체리",
+    "블루베리",
+    "자두",
+    "후추",
+    "블랙체리",
+    "바닐라",
+    "감초"
+  ],
+  "pairings": [
+    "양꼬치",
+    "수육",
+    "불고기",
+    "라자냐",
+    "족발",
+    "스테이크",
+    "붉은육류",
+    "파스타",
+    "그릴요리"
+  ]
+}

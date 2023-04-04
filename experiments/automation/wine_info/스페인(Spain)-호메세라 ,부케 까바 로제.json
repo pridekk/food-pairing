@@ -1,0 +1,27 @@
+{
+  "name": "호메세라 ,부케 까바 로제",
+  "en_name": "Juame Serra, Bouquet Cava Rose",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 3,
+  "acidity": 2,
+  "body": 2,
+  "tannin": 2,
+  "winery": "호메 세라 Jaume Serra",
+  "main_grape": "피노 누아 (Pinot Noir) , 트레파트 (Trepat)",
+  "country": "스페인(Spain)",
+  "city": "페네데스(Penedes)",
+  "aromas": [
+    "크랜베리",
+    "자몽",
+    "붉은꽃",
+    "살구",
+    "석류"
+  ],
+  "pairings": [
+    "튀김",
+    "식전주",
+    "아시아요리",
+    "동남아요리",
+    "떡볶이"
+  ]
+}

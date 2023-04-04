@@ -1,0 +1,24 @@
+{
+  "name": "레스티냑, 골고스",
+  "en_name": "Lestignac, Golgoth",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 3,
+  "winery": "레스티냑 Lestignac",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz) , 메를로 (Merlot) , 카베르네 프랑 (Cabernet Franc) , 카르메네르 (Carmenere)",
+  "country": "프랑스(France)",
+  "city": "베르쥬악(Bergerac)",
+  "aromas": [
+    "블랙베리",
+    "라스베리",
+    "미네랄",
+    "체리",
+    "말린과일"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

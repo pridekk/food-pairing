@@ -1,0 +1,29 @@
+{
+  "name": "바롱 드 로칠드, 사가 알 보르도 루즈",
+  "en_name": "Barons de Rothschild, Saga R Bordeaux Rouge",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "도멘 바롱 드 로칠드 Barons de Rothschild [Domaines Barons de Rothschild]",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) , 메를로 (Merlot)",
+  "country": "프랑스(France)",
+  "city": "엉트르-두-메르(Entre-Deux-Mers)",
+  "aromas": [
+    "바닐라",
+    "레드커런트",
+    "블루베리",
+    "자두",
+    "블랙커런트",
+    "정향"
+  ],
+  "pairings": [
+    "불고기",
+    "소고기",
+    "양갈비",
+    "스테이크",
+    "바비큐",
+    "갈비찜"
+  ]
+}

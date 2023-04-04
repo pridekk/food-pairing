@@ -1,0 +1,30 @@
+{
+  "name": "라파우라 스프링스, 불 파독 빈야드 소비뇽 블랑",
+  "en_name": "Rapaura Springs, Bull Paddock Vineyard Sauvignon Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 1,
+  "tannin": 1,
+  "winery": "라파우라 스프링스 Rapaura Springs",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc)",
+  "country": "뉴질랜드(New Zealand)",
+  "city": "센트럴 오타고(Central Otago)",
+  "aromas": [
+    "열대과일",
+    "레몬",
+    "흰꽃",
+    "미네랄",
+    "자몽",
+    "시트러스",
+    "구아바"
+  ],
+  "pairings": [
+    "해산물",
+    "생선구이",
+    "문어숙회",
+    "생선회",
+    "새우",
+    "광어"
+  ]
+}

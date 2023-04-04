@@ -1,0 +1,24 @@
+{
+  "name": "뮬레츄닉, 메를로",
+  "en_name": "Mlecnik, Merlot",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "뮬레츄닉 Mlecnik",
+  "main_grape": "메를로 (Merlot)",
+  "country": "슬로베니아(Slovenia)",
+  "city": "슬로베니아(Slovenia)",
+  "aromas": [
+    "블랙베리",
+    "오크",
+    "피망",
+    "라스베리",
+    "체리"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

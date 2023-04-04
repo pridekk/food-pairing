@@ -1,0 +1,24 @@
+{
+  "name": "벨리 와인 익스페리먼트, 아틀리에 3",
+  "en_name": "Belly Wine Experiment, Atelier 3",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "벨리 와인 익스페리먼트 Belly Wine Experiment",
+  "main_grape": "가메이 (Gamay) , 시라/쉬라즈 (Syrah/Shiraz)",
+  "country": "프랑스(France)",
+  "city": "프랑스(France)",
+  "aromas": [
+    "후추",
+    "블랙베리",
+    "오크",
+    "블랙체리",
+    "블루베리"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

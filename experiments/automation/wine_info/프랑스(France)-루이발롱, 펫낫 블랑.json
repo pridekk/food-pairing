@@ -1,0 +1,28 @@
+{
+  "name": "루이발롱, 펫낫 블랑",
+  "en_name": "Louis Vallon, Pet Nat Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "루이 발롱 Louis Vallon",
+  "main_grape": "세미용 (Semillon) , 소비뇽 블랑 (Sauvignon Blanc)",
+  "country": "프랑스(France)",
+  "city": "보르도(Bordeaux)",
+  "aromas": [
+    "서양배",
+    "아카시아",
+    "청사과",
+    "시트러스",
+    "허브"
+  ],
+  "pairings": [
+    "바비큐",
+    "베이컨",
+    "새우",
+    "견과류",
+    "식전주",
+    "문어숙회"
+  ]
+}

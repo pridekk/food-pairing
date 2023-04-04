@@ -1,0 +1,31 @@
+{
+  "name": "도넬리 비니, 볼리치노 스파클링 화이트와인",
+  "en_name": "Donelli Vini, Bollicino Sparkling White wine",
+  "price_from_importer": "2,500원( 200ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "도넬리 비니 Donelli Vini S.P.A.",
+  "main_grape": "트레비아노 (Trebbiano) , 가르가네가 (Garganega)",
+  "country": "이탈리아(Italy)",
+  "city": "이탈리아(Italy)",
+  "aromas": [
+    "서양배",
+    "열대과일",
+    "살구",
+    "사과",
+    "흰꽃"
+  ],
+  "pairings": [
+    "생선회",
+    "스시",
+    "나물",
+    "비빔밥",
+    "생선구이",
+    "볶음밥",
+    "해산물",
+    "닭강정",
+    "새우"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "비냐 산타크루즈, 샤만 그란 리제르바 까베르네 소비뇽",
+  "en_name": "Vina Santa Cruz, Chamán Gran Reserva Cabernet Sauvignon",
+  "price_from_importer": "93,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "비냐 산타크루즈 Viña Santa Cruz",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "칠레(Chile)",
+  "city": "콜차구아 밸리(Cholchagua Valley)",
+  "aromas": [
+    "블랙베리",
+    "블랙커런트",
+    "자두",
+    "후추",
+    "시나몬",
+    "블랙체리",
+    "바닐라"
+  ],
+  "pairings": [
+    "양갈비",
+    "불고기",
+    "스테이크",
+    "소고기",
+    "바비큐"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "라파우라 스프링스, 로헤 블라인드 리버 소비뇽 블랑",
+  "en_name": "Rapaura Springs, Rohe Blind River Sauvignon Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 1,
+  "tannin": 1,
+  "winery": "라파우라 스프링스 Rapaura Springs",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc)",
+  "country": "뉴질랜드(New Zealand)",
+  "city": "말보로(Marlborough)",
+  "aromas": [
+    "열대과일",
+    "레몬",
+    "자몽",
+    "잔디",
+    "오렌지",
+    "시트러스"
+  ],
+  "pairings": [
+    "아시아요리",
+    "해산물",
+    "동남아요리",
+    "초밥",
+    "비빔밥",
+    "편육",
+    "흰살생선",
+    "생선회",
+    "새우",
+    "나물",
+    "물냉면"
+  ]
+}

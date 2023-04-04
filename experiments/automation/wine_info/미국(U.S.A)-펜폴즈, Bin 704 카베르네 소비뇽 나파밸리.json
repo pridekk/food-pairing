@@ -1,0 +1,35 @@
+{
+  "name": "펜폴즈, Bin 704 카베르네 소비뇽 나파밸리",
+  "en_name": "Penfolds, Bin 704 Cabernet Sauvignon Napa Valley",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "펜폴즈 Penfolds",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "미국(U.S.A)",
+  "city": "나파 밸리(Napa Valley)",
+  "aromas": [
+    "블랙커런트",
+    "체리",
+    "말린자두",
+    "정향",
+    "말린과일",
+    "아몬드",
+    "블랙체리",
+    "감초"
+  ],
+  "pairings": [
+    "양갈비",
+    "불고기",
+    "양념갈비",
+    "오일파스타",
+    "스테이크",
+    "소고기",
+    "갈비찜",
+    "피자",
+    "파스타",
+    "그릴요리"
+  ]
+}

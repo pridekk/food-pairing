@@ -1,0 +1,29 @@
+{
+  "name": "파펫 델 마스, 카바 브뤼 로제",
+  "en_name": "Papet del Mas, Cava Brut Rose",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 1,
+  "tannin": 1,
+  "winery": "파펫 델 마스 Papet del Mas",
+  "main_grape": "자렐로 (Xarel.lo) , 마카베오 (Macabeo) , 빠레야다 (Parellada)",
+  "country": "스페인(Spain)",
+  "city": "페네데스(Penedes)",
+  "aromas": [
+    "아몬드",
+    "라임",
+    "모과",
+    "딸기",
+    "청사과",
+    "라스베리",
+    "체리"
+  ],
+  "pairings": [
+    "건육",
+    "해산물",
+    "생선회",
+    "광어",
+    "식전주"
+  ]
+}

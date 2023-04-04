@@ -1,0 +1,31 @@
+{
+  "name": "도메인 바슬러, 게부르츠트라미너 프론홀츠",
+  "en_name": "Domaine Wassler, Gewurztraminer Fronholz",
+  "price_from_importer": "70,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 2,
+  "body": 3,
+  "tannin": 1,
+  "winery": "도멘 바슬러 Domaine Wassler",
+  "main_grape": "게뷔르츠트라미너 (Gewurztraminer)",
+  "country": "프랑스(France)",
+  "city": "알자스(Alsace)",
+  "aromas": [
+    "자몽",
+    "미네랄",
+    "장미",
+    "리치",
+    "구아바",
+    "감귤"
+  ],
+  "pairings": [
+    "튀김",
+    "아시아요리",
+    "오리로스",
+    "꼬치구이",
+    "동남아요리",
+    "베이컨",
+    "치킨",
+    "돼지고기"
+  ]
+}

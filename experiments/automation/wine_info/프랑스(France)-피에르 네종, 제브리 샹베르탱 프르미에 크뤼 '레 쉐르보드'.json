@@ -1,0 +1,31 @@
+{
+  "name": "피에르 네종, 제브리 샹베르탱 프르미에 크뤼 '레 쉐르보드'",
+  "en_name": "Pierre Naigeon, Gevrey-Chambertin 1er Cru 'Les Cherbaudes'",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 0,
+  "winery": "피에르 네종 Pierre Naigeon",
+  "main_grape": "피노 누아 (Pinot Noir)",
+  "country": "프랑스(France)",
+  "city": "쥬브레-샹베르땅(Gevrey-Chambertin)",
+  "aromas": [
+    "라스베리",
+    "체리",
+    "레드커런트",
+    "제비꽃",
+    "구즈베리",
+    "감초",
+    "무화과"
+  ],
+  "pairings": [
+    "찜닭",
+    "랍스터",
+    "까르파치오",
+    "킹크랩",
+    "로스트비프",
+    "건육",
+    "훈제오리"
+  ]
+}

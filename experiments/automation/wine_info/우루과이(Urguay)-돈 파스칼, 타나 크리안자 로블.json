@@ -1,0 +1,31 @@
+{
+  "name": "돈 파스칼, 타나 크리안자 로블",
+  "en_name": "Don Pascual, Tannat Crianza Roble",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 4,
+  "winery": "돈 파스칼 Don Pascual",
+  "main_grape": "Uruguay Tannat",
+  "country": "우루과이(Urguay)",
+  "city": "우루과이(Urguay)",
+  "aromas": [
+    "무화과",
+    "블랙베리",
+    "블랙체리",
+    "말린자두",
+    "자두",
+    "바닐라",
+    "시나몬"
+  ],
+  "pairings": [
+    "양념갈비",
+    "바비큐",
+    "갈비찜",
+    "양갈비",
+    "소고기",
+    "그릴요리",
+    "스테이크"
+  ]
+}

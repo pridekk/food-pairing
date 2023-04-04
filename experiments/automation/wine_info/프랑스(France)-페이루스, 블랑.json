@@ -1,0 +1,26 @@
+{
+  "name": "페이루스, 블랑",
+  "en_name": "Peyrus, Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "페이루스 Peyrus",
+  "main_grape": "까리냥 블랑 (Carignan Blanc) , 클레렛 (Clairette) , 그르나슈 그리 (Grenache Gris) , 말보이지 (Malvoisie )",
+  "country": "프랑스(France)",
+  "city": "꼬또 뒤 랑그독(Côteaux du Languedoc)",
+  "aromas": [
+    "후추",
+    "미네랄",
+    "서양배",
+    "살구",
+    "복숭아"
+  ],
+  "pairings": [
+    "전체요리",
+    "닭고기",
+    "복숭아",
+    "샐러드"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "까흐나주, 사박",
+  "en_name": "Karnage, Savak",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 2,
+  "winery": "까흐나주 Karnage",
+  "main_grape": "사바냥 (Savagnin)",
+  "country": "프랑스(France)",
+  "city": "쥐라(Jura)",
+  "aromas": [
+    "말린무화과",
+    "말린과일",
+    "허브",
+    "미네랄"
+  ],
+  "pairings": [
+    "견과류",
+    "치즈",
+    "샐러드"
+  ]
+}

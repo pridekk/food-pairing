@@ -1,0 +1,28 @@
+{
+  "name": "안델루나, 라데라 화이트 블렌드",
+  "en_name": "Andeluna, Ladera White Blend",
+  "price_from_importer": "69,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "안델루나 Andeluna [Bodega Andeluna]",
+  "main_grape": "샤르도네 (Chardonnay) , 소비뇽 블랑 (Sauvignon Blanc) , 토론테스 (Torrontes)",
+  "country": "아르헨티나(Argentina)",
+  "city": "우코 밸리(Uco Valley)",
+  "aromas": [
+    "시트러스",
+    "열대과일",
+    "사과",
+    "파인애플",
+    "흰꽃"
+  ],
+  "pairings": [
+    "닭고기",
+    "씨푸드",
+    "초밥",
+    "해산물",
+    "베이컨",
+    "닭강정"
+  ]
+}

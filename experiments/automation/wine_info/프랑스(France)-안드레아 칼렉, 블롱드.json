@@ -1,0 +1,25 @@
+{
+  "name": "안드레아 칼렉, 블롱드",
+  "en_name": "Andrea Calek, Blonde",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 1,
+  "winery": "안드레아 칼렉 Andrea Calek",
+  "main_grape": "샤르도네 (Chardonnay) , 비오니에 (Viognier)",
+  "country": "프랑스(France)",
+  "city": "론(Rhone)",
+  "aromas": [
+    "청사과",
+    "시트러스",
+    "살구",
+    "열대과일",
+    "복숭아"
+  ],
+  "pairings": [
+    "치즈",
+    "복숭아",
+    "샐러드"
+  ]
+}

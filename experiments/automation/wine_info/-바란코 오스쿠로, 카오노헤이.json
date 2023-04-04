@@ -1,0 +1,23 @@
+{
+  "name": "바란코 오스쿠로, 카오노헤이",
+  "en_name": "Barranco Oscuro, Cardonohay",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "바란코 오스쿠로 Barranco Oscuro",
+  "main_grape": "샤도넬 (Chardonel)",
+  "country": "",
+  "city": "",
+  "aromas": [
+    "열대과일",
+    "시트러스",
+    "복숭아"
+  ],
+  "pairings": [
+    "해산물",
+    "복숭아",
+    "샐러드"
+  ]
+}

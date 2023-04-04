@@ -1,0 +1,30 @@
+{
+  "name": "도멘 피쇼, 르 푀 드 라 모리에트",
+  "en_name": "Domaine Pichot, Le Peu de La Moriette",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 3,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "도멘 피쇼 Domaine Pichot",
+  "main_grape": "슈냉 블랑 (Chenin Blanc)",
+  "country": "프랑스(France)",
+  "city": "부브레(Vouvray)",
+  "aromas": [
+    "미네랄",
+    "무화과",
+    "흰꽃",
+    "리치",
+    "사과",
+    "황도"
+  ],
+  "pairings": [
+    "프로슈토",
+    "건육",
+    "해산물",
+    "새우",
+    "나물",
+    "오일파스타",
+    "문어숙회"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "까흐나주, 카세트 비",
+  "en_name": "Karnage, Kassette B",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "까흐나주 Karnage",
+  "main_grape": "알리칸테 부쉐 (Alicante Bouschet)",
+  "country": "프랑스(France)",
+  "city": "쥐라(Jura)",
+  "aromas": [
+    "오크",
+    "블랙베리",
+    "라스베리",
+    "말린과일"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

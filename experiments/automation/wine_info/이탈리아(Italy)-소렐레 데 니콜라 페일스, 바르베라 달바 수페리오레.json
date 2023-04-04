@@ -1,0 +1,34 @@
+{
+  "name": "소렐레 데 니콜라 페일스, 바르베라 달바 수페리오레",
+  "en_name": "Sorelle de Nicola Feyles, Barbera d'Alba Superiore",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 2,
+  "winery": "소렐레 데 니콜라 페일스 Sorelle de Nicola Feyles",
+  "main_grape": "바르베라 (Barbera)",
+  "country": "이탈리아(Italy)",
+  "city": "알바(Alba)",
+  "aromas": [
+    "블랙베리",
+    "체리",
+    "허브",
+    "레드커런트",
+    "건초",
+    "자두",
+    "딸기",
+    "바닐라",
+    "감초"
+  ],
+  "pairings": [
+    "찜닭",
+    "수육",
+    "바비큐",
+    "불고기",
+    "로스트비프",
+    "족발",
+    "샤브샤브",
+    "보쌈"
+  ]
+}

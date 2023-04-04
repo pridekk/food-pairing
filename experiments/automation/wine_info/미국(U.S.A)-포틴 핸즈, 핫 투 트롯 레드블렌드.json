@@ -1,0 +1,33 @@
+{
+  "name": "포틴 핸즈, 핫 투 트롯 레드블렌드",
+  "en_name": "14 Hands, Hot to Trot Red Blend",
+  "price_from_importer": "80,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "14핸즈 와이너리 14 Hands Winery",
+  "main_grape": "메를로 (Merlot) , 시라/쉬라즈 (Syrah/Shiraz) , 카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "미국(U.S.A)",
+  "city": "콜롬비아 밸리(Columbia Valley)",
+  "aromas": [
+    "체리",
+    "레드커런트",
+    "자두",
+    "비스켓",
+    "블랙체리",
+    "바닐라"
+  ],
+  "pairings": [
+    "햄버거",
+    "불고기",
+    "족발",
+    "스테이크",
+    "갈비찜",
+    "피자",
+    "파스타",
+    "바비큐",
+    "서양요리",
+    "그릴요리"
+  ]
+}

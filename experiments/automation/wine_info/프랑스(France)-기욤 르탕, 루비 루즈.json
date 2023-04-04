@@ -1,0 +1,31 @@
+{
+  "name": "기욤 르탕, 루비 루즈",
+  "en_name": "Guillaume Letang, Rubis Rouge",
+  "price_from_importer": "33,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "기욤 르탕 Guillaume Letang",
+  "main_grape": "그르나슈 (Grenache)",
+  "country": "프랑스(France)",
+  "city": "꼬뜨 드 루씨용(Côtes de Roussillon)",
+  "aromas": [
+    "라스베리",
+    "블랙커런트",
+    "체리",
+    "허브",
+    "자두",
+    "후추"
+  ],
+  "pairings": [
+    "수육",
+    "양꼬치",
+    "불고기",
+    "족발",
+    "스테이크",
+    "소고기",
+    "건육",
+    "한국음식"
+  ]
+}

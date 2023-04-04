@@ -1,0 +1,33 @@
+{
+  "name": "도멘 피쇼, 코토 드 라 비슈",
+  "en_name": "Domaine Pichot, Coteau de La Biche",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 2,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "도멘 피쇼 Domaine Pichot",
+  "main_grape": "슈냉 블랑 (Chenin Blanc)",
+  "country": "프랑스(France)",
+  "city": "부브레(Vouvray)",
+  "aromas": [
+    "토스트",
+    "미네랄",
+    "아카시아",
+    "살구",
+    "슬레이트",
+    "사과",
+    "흰꽃",
+    "복숭아"
+  ],
+  "pairings": [
+    "프로슈토",
+    "건육",
+    "해산물",
+    "생선회",
+    "새우",
+    "광어",
+    "오일파스타",
+    "문어숙회"
+  ]
+}

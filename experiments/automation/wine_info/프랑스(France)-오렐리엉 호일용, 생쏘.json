@@ -1,0 +1,24 @@
+{
+  "name": "오렐리엉 호일용, 생쏘",
+  "en_name": "Aurelien Houillon, Cinsault",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 2,
+  "winery": "오렐리엉 호일용 Aurelien Houillon",
+  "main_grape": "그르나슈 (Grenache)",
+  "country": "프랑스(France)",
+  "city": "론(Rhone)",
+  "aromas": [
+    "미네랄",
+    "블랙베리",
+    "블루베리",
+    "말린과일"
+  ],
+  "pairings": [
+    "소고기",
+    "중국요리",
+    "돼지고기"
+  ]
+}

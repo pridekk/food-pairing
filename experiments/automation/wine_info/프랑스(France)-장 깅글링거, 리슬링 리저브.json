@@ -1,0 +1,23 @@
+{
+  "name": "장 깅글링거, 리슬링 리저브",
+  "en_name": "Jean Ginglinger, Riesling Reserve",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 5,
+  "body": 3,
+  "tannin": 1,
+  "winery": "장 깅글링거 Jean Ginglinger",
+  "main_grape": "리슬링 (Riesling)",
+  "country": "프랑스(France)",
+  "city": "알자스(Alsace)",
+  "aromas": [
+    "시트러스",
+    "미네랄",
+    "허브"
+  ],
+  "pairings": [
+    "해산물",
+    "치즈",
+    "샐러드"
+  ]
+}

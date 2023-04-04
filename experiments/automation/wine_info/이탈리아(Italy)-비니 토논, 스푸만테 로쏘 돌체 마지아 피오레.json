@@ -1,0 +1,28 @@
+{
+  "name": "비니 토논, 스푸만테 로쏘 돌체 마지아 피오레",
+  "en_name": "Vini Tonon, Spumante Rosso Dolce Magia Fiore",
+  "price_from_importer": "36,000원( 750ml )",
+  "sugar": 2,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 2,
+  "winery": "비니 토논 Vini Tonon",
+  "main_grape": "블렌드 (Blend )",
+  "country": "이탈리아(Italy)",
+  "city": "베네토(Veneto)",
+  "aromas": [
+    "붉은꽃",
+    "라스베리",
+    "살구",
+    "크랜베리"
+  ],
+  "pairings": [
+    "프로슈토",
+    "베이컨",
+    "찜닭",
+    "떡볶이",
+    "만두",
+    "편육",
+    "물냉면"
+  ]
+}

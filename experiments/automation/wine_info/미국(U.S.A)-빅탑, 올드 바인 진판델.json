@@ -1,0 +1,31 @@
+{
+  "name": "빅탑, 올드 바인 진판델",
+  "en_name": "The Big Top, Old Vine Zinfandel",
+  "price_from_importer": "28,500원( 750ml )",
+  "sugar": 2,
+  "acidity": 2,
+  "body": 4,
+  "tannin": 2,
+  "winery": "더 빅 탑 와이너리 The Big Top Winery",
+  "main_grape": "진판델 (Zinfandel)",
+  "country": "미국(U.S.A)",
+  "city": "로디(Lodi)",
+  "aromas": [
+    "체리",
+    "말린자두",
+    "블루베리",
+    "딸기",
+    "후추",
+    "시나몬",
+    "바닐라"
+  ],
+  "pairings": [
+    "양꼬치",
+    "양갈비",
+    "양념갈비",
+    "스테이크",
+    "소고기",
+    "건육",
+    "갈비찜"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "헌터스, 쇼비뇽 블랑",
+  "en_name": "Hunter's, Sauvignon Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 1,
+  "tannin": 1,
+  "winery": "헌터스 와이너리 Hunter's WInery",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc)",
+  "country": "뉴질랜드(New Zealand)",
+  "city": "말보로(Marlborough)",
+  "aromas": [
+    "패션프루트",
+    "구즈베리",
+    "레몬",
+    "흰꽃",
+    "자몽",
+    "라임"
+  ],
+  "pairings": [
+    "아시아요리",
+    "해산물",
+    "튀김",
+    "동남아요리",
+    "초밥",
+    "생선회",
+    "새우"
+  ]
+}

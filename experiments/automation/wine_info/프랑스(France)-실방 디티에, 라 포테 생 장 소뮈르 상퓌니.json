@@ -1,0 +1,24 @@
+{
+  "name": "실방 디티에, 라 포테 생 장 소뮈르 상퓌니",
+  "en_name": "Sylvain Dittiere, La Porte Saint Jean Saumur-Champigny",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 2,
+  "winery": "실방 디티에 Sylvain Dittiere",
+  "main_grape": "카베르네 프랑 (Cabernet Franc)",
+  "country": "프랑스(France)",
+  "city": "루아르(Loire)",
+  "aromas": [
+    "레드커런트",
+    "미네랄",
+    "오크",
+    "딸기",
+    "라스베리"
+  ],
+  "pairings": [
+    "닭고기",
+    "치즈"
+  ]
+}

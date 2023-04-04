@@ -1,0 +1,32 @@
+{
+  "name": "존테스 풋스텝, 엑스칼리버 소비뇽블랑",
+  "en_name": "Zonte's Footstep, Excalibur Sauvignon Blanc",
+  "price_from_importer": "70,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 1,
+  "tannin": 1,
+  "winery": "존테스 풋스텝 Zonte's Footstep",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc)",
+  "country": "호주(Australia)",
+  "city": "애들레이드 힐즈(Adelaide Hills)",
+  "aromas": [
+    "패션프루트",
+    "레몬",
+    "미네랄",
+    "라임",
+    "엘더플라워",
+    "오렌지",
+    "구아바"
+  ],
+  "pairings": [
+    "아시아요리",
+    "해산물",
+    "튀김",
+    "동남아요리",
+    "생선구이",
+    "생선회",
+    "새우",
+    "광어"
+  ]
+}

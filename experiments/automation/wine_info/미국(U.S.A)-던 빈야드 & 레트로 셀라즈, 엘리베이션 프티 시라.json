@@ -1,0 +1,29 @@
+{
+  "name": "던 빈야드 & 레트로 셀라즈, 엘리베이션 프티 시라",
+  "en_name": "Dunn Vineyared & Retro Cellars, Elevation Petite Sirah",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 3,
+  "winery": "던 빈야드 & 레트로 셀라즈 Dunn Vineyared & Retro Cellars",
+  "main_grape": "쁘띠 쉬라 (Petit Syrah) , 시라/쉬라즈 (Syrah/Shiraz) , 진판델 (Zinfandel) , 카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "미국(U.S.A)",
+  "city": "하월 마운틴(Howell Mountain)",
+  "aromas": [
+    "라벤더",
+    "블랙베리",
+    "블랙체리",
+    "블루베리",
+    "자두"
+  ],
+  "pairings": [
+    "바비큐",
+    "양갈비",
+    "소고기",
+    "불고기",
+    "보쌈",
+    "수육",
+    "스테이크"
+  ]
+}

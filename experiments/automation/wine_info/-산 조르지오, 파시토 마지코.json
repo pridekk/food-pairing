@@ -1,0 +1,23 @@
+{
+  "name": "산 조르지오, 파시토 마지코",
+  "en_name": "San Giorgio, Passito Magico",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 3,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 1,
+  "winery": "산 조르지오 San Giorgio",
+  "main_grape": "지비보 (Zibibbo)",
+  "country": "",
+  "city": "",
+  "aromas": [
+    "열대과일",
+    "청사과",
+    "시트러스"
+  ],
+  "pairings": [
+    "과일",
+    "치즈",
+    "샐러드"
+  ]
+}

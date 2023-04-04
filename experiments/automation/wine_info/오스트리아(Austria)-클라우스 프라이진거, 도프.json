@@ -1,0 +1,24 @@
+{
+  "name": "클라우스 프라이진거, 도프",
+  "en_name": "Claus Preisinger, Dope",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "클라우스 프라이진거 Claus Preisinger",
+  "main_grape": "블라우프랜키쉬 (Blaufrankisch)",
+  "country": "오스트리아(Austria)",
+  "city": "쥐드부르겐란트(Sudburgenland)",
+  "aromas": [
+    "블랙베리",
+    "오크",
+    "딸기",
+    "허브",
+    "라스베리"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

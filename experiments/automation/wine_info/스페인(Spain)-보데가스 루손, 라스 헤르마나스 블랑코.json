@@ -1,0 +1,29 @@
+{
+  "name": "보데가스 루손, 라스 헤르마나스 블랑코",
+  "en_name": "Bodegas Luzon, Las Hermanans Blanco",
+  "price_from_importer": "65,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "보데가스 루손 Bodegas Luzon",
+  "main_grape": "마카베오 (Macabeo)",
+  "country": "스페인(Spain)",
+  "city": "후미야(Jumilla)",
+  "aromas": [
+    "레몬",
+    "미네랄",
+    "감귤",
+    "라임",
+    "아카시아",
+    "복숭아"
+  ],
+  "pairings": [
+    "해산물",
+    "튀김",
+    "생선구이",
+    "탕수육",
+    "생선회",
+    "조개구이"
+  ]
+}

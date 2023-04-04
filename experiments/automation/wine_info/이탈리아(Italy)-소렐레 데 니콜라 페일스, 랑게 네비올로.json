@@ -1,0 +1,30 @@
+{
+  "name": "소렐레 데 니콜라 페일스, 랑게 네비올로",
+  "en_name": "Sorelle de Nicola Feyles, Langhe Nebbiolo",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 4,
+  "winery": "소렐레 데 니콜라 페일스 Sorelle de Nicola Feyles",
+  "main_grape": "네비올로 (Nebbiolo)",
+  "country": "이탈리아(Italy)",
+  "city": "랑게(Langhe)",
+  "aromas": [
+    "체리",
+    "미네랄",
+    "레드커런트",
+    "장미",
+    "자두",
+    "딸기"
+  ],
+  "pairings": [
+    "양갈비",
+    "양념갈비",
+    "스튜",
+    "스테이크",
+    "소고기",
+    "건육",
+    "갈비찜"
+  ]
+}

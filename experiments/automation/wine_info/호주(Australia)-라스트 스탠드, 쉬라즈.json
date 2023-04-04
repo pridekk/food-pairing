@@ -1,0 +1,34 @@
+{
+  "name": "라스트 스탠드, 쉬라즈",
+  "en_name": "The Last Stand, Shiraz",
+  "price_from_importer": "25,500원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "더 라스트 스탠드 와와너리 The last stand Winery",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz)",
+  "country": "호주(Australia)",
+  "city": "빅토리아(Victoria)",
+  "aromas": [
+    "블랙베리",
+    "연기",
+    "체리",
+    "타바코",
+    "자두",
+    "후추",
+    "블랙체리",
+    "바닐라"
+  ],
+  "pairings": [
+    "라자냐",
+    "양갈비",
+    "양념갈비",
+    "스튜",
+    "스테이크",
+    "소고기",
+    "갈비찜",
+    "토마토파스타",
+    "크림파스타"
+  ]
+}

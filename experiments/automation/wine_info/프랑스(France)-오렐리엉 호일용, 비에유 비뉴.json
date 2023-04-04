@@ -1,0 +1,25 @@
+{
+  "name": "오렐리엉 호일용, 비에유 비뉴",
+  "en_name": "Aurelien Houillon, Vieilles Vignes",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "오렐리엉 호일용 Aurelien Houillon",
+  "main_grape": "그르나슈 (Grenache)",
+  "country": "프랑스(France)",
+  "city": "론(Rhone)",
+  "aromas": [
+    "말린과일",
+    "후추",
+    "블루베리",
+    "제비꽃",
+    "라스베리"
+  ],
+  "pairings": [
+    "소고기",
+    "중국요리",
+    "돼지고기"
+  ]
+}

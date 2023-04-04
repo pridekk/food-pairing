@@ -1,0 +1,34 @@
+{
+  "name": "산 파비아노, 체르비올로 비앙코",
+  "en_name": "San Fabiano, Calcinaia Cerviolo Bianco",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "산 파비아노 칼치나이아 San Fabiano Calcinaia",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc) , 샤르도네 (Chardonnay)",
+  "country": "이탈리아(Italy)",
+  "city": "키안티(Chianti)",
+  "aromas": [
+    "허브",
+    "바닐라",
+    "레몬",
+    "흰꽃",
+    "오렌지",
+    "시트러스"
+  ],
+  "pairings": [
+    "오일파스타",
+    "해산물",
+    "피자",
+    "초밥",
+    "어묵",
+    "편육",
+    "비빔밥",
+    "생선구이",
+    "생선회",
+    "문어숙회",
+    "물냉면"
+  ]
+}

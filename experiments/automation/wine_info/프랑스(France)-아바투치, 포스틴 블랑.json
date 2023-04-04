@@ -1,0 +1,24 @@
+{
+  "name": "아바투치, 포스틴 블랑",
+  "en_name": "Abbatucci, Faustine Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 1,
+  "winery": "아바투치 Abbatucci",
+  "main_grape": "베르멘티노 (Vermentino)",
+  "country": "프랑스(France)",
+  "city": "코르시카(Corsica)",
+  "aromas": [
+    "시트러스",
+    "미네랄",
+    "복숭아",
+    "서양배"
+  ],
+  "pairings": [
+    "치즈",
+    "복숭아",
+    "샐러드"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "뵈브 암발, 샤르망 샤를 블랑 드 블랑",
+  "en_name": "Veuve Ambal, Charmant Charles Blanc de Blancs",
+  "price_from_importer": "18,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 1,
+  "tannin": 1,
+  "winery": "뵈브 암발 Veuve Ambal",
+  "main_grape": "샤르도네 (Chardonnay) , 아이렌 (Airen)",
+  "country": "프랑스(France)",
+  "city": "부르고뉴(Bourgogne)",
+  "aromas": [
+    "서양배",
+    "복숭아",
+    "살구",
+    "감귤",
+    "레몬"
+  ],
+  "pairings": [
+    "오리고기",
+    "바비큐",
+    "후라이드",
+    "해산물",
+    "생선회",
+    "장어구이"
+  ]
+}

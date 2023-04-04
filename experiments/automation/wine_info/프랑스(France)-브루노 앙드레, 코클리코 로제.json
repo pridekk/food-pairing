@@ -1,0 +1,30 @@
+{
+  "name": "브루노 앙드레, 코클리코 로제",
+  "en_name": "Bruno Andre, Coquelicot Rose",
+  "price_from_importer": "60,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "브루노 앙드레 Bruno Andre",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz) , 메를로 (Merlot)",
+  "country": "프랑스(France)",
+  "city": "랑그독 루씨용(Languedoc Roussillon)",
+  "aromas": [
+    "라스베리",
+    "허브",
+    "장미",
+    "체리",
+    "딸기",
+    "오렌지",
+    "크랜베리"
+  ],
+  "pairings": [
+    "베이컨",
+    "해산물",
+    "양꼬치",
+    "바비큐",
+    "생선회",
+    "꼬치구이"
+  ]
+}

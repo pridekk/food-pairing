@@ -1,0 +1,24 @@
+{
+  "name": "라디콘, 오슬라비에",
+  "en_name": "Radikon, Oslavje",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "라디콘 Radikon",
+  "main_grape": "샤르도네 (Chardonnay) , 소비뇽 블랑 (Sauvignon Blanc)",
+  "country": "이탈리아(Italy)",
+  "city": "프리울리 베네찌아 줄리아(Friuli Venezia Giulia)",
+  "aromas": [
+    "시트러스",
+    "복숭아",
+    "미네랄"
+  ],
+  "pairings": [
+    "전채요리",
+    "치즈",
+    "복숭아",
+    "샐러드"
+  ]
+}

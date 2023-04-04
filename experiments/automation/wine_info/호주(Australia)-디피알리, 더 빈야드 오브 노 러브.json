@@ -1,0 +1,23 @@
+{
+  "name": "디피알리, 더 빈야드 오브 노 러브",
+  "en_name": "DEFIALY, The Vineyard of No Love",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "디피알리 DEFIALY",
+  "main_grape": "피노 누아 (Pinot Noir)",
+  "country": "호주(Australia)",
+  "city": "빅토리아(Victoria)",
+  "aromas": [
+    "블루베리",
+    "체리",
+    "허브"
+  ],
+  "pairings": [
+    "서양음식",
+    "닭고기",
+    "소고기"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "파르티다 크레우스, 엑스엘",
+  "en_name": "Partida Creus, XL",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 1,
+  "winery": "파르티다 크레우스 Partida Creus",
+  "main_grape": "자렐로 (Xarel.lo)",
+  "country": "스페인(Spain)",
+  "city": "페네데스(Penedes)",
+  "aromas": [
+    "오크",
+    "블랙베리",
+    "후추",
+    "체리"
+  ],
+  "pairings": [
+    "양고기",
+    "돼지고기"
+  ]
+}

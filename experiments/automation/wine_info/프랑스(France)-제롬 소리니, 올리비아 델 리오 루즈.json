@@ -1,0 +1,24 @@
+{
+  "name": "제롬 소리니, 올리비아 델 리오 루즈",
+  "en_name": "Jerome Saurigny, Olivia del Rio Rouge",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "제롬 소리니 Jerome Saurigny",
+  "main_grape": "카베르네 프랑 (Cabernet Franc) , 그롤로 누아 (Grolleau Noir)",
+  "country": "프랑스(France)",
+  "city": "루아르(Loire)",
+  "aromas": [
+    "말린과일",
+    "미네랄",
+    "블랙베리",
+    "블랙체리",
+    "체리"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

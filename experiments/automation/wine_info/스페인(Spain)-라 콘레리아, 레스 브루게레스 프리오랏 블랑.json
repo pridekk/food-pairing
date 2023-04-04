@@ -1,0 +1,33 @@
+{
+  "name": "라 콘레리아, 레스 브루게레스 프리오랏 블랑",
+  "en_name": "La Conreria, Les Brugueres Priorat Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "라 콘레리아 디'스칼라 데이 La Conreria d'Scala Dei",
+  "main_grape": "가르나차 블랑카 (Garnacha Blanca)",
+  "country": "스페인(Spain)",
+  "city": "프리오랏(Priorat)",
+  "aromas": [
+    "패션프루트",
+    "복숭아",
+    "서양배",
+    "민트",
+    "열대과일",
+    "살구",
+    "흰꽃"
+  ],
+  "pairings": [
+    "비빔밥",
+    "소시지",
+    "오리로스",
+    "물냉면",
+    "후라이드",
+    "편육",
+    "해산물",
+    "베이컨",
+    "돼지고기"
+  ]
+}

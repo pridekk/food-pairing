@@ -1,0 +1,24 @@
+{
+  "name": "레 카프히아드, 펫 섹 블랑",
+  "en_name": "Les Capriades, Pet Sec Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "레 카프히아드 Les Capriades",
+  "main_grape": "샤르도네 (Chardonnay) , 소비뇽 블랑 (Sauvignon Blanc)",
+  "country": "프랑스(France)",
+  "city": "루아르(Loire)",
+  "aromas": [
+    "청사과",
+    "시트러스",
+    "복숭아",
+    "미네랄"
+  ],
+  "pairings": [
+    "과일",
+    "복숭아",
+    "샐러드"
+  ]
+}

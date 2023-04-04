@@ -1,0 +1,31 @@
+{
+  "name": "라미시온 그랑 레세르바 까르미네르",
+  "en_name": "La Mision Gran Reserva Carmenere",
+  "price_from_importer": "80,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "윌리엄 페브르 칠레 William Fevre Chile",
+  "main_grape": "카르메네르 (Carmenere) , 카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "칠레(Chile)",
+  "city": "마이포 밸리(Maipo Valley)",
+  "aromas": [
+    "라스베리",
+    "제비꽃",
+    "바닐라",
+    "체리",
+    "블랙베리",
+    "자두",
+    "후추"
+  ],
+  "pairings": [
+    "불고기",
+    "찜닭",
+    "소고기",
+    "스테이크",
+    "건육",
+    "한국음식",
+    "로스트비프"
+  ]
+}

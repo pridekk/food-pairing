@@ -1,0 +1,23 @@
+{
+  "name": "실방 속스, 불",
+  "en_name": "Sylvain Saux, Bulle",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "실방 속스 Sylvain Saux",
+  "main_grape": "슈냉 블랑 (Chenin Blanc)",
+  "country": "프랑스(France)",
+  "city": "꼬또 뒤 랑그독(Côteaux du Languedoc)",
+  "aromas": [
+    "미네랄",
+    "구아바",
+    "살구"
+  ],
+  "pairings": [
+    "샐러드",
+    "치즈",
+    "해산물"
+  ]
+}

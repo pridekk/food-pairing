@@ -1,0 +1,25 @@
+{
+  "name": "샤펠, 쉬르블스 루즈",
+  "en_name": "Chapel, Chiroubles Rouge",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 2,
+  "winery": "샤펠 Chapel",
+  "main_grape": "가메이 (Gamay)",
+  "country": "프랑스(France)",
+  "city": "부르고뉴(Bourgogne)",
+  "aromas": [
+    "후추",
+    "미네랄",
+    "딸기",
+    "라스베리",
+    "체리"
+  ],
+  "pairings": [
+    "닭고기",
+    "치즈",
+    "샐러드"
+  ]
+}

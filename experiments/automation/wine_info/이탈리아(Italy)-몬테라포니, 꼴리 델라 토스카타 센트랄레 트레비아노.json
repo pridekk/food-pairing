@@ -1,0 +1,28 @@
+{
+  "name": "몬테라포니, 꼴리 델라 토스카타 센트랄레 트레비아노",
+  "en_name": "Monteraponi, Colli Della Toscana Centrale TREBBIANO",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "몬테라포니 Monteraponi",
+  "main_grape": "트레비아노 (Trebbiano)",
+  "country": "이탈리아(Italy)",
+  "city": "키안티(Chianti)",
+  "aromas": [
+    "백도",
+    "감귤",
+    "모과",
+    "미네랄"
+  ],
+  "pairings": [
+    "아시아요리",
+    "해산물",
+    "튀김",
+    "동남아요리",
+    "생선구이",
+    "생선회",
+    "조개구이"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "프로듀토리 디 만두리아, 진 살렌토 피아노",
+  "en_name": "Produtori di Manduria, Zin Salento Fiano",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "프로듀토리 디 만두리아 Produtori di Manduria",
+  "main_grape": "피아노 (Fiano)",
+  "country": "이탈리아(Italy)",
+  "city": "뿔리아(Puglia)",
+  "aromas": [
+    "서양배",
+    "사과",
+    "허브",
+    "흰꽃",
+    "멜론"
+  ],
+  "pairings": [
+    "아시아요리",
+    "해산물",
+    "동남아요리",
+    "생선구이",
+    "탕수육",
+    "생선회",
+    "조개구이"
+  ]
+}

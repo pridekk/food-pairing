@@ -1,0 +1,33 @@
+{
+  "name": "더치 홉, 슈냉 블랑",
+  "en_name": "Dutch Hope, Chenin Blanc",
+  "price_from_importer": "21,500원( 750ml )",
+  "sugar": 1,
+  "acidity": 0,
+  "body": 1,
+  "tannin": 1,
+  "winery": "더치 홉 와이너리 Dutch Hope Winery",
+  "main_grape": "슈냉 블랑 (Chenin Blanc) , 비오니에 (Viognier)",
+  "country": "남아프리카(South Africa)",
+  "city": "남아프리카(South Africa)",
+  "aromas": [
+    "열대과일",
+    "자스민",
+    "살구",
+    "백도",
+    "사과",
+    "리치",
+    "감귤",
+    "아카시아"
+  ],
+  "pairings": [
+    "중국음식",
+    "나물",
+    "전복",
+    "비빔밥",
+    "오일파스타",
+    "중국요리",
+    "해산물",
+    "새우"
+  ]
+}

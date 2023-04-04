@@ -1,0 +1,25 @@
+{
+  "name": "마타싸, 브루탈 루즈",
+  "en_name": "Matassa, Brutal Rouge",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 2,
+  "winery": "마타싸 Matassa",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz) , 뮈스까 블랑 쁘띠 그랑 (Muscat Blanc Petits Grains)",
+  "country": "프랑스(France)",
+  "city": "꼬뜨 드 루씨용(Côtes de Roussillon)",
+  "aromas": [
+    "블랙체리",
+    "미네랄",
+    "블랙베리",
+    "말린과일"
+  ],
+  "pairings": [
+    "소고기",
+    "닭고기",
+    "치즈",
+    "돼지고기"
+  ]
+}

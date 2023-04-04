@@ -1,0 +1,21 @@
+{
+  "name": "루이 앙투안 루이, 고르다 블랑카",
+  "en_name": "Louis Antoine Luyt, Gorda Blanca",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 2,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 0,
+  "winery": "루이 앙투안 루이 Louis Antoine Luyt",
+  "main_grape": "뮈스까 달레산드리 (Muscat d'Alexandrie ) , 토론테스 (Torrontes)",
+  "country": "칠레(Chile)",
+  "city": "마울레 밸리(Maule Valley)",
+  "aromas": [
+    "레몬",
+    "복숭아",
+    "살구"
+  ],
+  "pairings": [
+    "복숭아"
+  ]
+}

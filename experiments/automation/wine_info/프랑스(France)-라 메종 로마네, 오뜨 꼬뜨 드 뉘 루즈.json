@@ -1,0 +1,23 @@
+{
+  "name": "라 메종 로마네, 오뜨 꼬뜨 드 뉘 루즈",
+  "en_name": "La Maison Romane, Hautes Cotes de Nuits Rouge",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 2,
+  "winery": "라 메종 로마네 La Maison Romane",
+  "main_grape": "피노 누아 (Pinot Noir)",
+  "country": "프랑스(France)",
+  "city": "부르고뉴 오뜨 꼬뜨 드 뉘(Bourgogne Hautes Côtes de Nuits)",
+  "aromas": [
+    "딸기",
+    "오크",
+    "라스베리",
+    "미네랄"
+  ],
+  "pairings": [
+    "닭고기",
+    "샐러드"
+  ]
+}

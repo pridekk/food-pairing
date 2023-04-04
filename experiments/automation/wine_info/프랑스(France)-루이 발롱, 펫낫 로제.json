@@ -1,0 +1,28 @@
+{
+  "name": "루이 발롱, 펫낫 로제",
+  "en_name": "Louis Vallon, Pet Nat Rose",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 2,
+  "winery": "루이 발롱 Louis Vallon",
+  "main_grape": "말벡 (Malbec)",
+  "country": "프랑스(France)",
+  "city": "보르도(Bordeaux)",
+  "aromas": [
+    "허브",
+    "석류",
+    "라스베리",
+    "체리"
+  ],
+  "pairings": [
+    "꼬치구이",
+    "살라미",
+    "건육",
+    "프로슈토",
+    "베이컨",
+    "양꼬치",
+    "생선구이"
+  ]
+}

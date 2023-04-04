@@ -1,0 +1,28 @@
+{
+  "name": "산타 로라, 로라 하트윅 싱글 빈야드 까베르네 쇼비뇽",
+  "en_name": "Santa Laura, Laura Hartwig Cabernet Sauvignon Single Vineyard",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "산타 로라 Santa Laura",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "칠레(Chile)",
+  "city": "콜차구아 밸리(Cholchagua Valley)",
+  "aromas": [
+    "육두구",
+    "바닐라",
+    "블랙체리",
+    "자두",
+    "블랙커런트"
+  ],
+  "pairings": [
+    "불고기",
+    "소고기",
+    "양갈비",
+    "스테이크",
+    "바비큐",
+    "족발"
+  ]
+}

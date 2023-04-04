@@ -1,0 +1,24 @@
+{
+  "name": "포데레 프라다롤로, 베즈 비앙코 안티코",
+  "en_name": "Podere Pradarolo, Vej Bianco Antico",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "포데레 프라다롤로 Podere Pradarolo",
+  "main_grape": "말바시아 (Malvasia)",
+  "country": "이탈리아(Italy)",
+  "city": "에밀리아 로마냐(Emilia-Romagna)",
+  "aromas": [
+    "열대과일",
+    "청사과",
+    "살구",
+    "복숭아"
+  ],
+  "pairings": [
+    "샐러드",
+    "치즈",
+    "복숭아"
+  ]
+}

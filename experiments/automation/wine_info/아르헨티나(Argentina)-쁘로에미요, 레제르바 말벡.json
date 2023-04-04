@@ -1,0 +1,31 @@
+{
+  "name": "쁘로에미요, 레제르바 말벡",
+  "en_name": "Proemio, Reserva Malbec",
+  "price_from_importer": "80,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "쁘로에미요 와인 Proemio Wine",
+  "main_grape": "말벡 (Malbec)",
+  "country": "아르헨티나(Argentina)",
+  "city": "멘도사(Mendoza)",
+  "aromas": [
+    "라스베리",
+    "바닐라",
+    "블랙체리",
+    "블루베리",
+    "블랙베리",
+    "자두",
+    "시나몬"
+  ],
+  "pairings": [
+    "소고기",
+    "양갈비",
+    "스테이크",
+    "파스타",
+    "양념갈비",
+    "갈비찜",
+    "햄버거"
+  ]
+}

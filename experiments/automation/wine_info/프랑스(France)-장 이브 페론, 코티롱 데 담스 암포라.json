@@ -1,0 +1,22 @@
+{
+  "name": "장 이브 페론, 코티롱 데 담스 암포라",
+  "en_name": "Jean Yves Peron, Cotillon des Dames Amphore",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "장 이브 페론 Jean Yves Peron",
+  "main_grape": "자쿠에레 (Jacquere)",
+  "country": "프랑스(France)",
+  "city": "사부아 뷔게이(Savoie-Bugey)",
+  "aromas": [
+    "라스베리",
+    "시트러스",
+    "미네랄"
+  ],
+  "pairings": [
+    "샐러드",
+    "치즈"
+  ]
+}

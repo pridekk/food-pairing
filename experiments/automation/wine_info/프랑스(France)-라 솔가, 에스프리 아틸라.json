@@ -1,0 +1,24 @@
+{
+  "name": "라 솔가, 에스프리 아틸라",
+  "en_name": "La Sorga, Esprit Attila",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 5,
+  "tannin": 3,
+  "winery": "라 솔가 La Sorga",
+  "main_grape": "까리냥 (Carignan/Carignane) , 시라/쉬라즈 (Syrah/Shiraz)",
+  "country": "프랑스(France)",
+  "city": "랑그독 루씨용(Languedoc Roussillon)",
+  "aromas": [
+    "후추",
+    "블랙베리",
+    "오크",
+    "블랙체리",
+    "블루베리"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

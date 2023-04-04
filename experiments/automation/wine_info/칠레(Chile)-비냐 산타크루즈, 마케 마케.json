@@ -1,0 +1,26 @@
+{
+  "name": "비냐 산타크루즈, 마케 마케",
+  "en_name": "Vina Santa Cruz, Make Make",
+  "price_from_importer": "156,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "비냐 산타크루즈 Viña Santa Cruz",
+  "main_grape": "템프라니요 (Tempranillo) , 가르나차 (Garnacha) , 무르베드르 (Mourvedre)",
+  "country": "칠레(Chile)",
+  "city": "콜차구아 밸리(Cholchagua Valley)",
+  "aromas": [
+    "라스베리",
+    "자두",
+    "체리",
+    "후추"
+  ],
+  "pairings": [
+    "양갈비",
+    "스테이크",
+    "소고기",
+    "건육",
+    "바비큐"
+  ]
+}

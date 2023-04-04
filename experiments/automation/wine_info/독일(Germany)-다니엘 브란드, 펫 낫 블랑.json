@@ -1,0 +1,23 @@
+{
+  "name": "다니엘 브란드, 펫 낫 블랑",
+  "en_name": "Daniel Brand, Pet Nat Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "다니엘 브란드 Daniel Brand",
+  "main_grape": "피노 블랑 (Pinot Blanc) , 실바너 (Silvaner)",
+  "country": "독일(Germany)",
+  "city": "팔츠(Pfalz)",
+  "aromas": [
+    "청사과",
+    "시트러스",
+    "미네랄"
+  ],
+  "pairings": [
+    "샐러드",
+    "치즈",
+    "해산물"
+  ]
+}

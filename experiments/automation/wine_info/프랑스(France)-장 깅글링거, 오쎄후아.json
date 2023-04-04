@@ -1,0 +1,24 @@
+{
+  "name": "장 깅글링거, 오쎄후아",
+  "en_name": "Jean Ginglinger, Auxerrois",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 3,
+  "winery": "장 깅글링거 Jean Ginglinger",
+  "main_grape": "오쎄후와 (Auxerrois)",
+  "country": "프랑스(France)",
+  "city": "알자스(Alsace)",
+  "aromas": [
+    "라스베리",
+    "블랙베리",
+    "체리",
+    "후추",
+    "말린과일"
+  ],
+  "pairings": [
+    "소고기",
+    "돼지고기"
+  ]
+}

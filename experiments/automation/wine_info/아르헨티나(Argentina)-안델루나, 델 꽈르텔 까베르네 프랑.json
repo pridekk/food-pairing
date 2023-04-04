@@ -1,0 +1,30 @@
+{
+  "name": "안델루나, 델 꽈르텔 까베르네 프랑",
+  "en_name": "Andeluna, Del Cuartel Cabernet Franc",
+  "price_from_importer": "135,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 2,
+  "winery": "안델루나 Andeluna [Bodega Andeluna]",
+  "main_grape": "카베르네 프랑 (Cabernet Franc)",
+  "country": "아르헨티나(Argentina)",
+  "city": "투푼가토(Tupungato)",
+  "aromas": [
+    "라스베리",
+    "자두",
+    "딸기",
+    "후추",
+    "블랙체리",
+    "감초"
+  ],
+  "pairings": [
+    "찜닭",
+    "양갈비",
+    "족발",
+    "스테이크",
+    "소고기",
+    "갈비찜",
+    "그릴요리"
+  ]
+}

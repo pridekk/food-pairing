@@ -1,0 +1,34 @@
+{
+  "name": "안델루나, 엘레바시옹 레드 블렌드",
+  "en_name": "Andeluna, Elevacion Red Blend",
+  "price_from_importer": "108,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "안델루나 Andeluna [Bodega Andeluna]",
+  "main_grape": "말벡 (Malbec) , 카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "아르헨티나(Argentina)",
+  "city": "우코 밸리(Uco Valley)",
+  "aromas": [
+    "블랙베리",
+    "블랙커런트",
+    "허브",
+    "육두구",
+    "블루베리",
+    "정향",
+    "후추"
+  ],
+  "pairings": [
+    "햄버거",
+    "양갈비",
+    "불고기",
+    "양념갈비",
+    "스테이크",
+    "소고기",
+    "갈비찜",
+    "피자",
+    "그릴요리",
+    "양고기"
+  ]
+}

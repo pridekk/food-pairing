@@ -1,0 +1,34 @@
+{
+  "name": "콘차이 토로, 그란 레세르바 그린 레이블 소비뇽 블랑",
+  "en_name": "Concha y Toro, Gran Reserva Green Label Sauvignon Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 1,
+  "tannin": 1,
+  "winery": "콘차이 토로 Concha y Toro",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc)",
+  "country": "칠레(Chile)",
+  "city": "콜차구아 밸리(Cholchagua Valley)",
+  "aromas": [
+    "허브",
+    "흰꽃",
+    "자몽",
+    "잔디",
+    "라임",
+    "시트러스"
+  ],
+  "pairings": [
+    "오일파스타",
+    "해산물",
+    "부각",
+    "초밥",
+    "비빔밥",
+    "흰살생선",
+    "생선구이",
+    "생선회",
+    "새우",
+    "나물",
+    "광어"
+  ]
+}

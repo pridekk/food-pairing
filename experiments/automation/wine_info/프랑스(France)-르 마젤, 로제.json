@@ -1,0 +1,25 @@
+{
+  "name": "르 마젤, 로제",
+  "en_name": "Le Mazel, Rose",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 2,
+  "winery": "르 마젤 Le Mazel",
+  "main_grape": "메를로 (Merlot) , 시라/쉬라즈 (Syrah/Shiraz) , 까리냥 (Carignan/Carignane)",
+  "country": "프랑스(France)",
+  "city": "아르데슈(Ardeche)",
+  "aromas": [
+    "후추",
+    "블랙베리",
+    "딸기",
+    "열대과일",
+    "라스베리"
+  ],
+  "pairings": [
+    "닭고기",
+    "치즈",
+    "샐러드"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "루포 메라빌리아, 두에 디 두에",
+  "en_name": "Lupo Meraviglia, Due di Due",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "루포 메라빌리아 Lupo Meraviglia",
+  "main_grape": "네그로아마로 (Negroamaro) , 말바시아 (Malvasia)",
+  "country": "이탈리아(Italy)",
+  "city": "뿔리아(Puglia)",
+  "aromas": [
+    "블랙베리",
+    "블랙체리",
+    "블랙커런트",
+    "블루베리",
+    "감초",
+    "허브",
+    "자두",
+    "바닐라",
+    "시나몬"
+  ],
+  "pairings": [
+    "꼬치구이",
+    "건육",
+    "바비큐",
+    "베이컨",
+    "소고기",
+    "불고기",
+    "스테이크"
+  ]
+}

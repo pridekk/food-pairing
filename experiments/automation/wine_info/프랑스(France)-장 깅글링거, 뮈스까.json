@@ -1,0 +1,24 @@
+{
+  "name": "장 깅글링거, 뮈스까",
+  "en_name": "Jean Ginglinger, Muscat",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "장 깅글링거 Jean Ginglinger",
+  "main_grape": "뮈스까 (Muscat)",
+  "country": "프랑스(France)",
+  "city": "알자스(Alsace)",
+  "aromas": [
+    "살구",
+    "복숭아",
+    "열대과일"
+  ],
+  "pairings": [
+    "치즈",
+    "해산물",
+    "복숭아",
+    "샐러드"
+  ]
+}

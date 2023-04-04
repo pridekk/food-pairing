@@ -1,0 +1,23 @@
+{
+  "name": "라 뚜레즈, 사바냥 레불레",
+  "en_name": "La Touraize, Savagnin Rebelle",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "라 뚜레즈 La Touraize",
+  "main_grape": "사바냥 (Savagnin)",
+  "country": "프랑스(France)",
+  "city": "쥐라(Jura)",
+  "aromas": [
+    "청사과",
+    "시트러스",
+    "미네랄"
+  ],
+  "pairings": [
+    "치즈",
+    "샐러드",
+    "튀김"
+  ]
+}

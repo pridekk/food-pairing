@@ -1,0 +1,23 @@
+{
+  "name": "바인굿 베를리치, 엑스 베로 3 필룽",
+  "en_name": "Weingut Werlitsch, Ex vero III S 2te Fullung",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "바인굿 베를리치 Weingut Werlitsch",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc) , 모릴론 (Morillon)",
+  "country": "오스트리아(Austria)",
+  "city": "오스트리아(Austria)",
+  "aromas": [
+    "복숭아",
+    "시트러스",
+    "미네랄"
+  ],
+  "pairings": [
+    "치즈",
+    "복숭아",
+    "샐러드"
+  ]
+}

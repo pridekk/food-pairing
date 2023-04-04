@@ -1,0 +1,24 @@
+{
+  "name": "롱뷰, 네비올로 새터너스",
+  "en_name": "Longview, Nebbiolo Saturnus",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "롱뷰 Longview",
+  "main_grape": "네비올로 (Nebbiolo) 100%",
+  "country": "호주(Australia)",
+  "city": "아들레이드(Adelaide)",
+  "aromas": [
+    "붉은꽃",
+    "딸기",
+    "제비꽃",
+    "젖은흙"
+  ],
+  "pairings": [
+    "돼지고기",
+    "소고기",
+    "서양요리"
+  ]
+}

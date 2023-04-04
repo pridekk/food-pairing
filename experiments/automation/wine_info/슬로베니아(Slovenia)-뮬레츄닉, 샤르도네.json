@@ -1,0 +1,24 @@
+{
+  "name": "뮬레츄닉, 샤르도네",
+  "en_name": "Mlecnik, Chardonnay",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "뮬레츄닉 Mlecnik",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "슬로베니아(Slovenia)",
+  "city": "슬로베니아(Slovenia)",
+  "aromas": [
+    "열대과일",
+    "청사과",
+    "시트러스",
+    "복숭아"
+  ],
+  "pairings": [
+    "닭고기",
+    "복숭아",
+    "샐러드"
+  ]
+}
