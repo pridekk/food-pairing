@@ -1,0 +1,3 @@
+/experiments/object_detection/runs/
+/experiments/object_detection/images/
+*.pt
