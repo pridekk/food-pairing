@@ -14,3 +14,9 @@
 /.idea/vcs.xml
 /experiments/object_detection/result/
 *.cache
+*.pth
+/experiments/ocr/dataset/2023*
+/experiments/ocr/deep-text-recognition-benchmark/saved_models/
+/experiments/ocr/deep-text-recognition-benchmark/demo_image/
+/experiments/ocr/deep-text-recognition-benchmark/figures/
+/experiments/ocr/deep-text-recognition-benchmark/lmdb/

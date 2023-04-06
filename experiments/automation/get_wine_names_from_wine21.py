@@ -14,11 +14,13 @@ def collect_wines():
 
     print(driver.title)
     done = False
-    cnt = 722
+    cnt = 1700
     while not done:
 
         items = driver.find_elements(by=By.XPATH, value="//ul[@id='wine_list']/descendant::li")
         if cnt < len(items):
+            sleep(0.2)
+            print(f"cnt: {cnt}")
             location = items[cnt].location['y'] - 100
             driver.execute_script(f"window.scrollTo(0,{location})")
             item_name = items[cnt].find_element(by=By.TAG_NAME, value="h3").text
@@ -32,18 +34,21 @@ def collect_wines():
 
                 else:
                     save_to_json(info)
+                    with open("./last_cnt.txt", "w") as f:
+                        f.write(f"{cnt}")
 
             cnt += 1
             driver.back()
             sleep(random()*2)
+            sleep(1)
         else:
             more_button = driver.find_element(by=By.ID, value="wineListMoreBtn")
+            driver.execute_script(f"window.scrollTo(0,{more_button.location['y'] - 10})")
             more_button.click()
+            sleep(0.1)
 
-        sleep(1)
 
-
-def exist(wine_info:dict):
+def exist(wine_info: dict):
     name = f"{wine_info.get('country')}-{wine_info.get('name')}.json"
     file = glob(f"./wine_info/{name}")
 
@@ -66,11 +71,36 @@ def extract_wine_info(wine_name):
         acidity = len(wine_comp[1].find_elements(by=By.CLASS_NAME, value="on"))
         body = len(wine_comp[2].find_elements(by=By.CLASS_NAME, value="on"))
         tannin = len(wine_comp[3].find_elements(by=By.CLASS_NAME, value="on"))
+
         detail = driver.find_element(by=By.CLASS_NAME, value="view-tab-inner")
-        winery = detail.find_elements(by=By.TAG_NAME, value="dd")[0].text
-        main_grape = detail.find_elements(by=By.TAG_NAME, value="dd")[2].text
-        country = detail.find_elements(by=By.TAG_NAME, value="dd")[1].text.split(">")[0].strip()
-        city = detail.find_elements(by=By.TAG_NAME, value="dd")[1].text.split(">")[-1].strip()
+        detail_title = detail.find_elements(by=By.TAG_NAME, value="dt")
+        detail_info = detail.find_elements(by=By.TAG_NAME, value="dd")
+
+        winery = None
+        main_grape = None
+        country = None
+        city = None
+        alcohol = None
+        serving_temp = None
+        recommend = None
+
+        for idx, title in zip(range(0, len(detail_title)), detail_title):
+            title_text = title.text
+
+            if "생산자" in title_text:
+                winery = detail_info[idx].text
+            elif "국가" in title_text:
+                country = detail_info[idx].text.split(">")[0].strip()
+                city = detail_info[idx].text.split(">")[-1].strip()
+            elif "주요품종" in title_text:
+                main_grape = detail_info[idx].text
+            elif "알코올" in title_text:
+                alcohol = detail_info[idx].text
+            elif "음용온도" in title_text:
+                serving_temp = detail_info[idx].text
+            elif "추천음식" in title_text:
+                recommend = detail_info[idx].text
+
         matching_elements = driver.find_elements(by=By.CLASS_NAME, value="wine-matching-list")
         pairings = []
         aromas = []
@@ -98,6 +128,9 @@ def extract_wine_info(wine_name):
             'city': city,
             'aromas': list(aromas),
             'pairings': list(pairings),
+            'recommend': recommend,
+            'alcohol': alcohol,
+            'serving_temp': serving_temp
         }
     except NoSuchElementException:
         print("f[ERROR] {wine_name}: Cannot extract Wine Info")

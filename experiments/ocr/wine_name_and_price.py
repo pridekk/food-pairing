@@ -4,7 +4,7 @@ import cv2
 import matplotlib.pyplot as plt
 
 
-reader = easyocr.Reader(['ko', 'en'])
+reader = easyocr.Reader(['ko'], recog_network='custom')
 
 img_path = 'images/tag1.JPG'
 img = cv2.imread(img_path)
@@ -13,7 +13,7 @@ img = cv2.imread(img_path)
 if __name__ == "__main__":
   result = reader.readtext(img_path)
 
-  THRESHOLD = 0.3
+  THRESHOLD = 0.01
 
 
   for bbox, text, conf in result:
