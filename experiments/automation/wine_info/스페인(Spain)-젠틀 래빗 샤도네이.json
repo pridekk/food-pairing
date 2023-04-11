@@ -1,0 +1,33 @@
+{
+  "name": "젠틀 래빗 샤도네이",
+  "en_name": "Gentle Rabbit Chardonnay",
+  "price_from_importer": "30,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "로스 트레스 세르디토스 Los Tres Cerditos",
+  "main_grape": "샤르도네 (Chardonnay) , 비우라 (Viura)",
+  "country": "스페인(Spain)",
+  "city": "까리네냐(Carinena)",
+  "aromas": [
+    "흰꽃",
+    "시트러스",
+    "레몬",
+    "살구",
+    "백합",
+    "복숭아"
+  ],
+  "pairings": [
+    "씨푸드",
+    "탕수육",
+    "새우",
+    "양장피",
+    "나물",
+    "잡채",
+    "아시아요리",
+    "한식",
+    "해산물",
+    "조개구이"
+  ]
+}

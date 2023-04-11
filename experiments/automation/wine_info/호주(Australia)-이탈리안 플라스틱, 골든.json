@@ -1,0 +1,21 @@
+{
+  "name": "이탈리안 플라스틱, 골든",
+  "en_name": "Italian Plastic, Golden",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "이탈리안 플라스틱 Italian Plastic",
+  "main_grape": "세미용 (Semillon) , 뮈스까 (Muscat) , 게뷔르츠트라미너 (Gewurztraminer)",
+  "country": "호주(Australia)",
+  "city": "애들레이드 힐즈(Adelaide Hills)",
+  "aromas": [
+    "망고",
+    "감귤"
+  ],
+  "pairings": [
+    "치즈",
+    "흰살생선"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "모비아, 푸로",
+  "en_name": "Movia, Puro",
+  "price_from_importer": "130,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "모비아 Movia",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "슬로베니아(Slovenia)",
+  "city": "고리스카 브르다(Goriska Brda)",
+  "aromas": [
+    "레몬",
+    "허브",
+    "사과",
+    "파인애플"
+  ],
+  "pairings": [
+    "식전주",
+    "아페리티프",
+    "건육",
+    "새우",
+    "생선회",
+    "랍스터",
+    "생선구이",
+    "해산물"
+  ]
+}

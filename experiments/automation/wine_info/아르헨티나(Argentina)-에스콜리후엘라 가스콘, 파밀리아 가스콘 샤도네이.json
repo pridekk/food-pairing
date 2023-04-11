@@ -1,0 +1,32 @@
+{
+  "name": "에스콜리후엘라 가스콘, 파밀리아 가스콘 샤도네이",
+  "en_name": "Escorihuela Gascon, Familia Gascon Chardonnay",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "에스콜리후엘라 가스콘 Escorihuela Gascon",
+  "main_grape": "샤르도네 (Chardonnay) 100%",
+  "country": "아르헨티나(Argentina)",
+  "city": "멘도사(Mendoza)",
+  "aromas": [
+    "멜론",
+    "토스트",
+    "살구",
+    "서양배"
+  ],
+  "pairings": [
+    "훈제오리",
+    "새우",
+    "닭강정",
+    "치킨",
+    "연어",
+    "양념치킨",
+    "오리로스",
+    "후라이드",
+    "바비큐",
+    "해산물",
+    "장어구이"
+  ]
+}

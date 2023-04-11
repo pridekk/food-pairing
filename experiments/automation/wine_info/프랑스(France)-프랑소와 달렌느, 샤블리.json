@@ -1,0 +1,34 @@
+{
+  "name": "프랑소와 달렌느, 샤블리",
+  "en_name": "Francois d'Allaines, Chablis",
+  "price_from_importer": "150,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "도멘 프랑소와 달렌느 Domaine Francois d'Allaines",
+  "main_grape": "샤르도네 (Chardonnay) 100%",
+  "country": "프랑스(France)",
+  "city": "샤블리(Chablis)",
+  "aromas": [
+    "흰꽃",
+    "서양배",
+    "미네랄",
+    "레몬",
+    "부싯돌",
+    "청사과",
+    "레몬껍질"
+  ],
+  "pairings": [
+    "동남아요리",
+    "새우튀김",
+    "문어숙회",
+    "생선 까르파치오",
+    "새우",
+    "연어",
+    "튀김",
+    "오징어튀김",
+    "해산물",
+    "사시미"
+  ]
+}

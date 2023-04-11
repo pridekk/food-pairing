@@ -1,0 +1,32 @@
+{
+  "name": "폴바네라, 풀리아 로사토",
+  "en_name": "Polvanera, Puglia Rosato",
+  "price_from_importer": "90,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "폴바네라 Polvanera",
+  "main_grape": "알레아티코 (Aleatico) 40%, 프리미티보 (Primitivo) 30%, 알리아니코 (Aglianico) 30%",
+  "country": "이탈리아(Italy)",
+  "city": "뿔리아(Puglia)",
+  "aromas": [
+    "체리",
+    "허브",
+    "장미",
+    "딸기",
+    "크랜베리"
+  ],
+  "pairings": [
+    "살라미",
+    "건육",
+    "참치",
+    "꼬치구이",
+    "닭강정",
+    "닭고기",
+    "양념치킨",
+    "치킨",
+    "프로슈토",
+    "바비큐"
+  ]
+}

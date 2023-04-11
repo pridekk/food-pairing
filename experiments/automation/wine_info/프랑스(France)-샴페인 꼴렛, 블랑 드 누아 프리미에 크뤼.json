@@ -1,0 +1,25 @@
+{
+  "name": "샴페인 꼴렛, 블랑 드 누아 프리미에 크뤼",
+  "en_name": "Champagne Collet, Blanc de Noir 1er Cru",
+  "price_from_importer": "180,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "샴페인 꼴렛 Champagne Collet",
+  "main_grape": "피노 누아 (Pinot Noir) 85%, 피노 뮈니에 (Pinot Meunier) 15%",
+  "country": "프랑스(France)",
+  "city": "샹빠뉴(Champagne)",
+  "aromas": [
+    "딸기",
+    "민트",
+    "레몬"
+  ],
+  "pairings": [
+    "연어",
+    "치킨"
+  ],
+  "recommend": "상큼하고 크런치한 과즙 풍미는 칵테일 디너에 적합하며 고수, 차이브, 처빌이 들어간 허브 소스와 그린 애플을 곁들인 연어 타르타르 혹은 루꼴라 샐러드와 바질 페스토를 곁들인 치킨 롤과 같은 서프 앤 터프(Surf and Turf) 요리 등과 잘 어울린다.",
+  "alcohol": "12~13 %",
+  "serving_temp": "6~8 ℃"
+}

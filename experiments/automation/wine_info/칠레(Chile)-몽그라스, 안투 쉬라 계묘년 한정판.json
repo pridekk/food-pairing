@@ -1,0 +1,27 @@
+{
+  "name": "몽그라스, 안투 쉬라 계묘년 한정판",
+  "en_name": "MontGras, Antu Syrah Limited Edition",
+  "price_from_importer": "72,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "몽그라스 MontGras",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz) 100%",
+  "country": "칠레(Chile)",
+  "city": "콜차구아 밸리(Cholchagua Valley)",
+  "aromas": [
+    "블랙체리",
+    "구즈베리",
+    "오크",
+    "초콜릿",
+    "아니스",
+    "정향",
+    "블루베리"
+  ],
+  "pairings": [
+    "양고기",
+    "서양요리",
+    "소고기"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "인스파이어드 컴퍼니, 쉬라즈 까베르네",
+  "en_name": "Inspired Company, Shiraz Cabernet",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "인스파이어드 컴퍼니 Inspired Company",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz) , 카베르네 소비뇽 (Cabernet Sauvignon) , 쁘띠 베르도 (Petit Verdot)",
+  "country": "호주(Australia)",
+  "city": "사우스 이스턴 오스트레일리아(South Eastern Australia)",
+  "aromas": [
+    "유칼립투스",
+    "후추"
+  ],
+  "pairings": [
+    "닭고기",
+    "소고기",
+    "양고기"
+  ]
+}

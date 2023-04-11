@@ -1,0 +1,25 @@
+{
+  "name": "라 쁘띠 수르, 글로불 블랑",
+  "en_name": "La Petite Soeur, Globule Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "라 쁘띠 수르 La Petite Soeur",
+  "main_grape": "슈냉 블랑 (Chenin Blanc)",
+  "country": "프랑스(France)",
+  "city": "루아르(Loire)",
+  "aromas": [
+    "복숭아",
+    "레몬",
+    "살구",
+    "미네랄"
+  ],
+  "pairings": [
+    "복숭아",
+    "치즈",
+    "샐러드",
+    "해산물"
+  ]
+}

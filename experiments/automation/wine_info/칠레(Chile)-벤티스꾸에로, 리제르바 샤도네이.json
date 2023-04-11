@@ -1,0 +1,22 @@
+{
+  "name": "벤티스꾸에로, 리제르바 샤도네이",
+  "en_name": "Ventisquero, Reserva Chardonnay",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "벤티스꾸에로 Ventisquero",
+  "main_grape": "샤르도네 (Chardonnay) 100%",
+  "country": "칠레(Chile)",
+  "city": "카사블랑카 밸리(Casablanca Valley)",
+  "aromas": [
+    "바닐라",
+    "레몬"
+  ],
+  "pairings": [
+    "치즈",
+    "가금류",
+    "파스타"
+  ]
+}

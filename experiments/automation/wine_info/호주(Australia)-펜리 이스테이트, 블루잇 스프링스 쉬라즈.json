@@ -1,0 +1,22 @@
+{
+  "name": "펜리 이스테이트, 블루잇 스프링스 쉬라즈",
+  "en_name": "Penley Estate, Blewitt Springs Shiraz",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "펜리 이스테이트 Penley Estate",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz) 100%",
+  "country": "호주(Australia)",
+  "city": "맥라렌 베일(McLaren Vale)",
+  "aromas": [
+    "구즈베리",
+    "시나몬",
+    "체리",
+    "초콜릿",
+    "허브",
+    "바닐라"
+  ],
+  "pairings": []
+}

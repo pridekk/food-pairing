@@ -1,0 +1,24 @@
+{
+  "name": "콥, 독스 랜치 빈야드 포마드 & 114 셀렉션 피노누아",
+  "en_name": "Cobb, Doc's Ranch Vineyard Pommard & 114 Selection",
+  "price_from_importer": "400,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "콥 와인즈 Cobb Wines",
+  "main_grape": "피노 누아 (Pinot Noir) 100%",
+  "country": "미국(U.S.A)",
+  "city": "소노마 코스트(Sonoma Coast)",
+  "aromas": [
+    "자두",
+    "체리",
+    "블랙베리"
+  ],
+  "pairings": [
+    "자두",
+    "아시아요리",
+    "서양요리",
+    "소고기"
+  ]
+}

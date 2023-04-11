@@ -1,0 +1,32 @@
+{
+  "name": "구아도 알 멜로, 아티스",
+  "en_name": "Guado Al Melo, Atis",
+  "price_from_importer": "204,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 3,
+  "winery": "구아도 알 멜로 Guado Al Melo",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) , 카베르네 프랑 (Cabernet Franc) , 메를로 (Merlot)",
+  "country": "이탈리아(Italy)",
+  "city": "볼게리(Bolgheri)",
+  "aromas": [
+    "블랙커런트",
+    "삼나무",
+    "미네랄",
+    "오크",
+    "허브",
+    "블랙베리"
+  ],
+  "pairings": [
+    "양갈비",
+    "소고기",
+    "양념갈비",
+    "갈비찜",
+    "양고기",
+    "돼지고기",
+    "스테이크",
+    "한식",
+    "바비큐"
+  ]
+}

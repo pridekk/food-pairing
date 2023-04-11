@@ -1,0 +1,21 @@
+{
+  "name": "벤티스꾸에로, 리제르바 피노누아",
+  "en_name": "Ventisquero, Reserva Pinot Noir",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "벤티스꾸에로 Ventisquero",
+  "main_grape": "피노 누아 (Pinot Noir) 100%",
+  "country": "칠레(Chile)",
+  "city": "카사블랑카 밸리(Casablanca Valley)",
+  "aromas": [
+    "바닐라",
+    "딸기"
+  ],
+  "pairings": [
+    "파스타",
+    "닭고기"
+  ]
+}

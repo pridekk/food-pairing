@@ -1,0 +1,29 @@
+{
+  "name": "소렐레 팔라찌, 끼안티 슈페리오레 '라 카시나 디 바디아'",
+  "en_name": "Sorelle Palazzi, Chianti Superiore 'La Casina di Badia'",
+  "price_from_importer": "86,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "소렐레 팔라찌 Sorelle Palazzi",
+  "main_grape": "산지오베제 (Sangiovese)",
+  "country": "이탈리아(Italy)",
+  "city": "키안티(Chianti)",
+  "aromas": [
+    "허브",
+    "블랙체리",
+    "딸기",
+    "시나몬"
+  ],
+  "pairings": [
+    "양갈비",
+    "불고기",
+    "양고기",
+    "파스타",
+    "소고기",
+    "스테이크",
+    "리조또",
+    "한식"
+  ]
+}

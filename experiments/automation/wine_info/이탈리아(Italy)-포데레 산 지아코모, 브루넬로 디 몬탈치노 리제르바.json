@@ -1,0 +1,28 @@
+{
+  "name": "포데레 산 지아코모, 브루넬로 디 몬탈치노 리제르바",
+  "en_name": "Podere San Giacomo, Brunello di Montalcino Riserva",
+  "price_from_importer": "419,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 5,
+  "body": 5,
+  "tannin": 5,
+  "winery": "포데레 산 지아코모 Podere San Giacomo",
+  "main_grape": "산지오베제 그로쏘 (Sangiovese Grosso)",
+  "country": "이탈리아(Italy)",
+  "city": "몬탈치노(Montalcino)",
+  "aromas": [
+    "삼나무",
+    "체리",
+    "미네랄",
+    "오크",
+    "제비꽃",
+    "딸기",
+    "블랙베리"
+  ],
+  "pairings": [
+    "스테이크",
+    "닭고기",
+    "양고기",
+    "소고기"
+  ]
+}

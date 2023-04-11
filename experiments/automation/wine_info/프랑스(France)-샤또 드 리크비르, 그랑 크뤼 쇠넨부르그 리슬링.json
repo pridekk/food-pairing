@@ -1,0 +1,23 @@
+{
+  "name": "샤또 드 리크비르, 그랑 크뤼 쇠넨부르그 리슬링",
+  "en_name": "Chateau de Riquewihr. Schoenenbourg Riesling Grands Crus",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "도프 & 이리옹 Dopff & Irion",
+  "main_grape": "리슬링 (Riesling)",
+  "country": "프랑스(France)",
+  "city": "알자스(Alsace)",
+  "aromas": [
+    "생강",
+    "살구"
+  ],
+  "pairings": [
+    "닭고기"
+  ],
+  "recommend": "고수를 곁들인 오리 스프링롤, 닭고기 풍미의 생강, 부드러운 생선 카레등과 같은 이국적인 음식과 페어링이 좋다. 스위스치즈와 블루치즈 와도 잘 어울린다.",
+  "alcohol": "13~14 %",
+  "serving_temp": "8~10 ℃"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "도멘 보니 가쇼, 본 로마네",
+  "en_name": "Domaine Bony Gachot, Vosne-Romanee",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 3,
+  "winery": "도멘 보니 가쇼 Domaine Bony Gachot",
+  "main_grape": "피노 누아 (Pinot Noir)",
+  "country": "프랑스(France)",
+  "city": "본-로마네(Vosne-Romanee)",
+  "aromas": [
+    "삼나무",
+    "체리",
+    "버섯",
+    "오크",
+    "제비꽃",
+    "딸기",
+    "라스베리"
+  ],
+  "pairings": [
+    "돼지고기",
+    "소고기"
+  ]
+}

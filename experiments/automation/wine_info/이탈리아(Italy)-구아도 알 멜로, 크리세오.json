@@ -1,0 +1,26 @@
+{
+  "name": "구아도 알 멜로, 크리세오",
+  "en_name": "Guado Al Melo,Criseo",
+  "price_from_importer": "113,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 1,
+  "winery": "구아도 알 멜로 Guado Al Melo",
+  "main_grape": "베르멘티노 (Vermentino) , 베르디키오 비앙코 (Verdicchio Bianco) , 피아노 (Fiano) , 만조니 모스카토 (Manzoni Moscato) , 쁘띠 만생 (Petit Manseng)",
+  "country": "이탈리아(Italy)",
+  "city": "볼게리(Bolgheri)",
+  "aromas": [
+    "복숭아",
+    "토스트",
+    "리치",
+    "브리오슈"
+  ],
+  "pairings": [
+    "건육",
+    "꼬치구이",
+    "베이컨",
+    "샐러드",
+    "해산물"
+  ]
+}

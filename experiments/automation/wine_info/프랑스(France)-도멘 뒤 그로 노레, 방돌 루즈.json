@@ -1,0 +1,23 @@
+{
+  "name": "도멘 뒤 그로 노레, 방돌 루즈",
+  "en_name": "Domaine du Gros Nore, Bandol Rouge",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "도멘 뒤 그로 노레 Domaine du Gros Nore",
+  "main_grape": "무르베드르 (Mourvedre) , 그르나슈 (Grenache) , 쌩쏘 (Cinsault)",
+  "country": "프랑스(France)",
+  "city": "방돌(Bandol)",
+  "aromas": [
+    "허브",
+    "리치",
+    "삼나무",
+    "가죽"
+  ],
+  "pairings": [],
+  "recommend": null,
+  "alcohol": null,
+  "serving_temp": "16~18 ℃"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "샤토 뷰 무냑",
+  "en_name": "Chateau Vieux Mougnac",
+  "price_from_importer": "99,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "샤토 뷰 무냑 Chateau Vieux Mougnac",
+  "main_grape": "메를로 (Merlot) , 카베르네 프랑 (Cabernet Franc) , 카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "프랑스(France)",
+  "city": "보르도(Bordeaux)",
+  "aromas": [
+    "카카오",
+    "블랙체리",
+    "오크",
+    "건포도",
+    "허브",
+    "블루베리"
+  ],
+  "pairings": [
+    "스테이크",
+    "치즈",
+    "디저트"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "폴바네라, 풀리아 비앙코 '미누톨로 발레 디트리아'",
+  "en_name": "Polvanera, Puglia Bianco 'Minutolo valle d'Itria'",
+  "price_from_importer": "106,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "폴바네라 Polvanera",
+  "main_grape": "미누톨로 (Minutolo) 100%",
+  "country": "이탈리아(Italy)",
+  "city": "뿔리아(Puglia)",
+  "aromas": [
+    "캐모마일",
+    "살구",
+    "청사과",
+    "허브",
+    "바나나",
+    "구아바",
+    "복숭아"
+  ],
+  "pairings": [
+    "건육",
+    "스시",
+    "새우",
+    "피자",
+    "생선회",
+    "파스타",
+    "프로슈토",
+    "해산물"
+  ]
+}

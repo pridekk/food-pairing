@@ -1,0 +1,21 @@
+{
+  "name": "포지오 알 테소로, 솔로솔레 파구스 카밀라",
+  "en_name": "Poggio al Tesoro, Solosole Pagus Camilla",
+  "price_from_importer": "178,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "포지오 알 테소로 Poggio al Tesoro",
+  "main_grape": "베르멘티노 (Vermentino) 100%",
+  "country": "이탈리아(Italy)",
+  "city": "볼게리(Bolgheri)",
+  "aromas": [
+    "리치"
+  ],
+  "pairings": [
+    "파스타",
+    "흰살생선",
+    "중국요리"
+  ]
+}

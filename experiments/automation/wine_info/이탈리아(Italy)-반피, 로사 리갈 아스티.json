@@ -1,0 +1,25 @@
+{
+  "name": "반피, 로사 리갈 아스티",
+  "en_name": "Banfi, Rosa Regale Asti",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 3,
+  "acidity": 2,
+  "body": 3,
+  "tannin": 1,
+  "winery": "반피 Banfi",
+  "main_grape": "모스카토 (Moscato )",
+  "country": "이탈리아(Italy)",
+  "city": "아스티(Asti)",
+  "aromas": [
+    "라임",
+    "레몬",
+    "장미",
+    "청사과"
+  ],
+  "pairings": [
+    "치즈",
+    "과일",
+    "견과류",
+    "건육"
+  ]
+}

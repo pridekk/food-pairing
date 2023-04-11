@@ -1,0 +1,25 @@
+{
+  "name": "샤토 장 포, 보르도 블랑 '셍뜨 하드공드'",
+  "en_name": "Chateau Jean Faux, Bordeaux Blanc 'Sainte-Radegonde'",
+  "price_from_importer": "120,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "샤토 장 포 Chateau Jean Faux",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc) , 세미용 (Semillon)",
+  "country": "프랑스(France)",
+  "city": "보르도(Bordeaux)",
+  "aromas": [
+    "백도",
+    "복숭아",
+    "열대과일",
+    "바닐라"
+  ],
+  "pairings": [
+    "복숭아",
+    "아시아요리",
+    "서양요리",
+    "해산물"
+  ]
+}

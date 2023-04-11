@@ -1,0 +1,22 @@
+{
+  "name": "버메스터, 30년 타우니 포트",
+  "en_name": "Burmester, 30 Year Old Tawny Port",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 3,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 3,
+  "winery": "버메스터 Burmester",
+  "main_grape": "포트 블렌드 (Port Blend)",
+  "country": "포르투갈(Portugal)",
+  "city": "도우루(Douro)",
+  "aromas": [
+    "바닐라"
+  ],
+  "pairings": [
+    "피스타치오",
+    "푸아그라",
+    "치즈",
+    "과일"
+  ]
+}

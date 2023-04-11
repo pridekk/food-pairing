@@ -1,0 +1,35 @@
+{
+  "name": "샴페인 보드리, 뀌베 프리빌리지 브륏",
+  "en_name": "Champagne Baudry, Cuvee Privilege Brut",
+  "price_from_importer": "152,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "샴페인 보드리 Champagne Baudry",
+  "main_grape": "피노 누아 (Pinot Noir) 80%, 샤르도네 (Chardonnay) 20%",
+  "country": "프랑스(France)",
+  "city": "꼬뜨 데 바(Côte des Bar)",
+  "aromas": [
+    "라임",
+    "시트러스",
+    "아카시아",
+    "살구",
+    "브리오슈",
+    "복숭아",
+    "토스트"
+  ],
+  "pairings": [
+    "아시아요리",
+    "동남아요리",
+    "편육",
+    "킹크랩",
+    "스시",
+    "생굴",
+    "생선회",
+    "동그랑땡",
+    "바닷가재",
+    "한식",
+    "해산물"
+  ]
+}

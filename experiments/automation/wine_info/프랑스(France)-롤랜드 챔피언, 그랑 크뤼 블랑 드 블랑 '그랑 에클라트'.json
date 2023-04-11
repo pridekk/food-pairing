@@ -1,0 +1,27 @@
+{
+  "name": "롤랜드 챔피언, 그랑 크뤼 블랑 드 블랑 '그랑 에클라트'",
+  "en_name": "Roland Champion, Grand Cru Blanc de Blanc 'Grand Eclat'",
+  "price_from_importer": "251,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "롤랜드 챔피언 Roland Champion",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "프랑스(France)",
+  "city": "샹빠뉴(Champagne)",
+  "aromas": [
+    "감귤",
+    "레몬",
+    "파인애플",
+    "브리오슈",
+    "바닐라"
+  ],
+  "pairings": [
+    "식전주",
+    "씨푸드",
+    "생선회",
+    "샐러드",
+    "해산물"
+  ]
+}

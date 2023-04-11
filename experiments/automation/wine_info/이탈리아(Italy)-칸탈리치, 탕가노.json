@@ -1,0 +1,18 @@
+{
+  "name": "칸탈리치, 탕가노",
+  "en_name": "Cantalici, Tangano",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "칸탈리치 Cantalici",
+  "main_grape": "산지오베제 (Sangiovese) , 메를로 (Merlot) , 카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "이탈리아(Italy)",
+  "city": "토스카나(Toscana)",
+  "aromas": [
+    "블랙커런트",
+    "블랙체리"
+  ],
+  "pairings": []
+}

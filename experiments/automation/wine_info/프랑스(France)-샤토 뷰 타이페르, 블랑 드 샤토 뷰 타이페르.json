@@ -1,0 +1,25 @@
+{
+  "name": "샤토 뷰 타이페르, 블랑 드 샤토 뷰 타이페르",
+  "en_name": "Chateau Vieux Taillefer, Blanc de Chateau Vieux Taillefer",
+  "price_from_importer": "291,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "샤토 뷰 타이페르 Chateau Vieux Taillefer",
+  "main_grape": "메를로 블랑 (Merlot Blanc) , 소비뇽 블랑 (Sauvignon Blanc) , 세미용 (Semillon) , 뮈스까델 (Muscadelle) , 샤슬라 (Chasselas)",
+  "country": "프랑스(France)",
+  "city": "생-떼밀리옹(Saint-Emilion)",
+  "aromas": [
+    "흰꽃",
+    "백도",
+    "오렌지",
+    "미네랄"
+  ],
+  "pairings": [
+    "치즈",
+    "닭고기",
+    "샐러드",
+    "해산물"
+  ]
+}

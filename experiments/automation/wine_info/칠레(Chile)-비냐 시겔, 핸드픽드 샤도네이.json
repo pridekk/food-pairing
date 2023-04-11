@@ -1,0 +1,24 @@
+{
+  "name": "비냐 시겔, 핸드픽드 샤도네이",
+  "en_name": "Vina Siegel, Handpicked Chardonnay",
+  "price_from_importer": "35,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "비냐 시겔 Vina Siegel",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "칠레(Chile)",
+  "city": "콜차구아 밸리(Cholchagua Valley)",
+  "aromas": [
+    "흰꽃",
+    "레몬",
+    "바닐라"
+  ],
+  "pairings": [
+    "파스타",
+    "닭고기",
+    "매운음식",
+    "해산물"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "피닉스 카베르네 소비뇽",
+  "en_name": "Phoenix Cabernet Sauvignon",
+  "price_from_importer": "271,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "피닉스 와인 Phoenix",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "미국(U.S.A)",
+  "city": "나파 밸리(Napa Valley)",
+  "aromas": [
+    "블랙커런트",
+    "시나몬",
+    "오크",
+    "초콜릿",
+    "후추",
+    "레드커런트"
+  ],
+  "pairings": [
+    "양갈비",
+    "육포",
+    "불고기",
+    "소고기"
+  ]
+}

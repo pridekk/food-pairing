@@ -1,0 +1,23 @@
+{
+  "name": "토마 스파클링",
+  "en_name": "Toma Sparking",
+  "price_from_importer": "18,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "보데가스 로자노 Bodegas Lozano",
+  "main_grape": "아이렌 (Airen) , 모스카텔 (Moscatel)",
+  "country": "스페인(Spain)",
+  "city": "스페인(Spain)",
+  "aromas": [
+    "흰꽃",
+    "시트러스",
+    "레몬"
+  ],
+  "pairings": [
+    "과일",
+    "치즈",
+    "디저트"
+  ]
+}

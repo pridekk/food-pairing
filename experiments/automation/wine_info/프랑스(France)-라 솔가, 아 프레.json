@@ -1,0 +1,25 @@
+{
+  "name": "라 솔가, 아 프레",
+  "en_name": "La Sorga, A Freux",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 1,
+  "winery": "라 솔가 La Sorga",
+  "main_grape": "그르나슈 블랑 (Grenache Blanc) , 마르산느 (Marsanne)",
+  "country": "프랑스(France)",
+  "city": "랑그독 루씨용(Languedoc Roussillon)",
+  "aromas": [
+    "복숭아",
+    "말린과일",
+    "살구"
+  ],
+  "pairings": [
+    "킹크랩",
+    "닭고기",
+    "복숭아",
+    "랍스터",
+    "튀김"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "크론티라스 아프론 펫 낫",
+  "en_name": "Krontiras Afron Pet Nat",
+  "price_from_importer": "123,000원( 750ml )",
+  "sugar": 2,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 2,
+  "winery": "보데가스 크론티라스 Bodegas Krontiras",
+  "main_grape": "알리아니코 (Aglianico)",
+  "country": "아르헨티나(Argentina)",
+  "city": "멘도사(Mendoza)",
+  "aromas": [
+    "시트러스",
+    "청사과",
+    "체리"
+  ],
+  "pairings": []
+}

@@ -1,0 +1,20 @@
+{
+  "name": "칸타구아 리제르바 샤도네이",
+  "en_name": "Cantagua Reserva Chardonnay",
+  "price_from_importer": "85,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "밸레 프리오 와인 Valle Frio Wine",
+  "main_grape": "샤르도네 (Chardonnay) 100%",
+  "country": "칠레(Chile)",
+  "city": "센트럴 밸리(Central Valley)",
+  "aromas": [
+    "라임",
+    "시트러스",
+    "버터",
+    "흰꽃"
+  ],
+  "pairings": []
+}

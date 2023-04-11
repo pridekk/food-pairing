@@ -1,0 +1,37 @@
+{
+  "name": "에스콜리후엘라 가스콘, 페퀘냐스 프로두시오네 카베르네 소비뇽",
+  "en_name": "Escorihuela Gascon, Pequenas Producciones Cabernet Sauvignon",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 3,
+  "winery": "에스콜리후엘라 가스콘 Escorihuela Gascon",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) 100%",
+  "country": "아르헨티나(Argentina)",
+  "city": "멘도사(Mendoza)",
+  "aromas": [
+    "자두",
+    "블랙체리",
+    "삼나무",
+    "오크",
+    "후추",
+    "정향",
+    "블랙베리",
+    "코코아",
+    "커피",
+    "바닐라"
+  ],
+  "pairings": [
+    "양갈비",
+    "로스트비프",
+    "하몽",
+    "건육",
+    "붉은육류",
+    "양고기",
+    "소고기",
+    "프로슈토",
+    "스테이크",
+    "바비큐"
+  ]
+}

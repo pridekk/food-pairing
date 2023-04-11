@@ -1,0 +1,36 @@
+{
+  "name": "레오네 데 카스트리스, 살렌토 로사토 파이브 로지스",
+  "en_name": "Leone de Castris, Salento Rosato Five Roses",
+  "price_from_importer": "70,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 2,
+  "body": 3,
+  "tannin": 1,
+  "winery": "레오네 데 카스트리스 Leone de Castris",
+  "main_grape": "네그로아마로 (Negroamaro) 90%, 말바시아 네라 (Malvasia nera) 10%",
+  "country": "이탈리아(Italy)",
+  "city": "뿔리아(Puglia)",
+  "aromas": [
+    "크랜베리",
+    "살구",
+    "딸기",
+    "체리"
+  ],
+  "pairings": [
+    "훈제오리",
+    "오리고기",
+    "불고기",
+    "꼬치구이",
+    "떡볶이",
+    "피자",
+    "닭강정",
+    "보쌈",
+    "토마토파스타",
+    "오리로스",
+    "볶음밥",
+    "만두",
+    "한식",
+    "바비큐",
+    "족발"
+  ]
+}

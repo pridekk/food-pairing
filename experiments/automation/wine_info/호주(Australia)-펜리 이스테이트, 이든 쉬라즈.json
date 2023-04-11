@@ -1,0 +1,34 @@
+{
+  "name": "펜리 이스테이트, 이든 쉬라즈",
+  "en_name": "Penley Estate, Eden Shiraz",
+  "price_from_importer": "48,400원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "펜리 이스테이트 Penley Estate",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz) 100%",
+  "country": "호주(Australia)",
+  "city": "쿠나와라(Coonawarra)",
+  "aromas": [
+    "후추",
+    "블랙체리",
+    "블루베리",
+    "자두",
+    "정향",
+    "블랙베리"
+  ],
+  "pairings": [
+    "스튜",
+    "소고기",
+    "양갈비",
+    "양념갈비",
+    "스테이크",
+    "크림파스타",
+    "라자냐",
+    "갈비찜"
+  ],
+  "recommend": "소고기, 스테이크, 갈비찜, 양념갈비, 양갈비, 라자냐, 스튜, 크림파스타, 숙성 치즈 등과 잘 어울린다.",
+  "alcohol": "14~15 %",
+  "serving_temp": "16~18 ℃"
+}

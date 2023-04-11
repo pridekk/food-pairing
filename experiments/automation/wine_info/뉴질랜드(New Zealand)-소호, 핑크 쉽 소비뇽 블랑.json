@@ -1,0 +1,31 @@
+{
+  "name": "소호, 핑크 쉽 소비뇽 블랑",
+  "en_name": "Soho, Pink Sheep Sauvignon Blanc",
+  "price_from_importer": "60,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "소호 Soho",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc)",
+  "country": "뉴질랜드(New Zealand)",
+  "city": "말보로(Marlborough)",
+  "aromas": [
+    "시트러스",
+    "열대과일",
+    "레몬껍질"
+  ],
+  "pairings": [
+    "동남아요리",
+    "스시",
+    "생선 까르파치오",
+    "문어숙회",
+    "생선회",
+    "농어",
+    "광어",
+    "아시아요리",
+    "튀김",
+    "해산물",
+    "조개구이"
+  ]
+}

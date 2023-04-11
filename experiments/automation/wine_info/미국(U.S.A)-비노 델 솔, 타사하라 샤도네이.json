@@ -1,0 +1,25 @@
+{
+  "name": "비노 델 솔, 타사하라 샤도네이",
+  "en_name": "Vino del Sol, Tassajara Chardonnay",
+  "price_from_importer": "50,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "비노 델 솔 Vino del Sol",
+  "main_grape": "샤르도네 (Chardonnay) 100%",
+  "country": "미국(U.S.A)",
+  "city": "몬터레이(Monterey)",
+  "aromas": [
+    "사과",
+    "바닐라",
+    "감귤",
+    "멜론"
+  ],
+  "pairings": [
+    "치킨",
+    "샐러드",
+    "새우",
+    "과일"
+  ]
+}

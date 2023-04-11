@@ -1,0 +1,25 @@
+{
+  "name": "까나르 뒤센, 브이 빈티지 브뤼 나뛰르",
+  "en_name": "Canard-Duchene, V Vintage Brut Nature",
+  "price_from_importer": "400,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "까나르 뒤센 Canard-Duchene",
+  "main_grape": "피노 누아 (Pinot Noir) , 피노 뮈니에 (Pinot Meunier)",
+  "country": "프랑스(France)",
+  "city": "샹빠뉴(Champagne)",
+  "aromas": [
+    "자두",
+    "미네랄",
+    "자몽",
+    "브리오슈"
+  ],
+  "pairings": [
+    "자두"
+  ],
+  "recommend": null,
+  "alcohol": "12~13 %",
+  "serving_temp": "6~8 ℃"
+}

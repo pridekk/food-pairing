@@ -1,0 +1,35 @@
+{
+  "name": "7컬러즈, 샤도네이",
+  "en_name": "7Colores, Chardonnay",
+  "price_from_importer": "24,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "세븐 컬러즈 7 Colores",
+  "main_grape": "샤르도네 (Chardonnay) 100%",
+  "country": "칠레(Chile)",
+  "city": "센트럴 밸리(Central Valley)",
+  "aromas": [
+    "미네랄",
+    "서양배",
+    "호두",
+    "청사과",
+    "허브",
+    "아몬드"
+  ],
+  "pairings": [
+    "훈제오리",
+    "씨푸드",
+    "참치",
+    "베이컨",
+    "치킨",
+    "양념치킨",
+    "게살",
+    "오리로스",
+    "돼지고기",
+    "바비큐",
+    "해산물",
+    "장어구이"
+  ]
+}

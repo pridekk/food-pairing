@@ -1,0 +1,25 @@
+{
+  "name": "크로프트, 리저브 토니 포트",
+  "en_name": "Croft, Reserve Tawny Port",
+  "price_from_importer": "58,000원( 750ml )",
+  "sugar": 4,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "크로프트 Croft",
+  "main_grape": "투리가 나시오날 (Touriga Nacional) , 투리가 프란체사 (Touriga Francesa) , 틴토 까오 (Tinto Cao) , 틴타 로리즈 (Tinta Roriz) , 틴타 바로카 (Tinta Barroca)",
+  "country": "포르투갈(Portugal)",
+  "city": "도우루(Douro)",
+  "aromas": [
+    "자두",
+    "허브",
+    "정향",
+    "딸기"
+  ],
+  "pairings": [
+    "자두",
+    "치즈",
+    "초콜릿",
+    "호두"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "살트램, 1859 에덴 밸리 샤르도네",
+  "en_name": "Saltram, 1859 Eden Valley Chardonnay",
+  "price_from_importer": "64,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "살트렘 에스테이트 Saltram Estate",
+  "main_grape": "샤르도네 (Chardonnay) 100%",
+  "country": "호주(Australia)",
+  "city": "에덴 밸리(Eden Valley)",
+  "aromas": [
+    "오크",
+    "토스트",
+    "복숭아",
+    "감귤"
+  ],
+  "pairings": [
+    "복숭아"
+  ],
+  "recommend": null,
+  "alcohol": "13~14 %",
+  "serving_temp": "10~12 ℃"
+}

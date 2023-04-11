@@ -1,0 +1,22 @@
+{
+  "name": "피에르 네종, 제브리 샹베르탱 '레 크레'",
+  "en_name": "Pierre Naigeon, Gevrey-Chambertin 'Les Crais'",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "피에르 네종 Pierre Naigeon",
+  "main_grape": "피노 누아 (Pinot Noir) 100%",
+  "country": "프랑스(France)",
+  "city": "쥬브레-샹베르땅(Gevrey-Chambertin)",
+  "aromas": [
+    "라스베리",
+    "블루베리"
+  ],
+  "pairings": [
+    "로스트비프",
+    "서양요리",
+    "소고기"
+  ]
+}

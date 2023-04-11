@@ -1,0 +1,24 @@
+{
+  "name": "보데가스 델 팔라시오 데 페피냐네스, 알바리뇨 드 페피냐네스",
+  "en_name": "Bodegas del Palacio de Fefinanes, Albarino de Fefinanes",
+  "price_from_importer": "104,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "보데가스 델 팔라시오 데 페피냐네스 Bodegas del Palacio de Fefinanes",
+  "main_grape": "알바리뇨 (Albarino(Alvarinho)) 100%",
+  "country": "스페인(Spain)",
+  "city": "리아스 바이사스(Rias Baixas)",
+  "aromas": [
+    "멜론",
+    "시트러스",
+    "캐모마일",
+    "청사과"
+  ],
+  "pairings": [
+    "서양음식",
+    "훈제오리",
+    "생선구이"
+  ]
+}

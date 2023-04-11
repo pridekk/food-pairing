@@ -1,0 +1,21 @@
+{
+  "name": "레이지 와인메이커 카베르네 소비뇽",
+  "en_name": "Lazy Winemaker Cabernet Sauvignon",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "에체베리아 Echeverria",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "칠레(Chile)",
+  "city": "쿠리코 밸리(Curico Valley)",
+  "aromas": [
+    "딸기",
+    "초콜릿"
+  ],
+  "pairings": [
+    "파스타",
+    "치즈"
+  ]
+}

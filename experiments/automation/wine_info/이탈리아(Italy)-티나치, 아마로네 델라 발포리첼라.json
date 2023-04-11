@@ -1,0 +1,33 @@
+{
+  "name": "티나치, 아마로네 델라 발포리첼라",
+  "en_name": "Tinazzi, Amarone della Valpolicella",
+  "price_from_importer": "140,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 2,
+  "winery": "티나찌 Tinazzi",
+  "main_grape": "코르비나 (Corvina) , 코르비노네 (Corvinone) , 론디넬라 (Rondinella)",
+  "country": "이탈리아(Italy)",
+  "city": "발폴리첼라(Valpolicella)",
+  "aromas": [
+    "자두",
+    "말린자두",
+    "체리",
+    "시나몬",
+    "크랜베리",
+    "레드커런트",
+    "바닐라"
+  ],
+  "pairings": [
+    "양갈비",
+    "로스트비프",
+    "스튜",
+    "불고기",
+    "토마토파스타",
+    "파스타",
+    "소고기",
+    "스테이크",
+    "족발"
+  ]
+}

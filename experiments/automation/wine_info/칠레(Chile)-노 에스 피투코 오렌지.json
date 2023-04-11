@@ -1,0 +1,21 @@
+{
+  "name": "노 에스 피투코 오렌지",
+  "en_name": "No Es Pituko Orange Sauvignon Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 2,
+  "winery": "에체베리아 Echeverria",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc)",
+  "country": "칠레(Chile)",
+  "city": "쿠리코 밸리(Curico Valley)",
+  "aromas": [
+    "복숭아",
+    "오렌지"
+  ],
+  "pairings": [
+    "복숭아",
+    "치즈"
+  ]
+}

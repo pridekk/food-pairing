@@ -1,0 +1,30 @@
+{
+  "name": "지아꼬모 그리말디, 랑게 소비뇽",
+  "en_name": "Giacomo Grimaldi, Langhe Sauvignon",
+  "price_from_importer": "66,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "지아꼬모 그리말디 Giacomo Grimaldi",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc) 100%",
+  "country": "이탈리아(Italy)",
+  "city": "피에몬테(Piemonte)",
+  "aromas": [
+    "흰꽃",
+    "미네랄",
+    "레몬",
+    "살구",
+    "복숭아"
+  ],
+  "pairings": [
+    "동남아요리",
+    "흰살생선",
+    "새우",
+    "광어",
+    "아시아요리",
+    "튀김",
+    "해산물",
+    "장어구이"
+  ]
+}

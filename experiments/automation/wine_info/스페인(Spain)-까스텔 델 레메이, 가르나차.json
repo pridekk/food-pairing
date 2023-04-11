@@ -1,0 +1,22 @@
+{
+  "name": "까스텔 델 레메이, 가르나차",
+  "en_name": "Castell del Remei, Garnatxa",
+  "price_from_importer": "99,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "까스텔 델 레메이 Castell del Remei",
+  "main_grape": "가르나차 (Garnacha)",
+  "country": "스페인(Spain)",
+  "city": "까탈루냐(Cataluna)",
+  "aromas": [
+    "체리"
+  ],
+  "pairings": [
+    "쇠고기",
+    "파스타",
+    "닭고기",
+    "양고기"
+  ]
+}

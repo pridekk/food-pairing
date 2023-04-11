@@ -1,0 +1,29 @@
+{
+  "name": "펜리 이스테이트, 조지나 프림로즈 로제",
+  "en_name": "Penley Estate, Georgina Primrose Rose",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 2,
+  "winery": "펜리 이스테이트 Penley Estate",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) 100%",
+  "country": "호주(Australia)",
+  "city": "쿠나와라(Coonawarra)",
+  "aromas": [
+    "라스베리",
+    "장미",
+    "딸기",
+    "체리"
+  ],
+  "pairings": [
+    "편육",
+    "스시",
+    "떡볶이",
+    "베이컨",
+    "생선회",
+    "순대",
+    "바비큐",
+    "해산물"
+  ]
+}

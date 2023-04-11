@@ -1,0 +1,30 @@
+{
+  "name": "안티코 포데레 카사노바, 간디노 로쏘 IGT",
+  "en_name": "Antico Podere Casanova, Gandino Rosso IGT",
+  "price_from_importer": "180,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 3,
+  "winery": "안티코 포데레 카사노바 Antico Podere Casanova",
+  "main_grape": "산지오베제 (Sangiovese) , 카나이올로 (Canaiolo)",
+  "country": "이탈리아(Italy)",
+  "city": "키안티(Chianti)",
+  "aromas": [
+    "시가박스",
+    "삼나무",
+    "오크",
+    "제비꽃",
+    "정향",
+    "블루베리",
+    "블랙베리",
+    "코코아",
+    "다크초콜릿",
+    "바닐라"
+  ],
+  "pairings": [
+    "스테이크",
+    "오리고기",
+    "돼지고기"
+  ]
+}

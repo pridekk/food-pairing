@@ -1,0 +1,23 @@
+{
+  "name": "벨레노시, 닌파",
+  "en_name": "Velenosi, Ninfa",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 5,
+  "tannin": 3,
+  "winery": "벨레노시 Velenosi",
+  "main_grape": "몬테풀치아노 (Montepulciano) , 카베르네 소비뇽 (Cabernet Sauvignon) , 메를로 (Merlot) , 시라/쉬라즈 (Syrah/Shiraz)",
+  "country": "이탈리아(Italy)",
+  "city": "마르케(Marche)",
+  "aromas": [
+    "오크",
+    "블루베리",
+    "블랙베리"
+  ],
+  "pairings": [
+    "돼지고기",
+    "닭고기",
+    "소고기"
+  ]
+}

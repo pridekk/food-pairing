@@ -1,0 +1,24 @@
+{
+  "name": "도멘 드 레드르, 또따벨 후즈 까헤망 후즈",
+  "en_name": "Domaine de l'Edre, Carrément Rouge",
+  "price_from_importer": "108,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "도멘 드 레드르 Domaine de l'Edre",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz) , 그르나슈 (Grenache) , 까리냥 (Carignan/Carignane) , 무르베드르 (Mourvedre)",
+  "country": "프랑스(France)",
+  "city": "랑그독 루씨용(Languedoc Roussillon)",
+  "aromas": [
+    "블랙커런트",
+    "정향",
+    "블랙베리"
+  ],
+  "pairings": [
+    "양갈비",
+    "스테이크",
+    "서양요리",
+    "소고기"
+  ]
+}

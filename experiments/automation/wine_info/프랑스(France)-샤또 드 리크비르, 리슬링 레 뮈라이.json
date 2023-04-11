@@ -1,0 +1,27 @@
+{
+  "name": "샤또 드 리크비르, 리슬링 레 뮈라이",
+  "en_name": "Chateau de Riquewihr, Riesling Les Murailles",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "도프 & 이리옹 Dopff & Irion",
+  "main_grape": "리슬링 (Riesling)",
+  "country": "프랑스(France)",
+  "city": "알자스(Alsace)",
+  "aromas": [
+    "복숭아",
+    "시트러스",
+    "파인애플"
+  ],
+  "pairings": [
+    "스튜",
+    "치즈",
+    "포크",
+    "복숭아"
+  ],
+  "recommend": "해산물, 타불리(중동식 야채) 샐러드, 시트러스가 가미된 탄진(모로코 전통 스튜), 살구를 곁들인 로스트 포크, 숭어 요리, 구운 바닷가재, 세미 하드 염소 치즈 둥과 잘 어울린다.",
+  "alcohol": "12~13 %",
+  "serving_temp": "8~10 ℃"
+}

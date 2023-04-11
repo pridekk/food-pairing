@@ -1,0 +1,30 @@
+{
+  "name": "디 메오, 타우라시 리제르바 비냐 올모",
+  "en_name": "Di Meo, Taurasi Riserva Vigna Olmo",
+  "price_from_importer": "230,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 5,
+  "tannin": 4,
+  "winery": "디 메오 Di Meo",
+  "main_grape": "알리아니코 (Aglianico)",
+  "country": "이탈리아(Italy)",
+  "city": "깜빠니아(Campania)",
+  "aromas": [
+    "시가박스",
+    "삼나무",
+    "오크",
+    "라스베리",
+    "타바코",
+    "감초"
+  ],
+  "pairings": [
+    "양갈비",
+    "건육",
+    "양고기",
+    "그릴요리",
+    "소고기",
+    "스테이크",
+    "바비큐"
+  ]
+}

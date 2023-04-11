@@ -1,0 +1,23 @@
+{
+  "name": "라 솔가, 라 몽타뉴 사크레",
+  "en_name": "La Sorga, La Montagne Sacree",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 1,
+  "winery": "라 솔가 La Sorga",
+  "main_grape": "그르나슈 블랑 (Grenache Blanc) , 뮈스까 (Muscat)",
+  "country": "",
+  "city": "",
+  "aromas": [
+    "시트러스",
+    "열대과일",
+    "살구"
+  ],
+  "pairings": [
+    "씨푸드",
+    "튀김",
+    "해산물"
+  ]
+}

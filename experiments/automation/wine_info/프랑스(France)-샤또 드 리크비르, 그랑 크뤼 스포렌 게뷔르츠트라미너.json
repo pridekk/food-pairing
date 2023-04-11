@@ -1,0 +1,24 @@
+{
+  "name": "샤또 드 리크비르, 그랑 크뤼 스포렌 게뷔르츠트라미너",
+  "en_name": "Chateau de Riquewihr, Grands Crus Sporen Gewurztraminer",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "도프 & 이리옹 Dopff & Irion",
+  "main_grape": "게뷔르츠트라미너 (Gewurztraminer) 100%",
+  "country": "프랑스(France)",
+  "city": "알자스(Alsace)",
+  "aromas": [
+    "아몬드",
+    "멜론"
+  ],
+  "pairings": [
+    "돼지",
+    "푸아그라"
+  ],
+  "recommend": "푸아그라 브리오슈, 캐러멜화 시킨 돼지갈비, 꿀을 곁들인 염소 코티지치즈 또는 민트를 넣은 멜론 수프 등과 같은 진하고 스파이시한 음식들과 잘 어울린다.",
+  "alcohol": "15~16 %",
+  "serving_temp": "8~10 ℃"
+}

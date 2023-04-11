@@ -1,0 +1,20 @@
+{
+  "name": "로카 디 카스타뇰리, 키안티 클라시코",
+  "en_name": "Rocca di Castagnoli, Chianti Classico",
+  "price_from_importer": "98,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "로카 디 카스타놀리 Rocca di Castagnoli",
+  "main_grape": "산지오베제 (Sangiovese) , 카나이올로 (Canaiolo) , 콜로리노 (Colorino)",
+  "country": "이탈리아(Italy)",
+  "city": "키안티 클라시코(Chianti Classico)",
+  "aromas": [
+    "라스베리",
+    "블랙체리",
+    "블루베리",
+    "레드커런트"
+  ],
+  "pairings": []
+}

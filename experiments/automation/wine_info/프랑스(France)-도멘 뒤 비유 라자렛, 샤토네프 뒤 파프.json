@@ -1,0 +1,22 @@
+{
+  "name": "도멘 뒤 비유 라자렛, 샤토네프 뒤 파프",
+  "en_name": "Domaine du Vieux Lazaret , Chateauneuf-du-Pape",
+  "price_from_importer": "160,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "도멘 뒤 비유 라자렛 Domaine du Vieux Lazaret",
+  "main_grape": "그르나슈 (Grenache) , 시라/쉬라즈 (Syrah/Shiraz) , 무르베드르 (Mourvedre) , 쌩쏘 (Cinsault) , 쿠누아즈 (Counoise) , 바카레스 (Vaccarese)",
+  "country": "프랑스(France)",
+  "city": "샤또네프 뒤 빠쁘(Chateauneuf du Pape)",
+  "aromas": [
+    "블랙체리",
+    "오크",
+    "초콜릿",
+    "블랙베리",
+    "커피",
+    "레드커런트"
+  ],
+  "pairings": []
+}

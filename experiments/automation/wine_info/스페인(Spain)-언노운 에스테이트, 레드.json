@@ -1,0 +1,32 @@
+{
+  "name": "언노운 에스테이트, 레드",
+  "en_name": "Unknown Estate, Red",
+  "price_from_importer": "30,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "언노운 에스테이트 Unknown Estate",
+  "main_grape": "모나스트렐 (Monastrell) , 시라/쉬라즈 (Syrah/Shiraz)",
+  "country": "스페인(Spain)",
+  "city": "예클라(Yecla)",
+  "aromas": [
+    "자두",
+    "블랙커런트",
+    "블랙체리",
+    "삼나무",
+    "오크",
+    "후추",
+    "블랙베리",
+    "타바코",
+    "바닐라"
+  ],
+  "pairings": [
+    "양갈비",
+    "살라미",
+    "갈비찜",
+    "양념갈비",
+    "소고기",
+    "스테이크"
+  ]
+}

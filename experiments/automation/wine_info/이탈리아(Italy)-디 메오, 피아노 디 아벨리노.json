@@ -1,0 +1,30 @@
+{
+  "name": "디 메오, 피아노 디 아벨리노",
+  "en_name": "Di Meo, Fiano di Avellino",
+  "price_from_importer": "113,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "디 메오 Di Meo",
+  "main_grape": "피아노 (Fiano)",
+  "country": "이탈리아(Italy)",
+  "city": "아벨리노(Avellino)",
+  "aromas": [
+    "복숭아",
+    "오렌지",
+    "살구",
+    "미네랄"
+  ],
+  "pairings": [
+    "서양요리",
+    "새우",
+    "감자튀김",
+    "파스타",
+    "동그랑땡",
+    "잡채",
+    "한식",
+    "튀김",
+    "해산물"
+  ]
+}

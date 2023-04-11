@@ -1,0 +1,39 @@
+{
+  "name": "프랑소와 달렌느, 부르고뉴 피노누아 '엘레바쥬'",
+  "en_name": "Francois d'Allaines, Bourgogne Pinot Noir 'Elevage'",
+  "price_from_importer": "150,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "도멘 프랑소와 달렌느 Domaine Francois d'Allaines",
+  "main_grape": "피노 누아 (Pinot Noir)",
+  "country": "프랑스(France)",
+  "city": "상트네(Santenay)",
+  "aromas": [
+    "블랙커런트",
+    "블랙체리",
+    "오크",
+    "바닐라",
+    "블랙베리",
+    "감초"
+  ],
+  "pairings": [
+    "훈제오리",
+    "로스트비프",
+    "하몽",
+    "건육",
+    "오리고기",
+    "비프",
+    "편육",
+    "불고기",
+    "오리로스",
+    "닭강정",
+    "수육",
+    "동그랑땡",
+    "소고기",
+    "프로슈토",
+    "육회",
+    "까르파치오"
+  ]
+}

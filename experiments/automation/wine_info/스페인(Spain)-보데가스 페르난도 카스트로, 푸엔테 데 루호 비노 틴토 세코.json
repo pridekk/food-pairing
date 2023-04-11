@@ -1,0 +1,25 @@
+{
+  "name": "보데가스 페르난도 카스트로, 푸엔테 데 루호 비노 틴토 세코",
+  "en_name": "Bodegas Fernando Castro, Fuente de Rujo Vino Tinto Secco",
+  "price_from_importer": "65,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "보데가스 페르난도 카스트로 Bodegas Fernando Castro",
+  "main_grape": "템프라니요 (Tempranillo) , 기타 품종 (Other Grapes)",
+  "country": "스페인(Spain)",
+  "city": "라 만차(La Mancha)",
+  "aromas": [
+    "자두",
+    "블랙커런트",
+    "블랙체리",
+    "후추",
+    "블랙베리",
+    "레드커런트",
+    "감초"
+  ],
+  "pairings": [
+    "자두"
+  ]
+}

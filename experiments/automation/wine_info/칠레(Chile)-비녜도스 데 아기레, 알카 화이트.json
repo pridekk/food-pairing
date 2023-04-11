@@ -1,0 +1,26 @@
+{
+  "name": "비녜도스 데 아기레, 알카 화이트",
+  "en_name": "Vinedos de Aguirre, Alka White",
+  "price_from_importer": "16,900원( 750ml )",
+  "sugar": 3,
+  "acidity": 2,
+  "body": 1,
+  "tannin": 1,
+  "winery": "보데가스 이 비녜도스 데 아기레 Bodegas y Vinedos de Aguirre",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc)",
+  "country": "칠레(Chile)",
+  "city": "센트럴 밸리(Central Valley)",
+  "aromas": [
+    "레몬",
+    "살구",
+    "리치"
+  ],
+  "pairings": [
+    "동남아요리",
+    "초밥",
+    "새우",
+    "치킨",
+    "아시아요리",
+    "해산물"
+  ]
+}

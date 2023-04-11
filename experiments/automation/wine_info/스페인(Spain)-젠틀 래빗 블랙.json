@@ -1,0 +1,28 @@
+{
+  "name": "젠틀 래빗 블랙",
+  "en_name": "Gentle Rabbit Black",
+  "price_from_importer": "50,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 2,
+  "winery": "로스 트레스 세르디토스 Los Tres Cerditos",
+  "main_grape": "가르나차 (Garnacha) 100%",
+  "country": "스페인(Spain)",
+  "city": "까리네냐(Carinena)",
+  "aromas": [
+    "블랙커런트",
+    "초콜릿",
+    "바닐라",
+    "블랙베리",
+    "아몬드",
+    "감초"
+  ],
+  "pairings": [
+    "양갈비",
+    "훈제오리",
+    "불고기",
+    "갈비찜",
+    "스테이크"
+  ]
+}

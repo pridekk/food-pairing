@@ -1,0 +1,33 @@
+{
+  "name": "깐텔레, 살렌토 비앙코 '테레사 마나라'",
+  "en_name": "Cantele, Salento Bianco, 'Teresa Manara'",
+  "price_from_importer": "133,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "깐텔레 Cantele",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "이탈리아(Italy)",
+  "city": "뿔리아(Puglia)",
+  "aromas": [
+    "서양배",
+    "살구",
+    "황도",
+    "열대과일",
+    "브리오슈",
+    "자몽",
+    "토스트"
+  ],
+  "pairings": [
+    "씨푸드",
+    "장어",
+    "소시지",
+    "닭강정",
+    "연어",
+    "농어",
+    "양념치킨",
+    "찜닭",
+    "참치"
+  ]
+}

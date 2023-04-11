@@ -1,0 +1,25 @@
+{
+  "name": "디 메오, 그레코 디 투포",
+  "en_name": "Di Meo, Greco di Tufo",
+  "price_from_importer": "113,000원( 750ml )",
+  "sugar": 2,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "디 메오 Di Meo",
+  "main_grape": "그레코 비앙코 (Greco Bianco)",
+  "country": "이탈리아(Italy)",
+  "city": "깜빠니아(Campania)",
+  "aromas": [
+    "라임",
+    "오렌지",
+    "삼나무",
+    "열대과일"
+  ],
+  "pairings": [
+    "프로슈토",
+    "꼬치구이",
+    "잡채",
+    "닭강정"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "7컬러즈, 리제르바 샤도네이-세미용",
+  "en_name": "7Colores, Reserva Chardonnay-Semillon",
+  "price_from_importer": "32,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "세븐 컬러즈 7 Colores",
+  "main_grape": "샤르도네 (Chardonnay) 95%, 세미용 (Semillon) 5%",
+  "country": "칠레(Chile)",
+  "city": "센트럴 밸리(Central Valley)",
+  "aromas": [
+    "라임",
+    "서양배",
+    "레몬",
+    "청사과",
+    "파인애플"
+  ],
+  "pairings": [
+    "훈제오리",
+    "오리로스",
+    "새우",
+    "양념치킨",
+    "장어구이",
+    "바닷가재",
+    "바비큐",
+    "해산물"
+  ]
+}

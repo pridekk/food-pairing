@@ -2,9 +2,9 @@ import os
 import sys
 import time
 import random
+import re
 import string
 import argparse
-
 import torch
 import torch.backends.cudnn as cudnn
 import torch.nn.init as init
@@ -217,8 +217,8 @@ def train(opt):
                 print(predicted_result_log)
                 log.write(predicted_result_log + '\n')
 
-        # save model per 1e+5 iter.
-        if (iteration + 1) % 1e+5 == 0:
+        # save model per 1e+4 iter.
+        if (iteration + 1) % 1e+4 == 0: 
             torch.save(
                 model.state_dict(), f'./saved_models/{opt.exp_name}/iter_{iteration+1}.pth')
 
@@ -228,24 +228,28 @@ def train(opt):
         iteration += 1
 
 
-def get_all_wine_characters():
-    files = glob("../../automation/wine_info/*.json")
+def get_wine_names():
+    wine_files = glob("../../automation/wine_info/*.json")
+    wine_2x_list = [re.split(',| ', wine.replace("'", "").replace("°", "").replace("+", "").split("-")[-1].split(".")[0].strip()) for wine in wine_files]
 
-    char_set = set()
+    wine_list = sum(wine_2x_list, [])
+    wine_list = [item for item in wine_list if len(item) > 0]
+    random.shuffle(wine_list)
+    return wine_list
 
-    for file in files:
-       char_set = char_set.union(set([char for char in file if char not in " _/\\-,.json"]))
 
-    for number in range(0,10):
-        char_set.add(str(number))
+def get_chars(items):
+    char_set = {"0", "1", "2", "3", "4", "5", '6', '7', '8', '9'}
+    for item in items:
+        char_set = char_set.union([char for char in item])
 
-    return ''.join(char_set)
-
+    return "".join(char_set)
 
 
 if __name__ == '__main__':
 
-    characters = get_all_wine_characters()
+    wines = get_wine_names()
+    characters = get_chars(wines)
 
     parser = argparse.ArgumentParser()
     parser.add_argument('--exp_name', help='Where to store logs and models')

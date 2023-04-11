@@ -1,0 +1,26 @@
+{
+  "name": "샤또 드 리크비르, 그랑 크뤼 스포렌 피노 그리",
+  "en_name": "Chateau de Riquewihr, Grands Crus Sporen Pinot Gris",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "도프 & 이리옹 Dopff & Irion",
+  "main_grape": "피노 그리 (Pinot Gris)",
+  "country": "프랑스(France)",
+  "city": "알자스(Alsace)",
+  "aromas": [
+    "미네랄",
+    "후추",
+    "오렌지",
+    "파인애플"
+  ],
+  "pairings": [
+    "치즈",
+    "과일"
+  ],
+  "recommend": "시트러스류 과일을 곁들인 가리비, 코코넛 밀크를 가미한 바나나 잎에 싸서 요리한 생선, 달짝지근한 돼지 바비큐, 염소 코티지치즈 그리고 꿀과 곁들인 구운 자몽 등과 같은 동양적이고 이국적인 요리와 잘 어울린다.",
+  "alcohol": null,
+  "serving_temp": "8~10 ℃"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "네이키드, 소비뇽 블랑",
+  "en_name": "Nakd, Sauvignon Blanc",
+  "price_from_importer": "54,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "네이키드 Nakd",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc) 100%",
+  "country": "뉴질랜드(New Zealand)",
+  "city": "말보로(Marlborough)",
+  "aromas": [
+    "라임",
+    "흰꽃",
+    "시트러스",
+    "아카시아",
+    "엘더플라워",
+    "레몬",
+    "복숭아"
+  ],
+  "pairings": [
+    "오일파스타",
+    "서양요리",
+    "새우",
+    "생선회",
+    "한식",
+    "광어",
+    "잡채",
+    "나물",
+    "해산물",
+    "조개구이"
+  ]
+}

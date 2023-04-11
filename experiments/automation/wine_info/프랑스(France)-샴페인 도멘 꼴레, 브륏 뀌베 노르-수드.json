@@ -1,0 +1,21 @@
+{
+  "name": "샴페인 도멘 꼴레, 브륏 뀌베 노르-수드",
+  "en_name": "Champagne Domaine Collet, Brut Cuvee Nord-Sud",
+  "price_from_importer": "180,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "샴페인 도멘 꼴레 Champagne Domaine Collet",
+  "main_grape": "피노 누아 (Pinot Noir) , 샤르도네 (Chardonnay)",
+  "country": "프랑스(France)",
+  "city": "꼬뜨 드 세잔느(Côte de Sezanne)",
+  "aromas": [
+    "시트러스"
+  ],
+  "pairings": [
+    "파스타",
+    "치즈",
+    "해산물"
+  ]
+}

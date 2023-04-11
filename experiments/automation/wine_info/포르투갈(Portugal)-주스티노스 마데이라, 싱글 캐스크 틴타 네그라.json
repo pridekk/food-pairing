@@ -1,0 +1,20 @@
+{
+  "name": "주스티노스 마데이라, 싱글 캐스크 틴타 네그라",
+  "en_name": "Justino's Madeira, Single Cask Tinta Negra",
+  "price_from_importer": "320,000원( 750ml )",
+  "sugar": 3,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "주스티노스 마데이라 Justino's Madeira",
+  "main_grape": "틴타 네그라 몰레 (Tinta Negra Mole)",
+  "country": "포르투갈(Portugal)",
+  "city": "마데이라(Madeira)",
+  "aromas": [
+    "후추",
+    "오렌지",
+    "코코넛",
+    "타바코"
+  ],
+  "pairings": []
+}

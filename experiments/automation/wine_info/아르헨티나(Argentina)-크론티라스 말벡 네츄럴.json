@@ -1,0 +1,19 @@
+{
+  "name": "크론티라스 말벡 네츄럴",
+  "en_name": "Krontiras Malbec Natural",
+  "price_from_importer": "110,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 2,
+  "body": 3,
+  "tannin": 3,
+  "winery": "보데가스 크론티라스 Bodegas Krontiras",
+  "main_grape": "말벡 (Malbec) 100%",
+  "country": "아르헨티나(Argentina)",
+  "city": "멘도사(Mendoza)",
+  "aromas": [
+    "블랙커런트",
+    "블랙체리",
+    "레드커런트"
+  ],
+  "pairings": []
+}

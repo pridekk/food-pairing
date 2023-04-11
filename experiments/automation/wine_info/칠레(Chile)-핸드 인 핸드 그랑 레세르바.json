@@ -1,0 +1,21 @@
+{
+  "name": "핸드 인 핸드 그랑 레세르바",
+  "en_name": "Hand in Hand Gran Reserva",
+  "price_from_importer": "52,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 5,
+  "tannin": 4,
+  "winery": "비냐 마올라 Vina Maola",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) 100%",
+  "country": "칠레(Chile)",
+  "city": "칠레(Chile)",
+  "aromas": [
+    "자두",
+    "바닐라"
+  ],
+  "pairings": [
+    "자두",
+    "소고기"
+  ]
+}

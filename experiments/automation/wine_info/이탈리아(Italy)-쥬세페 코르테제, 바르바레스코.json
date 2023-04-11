@@ -1,0 +1,22 @@
+{
+  "name": "쥬세페 코르테제, 바르바레스코",
+  "en_name": "Giuseppe Cortese, Barbaresco",
+  "price_from_importer": "170,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 4,
+  "winery": "쥬세페 코르테제 Giuseppe Cortese",
+  "main_grape": "네비올로 (Nebbiolo)",
+  "country": "이탈리아(Italy)",
+  "city": "바르바레스코(Barbaresco)",
+  "aromas": [
+    "딸기"
+  ],
+  "pairings": [
+    "양갈비",
+    "훈제오리",
+    "바비큐",
+    "트러플"
+  ]
+}

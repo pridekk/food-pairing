@@ -1,0 +1,35 @@
+{
+  "name": "샴페인 꼴렛, 브뤼 아르 데코 프리미에 크뤼",
+  "en_name": "Champagne Collet, Brut Art Deco 1er Cru",
+  "price_from_importer": "120,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "샴페인 꼴렛 Champagne Collet",
+  "main_grape": "샤르도네 (Chardonnay) 40%, 피노 누아 (Pinot Noir) 40%, 피노 뮈니에 (Pinot Meunier) 20%",
+  "country": "프랑스(France)",
+  "city": "샹빠뉴(Champagne)",
+  "aromas": [
+    "모과",
+    "레몬껍질",
+    "사과",
+    "파인애플",
+    "서양배",
+    "감귤",
+    "흰꽃",
+    "레몬"
+  ],
+  "pairings": [
+    "스튜",
+    "생선회",
+    "참치",
+    "살라미",
+    "해산물",
+    "연어",
+    "송아지"
+  ],
+  "recommend": "정교한 구르메 요리와 페어링 시 매력을 발산하는 와인으로, 새끼 비둘기 요리 또는 송아지 카르파초와 같은 가벼운 육류 요리나 숭어 등의 생선 요리 등과 잘 어울린다.",
+  "alcohol": "12~13 %",
+  "serving_temp": "6~8 ℃"
+}

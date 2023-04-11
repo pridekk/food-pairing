@@ -1,0 +1,22 @@
+{
+  "name": "발라드 레인 진판델",
+  "en_name": "Ballard Lane Zinfandel",
+  "price_from_importer": "61,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "발라드 레인 Ballard Lane",
+  "main_grape": "진판델 (Zinfandel)",
+  "country": "미국(U.S.A)",
+  "city": "센트럴 코스트(Central Coast)",
+  "aromas": [
+    "오크",
+    "체리"
+  ],
+  "pairings": [
+    "포크",
+    "치즈",
+    "버섯"
+  ]
+}

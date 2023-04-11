@@ -1,0 +1,21 @@
+{
+  "name": "라 마지 그랑 레세르바 까베르네 소비뇽",
+  "en_name": "La Magie Gran Reserva Cabernet Sauvignon",
+  "price_from_importer": "30,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "몽그라스 MontGras",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "칠레(Chile)",
+  "city": "센트럴 밸리(Central Valley)",
+  "aromas": [
+    "블랙커런트",
+    "체리",
+    "초콜릿",
+    "블루베리",
+    "타바코"
+  ],
+  "pairings": []
+}

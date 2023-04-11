@@ -1,0 +1,21 @@
+{
+  "name": "샤또 드 라 조베르티, 꾸베 미라벨 화이트",
+  "en_name": "Chateau de la Jaubertie, Cuvee Mirabelle White",
+  "price_from_importer": "80,000원( 750ml )",
+  "sugar": 3,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 1,
+  "winery": "샤또 드 라 조베르티 Chateau de la Jaubertie",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc) , 세미용 (Semillon)",
+  "country": "프랑스(France)",
+  "city": "베르쥬악(Bergerac)",
+  "aromas": [
+    "열대과일",
+    "오크",
+    "미네랄"
+  ],
+  "pairings": [
+    "닭고기"
+  ]
+}

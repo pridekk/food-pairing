@@ -1,0 +1,34 @@
+{
+  "name": "샤토 뷰 포타나",
+  "en_name": "Chateau Vieux Potana",
+  "price_from_importer": "80,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "샤토 뷰 포타나 Chateau Vieux Potana",
+  "main_grape": "메를로 (Merlot) 85%, 카베르네 프랑 (Cabernet Franc) 15%",
+  "country": "프랑스(France)",
+  "city": "라랑드 드 뽀므롤(Lalande de Pomerol)",
+  "aromas": [
+    "자두",
+    "삼나무",
+    "체리",
+    "오크",
+    "블랙베리",
+    "감초"
+  ],
+  "pairings": [
+    "양갈비",
+    "로스트비프",
+    "건육",
+    "불고기",
+    "양념갈비",
+    "갈비찜",
+    "양고기",
+    "동그랑땡",
+    "소고기",
+    "스테이크",
+    "한식"
+  ]
+}

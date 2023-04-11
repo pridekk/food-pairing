@@ -1,0 +1,30 @@
+{
+  "name": "니콜라스 마이야르, 그랑 크뤼 블랑 드 누아 '졸리벳'",
+  "en_name": "Nicholas Maillart, Grand Cru Blanc de Noirs 'Jolivettes'",
+  "price_from_importer": "437,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "니콜라스 마이야르 Nicholas Maillart",
+  "main_grape": "피노 누아 (Pinot Noir) 100%",
+  "country": "프랑스(France)",
+  "city": "몽따뉴 드 랭스(Montagne de Reims)",
+  "aromas": [
+    "미네랄",
+    "서양배",
+    "브리오슈",
+    "시트러스",
+    "토스트"
+  ],
+  "pairings": [
+    "식전주",
+    "씨푸드",
+    "장어",
+    "스시",
+    "샐러드",
+    "채소",
+    "장어구이",
+    "해산물"
+  ]
+}

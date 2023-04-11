@@ -1,0 +1,39 @@
+{
+  "name": "에스콜리후엘라 가스콘, 파밀리아 가스콘 말벡",
+  "en_name": "Escorihuela Gascon, Familia Gascon Malbec",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 2,
+  "body": 2,
+  "tannin": 3,
+  "winery": "에스콜리후엘라 가스콘 Escorihuela Gascon",
+  "main_grape": "말벡 (Malbec) 100%",
+  "country": "아르헨티나(Argentina)",
+  "city": "멘도사(Mendoza)",
+  "aromas": [
+    "삼나무",
+    "체리",
+    "오크",
+    "블루베리",
+    "블랙베리",
+    "코코아",
+    "바닐라"
+  ],
+  "pairings": [
+    "로스트비프",
+    "잡채",
+    "하몽",
+    "붉은육류",
+    "바비큐",
+    "꼬치구이",
+    "불고기",
+    "한국음식",
+    "동그랑땡",
+    "수육",
+    "프로슈토",
+    "스테이크",
+    "한식",
+    "육회",
+    "족발"
+  ]
+}

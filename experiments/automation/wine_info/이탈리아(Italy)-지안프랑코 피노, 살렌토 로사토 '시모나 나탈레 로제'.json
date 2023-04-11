@@ -1,0 +1,29 @@
+{
+  "name": "지안프랑코 피노, 살렌토 로사토 '시모나 나탈레 로제'",
+  "en_name": "Gianfranco Fino, Salento Rosato 'Simona Natale Rose'",
+  "price_from_importer": "260,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 2,
+  "winery": "지안프랑코 피노 Gianfranco Fino",
+  "main_grape": "네그로아마로 (Negroamaro) 100%",
+  "country": "이탈리아(Italy)",
+  "city": "뿔리아(Puglia)",
+  "aromas": [
+    "감귤",
+    "시트러스",
+    "체리",
+    "딸기",
+    "복숭아",
+    "크랜베리"
+  ],
+  "pairings": [
+    "훈제오리",
+    "씨푸드",
+    "건육",
+    "닭강정",
+    "베이컨",
+    "찜닭"
+  ]
+}

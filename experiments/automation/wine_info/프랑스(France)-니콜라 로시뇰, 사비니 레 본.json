@@ -1,0 +1,24 @@
+{
+  "name": "니콜라 로시뇰, 사비니 레 본",
+  "en_name": "Nicolas Rossignol, Savigny les Beaune",
+  "price_from_importer": "180,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "니콜라 로시뇰 Nicolas Rossignol",
+  "main_grape": "피노 누아 (Pinot Noir) 100%",
+  "country": "프랑스(France)",
+  "city": "사비니-레-본(Savigny-les-Beaune)",
+  "aromas": [
+    "자두",
+    "후추",
+    "코코아"
+  ],
+  "pairings": [
+    "탕수육",
+    "자두",
+    "수육",
+    "해산물"
+  ]
+}

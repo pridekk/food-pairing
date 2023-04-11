@@ -1,0 +1,20 @@
+{
+  "name": "칸티나 델 타부르노, 피델리스 델 산니오 알리아니코",
+  "en_name": "Cantina del Taburno, Fidelis del Sannio Aglianico",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "칸티나 델 타부르노 Cantina del Taburno",
+  "main_grape": "알리아니코 (Aglianico) , 산지오베제 (Sangiovese) , 메를로 (Merlot)",
+  "country": "이탈리아(Italy)",
+  "city": "깜빠니아(Campania)",
+  "aromas": [
+    "코코아"
+  ],
+  "pairings": [
+    "미트",
+    "파스타"
+  ]
+}

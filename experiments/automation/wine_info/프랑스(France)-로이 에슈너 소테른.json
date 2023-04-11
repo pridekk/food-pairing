@@ -1,0 +1,21 @@
+{
+  "name": "로이 에슈너 소테른",
+  "en_name": "Louis Eschenauer Sauternes",
+  "price_from_importer": "가격정보없음( 500ml )",
+  "sugar": 3,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "GCF 그룹 GCF Group",
+  "main_grape": "세미용 (Semillon) , 소비뇽 블랑 (Sauvignon Blanc) , 뮈스까델 (Muscadelle)",
+  "country": "프랑스(France)",
+  "city": "소테른(Sauternes)",
+  "aromas": [
+    "시트러스",
+    "살구"
+  ],
+  "pairings": [
+    "치즈",
+    "디저트"
+  ]
+}

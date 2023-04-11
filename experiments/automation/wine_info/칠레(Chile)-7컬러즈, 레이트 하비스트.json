@@ -1,0 +1,34 @@
+{
+  "name": "7컬러즈, 레이트 하비스트",
+  "en_name": "7Colores, Late Harvest",
+  "price_from_importer": "24,000원( 375ml )",
+  "sugar": 4,
+  "acidity": 2,
+  "body": 3,
+  "tannin": 1,
+  "winery": "세븐 컬러즈 7 Colores",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc) 100%",
+  "country": "칠레(Chile)",
+  "city": "카사블랑카 밸리(Casablanca Valley)",
+  "aromas": [
+    "황도",
+    "시트러스",
+    "레몬",
+    "건포도"
+  ],
+  "pairings": [
+    "모짜렐라",
+    "스낵",
+    "호두",
+    "케이크",
+    "디저트",
+    "타르트",
+    "피칸",
+    "건포도",
+    "견과류",
+    "말린과일",
+    "초콜렛",
+    "치즈",
+    "리코타"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "도멘 바르빌, 레 오 드 바르빌 샤토네프 뒤 파프",
+  "en_name": "Domaine Barville, Les Hauts de Barville Chateauneuf-du-Pape",
+  "price_from_importer": "160,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "브로떼 Brotte",
+  "main_grape": "그르나슈 (Grenache) , 시라/쉬라즈 (Syrah/Shiraz) , 무르베드르 (Mourvedre)",
+  "country": "프랑스(France)",
+  "city": "샤또네프 뒤 빠쁘(Chateauneuf du Pape)",
+  "aromas": [
+    "블랙커런트",
+    "체리",
+    "오크",
+    "초콜릿",
+    "블랙베리",
+    "타바코",
+    "커피"
+  ],
+  "pairings": []
+}

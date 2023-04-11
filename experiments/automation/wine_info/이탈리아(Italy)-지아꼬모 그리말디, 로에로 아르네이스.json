@@ -1,0 +1,30 @@
+{
+  "name": "지아꼬모 그리말디, 로에로 아르네이스",
+  "en_name": "Giacomo Grimaldi, Roero Arneis",
+  "price_from_importer": "66,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "지아꼬모 그리말디 Giacomo Grimaldi",
+  "main_grape": "아르네이스 (Arneis) 100%",
+  "country": "이탈리아(Italy)",
+  "city": "피에몬테(Piemonte)",
+  "aromas": [
+    "흰꽃",
+    "아카시아",
+    "레몬",
+    "살구",
+    "자스민"
+  ],
+  "pairings": [
+    "살라미",
+    "건육",
+    "스시",
+    "새우",
+    "피자",
+    "생선회",
+    "파스타",
+    "사시미"
+  ]
+}

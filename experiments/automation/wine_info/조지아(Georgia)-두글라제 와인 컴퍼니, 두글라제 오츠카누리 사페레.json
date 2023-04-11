@@ -1,0 +1,24 @@
+{
+  "name": "두글라제 와인 컴퍼니, 두글라제 오츠카누리 사페레",
+  "en_name": "Dugladze Wine Company, Dugladze Otskhanuri Sapere",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "두글라제 와인 컴퍼니 Dugladze Wine Company",
+  "main_grape": "기타 품종 (Other Grapes)",
+  "country": "조지아(Georgia)",
+  "city": "이머레티(Imereti)",
+  "aromas": [
+    "허브"
+  ],
+  "pairings": [
+    "양갈비",
+    "붉은육류",
+    "치킨"
+  ],
+  "recommend": "붉은육류, 불고기, 갈비찜, 양갈비, 치킨, 순대, 햄버거, 피자, 한국음식 등과 잘 어울린다.",
+  "alcohol": "12~13 %",
+  "serving_temp": "16~18 ℃"
+}

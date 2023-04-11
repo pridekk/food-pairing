@@ -1,0 +1,20 @@
+{
+  "name": "몬타리발디, 몬트라발디 로쏘 돌체 비르벳",
+  "en_name": "Montaribaldi, Rosso Dolce Birbet",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 2,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "몬타리발디 Montaribaldi",
+  "main_grape": "블렌드 (Blend )",
+  "country": "이탈리아(Italy)",
+  "city": "피에몬테(Piemonte)",
+  "aromas": [
+    "체리",
+    "장미"
+  ],
+  "pairings": [
+    "디저트"
+  ]
+}

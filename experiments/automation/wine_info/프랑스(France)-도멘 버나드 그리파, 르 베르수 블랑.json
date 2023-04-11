@@ -1,0 +1,24 @@
+{
+  "name": "도멘 버나드 그리파, 르 베르수 블랑",
+  "en_name": "Domaine Bernard Gripa, Le Berceau Blanc",
+  "price_from_importer": "282,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "도멘 버나드 그리파 Domaine Bernard Gripa",
+  "main_grape": "마르산느 (Marsanne)",
+  "country": "프랑스(France)",
+  "city": "생-죠셉(Saint-Joseph)",
+  "aromas": [
+    "흰꽃",
+    "살구",
+    "미네랄"
+  ],
+  "pairings": [
+    "치즈",
+    "닭고기",
+    "서양요리",
+    "샐러드"
+  ]
+}

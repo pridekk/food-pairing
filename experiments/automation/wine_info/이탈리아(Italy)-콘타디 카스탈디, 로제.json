@@ -1,0 +1,24 @@
+{
+  "name": "콘타디 카스탈디, 로제",
+  "en_name": "Contadi Castaldi, Rose",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "콘타디 카스탈디 Contadi Castaldi",
+  "main_grape": "샤르도네 (Chardonnay) , 피노 네로 (Pinot Nero)",
+  "country": "이탈리아(Italy)",
+  "city": "프란치아코르타(Franciacorta)",
+  "aromas": [
+    "라스베리",
+    "크랜베리",
+    "장미",
+    "열대과일"
+  ],
+  "pairings": [
+    "아시아요리",
+    "샐러드",
+    "해산물"
+  ]
+}

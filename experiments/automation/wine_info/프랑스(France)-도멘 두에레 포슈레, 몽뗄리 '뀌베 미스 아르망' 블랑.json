@@ -1,0 +1,21 @@
+{
+  "name": "도멘 두에레 포슈레, 몽뗄리 '뀌베 미스 아르망' 블랑",
+  "en_name": "Domaine Douhairet Porcheret, Monthelie 'Cuvee Miss Armande' Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "도멘 두에레 포슈레 Domaine Douhairet Porcheret",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "프랑스(France)",
+  "city": "몽텔리(Monthelie)",
+  "aromas": [
+    "바닐라",
+    "버터",
+    "복숭아"
+  ],
+  "pairings": [
+    "복숭아"
+  ]
+}

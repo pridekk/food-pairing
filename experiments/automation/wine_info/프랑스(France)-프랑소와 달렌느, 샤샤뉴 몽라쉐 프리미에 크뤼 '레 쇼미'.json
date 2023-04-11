@@ -1,0 +1,36 @@
+{
+  "name": "프랑소와 달렌느, 샤샤뉴 몽라쉐 프리미에 크뤼 '레 쇼미'",
+  "en_name": "Francois d'Allaines, Chassagne-Montrachet 1er Cru 'Les Chaumees'",
+  "price_from_importer": "410,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 1,
+  "winery": "도멘 프랑소와 달렌느 Domaine Francois d'Allaines",
+  "main_grape": "샤르도네 (Chardonnay) 100%",
+  "country": "프랑스(France)",
+  "city": "꼬뜨 드 본(Côte de Beaune)",
+  "aromas": [
+    "서양배",
+    "말린살구",
+    "살구",
+    "시트러스",
+    "파인애플"
+  ],
+  "pairings": [
+    "오리고기",
+    "킹크랩",
+    "편육",
+    "불고기",
+    "가금류",
+    "닭고기",
+    "수육",
+    "동그랑땡",
+    "장어구이",
+    "랍스터",
+    "바닷가재",
+    "참치",
+    "해산물",
+    "생선구이"
+  ]
+}

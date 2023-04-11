@@ -1,0 +1,27 @@
+{
+  "name": "도멘 오디프레드, 본 로마네 '오 샴 페르드리'",
+  "en_name": "Domaine Audiffred, Vosne-Romanee 'Aux Champ Perdrix'",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 5,
+  "body": 5,
+  "tannin": 3,
+  "winery": "도멘 오디프레드 Domaine Audiffred",
+  "main_grape": "피노 누아 (Pinot Noir)",
+  "country": "프랑스(France)",
+  "city": "본-로마네(Vosne-Romanee)",
+  "aromas": [
+    "삼나무",
+    "체리",
+    "버섯",
+    "오크",
+    "제비꽃",
+    "딸기",
+    "라스베리"
+  ],
+  "pairings": [
+    "돼지고기",
+    "오리고기",
+    "소고기"
+  ]
+}

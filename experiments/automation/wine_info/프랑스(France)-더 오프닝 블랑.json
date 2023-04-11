@@ -1,0 +1,25 @@
+{
+  "name": "더 오프닝 블랑",
+  "en_name": "The Opening Blanc",
+  "price_from_importer": "40,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "메종 에브라 Maison Hebrard",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc) , 세미용 (Semillon) , 뮈스까델 (Muscadelle)",
+  "country": "프랑스(France)",
+  "city": "보르도(Bordeaux)",
+  "aromas": [
+    "복숭아",
+    "백도",
+    "열대과일",
+    "아카시아"
+  ],
+  "pairings": [
+    "복숭아",
+    "아시아요리",
+    "서양요리",
+    "해산물"
+  ]
+}

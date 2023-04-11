@@ -1,0 +1,25 @@
+{
+  "name": "샤토 포가스, 포스 드 비",
+  "en_name": "Chateau Fougas, Forde de Vie",
+  "price_from_importer": "189,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "샤토 포가스 Chateau Fougas",
+  "main_grape": "메를로 (Merlot) , 카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "프랑스(France)",
+  "city": "꼬뜨 드 부르그(Côtes de Bourg)",
+  "aromas": [
+    "정향",
+    "블랙체리",
+    "오크",
+    "블랙베리"
+  ],
+  "pairings": [
+    "양갈비",
+    "돼지고기",
+    "아시아요리",
+    "소고기"
+  ]
+}

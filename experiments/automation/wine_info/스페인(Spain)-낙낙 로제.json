@@ -1,0 +1,22 @@
+{
+  "name": "낙낙 로제",
+  "en_name": "Knock Knock Rose",
+  "price_from_importer": "20,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 2,
+  "winery": "토레 오리아 Torre Oria",
+  "main_grape": "보발 (Bobal)",
+  "country": "스페인(Spain)",
+  "city": "스페인(Spain)",
+  "aromas": [
+    "장미"
+  ],
+  "pairings": [
+    "식전주"
+  ],
+  "recommend": "식전주, 동양 또는 아시아 요리 등과 잘 어울린다.",
+  "alcohol": "11~12 %",
+  "serving_temp": "12~14 ℃"
+}

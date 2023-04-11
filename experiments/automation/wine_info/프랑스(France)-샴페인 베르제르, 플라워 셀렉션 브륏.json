@@ -1,0 +1,25 @@
+{
+  "name": "샴페인 베르제르, 플라워 셀렉션 브륏",
+  "en_name": "Champagne Bergere, Flower Selection Brut",
+  "price_from_importer": "189,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "샴페인 베르제르 Champagne Bergere",
+  "main_grape": "샤르도네 (Chardonnay) , 피노 누아 (Pinot Noir)",
+  "country": "프랑스(France)",
+  "city": "샹빠뉴(Champagne)",
+  "aromas": [
+    "시트러스",
+    "토스트",
+    "사과",
+    "아몬드"
+  ],
+  "pairings": [
+    "아시아요리",
+    "초밥",
+    "서양요리",
+    "해산물"
+  ]
+}

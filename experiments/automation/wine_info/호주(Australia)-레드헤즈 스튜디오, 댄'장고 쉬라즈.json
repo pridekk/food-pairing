@@ -1,0 +1,21 @@
+{
+  "name": "레드헤즈 스튜디오, 댄'장고 쉬라즈",
+  "en_name": "Redheads Studio, Dan'Jango Shiraz",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "레드헤즈 스튜디오 Redheads Studio",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz)",
+  "country": "호주(Australia)",
+  "city": "사우스 오스트레일리아(South Australia)",
+  "aromas": [
+    "허브",
+    "블랙베리",
+    "자두"
+  ],
+  "pairings": [
+    "자두"
+  ]
+}

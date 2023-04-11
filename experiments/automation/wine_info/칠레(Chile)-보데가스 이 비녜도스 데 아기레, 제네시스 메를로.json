@@ -1,0 +1,26 @@
+{
+  "name": "보데가스 이 비녜도스 데 아기레, 제네시스 메를로",
+  "en_name": "Bodegas y Vinedos de Aguirre, Genesis Merlot",
+  "price_from_importer": "16,900원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "보데가스 이 비녜도스 데 아기레 Bodegas y Vinedos de Aguirre",
+  "main_grape": "메를로 (Merlot) 100%",
+  "country": "칠레(Chile)",
+  "city": "비야 알레그레(Villa Alegre)",
+  "aromas": [
+    "블랙체리",
+    "삼나무",
+    "정향",
+    "블루베리",
+    "블랙베리",
+    "감초"
+  ],
+  "pairings": [
+    "피자",
+    "파스타",
+    "치즈"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "산 밸리 카베르네 소비뇽",
+  "en_name": "San Valley Cabernet Sauvignon",
+  "price_from_importer": "13,900원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "산 밸리 San Valley",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "칠레(Chile)",
+  "city": "비야 알레그레(Villa Alegre)",
+  "aromas": [
+    "자두",
+    "블랙커런트",
+    "블랙체리",
+    "삼나무"
+  ],
+  "pairings": [
+    "양갈비",
+    "스테이크",
+    "자두",
+    "서양요리"
+  ]
+}

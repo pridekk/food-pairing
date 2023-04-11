@@ -1,0 +1,30 @@
+{
+  "name": "메종 지네스떼, 레버랑스 뒤 마르퀴",
+  "en_name": "Maison Ginestet, Révérence du Marquis",
+  "price_from_importer": "65,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "메종 지네스떼 Maison Ginestet",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) , 카베르네 프랑 (Cabernet Franc) , 메를로 (Merlot)",
+  "country": "프랑스(France)",
+  "city": "보르도(Bordeaux)",
+  "aromas": [
+    "자두",
+    "블랙커런트",
+    "블랙체리",
+    "바닐라",
+    "블랙베리",
+    "유칼립투스",
+    "감초"
+  ],
+  "pairings": [
+    "양갈비",
+    "불고기",
+    "소고기",
+    "스테이크",
+    "바비큐",
+    "족발"
+  ]
+}

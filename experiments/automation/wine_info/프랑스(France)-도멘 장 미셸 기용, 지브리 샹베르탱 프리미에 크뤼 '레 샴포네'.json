@@ -1,0 +1,27 @@
+{
+  "name": "도멘 장 미셸 기용, 지브리 샹베르탱 프리미에 크뤼 '레 샴포네'",
+  "en_name": "Domaine Jean-Michel Guillon, Gevrey-Chambertin &er Cru 'Les Champonnets'",
+  "price_from_importer": "596,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "도멘 장-미셸 기용 Domaine Jean-Michel Guillon",
+  "main_grape": "피노 누아 (Pinot Noir) 100%",
+  "country": "프랑스(France)",
+  "city": "쥬브레-샹베르땅(Gevrey-Chambertin)",
+  "aromas": [
+    "붉은꽃",
+    "삼나무",
+    "허브",
+    "장미",
+    "블랙베리",
+    "라스베리"
+  ],
+  "pairings": [
+    "양갈비",
+    "오리고기",
+    "치즈",
+    "소고기"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "name": "도멘 드 라 자나스, 샤토네프 뒤 파프 XXL",
+  "en_name": "Domaine de la Janasse, Chateauneuf-du-Pape XXL",
+  "price_from_importer": "1,260,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "도멘 드 라 자나스 Domaine de la Janasse",
+  "main_grape": "그르나슈 (Grenache) 90%, 무르베드르 (Mourvedre) 10%",
+  "country": "프랑스(France)",
+  "city": "샤또네프 뒤 빠쁘(Chateauneuf du Pape)",
+  "aromas": [
+    "젖은흙",
+    "블랙체리",
+    "체리",
+    "버섯",
+    "오크",
+    "후추",
+    "육두구",
+    "블랙베리",
+    "다크초콜릿"
+  ],
+  "pairings": [
+    "양갈비",
+    "스튜",
+    "건육",
+    "육포",
+    "갈비찜",
+    "불고기",
+    "양념갈비",
+    "양고기",
+    "소고기",
+    "스테이크",
+    "한식"
+  ]
+}

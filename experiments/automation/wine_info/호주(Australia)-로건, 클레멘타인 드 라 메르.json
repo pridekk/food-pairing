@@ -1,0 +1,20 @@
+{
+  "name": "로건, 클레멘타인 드 라 메르",
+  "en_name": "Logan, Clementine de la Mer",
+  "price_from_importer": "60,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 2,
+  "body": 2,
+  "tannin": 1,
+  "winery": "로건 와인즈 Logan Wines",
+  "main_grape": "세미용 (Semillon) , 소비뇽 블랑 (Sauvignon Blanc) , 게뷔르츠트라미너 (Gewurztraminer)",
+  "country": "호주(Australia)",
+  "city": "뉴 사우스 웨일즈(New South Wales)",
+  "aromas": [],
+  "pairings": [
+    "치즈",
+    "파스타",
+    "닭고기",
+    "수육"
+  ]
+}

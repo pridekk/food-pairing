@@ -1,0 +1,27 @@
+{
+  "name": "도멘 장 미셸 기용, 꼬뜨 드 뉘 '큐 드 아헝'",
+  "en_name": "Domaine Jean-Michel Guillon, Côte de Nuits 'Queue de Hareng'",
+  "price_from_importer": "204,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "도멘 장-미셸 기용 Domaine Jean-Michel Guillon",
+  "main_grape": "피노 누아 (Pinot Noir) 100%",
+  "country": "프랑스(France)",
+  "city": "꼬뜨 드 뉘(Côte de Nuits)",
+  "aromas": [
+    "붉은꽃",
+    "허브",
+    "블랙베리",
+    "라스베리",
+    "감초"
+  ],
+  "pairings": [
+    "양갈비",
+    "오리고기",
+    "꽁피",
+    "쇠고기",
+    "치즈"
+  ]
+}

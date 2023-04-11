@@ -1,0 +1,31 @@
+{
+  "name": "도멘 부르소, 샹볼 뮈지니 '레 라브로뜨'",
+  "en_name": "Domaine Boursot, Chambolle Musigny 'Les Lavrottes'",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "도멘 부르소 Domaine Boursot",
+  "main_grape": "피노 누아 (Pinot Noir)",
+  "country": "프랑스(France)",
+  "city": "샹볼 뮈지니(Chambolle Musigny)",
+  "aromas": [
+    "체리",
+    "미네랄",
+    "딸기",
+    "자몽",
+    "복숭아"
+  ],
+  "pairings": [
+    "훈제오리",
+    "로스트비프",
+    "스튜",
+    "참치",
+    "편육",
+    "보쌈",
+    "수육",
+    "소고기",
+    "닭고기"
+  ]
+}

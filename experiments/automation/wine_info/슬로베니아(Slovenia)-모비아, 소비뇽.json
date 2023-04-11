@@ -1,0 +1,32 @@
+{
+  "name": "모비아, 소비뇽",
+  "en_name": "Movia, Sauvignon",
+  "price_from_importer": "100,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "모비아 Movia",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc)",
+  "country": "슬로베니아(Slovenia)",
+  "city": "고리스카 브르다(Goriska Brda)",
+  "aromas": [
+    "자두",
+    "사과",
+    "미네랄",
+    "오렌지",
+    "살구",
+    "바닐라"
+  ],
+  "pairings": [
+    "동남아음식",
+    "새우",
+    "생선회",
+    "동그랑땡",
+    "광어",
+    "잡채",
+    "아시아요리",
+    "생선구이",
+    "해산물"
+  ]
+}

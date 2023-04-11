@@ -1,0 +1,25 @@
+{
+  "name": "라 솔가, 제이씨",
+  "en_name": "La Sorga, JC",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "라 솔가 La Sorga",
+  "main_grape": "그르나슈 블랑 (Grenache Blanc)",
+  "country": "프랑스(France)",
+  "city": "랑그독 루씨용(Languedoc Roussillon)",
+  "aromas": [
+    "복숭아",
+    "열대과일",
+    "시트러스",
+    "미네랄"
+  ],
+  "pairings": [
+    "복숭아",
+    "치즈",
+    "샐러드",
+    "해산물"
+  ]
+}

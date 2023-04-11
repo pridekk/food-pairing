@@ -1,0 +1,22 @@
+{
+  "name": "레이지 와인메이커 비오니에",
+  "en_name": "Lazy Winemaker Viognier",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "에체베리아 Echeverria",
+  "main_grape": "비오니에 (Viognier)",
+  "country": "칠레(Chile)",
+  "city": "쿠리코 밸리(Curico Valley)",
+  "aromas": [
+    "복숭아",
+    "열대과일",
+    "버터"
+  ],
+  "pairings": [
+    "복숭아",
+    "파스타"
+  ]
+}

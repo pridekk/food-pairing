@@ -1,0 +1,22 @@
+{
+  "name": "비비 그라츠, 스코페토",
+  "en_name": "Bibi Graetz, Scopeto",
+  "price_from_importer": "130,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "비비 그라츠 Bibi Graetz",
+  "main_grape": "안소니카 (Ansonica) , 베르멘티노 (Vermentino)",
+  "country": "이탈리아(Italy)",
+  "city": "토스카나(Toscana)",
+  "aromas": [
+    "복숭아",
+    "시트러스"
+  ],
+  "pairings": [
+    "복숭아",
+    "스시",
+    "치즈"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "name": "텐치 빈야드, 카베르네 소비뇽",
+  "en_name": "Tench Vineyards, Cabernet Sauvignon",
+  "price_from_importer": "850,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "텐치 빈야드 Tench Vineyards",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "미국(U.S.A)",
+  "city": "오크빌(Oakville)",
+  "aromas": [
+    "블랙커런트",
+    "삼나무",
+    "오크",
+    "제비꽃",
+    "육두구",
+    "블랙베리",
+    "바닐라"
+  ],
+  "pairings": [
+    "양갈비",
+    "건육",
+    "불고기",
+    "갈비찜",
+    "양고기",
+    "등심",
+    "소고기",
+    "스테이크",
+    "한식"
+  ]
+}

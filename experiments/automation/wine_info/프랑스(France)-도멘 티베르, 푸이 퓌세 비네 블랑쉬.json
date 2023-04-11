@@ -1,0 +1,32 @@
+{
+  "name": "도멘 티베르, 푸이 퓌세 비네 블랑쉬",
+  "en_name": "Domaine Thibert, Pouilly-Fuisse Vignes Blanches",
+  "price_from_importer": "164,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "도멘 티베르 Domaine Thibert",
+  "main_grape": "샤르도네 (Chardonnay) 100%",
+  "country": "프랑스(France)",
+  "city": "뿌이-퓌세(Pouilly-Fuisse)",
+  "aromas": [
+    "감초",
+    "감귤",
+    "서양배",
+    "아카시아",
+    "시트러스",
+    "레몬껍질"
+  ],
+  "pairings": [
+    "훈제오리",
+    "킹크랩",
+    "오리로스",
+    "새우",
+    "연어",
+    "동그랑땡",
+    "장어구이",
+    "닭고기",
+    "해산물"
+  ]
+}

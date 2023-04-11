@@ -1,0 +1,23 @@
+{
+  "name": "도멘 장 미셸 기용, 부르고뉴 샤도네이",
+  "en_name": "Domaine Jean-Michel Guillon, Bourgogne Chardonnay",
+  "price_from_importer": "128,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "도멘 장-미셸 기용 Domaine Jean-Michel Guillon",
+  "main_grape": "샤르도네 (Chardonnay) 100%",
+  "country": "프랑스(France)",
+  "city": "부르고뉴(Bourgogne)",
+  "aromas": [
+    "흰꽃",
+    "시트러스",
+    "미네랄"
+  ],
+  "pairings": [
+    "초밥",
+    "샐러드",
+    "해산물"
+  ]
+}

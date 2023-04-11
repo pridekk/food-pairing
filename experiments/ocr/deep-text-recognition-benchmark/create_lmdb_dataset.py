@@ -1,6 +1,5 @@
 """ a modified version of CRNN torch repository https://github.com/bgshih/crnn/blob/master/tool/create_dataset.py """
 
-import fire
 import os
 import lmdb
 import cv2
@@ -35,7 +34,7 @@ def createDataset(inputPath, gtFile, outputPath, checkValid=True):
         checkValid : if true, check the validity of every image
     """
     os.makedirs(outputPath, exist_ok=True)
-    env = lmdb.open(outputPath, map_size=1e10)
+    env = lmdb.open(outputPath, map_size=int(1e10))
     cache = {}
     cnt = 1
 
@@ -86,10 +85,9 @@ def createDataset(inputPath, gtFile, outputPath, checkValid=True):
 if __name__ == '__main__':
     # fire.Fire(createDataset)
 
-    sample_version = "20230406_1358"
-    for stage in ["training", "validation"]:
-        for target in ["MJ", "ST"]:
-            createDataset(inputPath=f"../dataset/{sample_version}/{stage}/{target}",
-                                    gtFile=f"../dataset/{sample_version}/{stage}/{target}/gt.txt",
-                                    outputPath=f"./lmdb/{sample_version}/{stage}/{target}")
+    sample_version = "20230411_0529"
+    for stage in ["training", "validation", "test"]:
+        createDataset(inputPath=f"../dataset/{sample_version}/{stage}",
+                                gtFile=f"../dataset/{sample_version}/{stage}/gt.txt",
+                                outputPath=f"./lmdb/{sample_version}/{stage}")
 

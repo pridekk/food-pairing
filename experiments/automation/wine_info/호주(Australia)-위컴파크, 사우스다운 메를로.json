@@ -1,0 +1,20 @@
+{
+  "name": "위컴파크, 사우스다운 메를로",
+  "en_name": "Wickham Park, Southdown Merlot",
+  "price_from_importer": "29,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "위컴파크 Wickham Park",
+  "main_grape": "메를로 (Merlot)",
+  "country": "호주(Australia)",
+  "city": "맥라렌 베일(McLaren Vale)",
+  "aromas": [
+    "자두",
+    "체리"
+  ],
+  "pairings": [
+    "자두"
+  ]
+}

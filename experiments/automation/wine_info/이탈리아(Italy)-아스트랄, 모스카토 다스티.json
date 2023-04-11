@@ -1,0 +1,30 @@
+{
+  "name": "아스트랄, 모스카토 다스티",
+  "en_name": "Astrale, Moscato D'asti",
+  "price_from_importer": "53,000원( 750ml )",
+  "sugar": 3,
+  "acidity": 2,
+  "body": 1,
+  "tannin": 1,
+  "winery": "아스트랄 Astrale",
+  "main_grape": "모스카토 (Moscato )",
+  "country": "이탈리아(Italy)",
+  "city": "아스티(Asti)",
+  "aromas": [
+    "멜론",
+    "아카시아",
+    "청사과",
+    "자몽",
+    "복숭아"
+  ],
+  "pairings": [
+    "탕수육",
+    "스시",
+    "새우",
+    "생선회",
+    "양장피",
+    "튀김",
+    "해산물",
+    "조개구이"
+  ]
+}

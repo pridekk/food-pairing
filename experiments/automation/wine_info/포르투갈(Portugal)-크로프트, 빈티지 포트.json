@@ -1,0 +1,20 @@
+{
+  "name": "크로프트, 빈티지 포트",
+  "en_name": "Croft, Vintage Port",
+  "price_from_importer": "600,000원( 750ml )",
+  "sugar": 3,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "크로프트 Croft",
+  "main_grape": "투리가 나시오날 (Touriga Nacional) , 투리가 프란체사 (Touriga Francesa) , 틴토 까오 (Tinto Cao) , 틴타 바로카 (Tinta Barroca)",
+  "country": "포르투갈(Portugal)",
+  "city": "도우루(Douro)",
+  "aromas": [
+    "자두",
+    "체리"
+  ],
+  "pairings": [
+    "자두"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "도멘 장 미셸 기용, 상뜨네 블랑 '레 브라'",
+  "en_name": "Domaine Jean-Michel Guillon, Santenay Blanc 'Les Bras'",
+  "price_from_importer": "220,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "도멘 장-미셸 기용 Domaine Jean-Michel Guillon",
+  "main_grape": "샤르도네 (Chardonnay) 100%",
+  "country": "프랑스(France)",
+  "city": "상트네(Santenay)",
+  "aromas": [
+    "흰꽃",
+    "시트러스",
+    "미네랄"
+  ],
+  "pairings": [
+    "초밥",
+    "서양요리",
+    "해산물"
+  ]
+}

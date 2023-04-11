@@ -1,0 +1,35 @@
+{
+  "name": "도멘 생 패트리스, 꼬뜨 뒤 론",
+  "en_name": "Domaine St.Patrice, Cotes du Rhone",
+  "price_from_importer": "60,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "도멘 생 패트리스 Domaine St.Patrice",
+  "main_grape": "그르나슈 (Grenache) , 무르베드르 (Mourvedre) , 시라/쉬라즈 (Syrah/Shiraz)",
+  "country": "프랑스(France)",
+  "city": "꼬뜨 뒤 론(Côtes du Rhone)",
+  "aromas": [
+    "삼나무",
+    "체리",
+    "오크",
+    "후추",
+    "허브",
+    "블루베리",
+    "건초",
+    "블랙베리"
+  ],
+  "pairings": [
+    "양갈비",
+    "스튜",
+    "갈비찜",
+    "불고기",
+    "양념갈비",
+    "서양요리",
+    "양고기",
+    "소고기",
+    "스테이크",
+    "리조토"
+  ]
+}

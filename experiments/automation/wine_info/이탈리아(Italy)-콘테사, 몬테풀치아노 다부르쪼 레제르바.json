@@ -1,0 +1,22 @@
+{
+  "name": "콘테사, 몬테풀치아노 다부르쪼 레제르바",
+  "en_name": "Contesa, Montepulciano d'Abruzzo Riserva",
+  "price_from_importer": "80,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "콘테사 Contesa",
+  "main_grape": "몬테풀치아노 (Montepulciano)",
+  "country": "이탈리아(Italy)",
+  "city": "아브루쪼(Abruzzo)",
+  "aromas": [
+    "체리"
+  ],
+  "pairings": [
+    "치즈"
+  ],
+  "recommend": "붉은고기, 숙성된치즈 등과 잘 어울린다.",
+  "alcohol": "14~15 %",
+  "serving_temp": "16~18 ℃"
+}

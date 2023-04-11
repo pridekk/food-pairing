@@ -1,0 +1,24 @@
+{
+  "name": "라 파오느리, 베지 블랑",
+  "en_name": "La Paonnerie, Vegyes Blanc",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "라 파오느리 La Paonnerie",
+  "main_grape": "슈냉 블랑 (Chenin Blanc)",
+  "country": "프랑스(France)",
+  "city": "루아르(Loire)",
+  "aromas": [
+    "시트러스",
+    "구아바",
+    "미네랄"
+  ],
+  "pairings": [
+    "시푸드",
+    "튀김",
+    "치즈",
+    "해산물"
+  ]
+}

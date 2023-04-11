@@ -1,0 +1,31 @@
+{
+  "name": "메종 지네스떼, 포르 뒤 록",
+  "en_name": "Maison Ginestet, Fort du Roc",
+  "price_from_importer": "75,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 4,
+  "winery": "메종 지네스떼 Maison Ginestet",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) , 메를로 (Merlot)",
+  "country": "프랑스(France)",
+  "city": "보르도(Bordeaux)",
+  "aromas": [
+    "자두",
+    "블랙커런트",
+    "삼나무",
+    "오크",
+    "블루베리",
+    "바닐라"
+  ],
+  "pairings": [
+    "양갈비",
+    "불고기",
+    "양고기",
+    "보쌈",
+    "수육",
+    "소고기",
+    "스테이크",
+    "바비큐"
+  ]
+}

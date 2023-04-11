@@ -1,0 +1,23 @@
+{
+  "name": "스크리마글리오, 랑게 아르네이스",
+  "en_name": "Scrimaglio, Langhe Arneis",
+  "price_from_importer": "64,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "스크리마글리오 Scrimaglio",
+  "main_grape": "아르네이스 (Arneis) 100%",
+  "country": "이탈리아(Italy)",
+  "city": "랑게(Langhe)",
+  "aromas": [
+    "아몬드",
+    "복숭아"
+  ],
+  "pairings": [
+    "복숭아"
+  ],
+  "recommend": null,
+  "alcohol": null,
+  "serving_temp": "8~10 ℃"
+}

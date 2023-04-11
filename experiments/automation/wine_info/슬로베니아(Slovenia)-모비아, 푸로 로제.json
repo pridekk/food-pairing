@@ -1,0 +1,27 @@
+{
+  "name": "모비아, 푸로 로제",
+  "en_name": "Movia, Puro Rose",
+  "price_from_importer": "130,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "모비아 Movia",
+  "main_grape": "피노 누아 (Pinot Noir)",
+  "country": "슬로베니아(Slovenia)",
+  "city": "고리스카 브르다(Goriska Brda)",
+  "aromas": [
+    "페이스트리",
+    "석류",
+    "오렌지",
+    "브리오슈",
+    "라스베리"
+  ],
+  "pairings": [
+    "장어",
+    "건육",
+    "꼬치구이",
+    "꽁피",
+    "생선회"
+  ]
+}

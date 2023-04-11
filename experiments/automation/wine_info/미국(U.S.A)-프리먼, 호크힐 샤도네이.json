@@ -1,0 +1,27 @@
+{
+  "name": "프리먼, 호크힐 샤도네이",
+  "en_name": "Freeman, Hawk Hill Chardonnay",
+  "price_from_importer": "255,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "프리먼 Freeman",
+  "main_grape": "샤르도네 (Chardonnay) 100%",
+  "country": "미국(U.S.A)",
+  "city": "소노마 코스트(Sonoma Coast)",
+  "aromas": [
+    "사과",
+    "아몬드",
+    "레몬",
+    "자몽",
+    "복숭아"
+  ],
+  "pairings": [
+    "카망베르",
+    "새우",
+    "견과류",
+    "복숭아",
+    "해산물"
+  ]
+}

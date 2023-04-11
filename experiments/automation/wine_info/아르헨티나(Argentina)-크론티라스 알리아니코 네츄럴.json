@@ -1,0 +1,20 @@
+{
+  "name": "크론티라스 알리아니코 네츄럴",
+  "en_name": "Krontiras Aglianico Natural",
+  "price_from_importer": "110,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "보데가스 크론티라스 Bodegas Krontiras",
+  "main_grape": "알리아니코 (Aglianico)",
+  "country": "아르헨티나(Argentina)",
+  "city": "멘도사(Mendoza)",
+  "aromas": [
+    "정향",
+    "블랙체리",
+    "붉은꽃",
+    "블랙베리"
+  ],
+  "pairings": []
+}

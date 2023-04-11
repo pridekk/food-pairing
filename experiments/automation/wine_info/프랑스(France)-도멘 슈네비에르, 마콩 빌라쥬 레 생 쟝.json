@@ -1,0 +1,20 @@
+{
+  "name": "도멘 슈네비에르, 마콩 빌라쥬 레 생 쟝",
+  "en_name": "Domaine Chenevieres, Macon Villages Les Saint-Jean",
+  "price_from_importer": "70,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "도멘 슈네비에르 Domaine Chenevieres",
+  "main_grape": "샤르도네 (Chardonnay) 100%",
+  "country": "프랑스(France)",
+  "city": "마꼬네(Maconnais)",
+  "aromas": [
+    "오크",
+    "바닐라"
+  ],
+  "pairings": [
+    "닭고기"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "샴페인 꼴렛, 브뤼 로제",
+  "en_name": "Champagne Collet, Brut Rose",
+  "price_from_importer": "135,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "샴페인 꼴렛 Champagne Collet",
+  "main_grape": "피노 누아 (Pinot Noir) 50%, 샤르도네 (Chardonnay) 40%, 피노 뮈니에 (Pinot Meunier) 10%",
+  "country": "프랑스(France)",
+  "city": "샹빠뉴(Champagne)",
+  "aromas": [
+    "코코아",
+    "오렌지",
+    "블랙커런트"
+  ],
+  "pairings": [
+    "식전주",
+    "파마산",
+    "랍스터"
+  ],
+  "recommend": "식전주로도 기쁨을 주지만 음식과 페어링 시 빛을 발함. 파마산 아몬드 비스킷 또는 코탕탱(Cotentin) 지역의 블루 랍스터 요리 등과 잘 어울린다.",
+  "alcohol": "12~13 %",
+  "serving_temp": "6~8 ℃"
+}

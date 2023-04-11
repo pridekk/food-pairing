@@ -1,0 +1,24 @@
+{
+  "name": "라 베스티아",
+  "en_name": "La Bestia",
+  "price_from_importer": "110,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "아르티가 Artiga",
+  "main_grape": "모나스트렐 (Monastrell)",
+  "country": "스페인(Spain)",
+  "city": "후미야(Jumilla)",
+  "aromas": [
+    "커피",
+    "호두",
+    "말린과일"
+  ],
+  "pairings": [
+    "치즈"
+  ],
+  "recommend": "붉은고기,숙성된 치즈 등과 잘 어울린다.",
+  "alcohol": "16~17 %",
+  "serving_temp": "16~18 ℃"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "더 세프리트 패밀리, 래빗 아일랜드 소비뇽 블랑",
+  "en_name": "The Seifried Family, Rabbit Island Sauvignon Blanc",
+  "price_from_importer": "37,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 1,
+  "tannin": 1,
+  "winery": "더 세프리트 패밀리 The Seifried Family",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc)",
+  "country": "뉴질랜드(New Zealand)",
+  "city": "넬슨(Nelson)",
+  "aromas": [
+    "구즈베리",
+    "레몬",
+    "열대과일",
+    "자몽",
+    "시트러스",
+    "자스민"
+  ],
+  "pairings": [
+    "동남아요리",
+    "튀김",
+    "새우",
+    "생선회",
+    "광어",
+    "아시아요리",
+    "생선구이",
+    "해산물"
+  ]
+}

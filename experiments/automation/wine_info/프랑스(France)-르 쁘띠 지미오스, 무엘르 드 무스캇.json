@@ -1,0 +1,25 @@
+{
+  "name": "르 쁘띠 지미오스, 무엘르 드 무스캇",
+  "en_name": "Le Petit Gimios, Moelleux de Muscat",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 2,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "르 쁘띠 지미오스 Le Petit Gimios",
+  "main_grape": "뮈스까 (Muscat)",
+  "country": "프랑스(France)",
+  "city": "랑그독 루씨용(Languedoc Roussillon)",
+  "aromas": [
+    "복숭아",
+    "살구",
+    "시트러스",
+    "미네랄"
+  ],
+  "pairings": [
+    "복숭아",
+    "치즈",
+    "샐러드",
+    "해산물"
+  ]
+}

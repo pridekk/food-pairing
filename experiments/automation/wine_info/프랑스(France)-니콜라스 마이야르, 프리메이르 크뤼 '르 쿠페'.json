@@ -1,0 +1,33 @@
+{
+  "name": "니콜라스 마이야르, 프리메이르 크뤼 '르 쿠페'",
+  "en_name": "Nicholas Maillart, 1er Cru Les Francs de Pied 'Le Coupes'",
+  "price_from_importer": "710,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "니콜라스 마이야르 Nicholas Maillart",
+  "main_grape": "피노 누아 (Pinot Noir) 100%",
+  "country": "프랑스(France)",
+  "city": "몽따뉴 드 랭스(Montagne de Reims)",
+  "aromas": [
+    "미네랄",
+    "서양배",
+    "레몬",
+    "청사과",
+    "브리오슈",
+    "시트러스",
+    "토스트"
+  ],
+  "pairings": [
+    "식전주",
+    "씨푸드",
+    "장어",
+    "생굴",
+    "닭강정",
+    "게살",
+    "장어구이",
+    "아페리티프",
+    "해산물"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "스크리마글리오, 가비 델 꼬무네 디 가비",
+  "en_name": "Scrimaglio, Gavi Del Comune di Gavi",
+  "price_from_importer": "70,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "스크리마글리오 Scrimaglio",
+  "main_grape": "코르테제 (Cortese)",
+  "country": "이탈리아(Italy)",
+  "city": "가비(Gavi)",
+  "aromas": [
+    "건초"
+  ],
+  "pairings": [],
+  "recommend": null,
+  "alcohol": null,
+  "serving_temp": "8~10 ℃"
+}

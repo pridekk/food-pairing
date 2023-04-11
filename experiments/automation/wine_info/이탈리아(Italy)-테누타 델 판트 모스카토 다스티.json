@@ -1,0 +1,21 @@
+{
+  "name": "테누타 델 판트 모스카토 다스티",
+  "en_name": "Tenuta Del Fant Moscato d'Asti",
+  "price_from_importer": "69,000원( 750ml )",
+  "sugar": 3,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "테누타 일 팔체토 Tenuta Il Falchetto",
+  "main_grape": "모스카토 (Moscato )",
+  "country": "이탈리아(Italy)",
+  "city": "피에몬테(Piemonte)",
+  "aromas": [
+    "세이지",
+    "시트러스"
+  ],
+  "pairings": [],
+  "recommend": null,
+  "alcohol": "5~6 %",
+  "serving_temp": "8~10 ℃"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "샤토 타눈다, 그랜드 바로사 카베르네 쇼비뇽",
+  "en_name": "Chateau Tanunda, Grand Barossa Cabernet Sauvignon",
+  "price_from_importer": "35,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "샤토 타눈다 Chateau Tanunda",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) 100%",
+  "country": "호주(Australia)",
+  "city": "바로사 밸리(Barossa Valley)",
+  "aromas": [
+    "바닐라"
+  ],
+  "pairings": [],
+  "recommend": null,
+  "alcohol": "14~15 %",
+  "serving_temp": "16~18 ℃"
+}

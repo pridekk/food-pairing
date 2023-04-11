@@ -1,0 +1,23 @@
+{
+  "name": "프리먼, 아키코 퀴베 피노누아",
+  "en_name": "Freeman, Akiko's Cuvee Pinot Noir",
+  "price_from_importer": "318,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "프리먼 Freeman",
+  "main_grape": "피노 누아 (Pinot Noir) 100%",
+  "country": "미국(U.S.A)",
+  "city": "러시안 리버 밸리(Russian River Valley)",
+  "aromas": [
+    "라스베리",
+    "크랜베리",
+    "붉은꽃"
+  ],
+  "pairings": [
+    "양갈비",
+    "닭고기",
+    "육류요리"
+  ]
+}

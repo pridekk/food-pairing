@@ -1,0 +1,25 @@
+{
+  "name": "샤토 장 포, 보르도 후즈 '레 수스'",
+  "en_name": "Chateau Jean Faux, Bordeaux Rouge 'Les Source'",
+  "price_from_importer": "99,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "샤토 장 포 Chateau Jean Faux",
+  "main_grape": "메를로 (Merlot) , 카베르네 프랑 (Cabernet Franc)",
+  "country": "프랑스(France)",
+  "city": "보르도(Bordeaux)",
+  "aromas": [
+    "블랙체리",
+    "오크",
+    "정향",
+    "블랙베리",
+    "감초"
+  ],
+  "pairings": [
+    "양갈비",
+    "양념갈비",
+    "소고기"
+  ]
+}

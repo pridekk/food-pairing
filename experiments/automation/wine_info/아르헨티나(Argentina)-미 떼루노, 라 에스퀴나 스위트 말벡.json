@@ -1,0 +1,20 @@
+{
+  "name": "미 떼루노, 라 에스퀴나 스위트 말벡",
+  "en_name": "Mi Terruno, La Esquina Sweet Malbec",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 3,
+  "acidity": 3,
+  "body": 5,
+  "tannin": 5,
+  "winery": "미 떼루노 Mi Terruno",
+  "main_grape": "말벡 (Malbec)",
+  "country": "아르헨티나(Argentina)",
+  "city": "멘도사(Mendoza)",
+  "aromas": [
+    "자두"
+  ],
+  "pairings": [
+    "파스타",
+    "자두"
+  ]
+}

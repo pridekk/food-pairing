@@ -1,0 +1,25 @@
+{
+  "name": "도멘 장 미셸 기용, 부르고뉴 피노 누아 '레 그라비에 샹볼'",
+  "en_name": "Domaine Jean-Michel Guillon, Bourgogne Pinot Noir 'Les Graviers Chambolle'",
+  "price_from_importer": "160,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "도멘 장-미셸 기용 Domaine Jean-Michel Guillon",
+  "main_grape": "피노 누아 (Pinot Noir) 100%",
+  "country": "프랑스(France)",
+  "city": "부르고뉴(Bourgogne)",
+  "aromas": [
+    "라스베리",
+    "허브",
+    "붉은꽃",
+    "블랙베리"
+  ],
+  "pairings": [
+    "양고기",
+    "치즈",
+    "까르파치오",
+    "오리고기"
+  ]
+}

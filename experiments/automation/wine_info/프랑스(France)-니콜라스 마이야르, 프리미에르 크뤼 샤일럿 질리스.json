@@ -1,0 +1,31 @@
+{
+  "name": "니콜라스 마이야르, 프리미에르 크뤼 샤일럿 질리스",
+  "en_name": "Nicholas Maillart, 1er Cru Chaillots Gillis",
+  "price_from_importer": "473,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "니콜라스 마이야르 Nicholas Maillart",
+  "main_grape": "샤르도네 (Chardonnay) 100%",
+  "country": "프랑스(France)",
+  "city": "몽따뉴 드 랭스(Montagne de Reims)",
+  "aromas": [
+    "감귤",
+    "미네랄",
+    "오렌지",
+    "브리오슈",
+    "시트러스",
+    "토스트"
+  ],
+  "pairings": [
+    "씨푸드",
+    "장어",
+    "생굴",
+    "닭강정",
+    "샐러드",
+    "게살",
+    "장어구이",
+    "해산물"
+  ]
+}

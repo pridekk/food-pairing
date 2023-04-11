@@ -1,0 +1,22 @@
+{
+  "name": "까나르 뒤센, 샤를 7세 블랑 드 블랑",
+  "en_name": "Canard-Duchene, Charles VII Blanc de Blancs",
+  "price_from_importer": "280,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "까나르 뒤센 Canard-Duchene",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "프랑스(France)",
+  "city": "샹빠뉴(Champagne)",
+  "aromas": [
+    "페이스트리",
+    "리치",
+    "바닐라"
+  ],
+  "pairings": [],
+  "recommend": null,
+  "alcohol": "12~13 %",
+  "serving_temp": "6~8 ℃"
+}

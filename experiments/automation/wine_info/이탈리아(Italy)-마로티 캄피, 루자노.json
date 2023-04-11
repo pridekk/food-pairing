@@ -1,0 +1,23 @@
+{
+  "name": "마로티 캄피, 루자노",
+  "en_name": "Marotti Campi, Luzano",
+  "price_from_importer": "66,000원( 750ml )",
+  "sugar": 0,
+  "acidity": 0,
+  "body": 0,
+  "tannin": 0,
+  "winery": "마로티 캄피 Marotti Campi",
+  "main_grape": "베르디키오 비앙코 (Verdicchio Bianco)",
+  "country": "이탈리아(Italy)",
+  "city": "마르케(Marche)",
+  "aromas": [
+    "아카시아",
+    "시트러스",
+    "아몬드"
+  ],
+  "pairings": [
+    "파스타",
+    "한식",
+    "생선구이"
+  ]
+}

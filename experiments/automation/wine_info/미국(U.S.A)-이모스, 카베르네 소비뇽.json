@@ -1,0 +1,21 @@
+{
+  "name": "이모스, 카베르네 소비뇽",
+  "en_name": "Emos, Cabernet Sauvignon",
+  "price_from_importer": "150,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 2,
+  "body": 3,
+  "tannin": 3,
+  "winery": "이모스 Emos",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "미국(U.S.A)",
+  "city": "테메큘라 밸리(Temecula Valley)",
+  "aromas": [
+    "바닐라",
+    "체리"
+  ],
+  "pairings": [],
+  "recommend": "스테이크, 그릴요리, 갈비와 잘 어울린다..",
+  "alcohol": "13~14 %",
+  "serving_temp": "14~16 ℃"
+}

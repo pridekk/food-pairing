@@ -1,0 +1,19 @@
+{
+  "name": "니꼴라 뽀뗄, 샤블리 프리미에 크뤼 발롱",
+  "en_name": "Maison Nicolas Potel, Chablis Premier Cru 'Vaillons'",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "니꼴라 뽀뗄 Maison Nicolas Potel",
+  "main_grape": "샤르도네 (Chardonnay) 100%",
+  "country": "프랑스(France)",
+  "city": "샤블리 프리미에 크뤼(Chablis Premier Cru)",
+  "aromas": [
+    "미네랄"
+  ],
+  "pairings": [
+    "해산물"
+  ]
+}

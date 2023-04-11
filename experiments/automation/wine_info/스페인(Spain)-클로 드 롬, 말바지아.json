@@ -1,0 +1,19 @@
+{
+  "name": "클로 드 롬, 말바지아",
+  "en_name": "Clos de Lom, Malvasia",
+  "price_from_importer": "62,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "클로 드 롬 Clos de Lom",
+  "main_grape": "말바시아 (Malvasia) 100%",
+  "country": "스페인(Spain)",
+  "city": "발렌시아(Valencia)",
+  "aromas": [
+    "열대과일"
+  ],
+  "pairings": [
+    "해산물"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "니콜리스, 발폴리첼라 클라시코",
+  "en_name": "Nicolis, Valpolicella Classico",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "니콜리스 Nicolis",
+  "main_grape": "코르비나 (Corvina) , 론디넬라 (Rondinella) , 몰리나라 (Molinara)",
+  "country": "이탈리아(Italy)",
+  "city": "발폴리첼라(Valpolicella)",
+  "aromas": [
+    "자두",
+    "체리"
+  ],
+  "pairings": [
+    "붉은살생선",
+    "자두",
+    "치즈"
+  ],
+  "recommend": "가금류, 오리고기, 닭고기, 붉은살생선, 푸아그라, 부드러운 치즈와 잘 어울린다.",
+  "alcohol": null,
+  "serving_temp": "16~18 ℃"
+}

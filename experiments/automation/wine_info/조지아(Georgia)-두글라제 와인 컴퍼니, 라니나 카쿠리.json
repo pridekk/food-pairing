@@ -1,0 +1,24 @@
+{
+  "name": "두글라제 와인 컴퍼니, 라니나 카쿠리",
+  "en_name": "Dugladze Wine Company, Ranina Kakhuri",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 2,
+  "body": 3,
+  "tannin": 2,
+  "winery": "두글라제 와인 컴퍼니 Dugladze Wine Company",
+  "main_grape": "리켓사이텔리 (Rkatsiteli)",
+  "country": "조지아(Georgia)",
+  "city": "카헤티(Kakheti)",
+  "aromas": [
+    "허브"
+  ],
+  "pairings": [
+    "햄버거",
+    "중국요리",
+    "건육"
+  ],
+  "recommend": "치킨, 닭강정, 양념치킨, 튀김, 건육, 디저트, 중국요리, 햄버거 등과 잘 어울린다.",
+  "alcohol": "12~13 %",
+  "serving_temp": "8~10 ℃"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "브루노 지아코사, 바르바레스코 아실리 리제르바",
+  "en_name": "Bruno Giacosa, Barbaresco Asili Riserva",
+  "price_from_importer": "966,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 5,
+  "tannin": 5,
+  "winery": "부르노 지아코사 Bruno Giacosa",
+  "main_grape": "네비올로 (Nebbiolo)",
+  "country": "이탈리아(Italy)",
+  "city": "피에몬테(Piemonte)",
+  "aromas": [
+    "장미",
+    "딸기"
+  ],
+  "pairings": [
+    "양갈비",
+    "훈제오리",
+    "바비큐",
+    "트러플"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "샤토 포가스, 꼬뜨 드 부르 '말두허'",
+  "en_name": "Chateau Fougas, Cote de Bourg Rouge 'Maldoror'",
+  "price_from_importer": "120,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "샤토 포가스 Chateau Fougas",
+  "main_grape": "메를로 (Merlot) , 카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "프랑스(France)",
+  "city": "꼬뜨 드 부르그(Côtes de Bourg)",
+  "aromas": [
+    "블랙체리",
+    "오크",
+    "정향",
+    "블루베리",
+    "블랙베리"
+  ],
+  "pairings": [
+    "양념갈비",
+    "불고기",
+    "서양요리",
+    "소고기",
+    "스테이크"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "마야카마스, 메를로",
+  "en_name": "Mayacamas, Merlot",
+  "price_from_importer": "260,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "마야카마스 빈야드 Mayacamas Vineyards",
+  "main_grape": "메를로 (Merlot) 94%, 카베르네 프랑 (Cabernet Franc) 6%",
+  "country": "미국(U.S.A)",
+  "city": "나파 카운티(Napa County)",
+  "aromas": [
+    "자두",
+    "라스베리",
+    "블루베리",
+    "바닐라"
+  ],
+  "pairings": [
+    "로스트비프",
+    "살라미",
+    "하몽",
+    "건육",
+    "양꼬치",
+    "소고기",
+    "스테이크",
+    "바비큐"
+  ]
+}

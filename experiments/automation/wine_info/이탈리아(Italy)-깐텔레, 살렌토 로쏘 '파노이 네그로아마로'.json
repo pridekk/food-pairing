@@ -1,0 +1,38 @@
+{
+  "name": "깐텔레, 살렌토 로쏘 '파노이 네그로아마로'",
+  "en_name": "Cantele, Salento Rosso 'Fanoi Negroamaro'",
+  "price_from_importer": "226,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "깐텔레 Cantele",
+  "main_grape": "네그로아마로 (Negroamaro)",
+  "country": "이탈리아(Italy)",
+  "city": "뿔리아(Puglia)",
+  "aromas": [
+    "블랙커런트",
+    "시가박스",
+    "블랙체리",
+    "삼나무",
+    "오크",
+    "육두구",
+    "정향",
+    "바닐라",
+    "타르",
+    "블랙베리",
+    "감초"
+  ],
+  "pairings": [
+    "양갈비",
+    "건육",
+    "양념갈비",
+    "양꼬치",
+    "육포",
+    "갈비찜",
+    "양고기",
+    "그릴요리",
+    "쇠고기",
+    "족발"
+  ]
+}

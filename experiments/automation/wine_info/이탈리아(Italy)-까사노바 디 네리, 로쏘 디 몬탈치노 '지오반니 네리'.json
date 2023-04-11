@@ -1,0 +1,34 @@
+{
+  "name": "까사노바 디 네리, 로쏘 디 몬탈치노 '지오반니 네리'",
+  "en_name": "Casanova di Neri, Rosso di Montalcino 'Giovanni Neri'",
+  "price_from_importer": "240,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 4,
+  "winery": "카사노바 디 네리 Casanova di Neri",
+  "main_grape": "산지오베제 (Sangiovese) 100%",
+  "country": "이탈리아(Italy)",
+  "city": "몬탈치노(Montalcino)",
+  "aromas": [
+    "자두",
+    "체리",
+    "살구",
+    "제비꽃",
+    "딸기",
+    "크랜베리",
+    "감초"
+  ],
+  "pairings": [
+    "양갈비",
+    "로스트비프",
+    "살라미",
+    "건육",
+    "양고기",
+    "닭강정",
+    "양념치킨",
+    "소고기",
+    "프로슈토",
+    "스테이크"
+  ]
+}

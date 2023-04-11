@@ -1,0 +1,25 @@
+{
+  "name": "두글라제 와인 컴퍼니, 치난달리",
+  "en_name": "Dugladze Wine Company, Tsinandali",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "두글라제 와인 컴퍼니 Dugladze Wine Company",
+  "main_grape": "리켓사이텔리 (Rkatsiteli) , 므스바네 (Mtsvane)",
+  "country": "조지아(Georgia)",
+  "city": "카헤티(Kakheti)",
+  "aromas": [
+    "허브",
+    "열대과일"
+  ],
+  "pairings": [
+    "치즈",
+    "피자",
+    "수육"
+  ],
+  "recommend": "바비큐, 소시지, 베이컨, 훈제연어, 참치, 훈제오리, 숙성 치즈, 건육, 하몽, 프로슈토, 탕수육, 자장면, 치킨, 피자 등과 잘 어울린다.",
+  "alcohol": "12~13 %",
+  "serving_temp": "8~10 ℃"
+}

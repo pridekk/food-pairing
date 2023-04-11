@@ -1,0 +1,24 @@
+{
+  "name": "니콜리스, 세칼 발폴리첼라 리파소 클라시코 수페리오레",
+  "en_name": "Nicolis, Seccal Valpolicella Ripasso Classico Superiore",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "니콜리스 Nicolis",
+  "main_grape": "코르비나 (Corvina) , 론디넬라 (Rondinella) , 몰리나라 (Molinara) , 크로아티나 (Croatina)",
+  "country": "이탈리아(Italy)",
+  "city": "발폴리첼라(Valpolicella)",
+  "aromas": [
+    "오크",
+    "체리"
+  ],
+  "pairings": [
+    "양고기",
+    "치즈"
+  ],
+  "recommend": "붉은육류, 스테이크, 그릴요리, 스튜, 양고기, 숙성 치즈, 라자냐, 파스타와 잘 어울린다.",
+  "alcohol": null,
+  "serving_temp": "16~18 ℃"
+}

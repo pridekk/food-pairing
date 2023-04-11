@@ -1,0 +1,20 @@
+{
+  "name": "두글라제 와인 컴퍼니, 키시 크베브리",
+  "en_name": "Dugladze Wine Company, Kisi Qvevri",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "두글라제 와인 컴퍼니 Dugladze Wine Company",
+  "main_grape": "키시 (Kisi)",
+  "country": "조지아(Georgia)",
+  "city": "카헤티(Kakheti)",
+  "aromas": [
+    "살구"
+  ],
+  "pairings": [],
+  "recommend": null,
+  "alcohol": "12~13 %",
+  "serving_temp": "8~10 ℃"
+}

@@ -1,0 +1,34 @@
+{
+  "name": "도멘 티베르, 생 베랑 부아 드 페",
+  "en_name": "Domaine Thibert, Saint-Veran Bois de Fee",
+  "price_from_importer": "140,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "도멘 티베르 Domaine Thibert",
+  "main_grape": "샤르도네 (Chardonnay) 100%",
+  "country": "프랑스(France)",
+  "city": "생-베랑(Saint-Veran)",
+  "aromas": [
+    "흰꽃",
+    "서양배",
+    "아카시아",
+    "백도",
+    "레몬",
+    "살구",
+    "부싯돌",
+    "미네랄"
+  ],
+  "pairings": [
+    "훈제오리",
+    "오리고기",
+    "연어",
+    "치킨",
+    "동그랑땡",
+    "장어구이",
+    "잡채",
+    "해산물",
+    "조개구이"
+  ]
+}

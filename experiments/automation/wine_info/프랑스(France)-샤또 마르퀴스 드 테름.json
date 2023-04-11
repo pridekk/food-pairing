@@ -1,0 +1,18 @@
+{
+  "name": "샤또 마르퀴스 드 테름",
+  "en_name": "Chateau Marquis de Terme",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "샤또 마르퀴스 드 테름 Chateau Marquis de Terme",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) , 메를로 (Merlot) , 쁘띠 베르도 (Petit Verdot)",
+  "country": "프랑스(France)",
+  "city": "마고(Margaux)",
+  "aromas": [
+    "스테이크",
+    "치즈"
+  ],
+  "pairings": []
+}

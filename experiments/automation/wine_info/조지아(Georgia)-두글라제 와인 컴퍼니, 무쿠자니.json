@@ -1,0 +1,26 @@
+{
+  "name": "두글라제 와인 컴퍼니, 무쿠자니",
+  "en_name": "Dugladze Wine Company, Mukuzani",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "두글라제 와인 컴퍼니 Dugladze Wine Company",
+  "main_grape": "사페라비 (Saperavi)",
+  "country": "조지아(Georgia)",
+  "city": "카헤티(Kakheti)",
+  "aromas": [
+    "허브",
+    "감초"
+  ],
+  "pairings": [
+    "자장면",
+    "바비큐",
+    "스테이크",
+    "불고기"
+  ],
+  "recommend": "스테이크, 바비큐, 치즈, 불고기, 자장면, 리조토, 라자냐, 파스타와 잘 어울린다.",
+  "alcohol": "13~14 %",
+  "serving_temp": "16~18 ℃"
+}

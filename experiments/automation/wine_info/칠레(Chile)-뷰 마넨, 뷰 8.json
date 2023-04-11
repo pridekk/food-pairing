@@ -1,0 +1,20 @@
+{
+  "name": "뷰 마넨, 뷰 8",
+  "en_name": "Viu Manent, Viu 8",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "뷰 마넨 Viu Manent",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) , 말벡 (Malbec) , 카베르네 프랑 (Cabernet Franc)",
+  "country": "칠레(Chile)",
+  "city": "콜차구아 밸리(Cholchagua Valley)",
+  "aromas": [
+    "자두",
+    "블랙베리"
+  ],
+  "pairings": [
+    "자두"
+  ]
+}

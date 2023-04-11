@@ -1,0 +1,18 @@
+{
+  "name": "알피에리, 스푸만테 브뤼",
+  "en_name": "Alfieri, Spumante Brut",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "알피에리 Alfieri",
+  "main_grape": "피노 네로 (Pinot Nero) , 샤르도네 (Chardonnay)",
+  "country": "이탈리아(Italy)",
+  "city": "피에몬테(Piemonte)",
+  "aromas": [
+    "치즈",
+    "새우"
+  ],
+  "pairings": []
+}

@@ -1,0 +1,36 @@
+{
+  "name": "소호, 지기 피노 그리",
+  "en_name": "Soho, Ziggy Pinot Gris",
+  "price_from_importer": "60,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 1,
+  "tannin": 1,
+  "winery": "소호 Soho",
+  "main_grape": "피노 그리 (Pinot Gris)",
+  "country": "뉴질랜드(New Zealand)",
+  "city": "말보로(Marlborough)",
+  "aromas": [
+    "라임",
+    "시트러스",
+    "청사과"
+  ],
+  "pairings": [
+    "동남아요리",
+    "편육",
+    "킹크랩",
+    "탕수육",
+    "시푸드",
+    "매운음식",
+    "새우",
+    "한국음식",
+    "중국요리",
+    "어묵",
+    "수육",
+    "게살",
+    "아시아요리",
+    "나물",
+    "해산물",
+    "조개구이"
+  ]
+}

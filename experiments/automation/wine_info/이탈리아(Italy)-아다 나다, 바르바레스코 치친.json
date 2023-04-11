@@ -1,0 +1,30 @@
+{
+  "name": "아다 나다, 바르바레스코 치친",
+  "en_name": "Ada Nada, Barbaresco CICHIN",
+  "price_from_importer": "250,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 4,
+  "winery": "아다 나다 Ada Nada",
+  "main_grape": "네비올로 (Nebbiolo)",
+  "country": "이탈리아(Italy)",
+  "city": "피에몬테(Piemonte)",
+  "aromas": [
+    "말린자두",
+    "시나몬",
+    "체리",
+    "장미",
+    "바닐라"
+  ],
+  "pairings": [
+    "양갈비",
+    "스튜",
+    "건육",
+    "갈비찜",
+    "양념갈비",
+    "양고기",
+    "소고기",
+    "스테이크"
+  ]
+}

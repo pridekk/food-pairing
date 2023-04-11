@@ -1,0 +1,28 @@
+{
+  "name": "쉬... 잇츠 피노 누아",
+  "en_name": "Shhh... It's Pinot Noir",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "피터 메르테스 Peter Mertes",
+  "main_grape": "피노 누아 (Pinot Noir)",
+  "country": "독일(Germany)",
+  "city": "팔츠(Pfalz)",
+  "aromas": [
+    "크랜베리",
+    "딸기",
+    "체리",
+    "바닐라"
+  ],
+  "pairings": [
+    "훈제오리",
+    "참치",
+    "가금류",
+    "육회",
+    "소고기",
+    "바비큐",
+    "까르파치오"
+  ]
+}

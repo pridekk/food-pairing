@@ -1,0 +1,21 @@
+{
+  "name": "샴페인 꼴렛, 드미 섹",
+  "en_name": "Champagne Collet, Demi-Sec",
+  "price_from_importer": "100,000원( 750ml )",
+  "sugar": 3,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "샴페인 꼴렛 Champagne Collet",
+  "main_grape": "피노 뮈니에 (Pinot Meunier) , 샤르도네 (Chardonnay) , 피노 누아 (Pinot Noir)",
+  "country": "프랑스(France)",
+  "city": "샹빠뉴(Champagne)",
+  "aromas": [
+    "시트러스",
+    "딸기"
+  ],
+  "pairings": [
+    "푸아그라",
+    "디저트"
+  ]
+}

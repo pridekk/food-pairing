@@ -1,0 +1,24 @@
+{
+  "name": "레 끌로 모리스, 미디",
+  "en_name": "Les Clos Maurice, Midi",
+  "price_from_importer": "139,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "레 끌로 모리스 Les Clos Maurice",
+  "main_grape": "카베르네 프랑 (Cabernet Franc)",
+  "country": "프랑스(France)",
+  "city": "소뮈르-샹삐니(Saumur-Champigny)",
+  "aromas": [
+    "버섯",
+    "오크",
+    "레드커런트",
+    "체리"
+  ],
+  "pairings": [
+    "닭고기",
+    "치즈",
+    "오리고기"
+  ]
+}

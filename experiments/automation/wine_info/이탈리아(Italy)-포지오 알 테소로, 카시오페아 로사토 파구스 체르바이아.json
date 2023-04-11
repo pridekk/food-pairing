@@ -1,0 +1,20 @@
+{
+  "name": "포지오 알 테소로, 카시오페아 로사토 파구스 체르바이아",
+  "en_name": "Poggio al Tesoro, Cassiopea Rosato Pagus Cerbaia",
+  "price_from_importer": "100,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "포지오 알 테소로 Poggio al Tesoro",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) 50%, 시라/쉬라즈 (Syrah/Shiraz) 50%",
+  "country": "이탈리아(Italy)",
+  "city": "볼게리(Bolgheri)",
+  "aromas": [],
+  "pairings": [
+    "떡볶이",
+    "아시아요리",
+    "샐러드",
+    "해산물"
+  ]
+}

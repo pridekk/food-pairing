@@ -1,0 +1,22 @@
+{
+  "name": "파토리아 라 비알라, 토르볼리노 논 필트라토",
+  "en_name": "Fattoria La Vialla, Torbolino Non Filtrato",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "파토리아 라 비알라 Fattoria La Vialla",
+  "main_grape": "샤르도네 (Chardonnay) , 소비뇽 블랑 (Sauvignon Blanc) , 비오니에 (Viognier)",
+  "country": "이탈리아(Italy)",
+  "city": "토스카나(Toscana)",
+  "aromas": [
+    "사과",
+    "파인애플"
+  ],
+  "pairings": [
+    "야채",
+    "파스타",
+    "해산물"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "까브 드 베블렌하임, 게뷔르츠트라미너",
+  "en_name": "Cave de Beblenheim, Gewurztraminer",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "까브 드 베블렌하임 Cave de Beblenheim",
+  "main_grape": "게뷔르츠트라미너 (Gewurztraminer)",
+  "country": "프랑스(France)",
+  "city": "알자스(Alsace)",
+  "aromas": [
+    "리치",
+    "아카시아",
+    "부싯돌",
+    "바나나",
+    "키위",
+    "파인애플"
+  ],
+  "pairings": [
+    "치즈",
+    "튀김",
+    "샐러드"
+  ]
+}

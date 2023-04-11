@@ -1,0 +1,24 @@
+{
+  "name": "보데가 차크라, 마인케 샤르도네",
+  "en_name": "Bodega Chacra, Mainque Chardonnay",
+  "price_from_importer": "242,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "보데가 차크라 Bodega Chacra",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "아르헨티나(Argentina)",
+  "city": "파타고니아(Patagonia)",
+  "aromas": [
+    "크림",
+    "레몬",
+    "살구"
+  ],
+  "pairings": [
+    "탕수육",
+    "치즈",
+    "바비큐",
+    "수육"
+  ]
+}

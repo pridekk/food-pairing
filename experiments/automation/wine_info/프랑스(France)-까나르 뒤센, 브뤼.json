@@ -1,0 +1,21 @@
+{
+  "name": "까나르 뒤센, 브뤼",
+  "en_name": "Canard-Duchene, Brut",
+  "price_from_importer": "196,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "까나르 뒤센 Canard-Duchene",
+  "main_grape": "피노 누아 (Pinot Noir) , 피노 뮈니에 (Pinot Meunier) , 샤르도네 (Chardonnay)",
+  "country": "프랑스(France)",
+  "city": "샹빠뉴(Champagne)",
+  "aromas": [
+    "버터",
+    "브리오슈"
+  ],
+  "pairings": [],
+  "recommend": null,
+  "alcohol": "12~13 %",
+  "serving_temp": "6~8 ℃"
+}

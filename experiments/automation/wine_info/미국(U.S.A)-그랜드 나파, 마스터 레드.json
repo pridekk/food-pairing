@@ -1,0 +1,34 @@
+{
+  "name": "그랜드 나파, 마스터 레드",
+  "en_name": "Grand Napa, Master Red",
+  "price_from_importer": "170,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "그랜드 나파 빈야드 Grand Napa Vineyard",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) , 말벡 (Malbec) , 메를로 (Merlot)",
+  "country": "미국(U.S.A)",
+  "city": "나파 밸리(Napa Valley)",
+  "aromas": [
+    "자두",
+    "블랙커런트",
+    "블랙체리",
+    "레드커런트",
+    "바닐라"
+  ],
+  "pairings": [
+    "양갈비",
+    "불고기",
+    "서양요리",
+    "한국음식",
+    "양고기",
+    "보쌈",
+    "파스타",
+    "햄버거",
+    "소고기",
+    "스테이크",
+    "한식",
+    "족발"
+  ]
+}

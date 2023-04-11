@@ -1,0 +1,20 @@
+{
+  "name": "벨 꼴레, 모스카토 다스티 아모레 돌체",
+  "en_name": "Bel Colle, Moscato d'Asti Amore Dolce",
+  "price_from_importer": "51,000원( 750ml )",
+  "sugar": 3,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "벨 꼴레 Bel Colle",
+  "main_grape": "모스카토 (Moscato ) 100%",
+  "country": "이탈리아(Italy)",
+  "city": "아스티(Asti)",
+  "aromas": [],
+  "pairings": [
+    "치즈",
+    "식전주",
+    "케잌",
+    "과일"
+  ]
+}

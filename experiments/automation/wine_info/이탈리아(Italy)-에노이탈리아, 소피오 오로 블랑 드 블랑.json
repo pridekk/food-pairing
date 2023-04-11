@@ -1,0 +1,30 @@
+{
+  "name": "에노이탈리아, 소피오 오로 블랑 드 블랑",
+  "en_name": "Enoitalia, Soffio Oro Blanc de Blancs",
+  "price_from_importer": "50,000원( 750ml )",
+  "sugar": 2,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "에노이탈리아 Enoitalia",
+  "main_grape": "블렌드 (Blend )",
+  "country": "이탈리아(Italy)",
+  "city": "이탈리아(Italy)",
+  "aromas": [
+    "라임",
+    "흰꽃",
+    "감귤",
+    "사과",
+    "아카시아",
+    "레몬",
+    "백합"
+  ],
+  "pairings": [
+    "동남아요리",
+    "건육",
+    "튀김",
+    "프로슈토",
+    "아시아요리",
+    "생선구이"
+  ]
+}

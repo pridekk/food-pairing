@@ -1,0 +1,28 @@
+{
+  "name": "도멘 장 미셸 기용, 샹볼 뮈지니 '오 빌라쥐'",
+  "en_name": "Domaine Jean-Michel Guillon, Chambolle-Musigny 'Au Village'",
+  "price_from_importer": "356,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "도멘 장-미셸 기용 Domaine Jean-Michel Guillon",
+  "main_grape": "피노 누아 (Pinot Noir) 100%",
+  "country": "프랑스(France)",
+  "city": "샹볼 뮈지니(Chambolle Musigny)",
+  "aromas": [
+    "붉은꽃",
+    "허브",
+    "블루베리",
+    "장미",
+    "블랙베리",
+    "라스베리"
+  ],
+  "pairings": [
+    "양갈비",
+    "오리고기",
+    "꽁피",
+    "소고기",
+    "치즈"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "후쏘 바또, 블랑 드 누아",
+  "en_name": "Rousseaux Batteux, Blanc de Noirs",
+  "price_from_importer": "99,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 5,
+  "body": 4,
+  "tannin": 1,
+  "winery": "후쏘 바또 Rousseaux Batteux",
+  "main_grape": "피노 누아 (Pinot Noir)",
+  "country": "프랑스(France)",
+  "city": "샹빠뉴(Champagne)",
+  "aromas": [
+    "치즈",
+    "샐러드",
+    "해산물"
+  ],
+  "pairings": []
+}

@@ -1,0 +1,22 @@
+{
+  "name": "로건, 한나 로제",
+  "en_name": "Logan, Hannah Rose",
+  "price_from_importer": "60,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 2,
+  "body": 2,
+  "tannin": 1,
+  "winery": "로건 와인즈 Logan Wines",
+  "main_grape": "메를로 (Merlot) , 시라/쉬라즈 (Syrah/Shiraz)",
+  "country": "호주(Australia)",
+  "city": "뉴 사우스 웨일즈(New South Wales)",
+  "aromas": [
+    "오렌지",
+    "딸기",
+    "미네랄"
+  ],
+  "pairings": [
+    "파스타",
+    "치즈"
+  ]
+}

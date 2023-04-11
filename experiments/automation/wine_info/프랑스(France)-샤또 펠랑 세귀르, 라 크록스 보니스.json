@@ -1,0 +1,36 @@
+{
+  "name": "샤또 펠랑 세귀르, 라 크록스 보니스",
+  "en_name": "Chateau Phelan segur, La Croix Bonis",
+  "price_from_importer": "96,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "샤또 펠랑 세귀르 Chateau Phelan segur",
+  "main_grape": "메를로 (Merlot) 50%, 카베르네 소비뇽 (Cabernet Sauvignon) 50%",
+  "country": "프랑스(France)",
+  "city": "생-떼스테프(Saint Estephe)",
+  "aromas": [
+    "자두",
+    "블랙체리",
+    "체리",
+    "오크",
+    "육두구",
+    "정향",
+    "블랙베리",
+    "바닐라"
+  ],
+  "pairings": [
+    "양갈비",
+    "로스트비프",
+    "살라미",
+    "건육",
+    "양념갈비",
+    "갈비찜",
+    "불고기",
+    "양고기",
+    "소고기",
+    "스테이크",
+    "한식"
+  ]
+}

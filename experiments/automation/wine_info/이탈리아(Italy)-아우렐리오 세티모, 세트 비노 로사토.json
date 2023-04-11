@@ -1,0 +1,20 @@
+{
+  "name": "아우렐리오 세티모, 세트 비노 로사토",
+  "en_name": "Aurelio Settimo, SETT Rose Wine",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 2,
+  "winery": "아우렐리오 세티모 Aurelio Settimo",
+  "main_grape": "네비올로 (Nebbiolo) , 돌체토 (Dolcetto)",
+  "country": "이탈리아(Italy)",
+  "city": "피에몬테(Piemonte)",
+  "aromas": [
+    "장미",
+    "체리"
+  ],
+  "pairings": [
+    "샐러드"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "피오 체사레, 랑게 소비뇽",
+  "en_name": "Pio Cesare, Langhe Sauvignon",
+  "price_from_importer": "76,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "피오 체사레 Pio Cesare",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc) 100%",
+  "country": "이탈리아(Italy)",
+  "city": "피에몬테(Piemonte)",
+  "aromas": [
+    "흰꽃",
+    "레몬",
+    "살구",
+    "청사과",
+    "키위",
+    "시트러스",
+    "레몬껍질"
+  ],
+  "pairings": [
+    "불고기",
+    "서양요리",
+    "새우",
+    "피자",
+    "어묵",
+    "연어",
+    "농어",
+    "햄버거",
+    "광어",
+    "해산물"
+  ]
+}

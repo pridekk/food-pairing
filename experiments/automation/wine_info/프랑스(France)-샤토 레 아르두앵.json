@@ -1,0 +1,18 @@
+{
+  "name": "샤토 레 아르두앵",
+  "en_name": "Chateau Les Ardouins",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 4,
+  "winery": "샤토 레 아르두앵 Chateau Les Ardouins",
+  "main_grape": "메를로 (Merlot) , 카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "프랑스(France)",
+  "city": "보르도(Bordeaux)",
+  "aromas": [
+    "오크",
+    "바닐라"
+  ],
+  "pairings": []
+}

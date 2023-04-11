@@ -1,0 +1,32 @@
+{
+  "name": "모비아, 모드리 피노 누아",
+  "en_name": "Movia, Modri Pinot Noir",
+  "price_from_importer": "136,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "모비아 Movia",
+  "main_grape": "피노 누아 (Pinot Noir)",
+  "country": "슬로베니아(Slovenia)",
+  "city": "고리스카 브르다(Goriska Brda)",
+  "aromas": [
+    "자두",
+    "블랙체리",
+    "삼나무",
+    "시나몬",
+    "체리",
+    "오크",
+    "연기",
+    "딸기"
+  ],
+  "pairings": [
+    "훈제오리",
+    "로스트비프",
+    "참치",
+    "닭고기",
+    "찜닭",
+    "장어구이",
+    "바비큐"
+  ]
+}

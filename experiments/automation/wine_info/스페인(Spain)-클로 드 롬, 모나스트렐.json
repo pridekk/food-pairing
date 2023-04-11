@@ -1,0 +1,20 @@
+{
+  "name": "클로 드 롬, 모나스트렐",
+  "en_name": "Clos de Lom, Monastrell",
+  "price_from_importer": "62,000원( 750ml )",
+  "sugar": 2,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 2,
+  "winery": "클로 드 롬 Clos de Lom",
+  "main_grape": "모나스트렐 (Monastrell) 100%",
+  "country": "스페인(Spain)",
+  "city": "발렌시아(Valencia)",
+  "aromas": [
+    "자몽"
+  ],
+  "pairings": [
+    "샐러드",
+    "파스타"
+  ]
+}

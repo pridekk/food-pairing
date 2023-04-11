@@ -1,0 +1,25 @@
+{
+  "name": "소호, 바비 피노 누아",
+  "en_name": "Soho, Bobby Pinot Noir",
+  "price_from_importer": "60,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "소호 Soho",
+  "main_grape": "피노 누아 (Pinot Noir) 100%",
+  "country": "뉴질랜드(New Zealand)",
+  "city": "말보로(Marlborough)",
+  "aromas": [
+    "제비꽃",
+    "아카시아",
+    "장미"
+  ],
+  "pairings": [
+    "훈제오리",
+    "로스트비프",
+    "바비큐",
+    "송아지",
+    "참치"
+  ]
+}

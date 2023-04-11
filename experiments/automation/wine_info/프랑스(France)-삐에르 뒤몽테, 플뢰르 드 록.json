@@ -1,0 +1,21 @@
+{
+  "name": "삐에르 뒤몽테, 플뢰르 드 록",
+  "en_name": "Pierre Dumontet, Fleur de Roc",
+  "price_from_importer": "80,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "삐에르 뒤몽테 Pierre Dumontet",
+  "main_grape": "메를로 (Merlot) , 카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "프랑스(France)",
+  "city": "보르도(Bordeaux)",
+  "aromas": [
+    "토스트",
+    "가죽",
+    "체리"
+  ],
+  "pairings": [
+    "치즈"
+  ]
+}

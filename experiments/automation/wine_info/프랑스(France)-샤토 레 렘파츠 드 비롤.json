@@ -1,0 +1,35 @@
+{
+  "name": "샤토 레 렘파츠 드 비롤",
+  "en_name": "Chateau Les Remparts de Birol",
+  "price_from_importer": "40,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "샤토 레 렘파츠 드 비롤 Chateau Les Remparts de Birol",
+  "main_grape": "메를로 (Merlot) 100%",
+  "country": "프랑스(France)",
+  "city": "보르도(Bordeaux)",
+  "aromas": [
+    "자두",
+    "삼나무",
+    "체리",
+    "버섯",
+    "오크",
+    "블루베리",
+    "블랙베리"
+  ],
+  "pairings": [
+    "양갈비",
+    "로스트비프",
+    "살라미",
+    "하몽",
+    "건육",
+    "갈비찜",
+    "양념갈비",
+    "양고기",
+    "소고기",
+    "스테이크",
+    "한식"
+  ]
+}

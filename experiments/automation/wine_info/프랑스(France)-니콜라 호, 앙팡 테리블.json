@@ -1,0 +1,25 @@
+{
+  "name": "니콜라 호, 앙팡 테리블",
+  "en_name": "Nicolas Reau, L'Enfant Terrible",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "니콜라 호 Nicolas Reau",
+  "main_grape": "카베르네 프랑 (Cabernet Franc)",
+  "country": "프랑스(France)",
+  "city": "앙쥬-소뮈르(Anjou-Saumur)",
+  "aromas": [
+    "자두",
+    "피망",
+    "레드커런트",
+    "제비꽃"
+  ],
+  "pairings": [
+    "자두",
+    "치즈",
+    "튀김",
+    "육류요리"
+  ]
+}

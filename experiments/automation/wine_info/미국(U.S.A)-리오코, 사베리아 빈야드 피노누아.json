@@ -1,0 +1,20 @@
+{
+  "name": "리오코, 사베리아 빈야드 피노누아",
+  "en_name": "Lioco, Saveria Vineyard Pinot Noir",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "리오코 Lioco",
+  "main_grape": "피노 누아 (Pinot Noir) 100%",
+  "country": "미국(U.S.A)",
+  "city": "산타 크루즈 마운틴스(Santa Cruz Mountains)",
+  "aromas": [
+    "자두",
+    "딸기"
+  ],
+  "pairings": [
+    "자두"
+  ]
+}

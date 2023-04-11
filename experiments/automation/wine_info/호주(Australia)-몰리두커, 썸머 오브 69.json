@@ -1,0 +1,30 @@
+{
+  "name": "몰리두커, 썸머 오브 69",
+  "en_name": "Mollydooker, Summer of 69",
+  "price_from_importer": "76,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "몰리두커 Mollydooker",
+  "main_grape": "베르데호 (Verdejo) 100%",
+  "country": "호주(Australia)",
+  "city": "맥라렌 베일(McLaren Vale)",
+  "aromas": [
+    "흰꽃",
+    "시트러스",
+    "레몬",
+    "살구",
+    "복숭아",
+    "파인애플"
+  ],
+  "pairings": [
+    "흰살생선",
+    "스시",
+    "떡볶이",
+    "생선회",
+    "파스타",
+    "오일파스타",
+    "해산물"
+  ]
+}

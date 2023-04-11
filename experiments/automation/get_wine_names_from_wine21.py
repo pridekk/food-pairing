@@ -6,15 +6,29 @@ from selenium import webdriver
 from selenium.common import NoSuchElementException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
-driver = webdriver.Chrome()
+from datetime import datetime
+
+options = webdriver.ChromeOptions()
+# options.add_argument('headless')
+options.add_argument('window-size=1920x1080')
+options.add_argument("disable-gpu")
+
+# UserAgent값을 바꿔줍시다!
+options.add_argument("user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36")
+
+driver = webdriver.Chrome(options=options)
 
 
 def collect_wines():
     driver.get("https://www.wine21.com/13_search/wine_list.html")
 
+    france = driver.find_element(by=By.ID, value="fwn-01")
+
+    france.click()
+
     print(driver.title)
     done = False
-    cnt = 1700
+    cnt = 0
     while not done:
 
         items = driver.find_elements(by=By.XPATH, value="//ul[@id='wine_list']/descendant::li")
@@ -42,6 +56,8 @@ def collect_wines():
             sleep(random()*2)
             sleep(1)
         else:
+            print_time = datetime.now().strftime("%Y-%m-%d %H:%M")
+            print(f"{print_time} [INFO] len(items): {len(items)}")
             more_button = driver.find_element(by=By.ID, value="wineListMoreBtn")
             driver.execute_script(f"window.scrollTo(0,{more_button.location['y'] - 10})")
             more_button.click()
@@ -147,5 +163,6 @@ def save_to_json(item: dict):
 
 if __name__ == "__main__":
     collect_wines()
+    driver.quit()
 
     print('test')

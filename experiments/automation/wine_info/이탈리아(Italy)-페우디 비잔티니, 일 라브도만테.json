@@ -1,0 +1,21 @@
+{
+  "name": "페우디 비잔티니, 일 라브도만테",
+  "en_name": "Feudi Bizantini, Il Rabdomante Montepulciano D'Abruzzo",
+  "price_from_importer": "80,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "페우디 비잔티니 Feudi Bizantini",
+  "main_grape": "몬테풀치아노 (Montepulciano)",
+  "country": "이탈리아(Italy)",
+  "city": "아브루쪼(Abruzzo)",
+  "aromas": [
+    "체리"
+  ],
+  "pairings": [
+    "치즈",
+    "치킨",
+    "포크"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "킬리빙빙, 스윗 립스",
+  "en_name": "Killibinbin, Sweet Lips",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 3,
+  "acidity": 2,
+  "body": 1,
+  "tannin": 2,
+  "winery": "킬리빙빙 Killibinbin",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz)",
+  "country": "호주(Australia)",
+  "city": "랭혼 크릭(Langhorne Creek)",
+  "aromas": [
+    "블랙커런트",
+    "체리",
+    "장미",
+    "딸기",
+    "라스베리"
+  ],
+  "pairings": [
+    "동남아요리",
+    "떡볶이",
+    "새우",
+    "베이컨",
+    "아시아요리",
+    "순대",
+    "해산물"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "name": "두글라제 와인 컴퍼니, 알라자니 벨리 레드",
+  "en_name": "Dugladze Wine Company, Alazani Valley Red",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 3,
+  "acidity": 2,
+  "body": 3,
+  "tannin": 2,
+  "winery": "두글라제 와인 컴퍼니 Dugladze Wine Company",
+  "main_grape": "사페라비 (Saperavi)",
+  "country": "조지아(Georgia)",
+  "city": "카헤티(Kakheti)",
+  "aromas": [
+    "자장면",
+    "육포",
+    "소시지",
+    "튀김"
+  ],
+  "pairings": [],
+  "recommend": "소시지, 육포, 떡볶이, 순대, 튀김, 족발, 만두, 자장면 등과 잘 어울린다.",
+  "alcohol": "12~13 %",
+  "serving_temp": "14~16 ℃"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "인스파이어드 컴퍼니, 샤도네이",
+  "en_name": "Inspired Company, Chardonnay",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "인스파이어드 컴퍼니 Inspired Company",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "호주(Australia)",
+  "city": "사우스 이스턴 오스트레일리아(South Eastern Australia)",
+  "aromas": [
+    "브리오슈"
+  ],
+  "pairings": [
+    "치즈",
+    "파스타",
+    "닭고기",
+    "해산물"
+  ]
+}

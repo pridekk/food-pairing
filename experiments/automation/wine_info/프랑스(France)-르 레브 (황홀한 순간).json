@@ -1,0 +1,21 @@
+{
+  "name": "르 레브 (황홀한 순간)",
+  "en_name": "Le Reve",
+  "price_from_importer": "200,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 2,
+  "winery": "샤또 테이시에 Chateau Teyssier",
+  "main_grape": "그르나슈 (Grenache) , 시라/쉬라즈 (Syrah/Shiraz)",
+  "country": "프랑스(France)",
+  "city": "프로방스(Provence)",
+  "aromas": [
+    "딸기"
+  ],
+  "pairings": [
+    "파스타",
+    "샐러드",
+    "치킨"
+  ]
+}

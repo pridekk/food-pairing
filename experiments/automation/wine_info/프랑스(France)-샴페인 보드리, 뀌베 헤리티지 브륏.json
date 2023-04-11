@@ -1,0 +1,34 @@
+{
+  "name": "샴페인 보드리, 뀌베 헤리티지 브륏",
+  "en_name": "Champagne Baudry, Cuvee Heritage Brut",
+  "price_from_importer": "148,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "샴페인 보드리 Champagne Baudry",
+  "main_grape": "피노 누아 (Pinot Noir)",
+  "country": "프랑스(France)",
+  "city": "꼬뜨 데 바(Côte des Bar)",
+  "aromas": [
+    "흰꽃",
+    "레몬",
+    "오렌지",
+    "모과",
+    "브리오슈",
+    "시트러스",
+    "토스트"
+  ],
+  "pairings": [
+    "아시아요리",
+    "동남아요리",
+    "식전주",
+    "킹크랩",
+    "스시",
+    "생굴",
+    "생선회",
+    "게살",
+    "바닷가재",
+    "해산물"
+  ]
+}

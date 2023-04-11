@@ -1,0 +1,19 @@
+{
+  "name": "샤또 퐁레오",
+  "en_name": "Chateau Fonreaud",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "샤또 퐁레오 Chateau Fonreaud",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) , 메를로 (Merlot) , 쁘띠 베르도 (Petit Verdot)",
+  "country": "프랑스(France)",
+  "city": "리스트락-메독(Listrac-Medoc)",
+  "aromas": [
+    "치즈",
+    "하몽",
+    "소고기"
+  ],
+  "pairings": []
+}

@@ -1,0 +1,21 @@
+{
+  "name": "보데가스 라 레메디아도라, 크리안자 카베르네 라 빌라 레알",
+  "en_name": "Bodegas La Remediadora, Crianza Cabernet La Villa Real",
+  "price_from_importer": "32,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "보데가스 라 레메디아도라 Bodegas La Remediadora",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) 100%",
+  "country": "스페인(Spain)",
+  "city": "라 만차(La Mancha)",
+  "aromas": [
+    "초콜릿",
+    "바닐라"
+  ],
+  "pairings": [
+    "스테이크",
+    "양갈비"
+  ]
+}

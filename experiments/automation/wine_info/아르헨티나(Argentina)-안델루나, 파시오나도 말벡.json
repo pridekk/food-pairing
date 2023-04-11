@@ -1,0 +1,24 @@
+{
+  "name": "안델루나, 파시오나도 말벡",
+  "en_name": "Andeluna, Pasionado Malbec",
+  "price_from_importer": "245,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "안델루나 Andeluna [Bodega Andeluna]",
+  "main_grape": "말벡 (Malbec) 100%",
+  "country": "아르헨티나(Argentina)",
+  "city": "멘도사(Mendoza)",
+  "aromas": [
+    "제비꽃",
+    "라스베리",
+    "크랜베리",
+    "오크"
+  ],
+  "pairings": [
+    "양고기",
+    "치즈",
+    "소고기"
+  ]
+}

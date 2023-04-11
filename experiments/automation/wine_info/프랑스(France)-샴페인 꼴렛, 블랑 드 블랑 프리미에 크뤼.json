@@ -1,0 +1,25 @@
+{
+  "name": "샴페인 꼴렛, 블랑 드 블랑 프리미에 크뤼",
+  "en_name": "Champagne Collet, Blanc de Blanc 1er Cru",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "샴페인 꼴렛 Champagne Collet",
+  "main_grape": "샤르도네 (Chardonnay) 100%",
+  "country": "프랑스(France)",
+  "city": "샹빠뉴(Champagne)",
+  "aromas": [
+    "허브",
+    "감초",
+    "페이스트리",
+    "타르"
+  ],
+  "pairings": [
+    "가금류"
+  ],
+  "recommend": "달고기 또는 바다송어 타르타르와 같은 생선 요리 또는 가금류 요리와 잘 어울린다.",
+  "alcohol": "12~13 %",
+  "serving_temp": "8~10 ℃"
+}

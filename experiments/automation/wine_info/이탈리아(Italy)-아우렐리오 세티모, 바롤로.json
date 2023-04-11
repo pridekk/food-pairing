@@ -1,0 +1,19 @@
+{
+  "name": "아우렐리오 세티모, 바롤로",
+  "en_name": "Aurelio Settimo, Barolo",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "아우렐리오 세티모 Aurelio Settimo",
+  "main_grape": "네비올로 (Nebbiolo)",
+  "country": "이탈리아(Italy)",
+  "city": "바롤로(Barolo)",
+  "aromas": [
+    "감초"
+  ],
+  "pairings": [
+    "양고기"
+  ]
+}

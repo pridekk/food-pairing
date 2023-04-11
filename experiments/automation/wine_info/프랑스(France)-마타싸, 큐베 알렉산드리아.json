@@ -1,0 +1,24 @@
+{
+  "name": "마타싸, 큐베 알렉산드리아",
+  "en_name": "Matassa,Cuvee Alexandria",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 2,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "마타싸 Matassa",
+  "main_grape": "뮈스까 달레산드리 (Muscat d'Alexandrie )",
+  "country": "프랑스(France)",
+  "city": "랑그독 루씨용(Languedoc Roussillon)",
+  "aromas": [
+    "복숭아",
+    "열대과일",
+    "살구"
+  ],
+  "pairings": [
+    "복숭아",
+    "치즈",
+    "전체요리",
+    "샐러드"
+  ]
+}

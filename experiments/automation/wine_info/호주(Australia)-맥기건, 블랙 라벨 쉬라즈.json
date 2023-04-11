@@ -1,0 +1,21 @@
+{
+  "name": "맥기건, 블랙 라벨 쉬라즈",
+  "en_name": "Mcguigan, Black Label Shiraz",
+  "price_from_importer": "44,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "맥기건 Mcguigan",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz)",
+  "country": "호주(Australia)",
+  "city": "사우스 이스턴 오스트레일리아(South Eastern Australia)",
+  "aromas": [
+    "자두",
+    "바닐라",
+    "블랙베리"
+  ],
+  "pairings": [
+    "자두"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "필그림 고데요",
+  "en_name": "Pilgrim Godello",
+  "price_from_importer": "62,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "고델리아 Godelia",
+  "main_grape": "고데요 (Godello)",
+  "country": "스페인(Spain)",
+  "city": "비에르소(Bierzo)",
+  "aromas": [
+    "시트러스",
+    "미네랄"
+  ],
+  "pairings": [
+    "치즈",
+    "가금류",
+    "해산물"
+  ]
+}

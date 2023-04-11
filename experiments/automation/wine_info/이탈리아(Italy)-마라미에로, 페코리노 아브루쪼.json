@@ -1,0 +1,20 @@
+{
+  "name": "마라미에로, 페코리노 아브루쪼",
+  "en_name": "Marramiero, Pecorino Abruzzo",
+  "price_from_importer": "94,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "마라미에로 Marramiero",
+  "main_grape": "페코리노 (Pecorino) 100%",
+  "country": "이탈리아(Italy)",
+  "city": "아브루쪼(Abruzzo)",
+  "aromas": [
+    "자몽"
+  ],
+  "pairings": [
+    "파스타",
+    "해산물"
+  ]
+}

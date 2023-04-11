@@ -1,0 +1,23 @@
+{
+  "name": "도멘 오쉐르, 상세르",
+  "en_name": "Domaine Auchere, Sancerre",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "도멘 오쉐르 Domaine Auchere",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc) 100%",
+  "country": "프랑스(France)",
+  "city": "상세르(Sancerre)",
+  "aromas": [
+    "라임",
+    "리치",
+    "자몽"
+  ],
+  "pairings": [
+    "연어",
+    "샐러드",
+    "해산물"
+  ]
+}

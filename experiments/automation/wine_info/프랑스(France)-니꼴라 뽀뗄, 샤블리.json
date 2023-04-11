@@ -1,0 +1,21 @@
+{
+  "name": "니꼴라 뽀뗄, 샤블리",
+  "en_name": "Maison Nicolas Potel, Chablis",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "니꼴라 뽀뗄 Maison Nicolas Potel",
+  "main_grape": "샤르도네 (Chardonnay) 100%",
+  "country": "프랑스(France)",
+  "city": "샤블리(Chablis)",
+  "aromas": [
+    "사과",
+    "미네랄"
+  ],
+  "pairings": [
+    "가금류",
+    "아페리티프"
+  ]
+}

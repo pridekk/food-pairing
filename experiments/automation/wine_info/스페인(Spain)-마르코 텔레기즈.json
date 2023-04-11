@@ -1,0 +1,19 @@
+{
+  "name": "마르코 텔레기즈",
+  "en_name": "Marko Terlegiz",
+  "price_from_importer": "230,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "옥서 와인즈 Oxer Wines",
+  "main_grape": "온다라비 주리 (Hondarrabi Zuri) , 쁘띠 꾸르부 (Petit Courbu) , 쁘띠 만생 (Petit Manseng)",
+  "country": "스페인(Spain)",
+  "city": "토로(Toro)",
+  "aromas": [
+    "초콜릿"
+  ],
+  "pairings": [
+    "파스타"
+  ]
+}

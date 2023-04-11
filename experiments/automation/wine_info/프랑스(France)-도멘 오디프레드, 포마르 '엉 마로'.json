@@ -1,0 +1,28 @@
+{
+  "name": "도멘 오디프레드, 포마르 '엉 마로'",
+  "en_name": "Domaine Audiffred, Pommard 'En Mareau'",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 5,
+  "body": 5,
+  "tannin": 4,
+  "winery": "도멘 오디프레드 Domaine Audiffred",
+  "main_grape": "피노 누아 (Pinot Noir)",
+  "country": "프랑스(France)",
+  "city": "뽀마르(Pommard)",
+  "aromas": [
+    "자두",
+    "석류",
+    "삼나무",
+    "후추",
+    "정향",
+    "블루베리",
+    "딸기"
+  ],
+  "pairings": [
+    "자두",
+    "돼지고기",
+    "닭고기",
+    "소고기"
+  ]
+}

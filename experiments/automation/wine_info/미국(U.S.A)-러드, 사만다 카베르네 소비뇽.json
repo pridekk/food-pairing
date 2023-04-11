@@ -1,0 +1,21 @@
+{
+  "name": "러드, 사만다 카베르네 소비뇽",
+  "en_name": "Rudd, Samantha's Cabernet Sauvignon",
+  "price_from_importer": "570,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "러드 Rudd Estate",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "미국(U.S.A)",
+  "city": "오크빌(Oakville)",
+  "aromas": [
+    "로즈마리",
+    "블랙커런트",
+    "블랙체리",
+    "오크",
+    "허브"
+  ],
+  "pairings": []
+}

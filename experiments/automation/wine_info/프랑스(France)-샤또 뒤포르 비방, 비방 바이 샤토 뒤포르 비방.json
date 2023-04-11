@@ -1,0 +1,34 @@
+{
+  "name": "샤또 뒤포르 비방, 비방 바이 샤토 뒤포르 비방",
+  "en_name": "Chateau Durfort-Vivens, Vivens by Chateau Dufort Vivens",
+  "price_from_importer": "180,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "샤또 뒤포르 비방 Chateau Durfort-Vivens, Grand Cru Classe,2nd Cru",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) 73%, 메를로 (Merlot) 27%",
+  "country": "프랑스(France)",
+  "city": "마고(Margaux)",
+  "aromas": [
+    "라일락",
+    "블랙체리",
+    "삼나무",
+    "체리",
+    "오크",
+    "제비꽃",
+    "정향",
+    "감초"
+  ],
+  "pairings": [
+    "양갈비",
+    "갈비찜",
+    "양념갈비",
+    "양고기",
+    "그릴요리",
+    "소고기",
+    "스테이크",
+    "한식",
+    "바비큐"
+  ]
+}

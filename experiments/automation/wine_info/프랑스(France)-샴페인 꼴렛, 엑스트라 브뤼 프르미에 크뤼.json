@@ -1,0 +1,28 @@
+{
+  "name": "샴페인 꼴렛, 엑스트라 브뤼 프르미에 크뤼",
+  "en_name": "Champagne Collet, Extra Brut 1er Cru",
+  "price_from_importer": "130,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 5,
+  "body": 3,
+  "tannin": 1,
+  "winery": "샴페인 꼴렛 Champagne Collet",
+  "main_grape": "샤르도네 (Chardonnay) 40%, 피노 누아 (Pinot Noir) 40%, 피노 뮈니에 (Pinot Meunier) 20%",
+  "country": "프랑스(France)",
+  "city": "샹빠뉴(Champagne)",
+  "aromas": [
+    "레몬",
+    "브리오슈",
+    "미네랄",
+    "서양배"
+  ],
+  "pairings": [
+    "트러플",
+    "라자냐",
+    "탕수육",
+    "생굴",
+    "파스타",
+    "샐러드",
+    "랍스터"
+  ]
+}

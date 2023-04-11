@@ -1,0 +1,22 @@
+{
+  "name": "일 로꼴로 디 몬티첼리, 신칠아레그라",
+  "en_name": "Il Roccolo di Monticelli, Cinciallegra",
+  "price_from_importer": "86,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "일 로꼴로 디 몬티첼리 Il Roccolo di Monticelli",
+  "main_grape": "가르가네가 (Garganega) , 트레비아노 (Trebbiano)",
+  "country": "이탈리아(Italy)",
+  "city": "베네토(Veneto)",
+  "aromas": [
+    "시트러스",
+    "미네랄"
+  ],
+  "pairings": [
+    "치즈",
+    "살라미",
+    "샐러드"
+  ]
+}

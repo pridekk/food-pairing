@@ -1,0 +1,34 @@
+{
+  "name": "피오 체사레, 로지",
+  "en_name": "Pio Cesare, Rosy",
+  "price_from_importer": "76,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "피오 체사레 Pio Cesare",
+  "main_grape": "네비올로 (Nebbiolo) , 시라/쉬라즈 (Syrah/Shiraz)",
+  "country": "이탈리아(Italy)",
+  "city": "피에몬테(Piemonte)",
+  "aromas": [
+    "자두",
+    "체리",
+    "후추",
+    "딸기",
+    "라스베리",
+    "크랜베리",
+    "감초"
+  ],
+  "pairings": [
+    "살라미",
+    "건육",
+    "꼬치구이",
+    "새우",
+    "베이컨",
+    "양념치킨",
+    "치킨",
+    "프로슈토",
+    "닭고기",
+    "해산물"
+  ]
+}

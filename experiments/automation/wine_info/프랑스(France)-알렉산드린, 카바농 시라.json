@@ -1,0 +1,19 @@
+{
+  "name": "알렉산드린, 카바농 시라",
+  "en_name": "Les Alexandrins, Cabanon Syrah",
+  "price_from_importer": "50,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "도멘 & 메종 레 알렉산드린 Domaine & Maison Les Alexandrins",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz) 95%, 비오니에 (Viognier) 5%",
+  "country": "프랑스(France)",
+  "city": "론(Rhone)",
+  "aromas": [
+    "체리"
+  ],
+  "pairings": [
+    "양갈비"
+  ]
+}

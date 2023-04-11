@@ -1,0 +1,22 @@
+{
+  "name": "리비오 펠루가, 일리비오",
+  "en_name": "Livio Felluga, Illivio",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "리비오 펠루가 Livio Felluga",
+  "main_grape": "샤르도네 (Chardonnay) , 피콜리 (Picolit) , 피노 비앙코 (Pinot Bianco)",
+  "country": "이탈리아(Italy)",
+  "city": "프리울리 베네찌아 줄리아(Friuli Venezia Giulia)",
+  "aromas": [
+    "라임",
+    "캐모마일",
+    "바닐라"
+  ],
+  "pairings": [
+    "리조또",
+    "치즈"
+  ]
+}

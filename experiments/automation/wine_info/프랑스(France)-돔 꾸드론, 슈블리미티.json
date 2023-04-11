@@ -1,0 +1,25 @@
+{
+  "name": "돔 꾸드론, 슈블리미티",
+  "en_name": "Dom Caudron, Sublimite",
+  "price_from_importer": "310,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "돔 꾸드론 Dom Caudron",
+  "main_grape": "피노 뮈니에 (Pinot Meunier) , 샤르도네 (Chardonnay)",
+  "country": "프랑스(France)",
+  "city": "샹빠뉴(Champagne)",
+  "aromas": [
+    "아몬드",
+    "크림"
+  ],
+  "pairings": [
+    "해산물",
+    "연어",
+    "샐러드"
+  ],
+  "recommend": "후추와 토마토를 곁들인 연어 타르타르,토마토와 모짜렐라와 올리브오일,해산물과 염소치즈샐러드와 잘어울린다.",
+  "alcohol": "12~13 %",
+  "serving_temp": "6~8 ℃"
+}

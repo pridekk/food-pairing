@@ -1,0 +1,22 @@
+{
+  "name": "카사 로호, 비냐스 바스타르다스",
+  "en_name": "Casa Rojo, Vinas Bastardas",
+  "price_from_importer": "120,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "카사 로호 Casa Rojo",
+  "main_grape": "모나스트렐 (Monastrell)",
+  "country": "스페인(Spain)",
+  "city": "스페인(Spain)",
+  "aromas": [
+    "로즈마리",
+    "후추",
+    "라벤더",
+    "미네랄"
+  ],
+  "pairings": [
+    "소시지"
+  ]
+}

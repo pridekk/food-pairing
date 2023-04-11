@@ -1,0 +1,21 @@
+{
+  "name": "필그림 멘시아",
+  "en_name": "Pilgrim Mencia",
+  "price_from_importer": "52,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "고델리아 Godelia",
+  "main_grape": "멘시아 (Mencia)",
+  "country": "스페인(Spain)",
+  "city": "비에르소(Bierzo)",
+  "aromas": [
+    "체리",
+    "미네랄"
+  ],
+  "pairings": [
+    "치즈",
+    "파스타"
+  ]
+}

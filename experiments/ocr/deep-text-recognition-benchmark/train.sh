@@ -1,0 +1,1 @@
+python train.py --train_data lmdb/training --valid_data lmdb/validation --select_data / --batch_ratio 1 --Transformation None --FeatureExtraction VGG --SequenceModeling BiLSTM --Prediction CTC --input_channel 1 --output_channel 256 --hidden_size 512 --imgH 64 --imgW 200 --saved_model ./saved_models/last.pth --workers 1  --FT

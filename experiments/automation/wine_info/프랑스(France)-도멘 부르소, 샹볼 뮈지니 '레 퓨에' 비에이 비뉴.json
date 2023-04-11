@@ -1,0 +1,35 @@
+{
+  "name": "도멘 부르소, 샹볼 뮈지니 '레 퓨에' 비에이 비뉴",
+  "en_name": "Domaine Boursot, Chambolle Musigny 'Les Fuees'",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "도멘 부르소 Domaine Boursot",
+  "main_grape": "피노 누아 (Pinot Noir)",
+  "country": "프랑스(France)",
+  "city": "샹볼 뮈지니(Chambolle Musigny)",
+  "aromas": [
+    "젖은흙",
+    "체리",
+    "버섯",
+    "오크",
+    "정향",
+    "블루베리",
+    "딸기",
+    "블랙베리"
+  ],
+  "pairings": [
+    "훈제오리",
+    "로스트비프",
+    "편육",
+    "불고기",
+    "라자냐",
+    "닭고기",
+    "수육",
+    "소고기",
+    "순대",
+    "육회"
+  ]
+}

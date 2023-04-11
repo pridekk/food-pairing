@@ -1,0 +1,22 @@
+{
+  "name": "두글라제 와인 컴퍼니, 알라베르디",
+  "en_name": "Dugladze Wine Company, Alaverdi",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 2,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "두글라제 와인 컴퍼니 Dugladze Wine Company",
+  "main_grape": "사페라비 (Saperavi)",
+  "country": "조지아(Georgia)",
+  "city": "카헤티(Kakheti)",
+  "aromas": [
+    "훈제오리",
+    "바비큐",
+    "치즈"
+  ],
+  "pairings": [],
+  "recommend": "로스트비프, 바비큐, 훈제오리, 그릴요리, 숙성 치즈, 라자냐, 파스타, 피자와 잘 어울린다.",
+  "alcohol": "11~12 %",
+  "serving_temp": "16~18 ℃"
+}

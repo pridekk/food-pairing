@@ -1,0 +1,23 @@
+{
+  "name": "돈나푸가타, 술 불카노 로사토",
+  "en_name": "Donnafugata, Sul Vulcano Rosato",
+  "price_from_importer": "85,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 2,
+  "winery": "돈나푸가타 Donnafugata",
+  "main_grape": "네렐로 마스칼레제 (Nerello Mascalese)",
+  "country": "이탈리아(Italy)",
+  "city": "시칠리아(Sicilia)",
+  "aromas": [
+    "자두",
+    "미네랄",
+    "자몽"
+  ],
+  "pairings": [
+    "자두",
+    "치즈",
+    "샐러드"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "테누타 가찌",
+  "en_name": "Tenuta Gacci",
+  "price_from_importer": "270,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "테누타 가찌 Tenuta Gacci",
+  "main_grape": "산지오베제 (Sangiovese) , 메를로 (Merlot) , 카베르네 소비뇽 (Cabernet Sauvignon) , 안첼로타 (Ancellota)",
+  "country": "이탈리아(Italy)",
+  "city": "에밀리아 로마냐(Emilia-Romagna)",
+  "aromas": [
+    "자두",
+    "토스트",
+    "삼나무",
+    "체리"
+  ],
+  "pairings": [
+    "자두",
+    "리조또",
+    "버섯"
+  ]
+}

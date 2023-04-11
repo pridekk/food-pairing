@@ -1,0 +1,27 @@
+{
+  "name": "디 메오, 깜빠니아 알리아니코",
+  "en_name": "Di Meo, Campagnia Aglianico IGT",
+  "price_from_importer": "106,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 4,
+  "winery": "디 메오 Di Meo",
+  "main_grape": "알리아니코 (Aglianico)",
+  "country": "이탈리아(Italy)",
+  "city": "깜빠니아(Campania)",
+  "aromas": [
+    "삼나무",
+    "체리",
+    "오크",
+    "제비꽃",
+    "허브",
+    "딸기",
+    "라스베리"
+  ],
+  "pairings": [
+    "라자냐",
+    "돼지고기",
+    "소고기"
+  ]
+}

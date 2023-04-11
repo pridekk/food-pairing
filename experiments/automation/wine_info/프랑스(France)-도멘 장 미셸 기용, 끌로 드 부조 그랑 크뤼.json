@@ -1,0 +1,27 @@
+{
+  "name": "도멘 장 미셸 기용, 끌로 드 부조 그랑 크뤼",
+  "en_name": "Domaine Jean-Michel Guillon, Clos de Vougeot Grand Cru",
+  "price_from_importer": "1,472,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "도멘 장-미셸 기용 Domaine Jean-Michel Guillon",
+  "main_grape": "피노 누아 (Pinot Noir) 100%",
+  "country": "프랑스(France)",
+  "city": "부조(Vougeot)",
+  "aromas": [
+    "붉은꽃",
+    "삼나무",
+    "허브",
+    "블루베리",
+    "장미",
+    "라스베리"
+  ],
+  "pairings": [
+    "양갈비",
+    "오리고기",
+    "치즈",
+    "소고기"
+  ]
+}

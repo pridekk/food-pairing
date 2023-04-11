@@ -1,0 +1,34 @@
+{
+  "name": "레오네 데 카스트리스, 살리체 살렌티노 리제르바 페르 루이 로쏘",
+  "en_name": "Leone de Castris, Salice Salentino Riserva Per Lui Rosso",
+  "price_from_importer": "179,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "레오네 데 카스트리스 Leone de Castris",
+  "main_grape": "네그로아마로 (Negroamaro) 100%",
+  "country": "이탈리아(Italy)",
+  "city": "뿔리아(Puglia)",
+  "aromas": [
+    "자두",
+    "감초",
+    "블랙체리",
+    "딸기",
+    "블랙베리",
+    "레드커런트",
+    "바닐라"
+  ],
+  "pairings": [
+    "양갈비",
+    "초리조",
+    "살라미",
+    "하몽",
+    "붉은육류",
+    "갈비찜",
+    "양념갈비",
+    "그릴요리",
+    "스테이크",
+    "한식"
+  ]
+}

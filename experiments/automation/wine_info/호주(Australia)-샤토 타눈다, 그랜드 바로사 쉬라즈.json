@@ -1,0 +1,21 @@
+{
+  "name": "샤토 타눈다, 그랜드 바로사 쉬라즈",
+  "en_name": "Chateau Tanunda, Grand Barossa Shiraz",
+  "price_from_importer": "35,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "샤토 타눈다 Chateau Tanunda",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz) 100%",
+  "country": "호주(Australia)",
+  "city": "바로사 밸리(Barossa Valley)",
+  "aromas": [
+    "블랙베리",
+    "후추"
+  ],
+  "pairings": [],
+  "recommend": null,
+  "alcohol": "14~15 %",
+  "serving_temp": "16~18 ℃"
+}

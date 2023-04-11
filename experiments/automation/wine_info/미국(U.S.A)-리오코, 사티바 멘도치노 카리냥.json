@@ -1,0 +1,21 @@
+{
+  "name": "리오코, 사티바 멘도치노 카리냥",
+  "en_name": "Lioco, Sativa Mendocino Carignan",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "리오코 Lioco",
+  "main_grape": "까리냥 (Carignan/Carignane)",
+  "country": "미국(U.S.A)",
+  "city": "멘도치노 카운티(Mendocino County)",
+  "aromas": [
+    "자두",
+    "허브",
+    "체리"
+  ],
+  "pairings": [
+    "자두"
+  ]
+}

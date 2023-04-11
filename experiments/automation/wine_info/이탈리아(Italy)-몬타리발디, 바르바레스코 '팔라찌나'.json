@@ -1,0 +1,22 @@
+{
+  "name": "몬타리발디, 바르바레스코 '팔라찌나'",
+  "en_name": "Montaribaldi, Barbaresco 'Palazzina'",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "몬타리발디 Montaribaldi",
+  "main_grape": "네비올로 (Nebbiolo)",
+  "country": "이탈리아(Italy)",
+  "city": "바르바레스코(Barbaresco)",
+  "aromas": [
+    "바닐라"
+  ],
+  "pairings": [
+    "가금류",
+    "소고기",
+    "파스타",
+    "양고기"
+  ]
+}

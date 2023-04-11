@@ -1,0 +1,23 @@
+{
+  "name": "마티아스 리치텔리, 헤이 말백",
+  "en_name": "Matias Riccitelli, Hey Malbec",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 2,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 2,
+  "winery": "마티아스 리치텔리 Matias Riccitelli",
+  "main_grape": "말벡 (Malbec)",
+  "country": "아르헨티나(Argentina)",
+  "city": "아르헨티나(Argentina)",
+  "aromas": [
+    "피망",
+    "다크초콜릿",
+    "블랙베리"
+  ],
+  "pairings": [
+    "돼지고기",
+    "닭고기",
+    "소고기"
+  ]
+}

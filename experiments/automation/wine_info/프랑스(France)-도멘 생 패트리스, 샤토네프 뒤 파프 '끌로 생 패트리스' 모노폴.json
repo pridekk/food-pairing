@@ -1,0 +1,38 @@
+{
+  "name": "도멘 생 패트리스, 샤토네프 뒤 파프 '끌로 생 패트리스' 모노폴",
+  "en_name": "Domaine St.Patrice, Chateauneuf du Pape 'Clos St.Patrice' Monopole",
+  "price_from_importer": "480,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "도멘 생 패트리스 Domaine St.Patrice",
+  "main_grape": "그르나슈 (Grenache) , 무르베드르 (Mourvedre)",
+  "country": "프랑스(France)",
+  "city": "샤또네프 뒤 빠쁘(Chateauneuf du Pape)",
+  "aromas": [
+    "자두",
+    "블랙체리",
+    "체리",
+    "미네랄",
+    "부싯돌",
+    "제비꽃",
+    "블루베리",
+    "블랙베리"
+  ],
+  "pairings": [
+    "양갈비",
+    "스튜",
+    "양념갈비",
+    "갈비찜",
+    "불고기",
+    "라자냐",
+    "서양요리",
+    "양고기",
+    "소고기",
+    "스테이크",
+    "리조토",
+    "한식",
+    "족발"
+  ]
+}

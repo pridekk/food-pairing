@@ -1,0 +1,33 @@
+{
+  "name": "니콜라스 마이야르, 프리미에르 크뤼 엑스트라 브뤼 퀴베",
+  "en_name": "Nicholas Maillart, 1er Cru Extra Brut Cuvee",
+  "price_from_importer": "237,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "니콜라스 마이야르 Nicholas Maillart",
+  "main_grape": "피노 누아 (Pinot Noir) 50%, 샤르도네 (Chardonnay) 50%",
+  "country": "프랑스(France)",
+  "city": "몽따뉴 드 랭스(Montagne de Reims)",
+  "aromas": [
+    "감귤",
+    "미네랄",
+    "브리오슈",
+    "시트러스",
+    "토스트",
+    "레몬껍질"
+  ],
+  "pairings": [
+    "식전주",
+    "씨푸드",
+    "장어",
+    "스시",
+    "생굴",
+    "닭강정",
+    "연어",
+    "게살",
+    "아페리티프",
+    "해산물"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "비떼 꼴떼, 포스케 피에몬테 샤르도네",
+  "en_name": "Vite Colte, Fosche Piemonte Chardonnay",
+  "price_from_importer": "64,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "비떼 콜떼 Vite Colte",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "이탈리아(Italy)",
+  "city": "피에몬테(Piemonte)",
+  "aromas": [
+    "사과",
+    "바나나"
+  ],
+  "pairings": [
+    "치즈",
+    "파스타"
+  ]
+}

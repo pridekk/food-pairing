@@ -1,0 +1,30 @@
+{
+  "name": "에노이탈리아, 소피오 오로 로제 밀레지마토 스푸만테",
+  "en_name": "Enoitalia, Soffio ORO Rose Millesimato Spumante",
+  "price_from_importer": "50,000원( 750ml )",
+  "sugar": 2,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "에노이탈리아 Enoitalia",
+  "main_grape": "블렌드 (Blend )",
+  "country": "이탈리아(Italy)",
+  "city": "이탈리아(Italy)",
+  "aromas": [
+    "감귤",
+    "체리",
+    "리치",
+    "딸기",
+    "장미",
+    "크랜베리"
+  ],
+  "pairings": [
+    "불고기",
+    "스시",
+    "떡볶이",
+    "생선회",
+    "양념치킨",
+    "후라이드",
+    "해산물"
+  ]
+}

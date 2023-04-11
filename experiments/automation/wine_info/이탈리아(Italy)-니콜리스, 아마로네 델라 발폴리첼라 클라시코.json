@@ -1,0 +1,27 @@
+{
+  "name": "니콜리스, 아마로네 델라 발폴리첼라 클라시코",
+  "en_name": "Nicolis, Amarone della Vapolicella Classico",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 5,
+  "tannin": 4,
+  "winery": "니콜리스 Nicolis",
+  "main_grape": "코르비나 (Corvina) , 론디넬라 (Rondinella) , 몰리나라 (Molinara) , 크로아티나 (Croatina)",
+  "country": "이탈리아(Italy)",
+  "city": "발폴리첼라(Valpolicella)",
+  "aromas": [
+    "코코아",
+    "호두",
+    "가죽"
+  ],
+  "pairings": [
+    "갈비찜",
+    "오리고기",
+    "바비큐",
+    "양고기"
+  ],
+  "recommend": "스테이크, 양고기, 오리고기, 갈비, 등심, 갈비찜, 바비큐, 블루 치즈, 리조토 와 잘 어울린다.",
+  "alcohol": null,
+  "serving_temp": "16~18 ℃"
+}

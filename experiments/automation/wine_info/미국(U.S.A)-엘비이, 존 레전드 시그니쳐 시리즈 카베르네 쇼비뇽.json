@@ -1,0 +1,26 @@
+{
+  "name": "엘비이, 존 레전드 시그니쳐 시리즈 카베르네 쇼비뇽",
+  "en_name": "LVE, John Legend Signature Series Cabernet Sauvignon",
+  "price_from_importer": "150,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "레이몬드 빈야드 Raymond Vineyards",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "미국(U.S.A)",
+  "city": "노스 코스트(North Coast)",
+  "aromas": [
+    "리치",
+    "에스프레소",
+    "바닐라",
+    "체리"
+  ],
+  "pairings": [
+    "양갈비",
+    "치즈"
+  ],
+  "recommend": "붉은육류, 스테이크, 양갈비, 바비큐, 불고기, 파스타, 다양한 치즈, 햄버거, 한국음식 등과 잘 어울린다.",
+  "alcohol": "14~15 %",
+  "serving_temp": "16~18 ℃"
+}

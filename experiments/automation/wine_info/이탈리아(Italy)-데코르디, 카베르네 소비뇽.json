@@ -1,0 +1,20 @@
+{
+  "name": "데코르디, 카베르네 소비뇽",
+  "en_name": "Decordi, Cabernet Sauvignon",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "데코르디 패밀리 The Decordi Family",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "이탈리아(Italy)",
+  "city": "베네토(Veneto)",
+  "aromas": [
+    "바닐라"
+  ],
+  "pairings": [
+    "파스타",
+    "치즈"
+  ]
+}

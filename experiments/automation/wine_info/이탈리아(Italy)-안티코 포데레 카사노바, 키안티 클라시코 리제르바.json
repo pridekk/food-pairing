@@ -1,0 +1,38 @@
+{
+  "name": "안티코 포데레 카사노바, 키안티 클라시코 리제르바",
+  "en_name": "Antico Podere Casanova, Chianti Classico Riserva",
+  "price_from_importer": "162,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 5,
+  "body": 4,
+  "tannin": 3,
+  "winery": "안티코 포데레 카사노바 Antico Podere Casanova",
+  "main_grape": "산지오베제 (Sangiovese)",
+  "country": "이탈리아(Italy)",
+  "city": "키안티 클라시코(Chianti Classico)",
+  "aromas": [
+    "시가박스",
+    "체리",
+    "오크",
+    "가죽",
+    "육두구",
+    "정향",
+    "블루베리",
+    "블랙베리"
+  ],
+  "pairings": [
+    "양갈비",
+    "로스트비프",
+    "붉은육류",
+    "양념갈비",
+    "라자냐",
+    "한국음식",
+    "양고기",
+    "파스타",
+    "서양음식",
+    "소고기",
+    "스테이크",
+    "리조또",
+    "족발"
+  ]
+}

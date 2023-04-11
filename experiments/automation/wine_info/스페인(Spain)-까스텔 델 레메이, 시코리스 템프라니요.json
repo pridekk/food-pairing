@@ -1,0 +1,21 @@
+{
+  "name": "까스텔 델 레메이, 시코리스 템프라니요",
+  "en_name": "Castell del Remei, Sicoris Tempranillo",
+  "price_from_importer": "47,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "까스텔 델 레메이 Castell del Remei",
+  "main_grape": "템프라니요 (Tempranillo)",
+  "country": "스페인(Spain)",
+  "city": "까탈루냐(Cataluna)",
+  "aromas": [
+    "가죽",
+    "체리"
+  ],
+  "pairings": [
+    "가금류",
+    "치즈"
+  ]
+}

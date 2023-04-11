@@ -1,0 +1,24 @@
+{
+  "name": "낙낙 레드 블랜드",
+  "en_name": "Knock Knock Red Blend",
+  "price_from_importer": "20,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "토레 오리아 Torre Oria",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz) , 템프라니요 (Tempranillo)",
+  "country": "스페인(Spain)",
+  "city": "스페인(Spain)",
+  "aromas": [
+    "초콜릿"
+  ],
+  "pairings": [
+    "오리고기",
+    "치즈",
+    "야채"
+  ],
+  "recommend": "숙성 치즈, 오리고기, 그리에 구운 육류와 야채등과 잘 어울린다.",
+  "alcohol": "12~13 %",
+  "serving_temp": "16~18 ℃"
+}

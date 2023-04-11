@@ -1,0 +1,25 @@
+{
+  "name": "보데가스 이 비녜도스 데 아기레, 제네시스 카베르네 소비뇽",
+  "en_name": "Bodegas y Vinedos de Aguirre, Genesis Cabernet Sauvignon",
+  "price_from_importer": "16,900원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "보데가스 이 비녜도스 데 아기레 Bodegas y Vinedos de Aguirre",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) 100%",
+  "country": "칠레(Chile)",
+  "city": "비야 알레그레(Villa Alegre)",
+  "aromas": [
+    "블랙커런트",
+    "블랙체리",
+    "삼나무",
+    "후추",
+    "정향"
+  ],
+  "pairings": [
+    "돼지고기",
+    "양고기",
+    "소고기"
+  ]
+}

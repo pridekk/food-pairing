@@ -1,0 +1,20 @@
+{
+  "name": "몬타리발디, 모스카토 다스티 리게이",
+  "en_name": "Montaribaldi, Moscato d'Asti Righey",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 3,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "몬타리발디 Montaribaldi",
+  "main_grape": "모스카토 (Moscato ) 100%",
+  "country": "이탈리아(Italy)",
+  "city": "아스티(Asti)",
+  "aromas": [
+    "로즈마리"
+  ],
+  "pairings": [
+    "치즈",
+    "디저트"
+  ]
+}

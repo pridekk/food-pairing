@@ -1,0 +1,26 @@
+{
+  "name": "도멘 베뜰르모, 풀리니 몽라셰 '레 르브롱'",
+  "en_name": "Domaine Berthelemot, Puligny Montrachet 'Les Levrons'",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 5,
+  "tannin": 1,
+  "winery": "도멘 베뜰르모 Domaine Berthelemot",
+  "main_grape": "샤르도네 (Chardonnay) 100%",
+  "country": "프랑스(France)",
+  "city": "쀨리니-몽라셰(Puligny-Montrachet)",
+  "aromas": [
+    "라임",
+    "리치",
+    "미네랄",
+    "아카시아",
+    "레몬"
+  ],
+  "pairings": [
+    "생선회",
+    "스시",
+    "샐러드",
+    "전체요리"
+  ]
+}

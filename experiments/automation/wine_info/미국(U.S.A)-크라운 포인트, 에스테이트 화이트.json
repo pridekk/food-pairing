@@ -1,0 +1,32 @@
+{
+  "name": "크라운 포인트, 에스테이트 화이트",
+  "en_name": "Crown Point, Estate White",
+  "price_from_importer": "320,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "크라운 포인트 Crown Point",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc) 100%",
+  "country": "미국(U.S.A)",
+  "city": "산타 바바라 카운티(Santa Barbara County)",
+  "aromas": [
+    "자몽",
+    "시트러스",
+    "레몬",
+    "허브"
+  ],
+  "pairings": [
+    "동남아요리",
+    "새우",
+    "생선회",
+    "연어",
+    "동그랑땡",
+    "광어",
+    "잡채",
+    "아시아요리",
+    "한식",
+    "생선구이",
+    "해산물"
+  ]
+}

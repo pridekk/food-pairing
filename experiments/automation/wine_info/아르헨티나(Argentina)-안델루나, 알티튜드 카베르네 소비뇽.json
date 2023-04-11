@@ -1,0 +1,24 @@
+{
+  "name": "안델루나, 알티튜드 카베르네 소비뇽",
+  "en_name": "Andeluna, Altitud Cabernet Sauvignon",
+  "price_from_importer": "102,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 5,
+  "winery": "안델루나 Andeluna [Bodega Andeluna]",
+  "main_grape": "말벡 (Malbec) 100%",
+  "country": "아르헨티나(Argentina)",
+  "city": "멘도사(Mendoza)",
+  "aromas": [
+    "후추",
+    "피망",
+    "체리"
+  ],
+  "pairings": [
+    "피자",
+    "가금류",
+    "바비큐",
+    "버섯"
+  ]
+}

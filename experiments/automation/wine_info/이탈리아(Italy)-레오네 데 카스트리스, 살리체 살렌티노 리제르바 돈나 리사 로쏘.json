@@ -1,0 +1,36 @@
+{
+  "name": "레오네 데 카스트리스, 살리체 살렌티노 리제르바 돈나 리사 로쏘",
+  "en_name": "Leone de Castris, Salice Salentino Riserva Donna Lisa Rosso",
+  "price_from_importer": "144,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "레오네 데 카스트리스 Leone de Castris",
+  "main_grape": "네그로아마로 (Negroamaro) 100%",
+  "country": "이탈리아(Italy)",
+  "city": "뿔리아(Puglia)",
+  "aromas": [
+    "블랙커런트",
+    "블루베리",
+    "바닐라",
+    "블랙베리",
+    "토스트",
+    "감초"
+  ],
+  "pairings": [
+    "양갈비",
+    "초리조",
+    "살라미",
+    "건육",
+    "붉은육류",
+    "양꼬치",
+    "갈비찜",
+    "양념갈비",
+    "양고기",
+    "그릴요리",
+    "소고기",
+    "스테이크",
+    "한식"
+  ]
+}

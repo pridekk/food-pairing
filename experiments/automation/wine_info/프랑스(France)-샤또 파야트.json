@@ -1,0 +1,26 @@
+{
+  "name": "샤또 파야트",
+  "en_name": "Chateau Fayat",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "샤또 파야트 Chateau Fayat",
+  "main_grape": "메를로 (Merlot)",
+  "country": "프랑스(France)",
+  "city": "뽀므롤(Pomerol)",
+  "aromas": [
+    "오크",
+    "흑연",
+    "블랙베리",
+    "레드커런트",
+    "감초"
+  ],
+  "pairings": [
+    "스테이크",
+    "양고기",
+    "돼지고기",
+    "소고기"
+  ]
+}

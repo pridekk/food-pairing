@@ -1,0 +1,19 @@
+{
+  "name": "몽그라스, 아마랄 브룻",
+  "en_name": "MontGras, Amaral Brut",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "몽그라스 MontGras",
+  "main_grape": "샤르도네 (Chardonnay) , 소비뇽 블랑 (Sauvignon Blanc)",
+  "country": "칠레(Chile)",
+  "city": "레이다 밸리(Leyda Valley)",
+  "aromas": [
+    "미네랄"
+  ],
+  "pairings": [
+    "파스타"
+  ]
+}

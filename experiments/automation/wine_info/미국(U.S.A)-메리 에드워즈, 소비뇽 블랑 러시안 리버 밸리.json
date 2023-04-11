@@ -1,0 +1,35 @@
+{
+  "name": "메리 에드워즈, 소비뇽 블랑 러시안 리버 밸리",
+  "en_name": "Merry Edwards, Sauvignon Blanc Russian River Valley",
+  "price_from_importer": "250,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "메리 에드워즈 와이너리 Merry Edwards Winery",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc) , 소비뇽 블랑 뮈스케 (Sauvignon Blanc Musque)",
+  "country": "미국(U.S.A)",
+  "city": "러시안 리버 밸리(Russian River Valley)",
+  "aromas": [
+    "삼나무",
+    "멜론",
+    "레몬",
+    "오크",
+    "열대과일",
+    "망고",
+    "바나나",
+    "구아바",
+    "백합",
+    "자스민",
+    "파인애플"
+  ],
+  "pairings": [
+    "동남아요리",
+    "튀김",
+    "새우",
+    "장어구이",
+    "아시아요리",
+    "생선구이",
+    "해산물"
+  ]
+}

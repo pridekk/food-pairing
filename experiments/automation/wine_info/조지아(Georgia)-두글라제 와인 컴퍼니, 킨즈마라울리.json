@@ -1,0 +1,24 @@
+{
+  "name": "두글라제 와인 컴퍼니, 킨즈마라울리",
+  "en_name": "Dugladze Wine Company, Kindzmarauli",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 3,
+  "acidity": 2,
+  "body": 3,
+  "tannin": 2,
+  "winery": "두글라제 와인 컴퍼니 Dugladze Wine Company",
+  "main_grape": "사페라비 (Saperavi)",
+  "country": "조지아(Georgia)",
+  "city": "카헤티(Kakheti)",
+  "aromas": [
+    "딸기"
+  ],
+  "pairings": [
+    "자장면",
+    "육포",
+    "견과류"
+  ],
+  "recommend": "육포, 디저트, 견과류, 스낵, 자장면, 순대, 떡볶이 등과 잘 어울린다.",
+  "alcohol": "11~12 %",
+  "serving_temp": "14~16 ℃"
+}

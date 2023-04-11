@@ -1,0 +1,31 @@
+{
+  "name": "모비아, 레불라 리볼라",
+  "en_name": "Movia, Rebula Ribolla",
+  "price_from_importer": "100,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "모비아 Movia",
+  "main_grape": "리볼라 지알라 (Ribolla Gialla)",
+  "country": "슬로베니아(Slovenia)",
+  "city": "고리스카 브르다(Goriska Brda)",
+  "aromas": [
+    "사과",
+    "미네랄",
+    "부싯돌",
+    "자몽",
+    "바닐라"
+  ],
+  "pairings": [
+    "오리고기",
+    "닭고기",
+    "동그랑땡",
+    "장어구이",
+    "잡채",
+    "한식",
+    "참치",
+    "해산물",
+    "조개구이"
+  ]
+}

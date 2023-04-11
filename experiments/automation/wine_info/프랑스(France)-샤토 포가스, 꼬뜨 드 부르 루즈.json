@@ -1,0 +1,25 @@
+{
+  "name": "샤토 포가스, 꼬뜨 드 부르 루즈",
+  "en_name": "Chateau Fougas, Cote de Bourg Rouge 'Organic'",
+  "price_from_importer": "79,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "샤토 포가스 Chateau Fougas",
+  "main_grape": "메를로 (Merlot) , 카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "프랑스(France)",
+  "city": "꼬뜨 드 부르그(Côtes de Bourg)",
+  "aromas": [
+    "제비꽃",
+    "블랙커런트",
+    "허브",
+    "블랙체리"
+  ],
+  "pairings": [
+    "불고기",
+    "스테이크",
+    "아시아요리",
+    "소고기"
+  ]
+}

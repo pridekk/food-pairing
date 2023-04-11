@@ -1,0 +1,21 @@
+{
+  "name": "샤또 부아 페르뛰",
+  "en_name": "Chateau Bois Pertuis",
+  "price_from_importer": "47,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "GCF 그룹 GCF Group",
+  "main_grape": "메를로 (Merlot) , 카베르네 소비뇽 (Cabernet Sauvignon) , 쁘띠 베르도 (Petit Verdot)",
+  "country": "프랑스(France)",
+  "city": "보르도(Bordeaux)",
+  "aromas": [
+    "모카",
+    "블루베리",
+    "바닐라"
+  ],
+  "pairings": [
+    "치즈"
+  ]
+}

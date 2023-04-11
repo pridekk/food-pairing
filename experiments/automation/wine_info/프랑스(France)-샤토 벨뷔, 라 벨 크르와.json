@@ -1,0 +1,19 @@
+{
+  "name": "샤토 벨뷔, 라 벨 크르와",
+  "en_name": "Chateau Belvue, La Belle Croix",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "샤토 벨뷔 Chateau Belvue",
+  "main_grape": "메를로 (Merlot) , 카베르네 소비뇽 (Cabernet Sauvignon) , 카베르네 프랑 (Cabernet Franc) , 쁘띠 베르도 (Petit Verdot) , 말벡 (Malbec)",
+  "country": "프랑스(France)",
+  "city": "보르도(Bordeaux)",
+  "aromas": [
+    "치즈",
+    "소고기",
+    "닭고기"
+  ],
+  "pairings": []
+}

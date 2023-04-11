@@ -1,0 +1,37 @@
+{
+  "name": "깐텔레, 살렌토 로쏘 '테레사 마나라'",
+  "en_name": "Cantele, Salento Rosso 'Teresa Manara'",
+  "price_from_importer": "113,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "깐텔레 Cantele",
+  "main_grape": "네그로아마로 (Negroamaro)",
+  "country": "이탈리아(Italy)",
+  "city": "뿔리아(Puglia)",
+  "aromas": [
+    "블랙체리",
+    "삼나무",
+    "오크",
+    "육두구",
+    "정향",
+    "바닐라",
+    "블랙베리",
+    "라스베리",
+    "크랜베리",
+    "감초"
+  ],
+  "pairings": [
+    "스테이크",
+    "살라미",
+    "육류요리",
+    "건육",
+    "양념갈비",
+    "육포",
+    "갈비찜",
+    "양고기",
+    "그릴요리",
+    "쇠고기"
+  ]
+}

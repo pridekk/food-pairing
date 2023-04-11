@@ -1,0 +1,21 @@
+{
+  "name": "일 로꼴로 디 몬티첼리, 벨릭스",
+  "en_name": "Il Roccolo di Monticelli, Belix",
+  "price_from_importer": "92,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "일 로꼴로 디 몬티첼리 Il Roccolo di Monticelli",
+  "main_grape": "가르가네가 (Garganega)",
+  "country": "이탈리아(Italy)",
+  "city": "베네토(Veneto)",
+  "aromas": [
+    "사과",
+    "아몬드",
+    "미네랄"
+  ],
+  "pairings": [
+    "치즈"
+  ]
+}

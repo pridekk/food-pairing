@@ -1,0 +1,31 @@
+{
+  "name": "꺄브 드 베블렌하임, 크레망 달자스",
+  "en_name": "Cave de Beblenheim, Crémant d'Alsace",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "까브 드 베블렌하임 Cave de Beblenheim",
+  "main_grape": "오쎄후와 (Auxerrois) , 피노 블랑 (Pinot Blanc)",
+  "country": "프랑스(France)",
+  "city": "알자스(Alsace)",
+  "aromas": [
+    "라일락",
+    "서양배",
+    "멜론",
+    "레몬",
+    "청사과",
+    "구아바",
+    "자몽",
+    "복숭아"
+  ],
+  "pairings": [
+    "씨푸드",
+    "건육",
+    "스시",
+    "생선회",
+    "오일파스타",
+    "해산물"
+  ]
+}

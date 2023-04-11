@@ -1,0 +1,18 @@
+{
+  "name": "에델 아파시멘토 로쏘",
+  "en_name": "Edel Appassimento Rosso",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "이탈리안 와인 아틀리에 Italian Wine Atelier",
+  "main_grape": "프리미티보 (Primitivo) , 네그로아마로 (Negroamaro) , 몬테풀치아노 (Montepulciano)",
+  "country": "이탈리아(Italy)",
+  "city": "뿔리아(Puglia)",
+  "aromas": [
+    "치즈",
+    "수육"
+  ],
+  "pairings": []
+}

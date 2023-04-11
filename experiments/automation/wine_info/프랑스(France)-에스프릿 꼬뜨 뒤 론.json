@@ -1,0 +1,21 @@
+{
+  "name": "에스프릿 꼬뜨 뒤 론",
+  "en_name": "Esprit Cotes du Rhone",
+  "price_from_importer": "50,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "브로떼 Brotte",
+  "main_grape": "그르나슈 (Grenache) , 시라/쉬라즈 (Syrah/Shiraz)",
+  "country": "프랑스(France)",
+  "city": "샤또네프 뒤 빠쁘(Chateauneuf du Pape)",
+  "aromas": [
+    "블랙커런트",
+    "오크",
+    "초콜릿",
+    "블랙베리",
+    "다크초콜릿"
+  ],
+  "pairings": []
+}

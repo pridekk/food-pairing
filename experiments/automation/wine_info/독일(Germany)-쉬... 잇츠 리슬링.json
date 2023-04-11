@@ -1,0 +1,33 @@
+{
+  "name": "쉬... 잇츠 리슬링",
+  "en_name": "Shhh... It's Riesling",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "피터 메르테스 Peter Mertes",
+  "main_grape": "리슬링 (Riesling)",
+  "country": "독일(Germany)",
+  "city": "모젤-자르-루버(Mosel-Saar-Ruwer)",
+  "aromas": [
+    "라임",
+    "흰꽃",
+    "사과",
+    "미네랄",
+    "레몬",
+    "청사과"
+  ],
+  "pairings": [
+    "문어숙회",
+    "떡볶이",
+    "삼겹살",
+    "베이컨",
+    "닭강정",
+    "어묵",
+    "양념치킨",
+    "돼지고기",
+    "순대",
+    "해산물"
+  ]
+}

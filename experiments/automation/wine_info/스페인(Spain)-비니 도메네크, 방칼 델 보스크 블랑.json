@@ -1,0 +1,21 @@
+{
+  "name": "비니 도메네크, 방칼 델 보스크 블랑",
+  "en_name": "Vinyes Domenech, Bancal del Bosc Blanc",
+  "price_from_importer": "70,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "비니 도메네크 와이너리 Vinyes Domenech Winery",
+  "main_grape": "가르나차 블랑카 (Garnacha Blanca)",
+  "country": "스페인(Spain)",
+  "city": "까탈루냐(Cataluna)",
+  "aromas": [
+    "허브",
+    "아몬드"
+  ],
+  "pairings": [],
+  "recommend": null,
+  "alcohol": null,
+  "serving_temp": "8~10 ℃"
+}

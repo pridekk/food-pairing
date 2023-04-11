@@ -1,0 +1,20 @@
+{
+  "name": "도멘 보니 가쇼, 뉘 생 조르쥬",
+  "en_name": "Domaine Bony Gachot, Nuits-Saint-Georges",
+  "price_from_importer": "369,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 2,
+  "winery": "도멘 보니 가쇼 Domaine Bony Gachot",
+  "main_grape": "피노 누아 (Pinot Noir)",
+  "country": "프랑스(France)",
+  "city": "뉘-생-조르쥬(Nuits-St-Georges)",
+  "aromas": [
+    "돼지고기",
+    "오리고기",
+    "닭고기",
+    "소고기"
+  ],
+  "pairings": []
+}

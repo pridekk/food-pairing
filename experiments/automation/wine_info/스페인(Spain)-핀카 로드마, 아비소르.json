@@ -1,0 +1,24 @@
+{
+  "name": "핀카 로드마, 아비소르",
+  "en_name": "Finca Rodma, Avizor",
+  "price_from_importer": "237,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "핀카 로드마 Finca Rodma",
+  "main_grape": "템프라니요 (Tempranillo) 100%",
+  "country": "스페인(Spain)",
+  "city": "리베라 델 두에로(Ribera del Duero)",
+  "aromas": [
+    "제비꽃",
+    "허브",
+    "체리",
+    "블랙베리"
+  ],
+  "pairings": [
+    "돼지고기",
+    "서양요리",
+    "소고기"
+  ]
+}

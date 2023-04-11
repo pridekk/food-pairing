@@ -1,0 +1,19 @@
+{
+  "name": "베르사노, 아스티 스푸만테",
+  "en_name": "Bersano, Asti Spumante",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 3,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "베르사노 비니 Bersano Vini",
+  "main_grape": "모스카토 (Moscato )",
+  "country": "이탈리아(Italy)",
+  "city": "아스티(Asti)",
+  "aromas": [
+    "멜론"
+  ],
+  "pairings": [
+    "치즈"
+  ]
+}

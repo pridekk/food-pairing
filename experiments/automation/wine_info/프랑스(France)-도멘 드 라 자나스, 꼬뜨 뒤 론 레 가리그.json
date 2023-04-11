@@ -1,0 +1,34 @@
+{
+  "name": "도멘 드 라 자나스, 꼬뜨 뒤 론 레 가리그",
+  "en_name": "Domaine de la Janasse, Cotes du Rhone Les Garrigues",
+  "price_from_importer": "184,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "도멘 드 라 자나스 Domaine de la Janasse",
+  "main_grape": "그르나슈 (Grenache) 100%",
+  "country": "프랑스(France)",
+  "city": "꼬뜨 뒤 론(Côtes du Rhone)",
+  "aromas": [
+    "블랙커런트",
+    "블랙체리",
+    "체리",
+    "오크",
+    "후추",
+    "허브",
+    "라스베리"
+  ],
+  "pairings": [
+    "양갈비",
+    "스튜",
+    "양념갈비",
+    "갈비찜",
+    "불고기",
+    "라자냐",
+    "서양요리",
+    "한국음식",
+    "소고기",
+    "스테이크"
+  ]
+}

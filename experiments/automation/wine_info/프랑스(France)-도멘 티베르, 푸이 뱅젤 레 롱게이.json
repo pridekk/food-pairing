@@ -1,0 +1,31 @@
+{
+  "name": "도멘 티베르, 푸이 뱅젤 레 롱게이",
+  "en_name": "Domaine Thibert, Pouilly-Vinzelles Les Longeays",
+  "price_from_importer": "140,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "도멘 티베르 Domaine Thibert",
+  "main_grape": "샤르도네 (Chardonnay) 100%",
+  "country": "프랑스(France)",
+  "city": "뿌이-뱅즐레(Pouilly-Vinzelles)",
+  "aromas": [
+    "아몬드",
+    "살구",
+    "모과",
+    "자몽",
+    "복숭아",
+    "헤이즐넛"
+  ],
+  "pairings": [
+    "훈제오리",
+    "오리고기",
+    "새우",
+    "연어",
+    "동그랑땡",
+    "치킨",
+    "해산물",
+    "장어구이"
+  ]
+}

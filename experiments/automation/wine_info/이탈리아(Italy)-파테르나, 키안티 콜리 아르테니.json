@@ -1,0 +1,19 @@
+{
+  "name": "파테르나, 키안티 콜리 아르테니",
+  "en_name": "Paterna, Chianti Colli Arteni",
+  "price_from_importer": "84,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "파테르나 Paterna",
+  "main_grape": "칠리에졸로 (Ciliegiolo) , 산지오베제 (Sangiovese) , 콜로리노 (Colorino) , 카나이올로 (Canaiolo)",
+  "country": "이탈리아(Italy)",
+  "city": "키안티(Chianti)",
+  "aromas": [
+    "체리"
+  ],
+  "pairings": [
+    "치즈"
+  ]
+}

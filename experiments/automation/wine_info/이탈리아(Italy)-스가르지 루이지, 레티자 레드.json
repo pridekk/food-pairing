@@ -1,0 +1,23 @@
+{
+  "name": "스가르지 루이지, 레티자 레드",
+  "en_name": "Sgarzi Luigi, Letizia Red",
+  "price_from_importer": "14,500원( 750ml )",
+  "sugar": 2,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "스가르지 루이지 Sgarzi Luigi",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) , 산지오베제 (Sangiovese)",
+  "country": "이탈리아(Italy)",
+  "city": "이탈리아(Italy)",
+  "aromas": [
+    "제비꽃",
+    "라스베리",
+    "블랙베리"
+  ],
+  "pairings": [
+    "푸딩",
+    "연어",
+    "견과류"
+  ]
+}

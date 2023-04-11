@@ -1,0 +1,22 @@
+{
+  "name": "비떼 꼴떼, 파에시 뚜오이 바롤로",
+  "en_name": "Vite Colte, Paesi Tuoi Barolo",
+  "price_from_importer": "108,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "비떼 콜떼 Vite Colte",
+  "main_grape": "네비올로 (Nebbiolo) 100%",
+  "country": "이탈리아(Italy)",
+  "city": "피에몬테(Piemonte)",
+  "aromas": [
+    "감초",
+    "커피",
+    "장미"
+  ],
+  "pairings": [
+    "파스타",
+    "양고기"
+  ]
+}

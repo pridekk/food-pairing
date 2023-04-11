@@ -1,0 +1,22 @@
+{
+  "name": "피에르 네종, 꼬뜨 드 뉘 빌라쥐 블랑 '레 샤조'",
+  "en_name": "Pierre Naigeon, Cotes de Nuits Villages Blanc 'Les Chazots'",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "피에르 네종 Pierre Naigeon",
+  "main_grape": "샤르도네 (Chardonnay) 100%",
+  "country": "프랑스(France)",
+  "city": "꼬뜨 드 뉘-빌라쥬(Côte de Nuits-Villages)",
+  "aromas": [
+    "아몬드",
+    "초콜릿"
+  ],
+  "pairings": [
+    "닭고기",
+    "서양요리",
+    "해산물"
+  ]
+}

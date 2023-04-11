@@ -1,0 +1,19 @@
+{
+  "name": "보데가스 라 레메디아도라, 로블 템프라니오 라 빌라 레알",
+  "en_name": "Bodegas La Remediadora, Roble Tempranillo La Villa Real",
+  "price_from_importer": "25,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "보데가스 라 레메디아도라 Bodegas La Remediadora",
+  "main_grape": "템프라니요 (Tempranillo) 100%",
+  "country": "스페인(Spain)",
+  "city": "라 만차(La Mancha)",
+  "aromas": [
+    "붉은육류",
+    "치킨",
+    "양갈비"
+  ],
+  "pairings": []
+}

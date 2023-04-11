@@ -1,0 +1,23 @@
+{
+  "name": "할로! 산타 리슬링",
+  "en_name": "Hallo! Santa Riesling",
+  "price_from_importer": "20,000원( 750ml )",
+  "sugar": 2,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "조세프 드라센 JOSEF DRATHEN GmbH & Co. KG",
+  "main_grape": "리슬링 (Riesling)",
+  "country": "독일(Germany)",
+  "city": "모젤-자르-루버(Mosel-Saar-Ruwer)",
+  "aromas": [
+    "아카시아",
+    "복숭아",
+    "레몬",
+    "허브"
+  ],
+  "pairings": [
+    "케이크",
+    "복숭아"
+  ]
+}

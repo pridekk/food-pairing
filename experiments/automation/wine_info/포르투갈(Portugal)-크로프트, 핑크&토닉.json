@@ -1,0 +1,21 @@
+{
+  "name": "크로프트, 핑크&토닉",
+  "en_name": "Croft, Fine Ruby Port",
+  "price_from_importer": "12,000원( 750ml )",
+  "sugar": 3,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "크로프트 Croft",
+  "main_grape": "투리가 나시오날 (Touriga Nacional) , 투리가 프란체사 (Touriga Francesa) , 틴토 까오 (Tinto Cao) , 틴타 로리즈 (Tinta Roriz) , 틴타 바로카 (Tinta Barroca)",
+  "country": "포르투갈(Portugal)",
+  "city": "도우루(Douro)",
+  "aromas": [
+    "자몽",
+    "체리"
+  ],
+  "pairings": [
+    "샐러드",
+    "새우"
+  ]
+}

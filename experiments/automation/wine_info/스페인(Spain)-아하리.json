@@ -1,0 +1,22 @@
+{
+  "name": "아하리",
+  "en_name": "Ahari",
+  "price_from_importer": "190,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "옥서 와인즈 Oxer Wines",
+  "main_grape": "템프라니요 (Tempranillo) , 그라시아노 (Graciano) , 비우라 (Viura)",
+  "country": "스페인(Spain)",
+  "city": "리오하(Rioja)",
+  "aromas": [
+    "허브"
+  ],
+  "pairings": [
+    "파스타"
+  ],
+  "recommend": "붉은색의 육류 및 파스타, 핑거 푸드 등과 잘 어울린다.",
+  "alcohol": "14~15 %",
+  "serving_temp": "16~18 ℃"
+}

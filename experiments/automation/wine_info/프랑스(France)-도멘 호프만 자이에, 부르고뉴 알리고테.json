@@ -1,0 +1,18 @@
+{
+  "name": "도멘 호프만 자이에, 부르고뉴 알리고테",
+  "en_name": "Domaine Hoffmann Jayer, Burgogne Aligote",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "도멘 호프만 자이에 Domaine Hoffmann Jayer",
+  "main_grape": "알리고테 (Aligote)",
+  "country": "프랑스(France)",
+  "city": "부르고뉴(Bourgogne)",
+  "aromas": [
+    "치즈",
+    "샐러드"
+  ],
+  "pairings": []
+}

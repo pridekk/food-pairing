@@ -1,0 +1,32 @@
+{
+  "name": "쉬... 잇츠 게부르츠트라미너",
+  "en_name": "Shhh... It's Gewurztraminer",
+  "price_from_importer": "35,000원( 750ml )",
+  "sugar": 2,
+  "acidity": 2,
+  "body": 3,
+  "tannin": 1,
+  "winery": "피터 메르테스 Peter Mertes",
+  "main_grape": "게뷔르츠트라미너 (Gewurztraminer)",
+  "country": "독일(Germany)",
+  "city": "팔츠(Pfalz)",
+  "aromas": [
+    "리치",
+    "아카시아",
+    "열대과일",
+    "망고",
+    "장미",
+    "자몽",
+    "파인애플"
+  ],
+  "pairings": [
+    "식전주",
+    "동남아요리",
+    "꼬치구이",
+    "오리로스",
+    "베이컨",
+    "치킨",
+    "돼지고기",
+    "아시아요리"
+  ]
+}

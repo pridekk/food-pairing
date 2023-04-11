@@ -1,0 +1,23 @@
+{
+  "name": "샴페인 도멘 꼴레, 실렉스&크레 블랑 드 블랑",
+  "en_name": "Champagne Domaine Collet, Silex & Craie Blanc de Blancs",
+  "price_from_importer": "200,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "샴페인 도멘 꼴레 Champagne Domaine Collet",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "프랑스(France)",
+  "city": "꼬뜨 드 세잔느(Côte de Sezanne)",
+  "aromas": [
+    "시트러스",
+    "사과",
+    "서양배"
+  ],
+  "pairings": [
+    "파스타",
+    "치즈",
+    "해산물"
+  ]
+}

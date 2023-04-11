@@ -1,0 +1,21 @@
+{
+  "name": "뜨레 세콜리, 브라케토 다퀴",
+  "en_name": "Tre Secoli, Brachetto d'Acqui",
+  "price_from_importer": "45,000원( 750ml )",
+  "sugar": 3,
+  "acidity": 1,
+  "body": 2,
+  "tannin": 1,
+  "winery": "뜨레 세콜리 Tre Secoli",
+  "main_grape": "브라케토 (Brachetto)",
+  "country": "이탈리아(Italy)",
+  "city": "피에몬테(Piemonte)",
+  "aromas": [
+    "장미",
+    "사향"
+  ],
+  "pairings": [],
+  "recommend": null,
+  "alcohol": "5~6 %",
+  "serving_temp": "6~8 ℃"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "콥, 독스 랜치 카렐라 셀렉션",
+  "en_name": "Cobb, Doc's Ranch Calera Selection",
+  "price_from_importer": "400,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "콥 와인즈 Cobb Wines",
+  "main_grape": "피노 누아 (Pinot Noir) 100%",
+  "country": "미국(U.S.A)",
+  "city": "소노마 코스트(Sonoma Coast)",
+  "aromas": [
+    "라일락"
+  ],
+  "pairings": [
+    "양념갈비",
+    "닭고기",
+    "등심"
+  ]
+}

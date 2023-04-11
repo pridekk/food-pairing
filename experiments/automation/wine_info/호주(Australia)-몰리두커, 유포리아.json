@@ -1,0 +1,35 @@
+{
+  "name": "몰리두커, 유포리아",
+  "en_name": "Mollydooker, Euphoria",
+  "price_from_importer": "74,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "몰리두커 Mollydooker",
+  "main_grape": "베르델호 (Verdelho) 100%",
+  "country": "호주(Australia)",
+  "city": "맥라렌 베일(McLaren Vale)",
+  "aromas": [
+    "라임",
+    "흰꽃",
+    "레몬",
+    "살구",
+    "시트러스",
+    "파인애플"
+  ],
+  "pairings": [
+    "씨푸드",
+    "문어숙회",
+    "중국요리",
+    "소라",
+    "양장피",
+    "양념치킨",
+    "수육",
+    "치킨",
+    "잡채",
+    "한식",
+    "닭고기",
+    "해산물"
+  ]
+}

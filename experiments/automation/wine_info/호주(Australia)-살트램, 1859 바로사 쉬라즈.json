@@ -1,0 +1,23 @@
+{
+  "name": "살트램, 1859 바로사 쉬라즈",
+  "en_name": "Saltram, 1859 Barossa Shiraz",
+  "price_from_importer": "64,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "살트렘 에스테이트 Saltram Estate",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz) 100%",
+  "country": "호주(Australia)",
+  "city": "바로사 밸리(Barossa Valley)",
+  "aromas": [
+    "자두",
+    "후추"
+  ],
+  "pairings": [
+    "자두"
+  ],
+  "recommend": null,
+  "alcohol": "14~15 %",
+  "serving_temp": "16~18 ℃"
+}

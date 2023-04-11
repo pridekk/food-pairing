@@ -1,0 +1,23 @@
+{
+  "name": "레 브리소, 카락테",
+  "en_name": "Le Briseau, Kharakter",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "레 브리소 Le Briseau",
+  "main_grape": "슈냉 블랑 (Chenin Blanc)",
+  "country": "프랑스(France)",
+  "city": "루아르(Loire)",
+  "aromas": [
+    "살구",
+    "구아바",
+    "오크"
+  ],
+  "pairings": [
+    "치즈",
+    "샐러드",
+    "해산물"
+  ]
+}

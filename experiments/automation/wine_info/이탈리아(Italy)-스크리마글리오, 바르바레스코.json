@@ -1,0 +1,22 @@
+{
+  "name": "스크리마글리오, 바르바레스코",
+  "en_name": "Scrimaglio, Barbaresco",
+  "price_from_importer": "120,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "스크리마글리오 Scrimaglio",
+  "main_grape": "네비올로 (Nebbiolo) 100%",
+  "country": "이탈리아(Italy)",
+  "city": "바르바레스코(Barbaresco)",
+  "aromas": [
+    "커피",
+    "바닐라",
+    "체리"
+  ],
+  "pairings": [],
+  "recommend": null,
+  "alcohol": null,
+  "serving_temp": "16~18 ℃"
+}

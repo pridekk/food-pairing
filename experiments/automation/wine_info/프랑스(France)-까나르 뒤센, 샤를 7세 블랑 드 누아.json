@@ -1,0 +1,20 @@
+{
+  "name": "까나르 뒤센, 샤를 7세 블랑 드 누아",
+  "en_name": "Canard-Duchene, Charles VII Blanc de Noirs",
+  "price_from_importer": "280,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "까나르 뒤센 Canard-Duchene",
+  "main_grape": "피노 누아 (Pinot Noir) , 피노 뮈니에 (Pinot Meunier)",
+  "country": "프랑스(France)",
+  "city": "샹빠뉴(Champagne)",
+  "aromas": [
+    "체리"
+  ],
+  "pairings": [],
+  "recommend": null,
+  "alcohol": "12~13 %",
+  "serving_temp": "6~8 ℃"
+}

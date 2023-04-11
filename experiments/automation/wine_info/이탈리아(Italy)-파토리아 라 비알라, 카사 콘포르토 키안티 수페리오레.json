@@ -1,0 +1,18 @@
+{
+  "name": "파토리아 라 비알라, 카사 콘포르토 키안티 수페리오레",
+  "en_name": "Fattoria La Vialla, Casa Conforto Chianti Superiore",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 4,
+  "winery": "파토리아 라 비알라 Fattoria La Vialla",
+  "main_grape": "산지오베제 (Sangiovese) , 메를로 (Merlot) , 카나이올로 (Canaiolo)",
+  "country": "이탈리아(Italy)",
+  "city": "토스카나(Toscana)",
+  "aromas": [
+    "파스타",
+    "치즈"
+  ],
+  "pairings": []
+}

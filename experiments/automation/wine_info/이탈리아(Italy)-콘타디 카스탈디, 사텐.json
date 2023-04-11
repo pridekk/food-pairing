@@ -1,0 +1,24 @@
+{
+  "name": "콘타디 카스탈디, 사텐",
+  "en_name": "Contadi Castaldi, Saten",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "콘타디 카스탈디 Contadi Castaldi",
+  "main_grape": "샤르도네 (Chardonnay) 100%",
+  "country": "이탈리아(Italy)",
+  "city": "프란치아코르타(Franciacorta)",
+  "aromas": [
+    "아몬드",
+    "말린무화과",
+    "토스트"
+  ],
+  "pairings": [
+    "아시아요리",
+    "닭고기",
+    "서양요리",
+    "해산물"
+  ]
+}

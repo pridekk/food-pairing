@@ -1,0 +1,23 @@
+{
+  "name": "리비오 펠루가, 베르티고",
+  "en_name": "Livio Felluga, Vertigo",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "리비오 펠루가 Livio Felluga",
+  "main_grape": "메를로 (Merlot) , 레포스코 (Refosco) , 카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "이탈리아(Italy)",
+  "city": "프리울리 베네찌아 줄리아(Friuli Venezia Giulia)",
+  "aromas": [
+    "자두",
+    "코코아",
+    "시나몬"
+  ],
+  "pairings": [
+    "전채요리",
+    "치즈",
+    "자두"
+  ]
+}

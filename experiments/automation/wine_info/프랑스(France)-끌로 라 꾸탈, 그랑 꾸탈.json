@@ -1,0 +1,19 @@
+{
+  "name": "끌로 라 꾸탈, 그랑 꾸탈",
+  "en_name": "Clos La Coutale, Grand Coutale",
+  "price_from_importer": "80,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 3,
+  "winery": "끌로 라 꾸탈 Clos La Coutale",
+  "main_grape": "말벡 (Malbec)",
+  "country": "프랑스(France)",
+  "city": "까오르(Cahors)",
+  "aromas": [
+    "커피"
+  ],
+  "pairings": [
+    "치즈"
+  ]
+}

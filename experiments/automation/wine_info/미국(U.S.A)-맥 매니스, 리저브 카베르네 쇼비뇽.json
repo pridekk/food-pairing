@@ -1,0 +1,35 @@
+{
+  "name": "맥 매니스, 리저브 카베르네 쇼비뇽",
+  "en_name": "McManis, Reserve Cabernet Sauvignon",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "맥매니스 와이너리 McManis Winery",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) , 쁘띠 시라 (Petite Sirah) , 쁘띠 베르도 (Petit Verdot) , 테롤데고 (Teroldego)",
+  "country": "미국(U.S.A)",
+  "city": "로디(Lodi)",
+  "aromas": [
+    "블랙커런트",
+    "블랙체리",
+    "삼나무",
+    "체리",
+    "오크",
+    "소나무",
+    "연기",
+    "블루베리",
+    "커피",
+    "바닐라"
+  ],
+  "pairings": [
+    "양갈비",
+    "불고기",
+    "양고기",
+    "파스타",
+    "햄버거",
+    "소고기",
+    "스테이크",
+    "족발"
+  ]
+}

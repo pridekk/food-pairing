@@ -1,0 +1,19 @@
+{
+  "name": "샤또 쁘띠 빌라쥬",
+  "en_name": "Chateau Petit-Village",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "샤또 쁘띠 빌라쥬 Chateau Petit-Village",
+  "main_grape": "메를로 (Merlot) , 카베르네 프랑 (Cabernet Franc) , 카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "프랑스(France)",
+  "city": "뽀므롤(Pomerol)",
+  "aromas": [
+    "스테이크",
+    "튀김",
+    "오리고기"
+  ],
+  "pairings": []
+}

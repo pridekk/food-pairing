@@ -1,0 +1,23 @@
+{
+  "name": "파토리아 라 비알라, 바리카토 논필트라토",
+  "en_name": "Fattoria La Vialla, Barriccato Non Filtrato",
+  "price_from_importer": "110,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "파토리아 라 비알라 Fattoria La Vialla",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) , 산지오베제 (Sangiovese)",
+  "country": "이탈리아(Italy)",
+  "city": "토스카나(Toscana)",
+  "aromas": [
+    "바닐라"
+  ],
+  "pairings": [
+    "파스타",
+    "육류요리"
+  ],
+  "recommend": "붉은 육류요리, 파스타 등과 잘 어울린다.",
+  "alcohol": null,
+  "serving_temp": "16~18 ℃"
+}

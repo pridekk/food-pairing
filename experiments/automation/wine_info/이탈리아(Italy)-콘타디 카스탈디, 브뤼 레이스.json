@@ -1,0 +1,23 @@
+{
+  "name": "콘타디 카스탈디, 브뤼 레이스",
+  "en_name": "Contadi Castaldi, Brut Race",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "콘타디 카스탈디 Contadi Castaldi",
+  "main_grape": "샤르도네 (Chardonnay) , 피노 네로 (Pinot Nero) , 피노 비앙코 (Pinot Bianco)",
+  "country": "이탈리아(Italy)",
+  "city": "프란치아코르타(Franciacorta)",
+  "aromas": [
+    "감귤",
+    "파인애플"
+  ],
+  "pairings": [
+    "아시아요리",
+    "초밥",
+    "샐러드",
+    "해산물"
+  ]
+}

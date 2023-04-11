@@ -1,0 +1,24 @@
+{
+  "name": "비냐 모란데, 엑스트라 브뤼",
+  "en_name": "Viña Morande, Extra Brut",
+  "price_from_importer": "38,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 2,
+  "tannin": 1,
+  "winery": "비냐 모란데 Viña Morande",
+  "main_grape": "샤르도네 (Chardonnay) 100%",
+  "country": "칠레(Chile)",
+  "city": "리마리 밸리(Limari Valley)",
+  "aromas": [
+    "시트러스",
+    "청사과"
+  ],
+  "pairings": [
+    "식전주",
+    "오리고기",
+    "닭고기",
+    "치즈",
+    "해산물"
+  ]
+}

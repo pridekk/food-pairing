@@ -1,0 +1,23 @@
+{
+  "name": "엘비이, 시그니쳐 시리즈 샤도네이",
+  "en_name": "LVE, Signature Series Chardonnay",
+  "price_from_importer": "150,000원( 750ml )",
+  "sugar": 2,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "레이몬드 빈야드 Raymond Vineyards",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "미국(U.S.A)",
+  "city": "센트럴 코스트(Central Coast)",
+  "aromas": [
+    "탕수육",
+    "치즈",
+    "바비큐",
+    "수육"
+  ],
+  "pairings": [],
+  "recommend": "바비큐, 훈제오리, 오리로스, 치킨, 훈제연어, 장어구이, 참치, 새우, 해산물, 숙성 치즈, 피자, 파스타, 탕수육 등과 잘 어울린다.",
+  "alcohol": "13~14 %",
+  "serving_temp": "10~12 ℃"
+}

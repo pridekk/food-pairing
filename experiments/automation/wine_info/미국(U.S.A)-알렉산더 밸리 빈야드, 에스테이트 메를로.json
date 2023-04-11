@@ -1,0 +1,22 @@
+{
+  "name": "알렉산더 밸리 빈야드, 에스테이트 메를로",
+  "en_name": "Alexander Valley Vineyards, Estate Merlot",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "알렉산더 밸리 빈야드 Alexander Valley Vineyards",
+  "main_grape": "메를로 (Merlot) 100%",
+  "country": "미국(U.S.A)",
+  "city": "소노마 카운티(Sonoma County)",
+  "aromas": [
+    "오크",
+    "바닐라",
+    "자두"
+  ],
+  "pairings": [
+    "스테이크",
+    "자두"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "노떼 로사, 프리미티보 살렌토",
+  "en_name": "Notte Rossa, Primitivo Salento",
+  "price_from_importer": "29,000원( 750ml )",
+  "sugar": 2,
+  "acidity": 2,
+  "body": 4,
+  "tannin": 2,
+  "winery": "노떼 로사 Notte Rossa",
+  "main_grape": "프리미티보 (Primitivo)",
+  "country": "이탈리아(Italy)",
+  "city": "뿔리아(Puglia)",
+  "aromas": [
+    "자두",
+    "말린자두",
+    "체리",
+    "시나몬",
+    "건포도",
+    "바닐라"
+  ],
+  "pairings": [
+    "건육",
+    "양념갈비",
+    "갈비찜",
+    "불고기",
+    "양고기",
+    "소고기",
+    "스테이크"
+  ]
+}

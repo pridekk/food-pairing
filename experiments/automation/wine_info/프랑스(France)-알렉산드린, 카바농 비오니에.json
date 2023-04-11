@@ -1,0 +1,22 @@
+{
+  "name": "알렉산드린, 카바농 비오니에",
+  "en_name": "Les Alexandrins, Cabanon Viognier",
+  "price_from_importer": "50,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 2,
+  "body": 3,
+  "tannin": 1,
+  "winery": "도멘 & 메종 레 알렉산드린 Domaine & Maison Les Alexandrins",
+  "main_grape": "비오니에 (Viognier)",
+  "country": "프랑스(France)",
+  "city": "론(Rhone)",
+  "aromas": [
+    "시트러스"
+  ],
+  "pairings": [
+    "탕수육",
+    "치즈",
+    "수육",
+    "해산물"
+  ]
+}

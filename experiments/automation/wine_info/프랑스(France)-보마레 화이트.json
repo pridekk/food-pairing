@@ -1,0 +1,23 @@
+{
+  "name": "보마레 화이트",
+  "en_name": "Beau Marais White",
+  "price_from_importer": "17,900원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "도멘 두 페레 귀요 Domaine du Pere Guillot",
+  "main_grape": "그르나슈 블랑 (Grenache Blanc) , 샤르도네 (Chardonnay)",
+  "country": "프랑스(France)",
+  "city": "프랑스(France)",
+  "aromas": [
+    "백도",
+    "망고",
+    "파인애플"
+  ],
+  "pairings": [
+    "아시아요리",
+    "연어",
+    "샐러드"
+  ]
+}

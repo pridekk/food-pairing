@@ -1,0 +1,31 @@
+{
+  "name": "허쉬 빈야드, 이스테이트 샤도네이",
+  "en_name": "Hirsch Vineyards, Estate Chardonnay",
+  "price_from_importer": "348,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 3,
+  "tannin": 1,
+  "winery": "허쉬 빈야드 Hirsch Vineyards",
+  "main_grape": "샤르도네 (Chardonnay)",
+  "country": "미국(U.S.A)",
+  "city": "소노마 코스트(Sonoma Coast)",
+  "aromas": [
+    "흰꽃",
+    "사과",
+    "미네랄",
+    "열대과일",
+    "복숭아"
+  ],
+  "pairings": [
+    "훈제오리",
+    "새우",
+    "베이컨",
+    "치킨",
+    "연어",
+    "오리로스",
+    "바비큐",
+    "해산물",
+    "장어구이"
+  ]
+}

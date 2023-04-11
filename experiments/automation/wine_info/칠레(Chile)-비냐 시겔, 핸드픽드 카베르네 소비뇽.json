@@ -1,0 +1,26 @@
+{
+  "name": "비냐 시겔, 핸드픽드 카베르네 소비뇽",
+  "en_name": "Vina Siegel, Handpicked Cabernet Sauvignon",
+  "price_from_importer": "35,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "비냐 시겔 Vina Siegel",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) 100%",
+  "country": "칠레(Chile)",
+  "city": "콜차구아 밸리(Cholchagua Valley)",
+  "aromas": [
+    "블랙커런트",
+    "블랙체리",
+    "삼나무",
+    "감초"
+  ],
+  "pairings": [
+    "양갈비",
+    "불고기",
+    "서양요리",
+    "소고기",
+    "스테이크"
+  ]
+}

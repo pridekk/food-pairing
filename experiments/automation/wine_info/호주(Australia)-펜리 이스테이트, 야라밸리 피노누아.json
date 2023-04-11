@@ -1,0 +1,30 @@
+{
+  "name": "펜리 이스테이트, 야라밸리 피노누아",
+  "en_name": "Penley Estate, Yarra Valley Pinot Noir",
+  "price_from_importer": "72,600원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "펜리 이스테이트 Penley Estate",
+  "main_grape": "피노 누아 (Pinot Noir)",
+  "country": "호주(Australia)",
+  "city": "야라 밸리(Yarra Valley)",
+  "aromas": [
+    "로즈마리",
+    "구즈베리",
+    "장미",
+    "라스베리",
+    "레드커런트",
+    "헤이즐넛"
+  ],
+  "pairings": [
+    "로스트비프",
+    "건육",
+    "육회",
+    "닭강정",
+    "양념치킨",
+    "소고기",
+    "바비큐"
+  ]
+}

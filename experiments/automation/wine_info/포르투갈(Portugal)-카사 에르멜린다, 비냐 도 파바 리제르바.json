@@ -1,0 +1,21 @@
+{
+  "name": "카사 에르멜린다, 비냐 도 파바 리제르바",
+  "en_name": "Casa Ermelinda, Vinha do Fava Reserva",
+  "price_from_importer": "52,000원( 750ml )",
+  "sugar": 2,
+  "acidity": 2,
+  "body": 4,
+  "tannin": 2,
+  "winery": "카사 에르멜린다 Casa Ermelinda",
+  "main_grape": "알리칸테 부쉐 (Alicante Bouschet) , 투리가 나시오날 (Touriga Nacional) , 카스텔라옹 (Castelao)",
+  "country": "포르투갈(Portugal)",
+  "city": "세투발 페닌슐라(Setubal Peninsula)",
+  "aromas": [
+    "자두",
+    "오크",
+    "체리"
+  ],
+  "pairings": [
+    "자두"
+  ]
+}

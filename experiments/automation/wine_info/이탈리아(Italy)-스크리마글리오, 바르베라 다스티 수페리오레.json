@@ -1,0 +1,20 @@
+{
+  "name": "스크리마글리오, 바르베라 다스티 수페리오레",
+  "en_name": "Scrimaglio, Barbera d'Asti Superiore",
+  "price_from_importer": "70,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "스크리마글리오 Scrimaglio",
+  "main_grape": "바르베라 (Barbera)",
+  "country": "이탈리아(Italy)",
+  "city": "아스티(Asti)",
+  "aromas": [
+    "딸기"
+  ],
+  "pairings": [],
+  "recommend": null,
+  "alcohol": null,
+  "serving_temp": "16~18 ℃"
+}

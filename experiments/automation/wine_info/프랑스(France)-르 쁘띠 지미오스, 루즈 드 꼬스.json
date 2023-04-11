@@ -1,0 +1,25 @@
+{
+  "name": "르 쁘띠 지미오스, 루즈 드 꼬스",
+  "en_name": "Le Petit Gimios, Rouge de Causse",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "르 쁘띠 지미오스 Le Petit Gimios",
+  "main_grape": "블렌드 (Blend )",
+  "country": "프랑스(France)",
+  "city": "랑그독 루씨용(Languedoc Roussillon)",
+  "aromas": [
+    "버섯",
+    "체리",
+    "오크",
+    "후추",
+    "블랙베리"
+  ],
+  "pairings": [
+    "돼지고기",
+    "치즈",
+    "소고기"
+  ]
+}

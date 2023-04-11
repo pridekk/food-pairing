@@ -1,0 +1,21 @@
+{
+  "name": "아달리아 비니, 발폴리첼라 라우테",
+  "en_name": "Adalia Vini, Valpolicella 'Laute'",
+  "price_from_importer": "50,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "아달리아 비니 Adalia Vini",
+  "main_grape": "코르비나 (Corvina) , 코르비나 그로사 (Corvina Grossa) , 론디넬라 (Rondinella) , 몰리나라 (Molinara)",
+  "country": "이탈리아(Italy)",
+  "city": "발폴리첼라(Valpolicella)",
+  "aromas": [
+    "석류",
+    "체리"
+  ],
+  "pairings": [
+    "치즈",
+    "소고기"
+  ]
+}

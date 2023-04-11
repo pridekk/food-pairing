@@ -1,0 +1,34 @@
+{
+  "name": "도멘 생 패트리스, 샤토네프 뒤 파프 비에 비뉴",
+  "en_name": "Domaine St.Patrice, Chateauneuf du Pape V.V",
+  "price_from_importer": "196,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "도멘 생 패트리스 Domaine St.Patrice",
+  "main_grape": "그르나슈 (Grenache) , 무르베드르 (Mourvedre) , 시라/쉬라즈 (Syrah/Shiraz)",
+  "country": "프랑스(France)",
+  "city": "샤또네프 뒤 빠쁘(Chateauneuf du Pape)",
+  "aromas": [
+    "삼나무",
+    "체리",
+    "오크",
+    "허브",
+    "블루베리",
+    "딸기",
+    "바닐라"
+  ],
+  "pairings": [
+    "양갈비",
+    "스튜",
+    "갈비찜",
+    "불고기",
+    "양념갈비",
+    "양고기",
+    "소고기",
+    "스테이크",
+    "리조토",
+    "한식"
+  ]
+}

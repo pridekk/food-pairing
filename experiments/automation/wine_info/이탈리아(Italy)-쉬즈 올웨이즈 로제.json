@@ -1,0 +1,33 @@
+{
+  "name": "쉬즈 올웨이즈 로제",
+  "en_name": "She's Always Rose Sparkling",
+  "price_from_importer": "46,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 1,
+  "tannin": 2,
+  "winery": "에노이탈리아 Enoitalia",
+  "main_grape": "피노 누아 (Pinot Noir) 100%",
+  "country": "이탈리아(Italy)",
+  "city": "롬바르디아(Lombardia)",
+  "aromas": [
+    "체리",
+    "오렌지",
+    "토마토",
+    "장미",
+    "딸기",
+    "크랜베리"
+  ],
+  "pairings": [
+    "동남아요리",
+    "꼬치구이",
+    "새우",
+    "떡볶이",
+    "베이컨",
+    "어묵",
+    "랍스터",
+    "아시아요리",
+    "순대",
+    "해산물"
+  ]
+}

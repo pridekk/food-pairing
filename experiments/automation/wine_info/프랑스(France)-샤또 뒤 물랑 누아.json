@@ -1,0 +1,20 @@
+{
+  "name": "샤또 뒤 물랑 누아",
+  "en_name": "Chateau du Moulin Noir",
+  "price_from_importer": "99,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "샤또 드 물랑 누아 Chateau du Moulin Noir",
+  "main_grape": "메를로 (Merlot) , 카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "프랑스(France)",
+  "city": "보르도(Bordeaux)",
+  "aromas": [
+    "미네랄"
+  ],
+  "pairings": [
+    "비프",
+    "양고기"
+  ]
+}

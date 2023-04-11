@@ -1,0 +1,35 @@
+{
+  "name": "그랜드 나파, 오크빌 카베르네 소비뇽",
+  "en_name": "Grand Napa, Oakville Cabernet Sauvignon",
+  "price_from_importer": "230,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "그랜드 나파 빈야드 Grand Napa Vineyard",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) , 카베르네 프랑 (Cabernet Franc) , 쁘띠 베르도 (Petit Verdot) , 메를로 (Merlot) , 말벡 (Malbec)",
+  "country": "미국(U.S.A)",
+  "city": "나파 밸리(Napa Valley)",
+  "aromas": [
+    "블랙커런트",
+    "삼나무",
+    "오크",
+    "초콜릿",
+    "후추",
+    "블루베리",
+    "블랙베리",
+    "라벤더",
+    "바닐라"
+  ],
+  "pairings": [
+    "양갈비",
+    "갈비찜",
+    "불고기",
+    "한국음식",
+    "양고기",
+    "소고기",
+    "스테이크",
+    "바비큐",
+    "족발"
+  ]
+}

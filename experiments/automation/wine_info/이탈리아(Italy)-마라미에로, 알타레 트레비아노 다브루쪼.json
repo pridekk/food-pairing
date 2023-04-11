@@ -1,0 +1,20 @@
+{
+  "name": "마라미에로, 알타레 트레비아노 다브루쪼",
+  "en_name": "Marramiero, Altare Trebbiano d'Abruzzo",
+  "price_from_importer": "116,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 1,
+  "winery": "마라미에로 Marramiero",
+  "main_grape": "트레비아노 (Trebbiano) 100%",
+  "country": "이탈리아(Italy)",
+  "city": "아브루쪼(Abruzzo)",
+  "aromas": [
+    "감귤"
+  ],
+  "pairings": [
+    "치즈",
+    "해산물"
+  ]
+}

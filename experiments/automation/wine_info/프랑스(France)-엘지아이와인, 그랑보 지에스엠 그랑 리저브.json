@@ -1,0 +1,23 @@
+{
+  "name": "엘지아이와인, 그랑보 지에스엠 그랑 리저브",
+  "en_name": "LGI wines, Granbeau GSM Grande Reserve",
+  "price_from_importer": "28,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "엘지아이 와인 LGI Wines",
+  "main_grape": "그르나슈 (Grenache) , 시라/쉬라즈 (Syrah/Shiraz) , 무르베드르 (Mourvedre)",
+  "country": "프랑스(France)",
+  "city": "랑그독 루씨용(Languedoc Roussillon)",
+  "aromas": [
+    "체리",
+    "로즈마리",
+    "삼나무",
+    "자두"
+  ],
+  "pairings": [
+    "양갈비",
+    "자두"
+  ]
+}

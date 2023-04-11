@@ -1,0 +1,20 @@
+{
+  "name": "칸티나 델 타부르노, 팔랑기나 델 산니오 타부르노",
+  "en_name": "Cantina del Taburno, Falanghina Del Sannio Taburno",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "칸티나 델 타부르노 Cantina del Taburno",
+  "main_grape": "팔랑기나 (Falanghina) 100%",
+  "country": "이탈리아(Italy)",
+  "city": "깜빠니아(Campania)",
+  "aromas": [
+    "파인애플",
+    "미네랄"
+  ],
+  "pairings": [
+    "파스타"
+  ]
+}

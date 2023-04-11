@@ -1,0 +1,24 @@
+{
+  "name": "포스 웨이브 와인즈, 드레이크 쉬라즈",
+  "en_name": "Fourth Wave Wines, Drake Shiraz",
+  "price_from_importer": "53,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "포스 웨이브 와인즈 Fourth Wave Wines",
+  "main_grape": "시라/쉬라즈 (Syrah/Shiraz)",
+  "country": "호주(Australia)",
+  "city": "랭혼 크릭(Langhorne Creek)",
+  "aromas": [
+    "라스베리",
+    "말린허브",
+    "블루베리",
+    "오크"
+  ],
+  "pairings": [
+    "스테이크",
+    "닭고기",
+    "양고기"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "마시, 바이오 데이 마시 아마로네",
+  "en_name": "Masi, Vajo Dei Masi",
+  "price_from_importer": "3,000,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 4,
+  "winery": "마시 Masi",
+  "main_grape": "코르비나 (Corvina) , 론디넬라 (Rondinella) , 몰리나라 (Molinara) , 코르비노네 (Corvinone)",
+  "country": "이탈리아(Italy)",
+  "city": "발폴리첼라(Valpolicella)",
+  "aromas": [
+    "체리"
+  ],
+  "pairings": [
+    "소고기",
+    "양고기"
+  ]
+}

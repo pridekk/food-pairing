@@ -1,0 +1,23 @@
+{
+  "name": "샤토 뷰 타이페르, 파비용 드 타이페",
+  "en_name": "Chateau Vieux Taillefer, Pavillon de Taillefer",
+  "price_from_importer": "179,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "샤토 뷰 타이페르 Chateau Vieux Taillefer",
+  "main_grape": "메를로 (Merlot)",
+  "country": "프랑스(France)",
+  "city": "생-떼밀리옹(Saint-Emilion)",
+  "aromas": [
+    "블랙체리",
+    "오크",
+    "블루베리"
+  ],
+  "pairings": [
+    "양갈비",
+    "불고기",
+    "소고기"
+  ]
+}

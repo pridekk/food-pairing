@@ -1,0 +1,22 @@
+{
+  "name": "우우",
+  "en_name": "Wuwu",
+  "price_from_importer": "20,000원( 750ml )",
+  "sugar": 3,
+  "acidity": 3,
+  "body": 2,
+  "tannin": 1,
+  "winery": "GCF 그룹 GCF Group",
+  "main_grape": "블렌드 (Blend )",
+  "country": "프랑스(France)",
+  "city": "프랑스(France)",
+  "aromas": [
+    "체리"
+  ],
+  "pairings": [
+    "치즈",
+    "과일",
+    "샐러드",
+    "디저트"
+  ]
+}

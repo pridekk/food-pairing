@@ -1,0 +1,31 @@
+{
+  "name": "빌라도리아, 바롤로",
+  "en_name": "Villadoria, Barolo",
+  "price_from_importer": "170,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 4,
+  "winery": "빌라도리아 Villadoria",
+  "main_grape": "네비올로 (Nebbiolo)",
+  "country": "이탈리아(Italy)",
+  "city": "피에몬테(Piemonte)",
+  "aromas": [
+    "말린자두",
+    "체리",
+    "시나몬",
+    "제비꽃",
+    "장미",
+    "딸기",
+    "감초"
+  ],
+  "pairings": [
+    "양갈비",
+    "건육",
+    "스튜",
+    "갈비찜",
+    "양념갈비",
+    "양고기",
+    "스테이크"
+  ]
+}

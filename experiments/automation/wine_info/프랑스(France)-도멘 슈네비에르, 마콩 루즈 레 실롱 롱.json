@@ -1,0 +1,18 @@
+{
+  "name": "도멘 슈네비에르, 마콩 루즈 레 실롱 롱",
+  "en_name": "Domaine Chenevieres, Macon Rouge Les Sillons Longs",
+  "price_from_importer": "55,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 2,
+  "winery": "도멘 슈네비에르 Domaine Chenevieres",
+  "main_grape": "가메이 (Gamay)",
+  "country": "프랑스(France)",
+  "city": "마꼬네(Maconnais)",
+  "aromas": [
+    "바비큐",
+    "치즈"
+  ],
+  "pairings": []
+}

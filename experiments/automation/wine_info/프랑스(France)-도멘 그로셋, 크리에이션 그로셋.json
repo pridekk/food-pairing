@@ -1,0 +1,22 @@
+{
+  "name": "도멘 그로셋, 크리에이션 그로셋",
+  "en_name": "Domaine Grosset, Creation Grosset",
+  "price_from_importer": "90,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "브로떼 Brotte",
+  "main_grape": "그르나슈 (Grenache) , 시라/쉬라즈 (Syrah/Shiraz) , 무르베드르 (Mourvedre) , 까리냥 (Carignan/Carignane)",
+  "country": "프랑스(France)",
+  "city": "샤또네프 뒤 빠쁘(Chateauneuf du Pape)",
+  "aromas": [
+    "블랙커런트",
+    "체리",
+    "초콜릿",
+    "소나무",
+    "블랙베리",
+    "타바코"
+  ],
+  "pairings": []
+}

@@ -1,0 +1,24 @@
+{
+  "name": "핀카 로드마, 셀렉시온",
+  "en_name": "Finca Rodma, Seleccion",
+  "price_from_importer": "168,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 3,
+  "tannin": 3,
+  "winery": "핀카 로드마 Finca Rodma",
+  "main_grape": "템프라니요 (Tempranillo) 100%",
+  "country": "스페인(Spain)",
+  "city": "리베라 델 두에로(Ribera del Duero)",
+  "aromas": [
+    "토스트",
+    "블랙체리",
+    "체리",
+    "바닐라"
+  ],
+  "pairings": [
+    "양갈비",
+    "오리고기",
+    "소고기"
+  ]
+}

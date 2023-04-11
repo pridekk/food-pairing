@@ -1,0 +1,23 @@
+{
+  "name": "펜리 이스테이트, 클라렌던 까베르네 소비뇽",
+  "en_name": "Penley Estate, Clarendon Cabernet Sauvignon",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 4,
+  "winery": "펜리 이스테이트 Penley Estate",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "호주(Australia)",
+  "city": "맥라렌 베일(McLaren Vale)",
+  "aromas": [
+    "블랙커런트",
+    "오크",
+    "초콜릿",
+    "피망",
+    "블루베리",
+    "코코아",
+    "레드커런트"
+  ],
+  "pairings": []
+}

@@ -1,0 +1,21 @@
+{
+  "name": "유지니오 보끼노, 랑게 네비올로 '라 페루카'",
+  "en_name": "Eugenio Bocchino, Langhe Nebbiolo 'La Perucca'",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "유지니오 보끼노 Eugenio Bocchino",
+  "main_grape": "네비올로 (Nebbiolo) 100%",
+  "country": "이탈리아(Italy)",
+  "city": "랑게(Langhe)",
+  "aromas": [
+    "허브",
+    "체리",
+    "감귤"
+  ],
+  "pairings": [
+    "치즈"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "젠틀 래빗 카베르네 소비뇽",
+  "en_name": "Gentle Rabbit Cabernet Sauvignon",
+  "price_from_importer": "30,000원( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "로스 트레스 세르디토스 Los Tres Cerditos",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon)",
+  "country": "스페인(Spain)",
+  "city": "까리네냐(Carinena)",
+  "aromas": [
+    "자두",
+    "블랙커런트",
+    "육두구",
+    "블랙베리",
+    "토스트",
+    "바닐라"
+  ],
+  "pairings": [
+    "양갈비",
+    "양념갈비",
+    "불고기",
+    "서양요리",
+    "양고기",
+    "파스타",
+    "햄버거",
+    "그릴요리",
+    "소고기",
+    "스테이크",
+    "리조토",
+    "한식"
+  ]
+}

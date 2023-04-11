@@ -1,0 +1,25 @@
+{
+  "name": "라 쁘띠 수르, 레 가",
+  "en_name": "La Petite Soeur, Les Gats",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 5,
+  "body": 3,
+  "tannin": 1,
+  "winery": "라 쁘띠 수르 La Petite Soeur",
+  "main_grape": "소비뇽 블랑 (Sauvignon Blanc)",
+  "country": "프랑스(France)",
+  "city": "루아르(Loire)",
+  "aromas": [
+    "흰꽃",
+    "복숭아",
+    "시트러스",
+    "미네랄"
+  ],
+  "pairings": [
+    "전채요리",
+    "복숭아",
+    "샐러드",
+    "해산물"
+  ]
+}

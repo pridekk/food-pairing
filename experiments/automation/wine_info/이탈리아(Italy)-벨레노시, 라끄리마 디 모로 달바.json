@@ -1,0 +1,32 @@
+{
+  "name": "벨레노시, 라끄리마 디 모로 달바",
+  "en_name": "Velenosi, Lacrima Di Morro d'Alba",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 3,
+  "body": 4,
+  "tannin": 3,
+  "winery": "벨레노시 Velenosi",
+  "main_grape": "라크리마 (Lacrima)",
+  "country": "이탈리아(Italy)",
+  "city": "마르케(Marche)",
+  "aromas": [
+    "흰꽃",
+    "석류",
+    "체리",
+    "제비꽃",
+    "블루베리",
+    "딸기",
+    "장미",
+    "백합",
+    "라스베리",
+    "먼지"
+  ],
+  "pairings": [
+    "훈제오리",
+    "건육",
+    "비프",
+    "바비큐",
+    "육회"
+  ]
+}

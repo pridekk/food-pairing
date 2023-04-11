@@ -1,0 +1,17 @@
+{
+  "name": "샤또 올리비에",
+  "en_name": "Chateau Olivier",
+  "price_from_importer": "가격정보없음( 750ml )",
+  "sugar": 1,
+  "acidity": 4,
+  "body": 4,
+  "tannin": 4,
+  "winery": "샤또 올리비에 Chateau Olivier, Grand Cru Classé de Grave",
+  "main_grape": "카베르네 소비뇽 (Cabernet Sauvignon) , 메를로 (Merlot) , 쁘띠 베르도 (Petit Verdot)",
+  "country": "프랑스(France)",
+  "city": "뻬싹-레오냥(Pessac-Leognan)",
+  "aromas": [
+    "오리고기"
+  ],
+  "pairings": []
+}
