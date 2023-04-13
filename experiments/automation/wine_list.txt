@@ -1,0 +1,59 @@
+1	La Croisade Cabernet-Syrah
+2	G7 Chardonnay
+3	Dos Copas Cabernet Sauvignon
+4	Dos Copas Red Blend
+5	G7 Cabernet Sauvignon
+6	Don Luciano Moscato
+7	Diablo Cabernet Sauvignon
+8	Frontera Cabernet Sauvignon
+9	G7 Merlot
+10	G7 Sauvignon Blanc
+11	Lolailo White Sangria
+12	G7 Cabernet Sauvignon
+13	Long Barn Chardonnay
+14	Brown Brothers, Moscato
+15	1865 Selected Vineyard Carmenere
+16	Piccini, Memoro Bianco N.V.
+17	Canti, Moscato d'Asti
+18	Diablo Shiraz
+19	G7 Reserva Cabernet Sauvignon
+20	Seven Falls Cabernet Sauvignon
+21	BLACK TOWER DORNFELDER RIESLING
+22	Marques de Casa Concha, Merlot
+23	Penfolds Koonunga Hill Cabernet Sauvignon
+24	Vina Padilla
+25	Trapiche Malbec
+26	Santero Pinot Chardonnay Spumante
+27	Scagliola 'Dolce Svago' Mosto Parzialmente Fermentato Bianco
+28	Cono Sur, Bicicleta Pinot Noir
+29	Kressmann Chateau La Pierriere
+30	Mia Sangria Classic Royal
+31	Yali, Wild Swan Cabernet Sauvignon
+32	Diablo Carmenere
+33	Bread & Butter, Cabernet Sauvignon
+34	Beneieres Pinot Noir
+35	Indigo Eyes, Pinot Noir
+36	Patriarche Bourgogne Pinot Noir
+37	Freixenet, Prosecco
+38	Weltachs Dornfelder
+39	Cono Sur, Bicicleta Sauvignon Blanc
+40	Gancia, Moscato d'Asti
+41	Precision, Napa Valley Cabernet Sauvignon
+42	yellow tail Shiraz
+43	Long Barn Merlot
+44	LINDEMAN'S BIN 65 CHARDONNAY
+45	Vallebelbo, Moscato Spumante
+46	Gancia, Prosecco
+47	Diablo Devil's Collection
+48	Marques de Riscal, Reserva
+49	San Pedro, Gato Negro Cabernet Sauvignon
+50	Awatere Sauvignon Blanc
+51	Canti Asti Secco Cuvee 21
+52	Bronco Napa Ridge Cabernet Sauvignon
+53	G7 CHARDONNAY
+54	G7 Cabernet Sauvignon
+55	Diablo CHARDONNAY
+56	Marlborough Ridge, Sauvignon Blanc
+57	Mud House, Marlborough Sauvignon Blanc
+58	Happy Day Premium
+59	Fonseca, Ruby Port
